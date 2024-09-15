@@ -1,9 +1,6 @@
 name: Fetch CSV
 
 on:
-  push:
-    branches:
-      - main
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
@@ -26,10 +23,14 @@ jobs:
         run: pip install -r requirements.txt
       - name: Fetch CSV
         run: python ./scripts/fetch.py
+      - name: Set current datetime as env variable
+        env:
+          TZ: "Asia/Tokyo"
+        run: echo "CURRENT_DATETIME=$(date +'%Y-%m-%d %H:%M:%S')" >> $GITHUB_ENV
       - name: Commit and push
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "53847253+github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "Fetch CSV"
+          git commit -m "${{ env.CURRENT_DATETIME }}: fetch papers" --allow-empty
           git push
