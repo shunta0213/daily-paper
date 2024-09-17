@@ -1,0 +1,78 @@
+,title,id,arxiv_url,published
+0,MAGDA: Multi-agent guideline-driven diagnostic assistance,2409.06351,http://arxiv.org/abs/2409.06351v1,2024-09-10 09:10:30+00:00
+1,Case Study: Leveraging GenAI to Build AI-based Surrogates and Regressors for Modeling Radio Frequency Heating in Fusion Energy Science,2409.06122,http://arxiv.org/abs/2409.06122v1,2024-09-10 00:22:19+00:00
+2,On the Weaknesses of Backdoor-based Model Watermarking: An Information-theoretic Perspective,2409.06130,http://arxiv.org/abs/2409.06130v1,2024-09-10 00:55:21+00:00
+3,"Accelerating Large Language Model Pretraining via LFR Pedagogy: Learn, Focus, and Review",2409.06131,http://arxiv.org/abs/2409.06131v1,2024-09-10 00:59:18+00:00
+4,Multiclass Arrhythmia Classification using Smartwatch Photoplethysmography Signals Collected in Real-life Settings,2409.06147,http://arxiv.org/abs/2409.06147v1,2024-09-10 01:44:56+00:00
+5,MCDGLN: Masked Connection-based Dynamic Graph Learning Network for Autism Spectrum Disorder,2409.06163,http://arxiv.org/abs/2409.06163v1,2024-09-10 02:21:29+00:00
+6,Larger Language Models Don't Care How You Think: Why Chain-of-Thought Prompting Fails in Subjective Tasks,2409.06173,http://arxiv.org/abs/2409.06173v1,2024-09-10 03:06:17+00:00
+7,NOVI : Chatbot System for University Novice with BERT and LLMs,2409.06192,http://arxiv.org/abs/2409.06192v1,2024-09-10 03:43:26+00:00
+8,Adaptive Transformer Modelling of Density Function for Nonparametric Survival Analysis,2409.06209,http://arxiv.org/abs/2409.06209v1,2024-09-10 04:29:59+00:00
+9,Towards Generalizable Scene Change Detection,2409.06214,http://arxiv.org/abs/2409.06214v1,2024-09-10 04:45:25+00:00
+10,DiPT: Enhancing LLM reasoning through diversified perspective-taking,2409.06241,http://arxiv.org/abs/2409.06241v1,2024-09-10 06:17:27+00:00
+11,Keyword-Aware ASR Error Augmentation for Robust Dialogue State Tracking,2409.06263,http://arxiv.org/abs/2409.06263v1,2024-09-10 07:06:40+00:00
+12,Ferret: Federated Full-Parameter Tuning at Scale for Large Language Models,2409.06277,http://arxiv.org/abs/2409.06277v2,2024-09-10 07:28:13+00:00
+13,Catch Me if You Can: Detecting Unauthorized Data Use in Deep Learning Models,2409.06280,http://arxiv.org/abs/2409.06280v1,2024-09-10 07:31:56+00:00
+14,Enhancing Long Video Understanding via Hierarchical Event-Based Memory,2409.06299,http://arxiv.org/abs/2409.06299v1,2024-09-10 07:53:10+00:00
+15,Towards Agentic AI on Particle Accelerators,2409.06336,http://arxiv.org/abs/2409.06336v1,2024-09-10 08:47:23+00:00
+16,Double Successive Over-Relaxation Q-Learning with an Extension to Deep Reinforcement Learning,2409.06356,http://arxiv.org/abs/2409.06356v1,2024-09-10 09:23:03+00:00
+17,Connecting Concept Convexity and Human-Machine Alignment in Deep Neural Networks,2409.06362,http://arxiv.org/abs/2409.06362v1,2024-09-10 09:32:16+00:00
+18,Texture-AD: An Anomaly Detection Dataset and Benchmark for Real Algorithm Development,2409.06367,http://arxiv.org/abs/2409.06367v1,2024-09-10 09:44:38+00:00
+19,Learning Generative Interactive Environments By Trained Agent Exploration,2409.06445,http://arxiv.org/abs/2409.06445v1,2024-09-10 12:00:40+00:00
+20,Questioning Internal Knowledge Structure of Large Language Models Through the Lens of the Olympic Games,2409.06518,http://arxiv.org/abs/2409.06518v1,2024-09-10 13:54:04+00:00
+21,ChatGPT's Potential in Cryptography Misuse Detection: A Comparative Analysis with Static Analysis Tools,2409.06561,http://arxiv.org/abs/2409.06561v1,2024-09-10 14:50:12+00:00
+22,Quantifying and Enabling the Interpretability of CLIP-like Models,2409.06579,http://arxiv.org/abs/2409.06579v1,2024-09-10 15:19:40+00:00
+23,Developing the Temporal Graph Convolutional Neural Network Model to Predict Hip Replacement using Electronic Health Records,2409.06585,http://arxiv.org/abs/2409.06585v1,2024-09-10 15:26:58+00:00
+24,Simulation-based Scenario Generation for Robust Hybrid AI for Autonomy,2409.06608,http://arxiv.org/abs/2409.06608v1,2024-09-10 16:00:26+00:00
+25,Label-free Monitoring of Self-Supervised Learning Progress,2409.06612,http://arxiv.org/abs/2409.06612v1,2024-09-10 16:04:10+00:00
+26,EyeCLIP: A visual-language foundation model for multi-modal ophthalmic image analysis,2409.06644,http://arxiv.org/abs/2409.06644v2,2024-09-10 17:00:19+00:00
+27,World-Grounded Human Motion Recovery via Gravity-View Coordinates,2409.06662,http://arxiv.org/abs/2409.06662v1,2024-09-10 17:25:47+00:00
+28,Hint-AD: Holistically Aligned Interpretability in End-to-End Autonomous Driving,2409.06702,http://arxiv.org/abs/2409.06702v1,2024-09-10 17:59:40+00:00
+29,Generative AI for Requirements Engineering: A Systematic Literature Review,2409.06741,http://arxiv.org/abs/2409.06741v1,2024-09-10 02:44:39+00:00
+30,EasyST: A Simple Framework for Spatio-Temporal Prediction,2409.06748,http://arxiv.org/abs/2409.06748v1,2024-09-10 11:40:01+00:00
+31,Scaling Law Hypothesis for Multimodal Model,2409.06754,http://arxiv.org/abs/2409.06754v1,2024-09-10 16:05:02+00:00
+32,Generative Hierarchical Materials Search,2409.06762,http://arxiv.org/abs/2409.06762v1,2024-09-10 17:51:28+00:00
+33,Adaptive Meta-Domain Transfer Learning (AMDTL): A Novel Approach for Knowledge Transfer in AI,2409.06800,http://arxiv.org/abs/2409.06800v1,2024-09-10 18:11:48+00:00
+34,LIME-M: Less Is More for Evaluation of MLLMs,2409.06851,http://arxiv.org/abs/2409.06851v1,2024-09-10 20:19:14+00:00
+35,Formative Study for AI-assisted Data Visualization,2409.06892,http://arxiv.org/abs/2409.06892v1,2024-09-10 22:20:28+00:00
+36,"A Bayesian framework for active object recognition, pose estimation and shape transfer learning through touch",2409.06912,http://arxiv.org/abs/2409.06912v2,2024-09-10 23:35:30+00:00
+37,CerviXpert: A Multi-Structural Convolutional Neural Network for Predicting Cervix Type and Cervical Cell Abnormalities,2409.06220,http://arxiv.org/abs/2409.06220v1,2024-09-10 05:08:26+00:00
+38,Towards Robust Uncertainty-Aware Incomplete Multi-View Classification,2409.06270,http://arxiv.org/abs/2409.06270v1,2024-09-10 07:18:57+00:00
+39,An End-to-End Approach for Chord-Conditioned Song Generation,2409.06307,http://arxiv.org/abs/2409.06307v1,2024-09-10 08:07:43+00:00
+40,PharmacoMatch: Efficient 3D Pharmacophore Screening through Neural Subgraph Matching,2409.06316,http://arxiv.org/abs/2409.06316v1,2024-09-10 08:17:06+00:00
+41,LAMP: Learnable Meta-Path Guided Adversarial Contrastive Learning for Heterogeneous Graphs,2409.06323,http://arxiv.org/abs/2409.06323v1,2024-09-10 08:27:39+00:00
+42,Compute-Update Federated Learning: A Lattice Coding Approach,2409.06343,http://arxiv.org/abs/2409.06343v1,2024-09-10 08:52:24+00:00
+43,VoiceWukong: Benchmarking Deepfake Voice Detection,2409.06348,http://arxiv.org/abs/2409.06348v1,2024-09-10 09:07:12+00:00
+44,Distilling Generative-Discriminative Representations for Very Low-Resolution Face Recognition,2409.06371,http://arxiv.org/abs/2409.06371v1,2024-09-10 09:53:06+00:00
+45,Symmetry Breaking in Neural Network Optimization: Insights from Input Dimension Expansion,2409.06402,http://arxiv.org/abs/2409.06402v2,2024-09-10 10:36:40+00:00
+46,Exploring the Integration of Large Language Models in Industrial Test Maintenance Processes,2409.06416,http://arxiv.org/abs/2409.06416v1,2024-09-10 10:55:48+00:00
+47,GeMuCo: Generalized Multisensory Correlational Model for Body Schema Learning,2409.06427,http://arxiv.org/abs/2409.06427v1,2024-09-10 11:19:13+00:00
+48,Multimodal Large Language Model Driven Scenario Testing for Autonomous Vehicles,2409.06450,http://arxiv.org/abs/2409.06450v1,2024-09-10 12:12:09+00:00
+49,An Effective Context-Balanced Adaptation Approach for Long-Tailed Speech Recognition,2409.06468,http://arxiv.org/abs/2409.06468v1,2024-09-10 12:52:36+00:00
+50,"Superior Computer Chess with Model Predictive Control, Reinforcement Learning, and Rollout",2409.06477,http://arxiv.org/abs/2409.06477v1,2024-09-10 13:05:45+00:00
+51,Aligning Machine and Human Visual Representations across Abstraction Levels,2409.06509,http://arxiv.org/abs/2409.06509v1,2024-09-10 13:41:08+00:00
+52,"Sine, Transient, Noise Neural Modeling of Piano Notes",2409.06513,http://arxiv.org/abs/2409.06513v1,2024-09-10 13:48:18+00:00
+53,Indirect Dynamic Negotiation in the Nash Demand Game,2409.06566,http://arxiv.org/abs/2409.06566v1,2024-09-10 14:58:00+00:00
+54,An Ontology-based Approach Towards Traceable Behavior Specifications in Automated Driving,2409.06607,http://arxiv.org/abs/2409.06607v1,2024-09-10 16:00:22+00:00
+55,One-Shot Imitation under Mismatched Execution,2409.06615,http://arxiv.org/abs/2409.06615v1,2024-09-10 16:11:57+00:00
+56,A Practice of Post-Training on Llama-3 70B with Optimal Selection of Additional Language Mixture Ratio,2409.06624,http://arxiv.org/abs/2409.06624v1,2024-09-10 16:26:43+00:00
+57,MoWE-Audio: Multitask AudioLLMs with Mixture of Weak Encoders,2409.06635,http://arxiv.org/abs/2409.06635v1,2024-09-10 16:46:18+00:00
+58,LLaMA-Omni: Seamless Speech Interaction with Large Language Models,2409.06666,http://arxiv.org/abs/2409.06666v1,2024-09-10 17:34:34+00:00
+59,Insuring Uninsurable Risks from AI: The State as Insurer of Last Resort,2409.06672,http://arxiv.org/abs/2409.06672v1,2024-09-10 17:41:24+00:00
+60,Liability and Insurance for Catastrophic Losses: the Nuclear Power Precedent and Lessons for AI,2409.06673,http://arxiv.org/abs/2409.06673v1,2024-09-10 17:41:31+00:00
+61,Benchmarking Sub-Genre Classification For Mainstage Dance Music,2409.06690,http://arxiv.org/abs/2409.06690v1,2024-09-10 17:54:00+00:00
+62,Geometric-Averaged Preference Optimization for Soft Preference Labels,2409.06691,http://arxiv.org/abs/2409.06691v1,2024-09-10 17:54:28+00:00
+63,HybridFC: A Hybrid Fact-Checking Approach for Knowledge Graphs,2409.06692,http://arxiv.org/abs/2409.06692v1,2024-09-10 17:55:00+00:00
+64,ProteinBench: A Holistic Evaluation of Protein Foundation Models,2409.06744,http://arxiv.org/abs/2409.06744v1,2024-09-10 06:52:33+00:00
+65,Personalized Knowledge Tracing through Student Representation Reconstruction and Class Imbalance Mitigation,2409.06745,http://arxiv.org/abs/2409.06745v1,2024-09-10 07:02:46+00:00
+66,Can Agents Spontaneously Form a Society? Introducing a Novel Architecture for Generative Multi-Agents to Elicit Social Emergence,2409.06750,http://arxiv.org/abs/2409.06750v1,2024-09-10 13:39:29+00:00
+67,Beyond designer's knowledge: Generating materials design hypotheses via large language models,2409.06756,http://arxiv.org/abs/2409.06756v1,2024-09-10 16:28:50+00:00
+68,Modeling Image Tone Dichotomy with the Power Function,2409.06764,http://arxiv.org/abs/2409.06764v1,2024-09-10 17:55:09+00:00
+69,Personalized Federated Learning Techniques: Empirical Analysis,2409.06805,http://arxiv.org/abs/2409.06805v1,2024-09-10 18:16:28+00:00
+70,Bifurcation Identification for Ultrasound-driven Robotic Cannulation,2409.06817,http://arxiv.org/abs/2409.06817v1,2024-09-10 18:53:52+00:00
+71,NSP: A Neuro-Symbolic Natural Language Navigational Planner,2409.06859,http://arxiv.org/abs/2409.06859v2,2024-09-10 20:49:05+00:00
+72,A Dataset for Evaluating LLM-based Evaluation Functions for Research Question Extraction Task,2409.06883,http://arxiv.org/abs/2409.06883v1,2024-09-10 21:54:46+00:00
+73,Applied Federated Model Personalisation in the Industrial Domain: A Comparative Study,2409.06904,http://arxiv.org/abs/2409.06904v1,2024-09-10 23:00:19+00:00
+74,Interactive Counterfactual Exploration of Algorithmic Harms in Recommender Systems,2409.06916,http://arxiv.org/abs/2409.06916v1,2024-09-10 23:58:27+00:00
+75,Can Large Language Models Unlock Novel Scientific Research Ideas?,2409.06185,http://arxiv.org/abs/2409.06185v1,2024-09-10 03:26:42+00:00
+76,HexaCoder: Secure Code Generation via Oracle-Guided Synthetic Training Data,2409.06446,http://arxiv.org/abs/2409.06446v1,2024-09-10 12:01:43+00:00
