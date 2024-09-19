@@ -1,0 +1,74 @@
+,title,id,arxiv_url,published
+0,Windows Agent Arena: Evaluating Multi-Modal OS Agents at Scale,2409.08264,http://arxiv.org/abs/2409.08264v2,2024-09-12 17:56:43+00:00
+1,An Unsupervised Dialogue Topic Segmentation Model Based on Utterance Rewriting,2409.07672,http://arxiv.org/abs/2409.07672v1,2024-09-12 00:27:31+00:00
+2,Open-Vocabulary Remote Sensing Image Semantic Segmentation,2409.07683,http://arxiv.org/abs/2409.07683v1,2024-09-12 01:16:25+00:00
+3,Modeling Information Narrative Detection and Evolution on Telegram during the Russia-Ukraine War,2409.07684,http://arxiv.org/abs/2409.07684v1,2024-09-12 01:18:57+00:00
+4,DSBench: How Far Are Data Science Agents to Becoming Data Science Experts?,2409.07703,http://arxiv.org/abs/2409.07703v1,2024-09-12 02:08:00+00:00
+5,Super Monotonic Alignment Search,2409.07704,http://arxiv.org/abs/2409.07704v1,2024-09-12 02:13:57+00:00
+6,Attack End-to-End Autonomous Driving through Module-Wise Noise,2409.07706,http://arxiv.org/abs/2409.07706v1,2024-09-12 02:19:16+00:00
+7,Advancing Depth Anything Model for Unsupervised Monocular Depth Estimation in Endoscopy,2409.07723,http://arxiv.org/abs/2409.07723v1,2024-09-12 03:04:43+00:00
+8,GRE^2-MDCL: Graph Representation Embedding Enhanced via Multidimensional Contrastive Learning,2409.07725,http://arxiv.org/abs/2409.07725v1,2024-09-12 03:09:05+00:00
+9,"Transfer Learning Applied to Computer Vision Problems: Survey on Current Progress, Limitations, and Opportunities",2409.07736,http://arxiv.org/abs/2409.07736v1,2024-09-12 03:59:15+00:00
+10,Relevance for Human Robot Collaboration,2409.07753,http://arxiv.org/abs/2409.07753v1,2024-09-12 04:57:34+00:00
+11,Universal Pooling Method of Multi-layer Features from Pretrained Models for Speaker Verification,2409.07770,http://arxiv.org/abs/2409.07770v1,2024-09-12 05:55:32+00:00
+12,A Spatiotemporal Stealthy Backdoor Attack against Cooperative Multi-Agent Deep Reinforcement Learning,2409.07775,http://arxiv.org/abs/2409.07775v1,2024-09-12 06:17:37+00:00
+13,ASSNet: Adaptive Semantic Segmentation Network for Microtumors and Multi-Organ Segmentation,2409.07779,http://arxiv.org/abs/2409.07779v1,2024-09-12 06:25:44+00:00
+14,Lagrange Duality and Compound Multi-Attention Transformer for Semi-Supervised Medical Image Segmentation,2409.07793,http://arxiv.org/abs/2409.07793v1,2024-09-12 06:52:46+00:00
+15,UGAD: Universal Generative AI Detector utilizing Frequency Fingerprints,2409.07913,http://arxiv.org/abs/2409.07913v1,2024-09-12 10:29:37+00:00
+16,A framework for measuring the training efficiency of a neural architecture,2409.07925,http://arxiv.org/abs/2409.07925v1,2024-09-12 10:45:38+00:00
+17,A convolutional neural network approach to deblending seismic data,2409.07930,http://arxiv.org/abs/2409.07930v1,2024-09-12 10:54:35+00:00
+18,Autonomous Vehicle Controllers From End-to-End Differentiable Simulation,2409.07965,http://arxiv.org/abs/2409.07965v1,2024-09-12 11:50:06+00:00
+19,ProbTalk3D: Non-Deterministic Emotion Controllable Speech-Driven 3D Facial Animation Synthesis Using VQ-VAE,2409.07966,http://arxiv.org/abs/2409.07966v1,2024-09-12 11:53:05+00:00
+20,Games for AI Control: Models of Safety Evaluations of AI Deployment Protocols,2409.07985,http://arxiv.org/abs/2409.07985v1,2024-09-12 12:30:07+00:00
+21,Enhancing Few-Shot Image Classification through Learnable Multi-Scale Embedding and Attention Mechanisms,2409.07989,http://arxiv.org/abs/2409.07989v1,2024-09-12 12:34:29+00:00
+22,Learning Causally Invariant Reward Functions from Diverse Demonstrations,2409.08012,http://arxiv.org/abs/2409.08012v1,2024-09-12 12:56:24+00:00
+23,Unleashing Worms and Extracting Data: Escalating the Outcome of Attacks against RAG-based Inference in Scale and Severity Using Jailbreaking,2409.08045,http://arxiv.org/abs/2409.08045v1,2024-09-12 13:50:22+00:00
+24,TravelAgent: An AI Assistant for Personalized Travel Planning,2409.08069,http://arxiv.org/abs/2409.08069v1,2024-09-12 14:24:45+00:00
+25,The CLC-UKET Dataset: Benchmarking Case Outcome Prediction for the UK Employment Tribunal,2409.08098,http://arxiv.org/abs/2409.08098v1,2024-09-12 14:51:43+00:00
+26,LT3SD: Latent Trees for 3D Scene Diffusion,2409.08215,http://arxiv.org/abs/2409.08215v1,2024-09-12 16:55:51+00:00
+27,CliquePH: Higher-Order Information for Graph Neural Networks through Persistent Homology on Clique Graphs,2409.08217,http://arxiv.org/abs/2409.08217v1,2024-09-12 16:56:26+00:00
+28,Source2Synth: Synthetic Data Generation and Curation Grounded in Real Data Sources,2409.08239,http://arxiv.org/abs/2409.08239v1,2024-09-12 17:39:08+00:00
+29,IFAdapter: Instance Feature Control for Grounded Text-to-Image Generation,2409.08240,http://arxiv.org/abs/2409.08240v1,2024-09-12 17:39:23+00:00
+30,OmniQuery: Contextually Augmenting Captured Multimodal Memory to Enable Personal Question Answering,2409.08250,http://arxiv.org/abs/2409.08250v1,2024-09-12 17:48:08+00:00
+31,AnySkin: Plug-and-play Skin Sensing for Robotic Touch,2409.08276,http://arxiv.org/abs/2409.08276v1,2024-09-12 17:59:44+00:00
+32,Bayesian Inverse Graphics for Few-Shot Concept Learning,2409.08351,http://arxiv.org/abs/2409.08351v1,2024-09-12 18:30:41+00:00
+33,FedProphet: Memory-Efficient Federated Adversarial Training via Theoretic-Robustness and Low-Inconsistency Cascade Learning,2409.08372,http://arxiv.org/abs/2409.08372v1,2024-09-12 19:39:14+00:00
+34,360PanT: Training-Free Text-Driven 360-Degree Panorama-to-Panorama Translation,2409.08397,http://arxiv.org/abs/2409.08397v1,2024-09-12 20:56:16+00:00
+35,Scores as Actions: a framework of fine-tuning diffusion models by continuous-time reinforcement learning,2409.08400,http://arxiv.org/abs/2409.08400v1,2024-09-12 21:12:21+00:00
+36,Knowledge Tagging with Large Language Model based Multi-Agent System,2409.08406,http://arxiv.org/abs/2409.08406v1,2024-09-12 21:39:01+00:00
+37,FIReStereo: Forest InfraRed Stereo Dataset for UAS Depth Perception in Visually Degraded Environments,2409.07715,http://arxiv.org/abs/2409.07715v1,2024-09-12 02:51:21+00:00
+38,Large Language Models are Pattern Matchers: Editing Semi-Structured and Structured Documents with ChatGPT,2409.07732,http://arxiv.org/abs/2409.07732v1,2024-09-12 03:41:39+00:00
+39,Multi-object event graph representation learning for Video Question Answering,2409.07747,http://arxiv.org/abs/2409.07747v1,2024-09-12 04:42:51+00:00
+40,Top-down Activity Representation Learning for Video Question Answering,2409.07748,http://arxiv.org/abs/2409.07748v1,2024-09-12 04:43:27+00:00
+41,Reimagining Linear Probing: Kolmogorov-Arnold Networks in Transfer Learning,2409.07763,http://arxiv.org/abs/2409.07763v1,2024-09-12 05:36:40+00:00
+42,Training Spiking Neural Networks via Augmented Direct Feedback Alignment,2409.07776,http://arxiv.org/abs/2409.07776v1,2024-09-12 06:22:44+00:00
+43,In-Situ Fine-Tuning of Wildlife Models in IoT-Enabled Camera Traps for Efficient Adaptation,2409.07796,http://arxiv.org/abs/2409.07796v1,2024-09-12 06:56:52+00:00
+44,Over-the-Air Federated Learning via Weighted Aggregation,2409.07822,http://arxiv.org/abs/2409.07822v1,2024-09-12 08:07:11+00:00
+45,A Comprehensive Survey on Deep Multimodal Learning with Missing Modality,2409.07825,http://arxiv.org/abs/2409.07825v2,2024-09-12 08:15:39+00:00
+46,Enhancing Cross-Market Recommendation System with Graph Isomorphism Networks: A Novel Approach to Personalized User Experience,2409.07850,http://arxiv.org/abs/2409.07850v1,2024-09-12 08:53:11+00:00
+47,InterACT: Inter-dependency Aware Action Chunking with Hierarchical Attention Transformers for Bimanual Manipulation,2409.07914,http://arxiv.org/abs/2409.07914v2,2024-09-12 10:30:44+00:00
+48,Tidal MerzA: Combining affective modelling and autonomous code generation through Reinforcement Learning,2409.07918,http://arxiv.org/abs/2409.07918v1,2024-09-12 10:38:55+00:00
+49,Reinforcement Learning Discovers Efficient Decentralized Graph Path Search Strategies,2409.07932,http://arxiv.org/abs/2409.07932v1,2024-09-12 10:56:38+00:00
+50,Rapid Parameter Estimation for Extreme Mass Ratio Inspirals Using Machine Learning,2409.07957,http://arxiv.org/abs/2409.07957v1,2024-09-12 11:36:23+00:00
+51,WirelessAgent: Large Language Model Agents for Intelligent Wireless Networks,2409.07964,http://arxiv.org/abs/2409.07964v1,2024-09-12 11:48:01+00:00
+52,Edge-Wise Graph-Instructed Neural Networks,2409.08023,http://arxiv.org/abs/2409.08023v1,2024-09-12 13:05:28+00:00
+53,AI-accelerated discovery of high critical temperature superconductors,2409.08065,http://arxiv.org/abs/2409.08065v1,2024-09-12 14:16:56+00:00
+54,Towards a graph-based foundation model for network traffic analysis,2409.08111,http://arxiv.org/abs/2409.08111v1,2024-09-12 15:04:34+00:00
+55,Fine-tuning Large Language Models for Entity Matching,2409.08185,http://arxiv.org/abs/2409.08185v1,2024-09-12 16:20:57+00:00
+56,AudioBERT: Audio Knowledge Augmented Language Model,2409.08199,http://arxiv.org/abs/2409.08199v1,2024-09-12 16:36:39+00:00
+57,What Makes a Maze Look Like a Maze?,2409.08202,http://arxiv.org/abs/2409.08202v1,2024-09-12 16:41:47+00:00
+58,Photonic Quantum Computers,2409.08229,http://arxiv.org/abs/2409.08229v1,2024-09-12 17:16:38+00:00
+59,Design Optimization of Nuclear Fusion Reactor through Deep Reinforcement Learning,2409.08231,http://arxiv.org/abs/2409.08231v1,2024-09-12 17:23:01+00:00
+60,LoRID: Low-Rank Iterative Diffusion for Adversarial Purification,2409.08255,http://arxiv.org/abs/2409.08255v1,2024-09-12 17:51:25+00:00
+61,FlashSplat: 2D to 3D Gaussian Splatting Segmentation Solved Optimally,2409.08270,http://arxiv.org/abs/2409.08270v1,2024-09-12 17:58:13+00:00
+62,Hand-Object Interaction Pretraining from Videos,2409.08273,http://arxiv.org/abs/2409.08273v1,2024-09-12 17:59:07+00:00
+63,DiReDi: Distillation and Reverse Distillation for AIoT Applications,2409.08308,http://arxiv.org/abs/2409.08308v1,2024-09-12 06:02:44+00:00
+64,Towards Quantifying and Reducing Language Mismatch Effects in Cross-Lingual Speech Anti-Spoofing,2409.08346,http://arxiv.org/abs/2409.08346v1,2024-09-12 18:18:22+00:00
+65,An Experimental Study of Competitive Market Behavior Through LLMs,2409.08357,http://arxiv.org/abs/2409.08357v1,2024-09-12 18:50:13+00:00
+66,E-QUARTIC: Energy Efficient Edge Ensemble of Convolutional Neural Networks for Resource-Optimized Learning,2409.08369,http://arxiv.org/abs/2409.08369v1,2024-09-12 19:30:22+00:00
+67,The Impact of Large Language Models on Open-source Innovation: Evidence from GitHub Copilot,2409.08379,http://arxiv.org/abs/2409.08379v1,2024-09-12 19:59:54+00:00
+68,Establish seedling quality classification standard for Chrysanthemum efficiently with help of deep clustering algorithm,2409.08867,http://arxiv.org/abs/2409.08867v1,2024-09-12 03:09:11+00:00
+69,LLM Honeypot: Leveraging Large Language Models as Advanced Interactive Honeypot Systems,2409.08234,http://arxiv.org/abs/2409.08234v2,2024-09-12 17:33:06+00:00
+70,Rethinking Prompting Strategies for Multi-Label Recognition with Partial Annotations,2409.08381,http://arxiv.org/abs/2409.08381v1,2024-09-12 20:02:51+00:00
+71,Self-Supervised Inference of Agents in Trustless Environments,2409.08386,http://arxiv.org/abs/2409.08386v1,2024-09-12 20:32:07+00:00
+72,Fitted Q-Iteration via Max-Plus-Linear Approximation,2409.08422,http://arxiv.org/abs/2409.08422v1,2024-09-12 22:51:08+00:00
