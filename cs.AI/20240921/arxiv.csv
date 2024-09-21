@@ -1,0 +1,55 @@
+,title,id,arxiv_url,published
+0,Enhancing Decision-Making for LLM Agents via Step-Level Q-Value Models,2409.09345,http://arxiv.org/abs/2409.09345v1,2024-09-14 07:32:49+00:00
+1,Autoregressive + Chain of Thought $\simeq$ Recurrent: Recurrence's Role in Language Models' Computability and a Revisit of Recurrent Transformer,2409.09239,http://arxiv.org/abs/2409.09239v2,2024-09-14 00:30:57+00:00
+2,Cross-Entropy Optimization for Hyperparameter Optimization in Stochastic Gradient-based Approaches to Train Deep Neural Networks,2409.09240,http://arxiv.org/abs/2409.09240v1,2024-09-14 00:39:37+00:00
+3,ETAGE: Enhanced Test Time Adaptation with Integrated Entropy and Gradient Norms for Robust Model Performance,2409.09251,http://arxiv.org/abs/2409.09251v1,2024-09-14 01:25:52+00:00
+4,An empirical evaluation of using ChatGPT to summarize disputes for recommending similar labor and employment cases in Chinese,2409.09280,http://arxiv.org/abs/2409.09280v1,2024-09-14 03:08:10+00:00
+5,Efficient Fine-Tuning of Large Language Models for Automated Medical Documentation,2409.09324,http://arxiv.org/abs/2409.09324v1,2024-09-14 06:02:17+00:00
+6,PeriGuru: A Peripheral Robotic Mobile App Operation Assistant based on GUI Image Understanding and Prompting with LLM,2409.09354,http://arxiv.org/abs/2409.09354v1,2024-09-14 07:54:25+00:00
+7,LACOSTE: Exploiting stereo and temporal contexts for surgical instrument segmentation,2409.09360,http://arxiv.org/abs/2409.09360v1,2024-09-14 08:17:56+00:00
+8,AMBER -- Advanced SegFormer for Multi-Band Image Segmentation: an application to Hyperspectral Imaging,2409.09386,http://arxiv.org/abs/2409.09386v1,2024-09-14 09:34:05+00:00
+9,Label Convergence: Defining an Upper Performance Bound in Object Recognition through Contradictory Annotations,2409.09412,http://arxiv.org/abs/2409.09412v1,2024-09-14 10:59:25+00:00
+10,Constructive Approach to Bidirectional Causation between Qualia Structure and Language Emergence,2409.09413,http://arxiv.org/abs/2409.09413v1,2024-09-14 11:03:12+00:00
+11,NBBOX: Noisy Bounding Box Improves Remote Sensing Object Detection,2409.09424,http://arxiv.org/abs/2409.09424v1,2024-09-14 12:25:14+00:00
+12,MulCPred: Learning Multi-modal Concepts for Explainable Pedestrian Action Prediction,2409.09446,http://arxiv.org/abs/2409.09446v1,2024-09-14 14:15:28+00:00
+13,Enumerating Minimal Unsatisfiable Cores of LTLf formulas,2409.09485,http://arxiv.org/abs/2409.09485v1,2024-09-14 17:15:30+00:00
+14,"Hacking, The Lazy Way: LLM Augmented Pentesting",2409.09493,http://arxiv.org/abs/2409.09493v1,2024-09-14 17:40:35+00:00
+15,Multi-Scale Grouped Prototypes for Interpretable Semantic Segmentation,2409.09497,http://arxiv.org/abs/2409.09497v1,2024-09-14 17:52:59+00:00
+16,Synthetic4Health: Generating Annotated Synthetic Clinical Letters,2409.09501,http://arxiv.org/abs/2409.09501v1,2024-09-14 18:15:07+00:00
+17,Deep Learning Under Siege: Identifying Security Vulnerabilities and Risk Mitigation Strategies,2409.09517,http://arxiv.org/abs/2409.09517v1,2024-09-14 19:54:12+00:00
+18,Enhancing Skin Disease Diagnosis: Interpretable Visual Concept Discovery with SAM Empowerment,2409.09520,http://arxiv.org/abs/2409.09520v1,2024-09-14 20:11:25+00:00
+19,VernaCopter: Disambiguated Natural-Language-Driven Robot via Formal Specifications,2409.09536,http://arxiv.org/abs/2409.09536v1,2024-09-14 21:36:22+00:00
+20,Autonomous Goal Detection and Cessation in Reinforcement Learning: A Case Study on Source Term Estimation,2409.09541,http://arxiv.org/abs/2409.09541v1,2024-09-14 21:42:17+00:00
+21,On the limits of agency in agent-based models,2409.10568,http://arxiv.org/abs/2409.10568v1,2024-09-14 04:17:24+00:00
+22,ASFT: Aligned Supervised Fine-Tuning through Absolute Likelihood,2409.10571,http://arxiv.org/abs/2409.10571v1,2024-09-14 11:39:13+00:00
+23,Unleash LLMs Potential for Recommendation by Coordinating Twin-Tower Dynamic Semantic Token Generator,2409.09253,http://arxiv.org/abs/2409.09253v1,2024-09-14 01:45:04+00:00
+24,What Is Wrong with My Model? Identifying Systematic Problems with Semantic Data Slicing,2409.09261,http://arxiv.org/abs/2409.09261v1,2024-09-14 02:15:50+00:00
+25,Operational Wind Speed Forecasts for Chile's Electric Power Sector Using a Hybrid ML Model,2409.09263,http://arxiv.org/abs/2409.09263v3,2024-09-14 02:16:02+00:00
+26,"Guiding Vision-Language Model Selection for Visual Question-Answering Across Tasks, Domains, and Knowledge Types",2409.09269,http://arxiv.org/abs/2409.09269v1,2024-09-14 02:29:36+00:00
+27,LabellessFace: Fair Metric Learning for Face Recognition without Attribute Labels,2409.09274,http://arxiv.org/abs/2409.09274v1,2024-09-14 02:56:07+00:00
+28,"Language Models ""Grok"" to Copy",2409.09281,http://arxiv.org/abs/2409.09281v1,2024-09-14 03:11:00+00:00
+29,Matrix Profile for Anomaly Detection on Multidimensional Time Series,2409.09298,http://arxiv.org/abs/2409.09298v1,2024-09-14 04:22:45+00:00
+30,The T05 System for The VoiceMOS Challenge 2024: Transfer Learning from Deep Image Classifier to Naturalness MOS Prediction of High-Quality Synthetic Speech,2409.09305,http://arxiv.org/abs/2409.09305v1,2024-09-14 05:03:18+00:00
+31,Wave-U-Mamba: An End-To-End Framework For High-Quality And Efficient Speech Super Resolution,2409.09337,http://arxiv.org/abs/2409.09337v2,2024-09-14 06:52:00+00:00
+32,Egocentric Speaker Classification in Child-Adult Dyadic Interactions: From Sensing to Computational Modeling,2409.09340,http://arxiv.org/abs/2409.09340v1,2024-09-14 07:03:08+00:00
+33,Joint Semantic Knowledge Distillation and Masked Acoustic Modeling for Full-band Speech Restoration with Improved Intelligibility,2409.09357,http://arxiv.org/abs/2409.09357v1,2024-09-14 08:09:55+00:00
+34,Symbolic Regression with a Learned Concept Library,2409.09359,http://arxiv.org/abs/2409.09359v1,2024-09-14 08:17:30+00:00
+35,Prevailing Research Areas for Music AI in the Era of Foundation Models,2409.09378,http://arxiv.org/abs/2409.09378v1,2024-09-14 09:06:43+00:00
+36,Text Prompt is Not Enough: Sound Event Enhanced Prompt Adapter for Target Style Audio Generation,2409.09381,http://arxiv.org/abs/2409.09381v1,2024-09-14 09:16:38+00:00
+37,LLM-Powered Ensemble Learning for Paper Source Tracing: A GPU-Free Approach,2409.09383,http://arxiv.org/abs/2409.09383v2,2024-09-14 09:21:46+00:00
+38,AI-Driven Virtual Teacher for Enhanced Educational Efficiency: Leveraging Large Pretrain Models for Autonomous Error Analysis and Correction,2409.09403,http://arxiv.org/abs/2409.09403v1,2024-09-14 10:27:36+00:00
+39,Real-world Adversarial Defense against Patch Attacks based on Diffusion Model,2409.09406,http://arxiv.org/abs/2409.09406v1,2024-09-14 10:38:35+00:00
+40,"Enhancing LLM Problem Solving with REAP: Reflection, Explicit Problem Deconstruction, and Advanced Prompting",2409.09415,http://arxiv.org/abs/2409.09415v1,2024-09-14 11:12:07+00:00
+41,Distributed Clustering based on Distributional Kernel,2409.09418,http://arxiv.org/abs/2409.09418v1,2024-09-14 11:40:54+00:00
+42,TX-Gen: Multi-Objective Optimization for Sparse Counterfactual Explanations for Time-Series Classification,2409.09461,http://arxiv.org/abs/2409.09461v1,2024-09-14 15:13:28+00:00
+43,"From FDG to PSMA: A Hitchhiker's Guide to Multitracer, Multicenter Lesion Segmentation in PET/CT Imaging",2409.09478,http://arxiv.org/abs/2409.09478v1,2024-09-14 16:39:17+00:00
+44,ESPnet-EZ: Python-only ESPnet for Easy Fine-tuning and Integration,2409.09506,http://arxiv.org/abs/2409.09506v1,2024-09-14 19:03:53+00:00
+45,Explaining Deep Learning Embeddings for Speech Emotion Recognition by Predicting Interpretable Acoustic Features,2409.09511,http://arxiv.org/abs/2409.09511v1,2024-09-14 19:18:56+00:00
+46,Planning Transformer: Long-Horizon Offline Reinforcement Learning with Planning Tokens,2409.09513,http://arxiv.org/abs/2409.09513v1,2024-09-14 19:30:53+00:00
+47,COMFORT: A Continual Fine-Tuning Framework for Foundation Models Targeted at Consumer Healthcare,2409.09549,http://arxiv.org/abs/2409.09549v1,2024-09-14 22:24:52+00:00
+48,Enhancing Printed Circuit Board Defect Detection through Ensemble Learning,2409.09555,http://arxiv.org/abs/2409.09555v1,2024-09-14 23:34:12+00:00
+49,Evaluating authenticity and quality of image captions via sentiment and semantic analyses,2409.09560,http://arxiv.org/abs/2409.09560v1,2024-09-14 23:50:23+00:00
+50,Protecting Copyright of Medical Pre-trained Language Models: Training-Free Backdoor Watermarking,2409.10570,http://arxiv.org/abs/2409.10570v1,2024-09-14 08:08:55+00:00
+51,SafeEar: Content Privacy-Preserving Audio Deepfake Detection,2409.09272,http://arxiv.org/abs/2409.09272v1,2024-09-14 02:45:09+00:00
+52,Federated Learning with Quantum Computing and Fully Homomorphic Encryption: A Novel Computing Paradigm Shift in Privacy-Preserving ML,2409.11430,http://arxiv.org/abs/2409.11430v2,2024-09-14 01:23:26+00:00
+53,Robust Training of Neural Networks at Arbitrary Precision and Sparsity,2409.09245,http://arxiv.org/abs/2409.09245v1,2024-09-14 00:57:32+00:00
