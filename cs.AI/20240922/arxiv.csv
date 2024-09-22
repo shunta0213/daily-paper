@@ -1,0 +1,54 @@
+,title,id,arxiv_url,published
+0,TG-LLaVA: Text Guided LLaVA via Learnable Latent Embeddings,2409.09564,http://arxiv.org/abs/2409.09564v1,2024-09-15 00:38:34+00:00
+1,MindScape Study: Integrating LLM and Behavioral Sensing for Personalized AI-Driven Journaling Experiences,2409.09570,http://arxiv.org/abs/2409.09570v1,2024-09-15 01:10:46+00:00
+2,Open-World Test-Time Training: Self-Training with Contrast Learning,2409.09591,http://arxiv.org/abs/2409.09591v1,2024-09-15 02:36:26+00:00
+3,Improving Statistical Significance in Human Evaluation of Automatic Metrics via Soft Pairwise Accuracy,2409.09598,http://arxiv.org/abs/2409.09598v1,2024-09-15 03:25:55+00:00
+4,Rethinking KenLM: Good and Bad Model Ensembles for Efficient Text Quality Filtering in Large Web Corpora,2409.09613,http://arxiv.org/abs/2409.09613v1,2024-09-15 05:27:56+00:00
+5,Enhancing Text Annotation through Rationale-Driven Collaborative Few-Shot Prompting,2409.09615,http://arxiv.org/abs/2409.09615v1,2024-09-15 05:32:21+00:00
+6,Can Large Language Models Grasp Event Signals? Exploring Pure Zero-Shot Event-based Recognition,2409.09628,http://arxiv.org/abs/2409.09628v1,2024-09-15 06:43:03+00:00
+7,Confidence Estimation for LLM-Based Dialogue State Tracking,2409.09629,http://arxiv.org/abs/2409.09629v1,2024-09-15 06:44:26+00:00
+8,AACessTalk: Fostering Communication between Minimally Verbal Autistic Children and Parents with Contextual Guidance and Card Recommendation,2409.09641,http://arxiv.org/abs/2409.09641v2,2024-09-15 07:23:07+00:00
+9,KAN v.s. MLP for Offline Reinforcement Learning,2409.09653,http://arxiv.org/abs/2409.09653v1,2024-09-15 07:52:44+00:00
+10,Anatomy of Machines for Markowitz: Decision-Focused Learning for Mean-Variance Portfolio Optimization,2409.09684,http://arxiv.org/abs/2409.09684v1,2024-09-15 10:37:11+00:00
+11,Exploring Utility in a Real-World Warehouse Optimization Problem: Formulation Based on Quantun Annealers and Preliminary Results,2409.09706,http://arxiv.org/abs/2409.09706v1,2024-09-15 11:58:07+00:00
+12,Automatic Control With Human-Like Reasoning: Exploring Language Model Embodied Air Traffic Agents,2409.09717,http://arxiv.org/abs/2409.09717v1,2024-09-15 12:49:05+00:00
+13,From Challenges and Pitfalls to Recommendations and Opportunities: Implementing Federated Learning in Healthcare,2409.09727,http://arxiv.org/abs/2409.09727v1,2024-09-15 13:11:07+00:00
+14,Benchmarking LLMs in Political Content Text-Annotation: Proof-of-Concept with Toxicity and Incivility Data,2409.09741,http://arxiv.org/abs/2409.09741v1,2024-09-15 14:11:24+00:00
+15,Explore the Hallucination on Low-level Perception for MLLMs,2409.09748,http://arxiv.org/abs/2409.09748v1,2024-09-15 14:38:29+00:00
+16,Automated Lesion Segmentation in Whole-Body PET/CT in a multitracer setting,2409.09766,http://arxiv.org/abs/2409.09766v1,2024-09-15 15:32:29+00:00
+17,Enhancing Lesion Segmentation in PET/CT Imaging with Deep Learning and Advanced Data Preprocessing Techniques,2409.09784,http://arxiv.org/abs/2409.09784v1,2024-09-15 16:27:34+00:00
+18,Abnormal Event Detection In Videos Using Deep Embedding,2409.09804,http://arxiv.org/abs/2409.09804v1,2024-09-15 17:44:51+00:00
+19,Famba-V: Fast Vision Mamba with Cross-Layer Token Fusion,2409.09808,http://arxiv.org/abs/2409.09808v1,2024-09-15 18:02:26+00:00
+20,Causal Inference with Large Language Model: A Survey,2409.09822,http://arxiv.org/abs/2409.09822v1,2024-09-15 18:43:11+00:00
+21,GP-GPT: Large Language Model for Gene-Phenotype Mapping,2409.09825,http://arxiv.org/abs/2409.09825v1,2024-09-15 18:56:20+00:00
+22,A Survey of Out-of-distribution Generalization for Graph Machine Learning from a Causal View,2409.09858,http://arxiv.org/abs/2409.09858v1,2024-09-15 20:41:18+00:00
+23,Towards Kinetic Manipulation of the Latent Space,2409.09867,http://arxiv.org/abs/2409.09867v1,2024-09-15 21:24:51+00:00
+24,REG: Refined Generalized Focal Loss for Road Asset Detection on Thai Highways Using Vision-Based Detection and Segmentation Models,2409.09877,http://arxiv.org/abs/2409.09877v2,2024-09-15 22:04:33+00:00
+25,A hybrid solution for 2-UAV RAN slicing,2409.11432,http://arxiv.org/abs/2409.11432v1,2024-09-15 09:42:31+00:00
+26,Analysis of flexible traffic control method in SDN,2409.11436,http://arxiv.org/abs/2409.11436v1,2024-09-15 18:09:59+00:00
+27,ValueCompass: A Framework of Fundamental Values for Human-AI Alignment,2409.09586,http://arxiv.org/abs/2409.09586v1,2024-09-15 02:13:03+00:00
+28,A Survey of Foundation Models for Music Understanding,2409.09601,http://arxiv.org/abs/2409.09601v1,2024-09-15 03:34:14+00:00
+29,Towards Data-Centric RLHF: Simple Metrics for Preference Dataset Comparison,2409.09603,http://arxiv.org/abs/2409.09603v1,2024-09-15 03:55:03+00:00
+30,Stutter-Solver: End-to-end Multi-lingual Dysfluency Detection,2409.09621,http://arxiv.org/abs/2409.09621v1,2024-09-15 06:11:00+00:00
+31,Understanding Simplicity Bias towards Compositional Mappings via Learning Dynamics,2409.09626,http://arxiv.org/abs/2409.09626v1,2024-09-15 06:37:12+00:00
+32,A Novel Framework For Text Detection From Natural Scene Images With Complex Background,2409.09635,http://arxiv.org/abs/2409.09635v1,2024-09-15 07:12:33+00:00
+33,COSCO: A Sharpness-Aware Training Framework for Few-shot Multivariate Time Series Classification,2409.09645,http://arxiv.org/abs/2409.09645v1,2024-09-15 07:41:55+00:00
+34,Self-supervised Learning for Acoustic Few-Shot Classification,2409.09647,http://arxiv.org/abs/2409.09647v1,2024-09-15 07:45:11+00:00
+35,ExploreSelf: Fostering User-driven Exploration and Reflection on Personal Challenges with Adaptive Guidance by Large Language Models,2409.09662,http://arxiv.org/abs/2409.09662v2,2024-09-15 08:25:24+00:00
+36,Reliable Multi-View Learning with Conformal Prediction for Aortic Stenosis Classification in Echocardiography,2409.09680,http://arxiv.org/abs/2409.09680v1,2024-09-15 10:06:06+00:00
+37,Training Safe Neural Networks with Global SDP Bounds,2409.09687,http://arxiv.org/abs/2409.09687v1,2024-09-15 10:50:22+00:00
+38,GFlowNet Pretraining with Inexpensive Rewards,2409.09702,http://arxiv.org/abs/2409.09702v1,2024-09-15 11:42:17+00:00
+39,ELMI: Interactive and Intelligent Sign Language Translation of Lyrics for Song Signing,2409.09760,http://arxiv.org/abs/2409.09760v1,2024-09-15 15:01:00+00:00
+40,BEnDEM:A Boltzmann Sampler Based on Bootstrapped Denoising Energy Matching,2409.09787,http://arxiv.org/abs/2409.09787v1,2024-09-15 16:41:30+00:00
+41,Multiple Rotation Averaging with Constrained Reweighting Deep Matrix Factorization,2409.09790,http://arxiv.org/abs/2409.09790v1,2024-09-15 16:50:27+00:00
+42,On the Effect of Robot Errors on Human Teaching Dynamics,2409.09827,http://arxiv.org/abs/2409.09827v1,2024-09-15 19:02:34+00:00
+43,Latent Diffusion Models for Controllable RNA Sequence Generation,2409.09828,http://arxiv.org/abs/2409.09828v1,2024-09-15 19:04:50+00:00
+44,"Critic as Lyapunov function (CALF): a model-free, stability-ensuring agent",2409.09869,http://arxiv.org/abs/2409.09869v1,2024-09-15 21:27:44+00:00
+45,Detection Made Easy: Potentials of Large Language Models for Solidity Vulnerabilities,2409.10574,http://arxiv.org/abs/2409.10574v1,2024-09-15 13:16:58+00:00
+46,A Tie-breaking based Local Search Algorithm for Stable Matching Problems,2409.10575,http://arxiv.org/abs/2409.10575v1,2024-09-15 13:36:55+00:00
+47,GLEAN: Generative Learning for Eliminating Adversarial Noise,2409.10578,http://arxiv.org/abs/2409.10578v1,2024-09-15 18:28:56+00:00
+48,Recent advances in deep learning and language models for studying the microbiome,2409.10579,http://arxiv.org/abs/2409.10579v1,2024-09-15 18:32:31+00:00
+49,Veridical Data Science for Medical Foundation Models,2409.10580,http://arxiv.org/abs/2409.10580v1,2024-09-15 18:44:38+00:00
+50,Integrating Audio Narrations to Strengthen Domain Generalization in Multimodal First-Person Action Recognition,2409.09611,http://arxiv.org/abs/2409.09611v1,2024-09-15 04:43:00+00:00
+51,"Large Language Model Based Generative Error Correction: A Challenge and Baselines for Speech Recognition, Speaker Tagging, and Emotion Recognition",2409.09785,http://arxiv.org/abs/2409.09785v2,2024-09-15 16:32:49+00:00
+52,Constructing a Singing Style Caption Dataset,2409.09866,http://arxiv.org/abs/2409.09866v1,2024-09-15 21:19:24+00:00
