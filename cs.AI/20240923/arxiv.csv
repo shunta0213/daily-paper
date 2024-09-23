@@ -1,0 +1,97 @@
+,title,id,arxiv_url,published
+0,Cognitive Kernel: An Open-source Agent System towards Generalist Autopilots,2409.10277,http://arxiv.org/abs/2409.10277v1,2024-09-16 13:39:05+00:00
+1,SFR-RAG: Towards Contextually Faithful LLMs,2409.09916,http://arxiv.org/abs/2409.09916v1,2024-09-16 01:08:18+00:00
+2,"Towards Data Contamination Detection for Modern Large Language Models: Limitations, Inconsistencies, and Oracle Challenges",2409.09927,http://arxiv.org/abs/2409.09927v1,2024-09-16 02:04:33+00:00
+3,Fault Analysis And Predictive Maintenance Of Induction Motor Using Machine Learning,2409.09944,http://arxiv.org/abs/2409.09944v1,2024-09-16 02:37:07+00:00
+4,Deep Graph Anomaly Detection: A Survey and New Perspectives,2409.09957,http://arxiv.org/abs/2409.09957v1,2024-09-16 03:05:11+00:00
+5,An Offline Adaptation Framework for Constrained Multi-Objective Reinforcement Learning,2409.09958,http://arxiv.org/abs/2409.09958v1,2024-09-16 03:08:09+00:00
+6,Artificial Intelligence-Based Opportunistic Coronary Calcium Screening in the Veterans Affairs National Healthcare System,2409.09968,http://arxiv.org/abs/2409.09968v1,2024-09-16 03:59:01+00:00
+7,SelECT-SQL: Self-correcting ensemble Chain-of-Thought for Text-to-SQL,2409.10007,http://arxiv.org/abs/2409.10007v1,2024-09-16 05:40:18+00:00
+8,HALO: Hallucination Analysis and Learning Optimization to Empower LLMs with Retrieval-Augmented Context for Guided Clinical Decision Making,2409.10011,http://arxiv.org/abs/2409.10011v2,2024-09-16 05:50:39+00:00
+9,AceParse: A Comprehensive Dataset with Diverse Structured Texts for Academic Literature Parsing,2409.10016,http://arxiv.org/abs/2409.10016v1,2024-09-16 06:06:34+00:00
+10,E2Map: Experience-and-Emotion Map for Self-Reflective Robot Navigation with Language Models,2409.10027,http://arxiv.org/abs/2409.10027v1,2024-09-16 06:35:18+00:00
+11,AttnMod: Attention-Based New Art Styles,2409.10028,http://arxiv.org/abs/2409.10028v1,2024-09-16 06:38:25+00:00
+12,Can GPT-O1 Kill All Bugs? An Evaluation of GPT-Family LLMs on QuixBugs,2409.10033,http://arxiv.org/abs/2409.10033v2,2024-09-16 06:51:32+00:00
+13,Enhancing Anomaly Detection via Generating Diversified and Hard-to-distinguish Synthetic Anomalies,2409.10069,http://arxiv.org/abs/2409.10069v1,2024-09-16 08:15:23+00:00
+14,Increasing faithfulness in human-human dialog summarization with Spoken Language Understanding tasks,2409.10070,http://arxiv.org/abs/2409.10070v1,2024-09-16 08:15:35+00:00
+15,LLM-DER:A Named Entity Recognition Method Based on Large Language Models for Chinese Coal Chemical Domain,2409.10077,http://arxiv.org/abs/2409.10077v1,2024-09-16 08:28:05+00:00
+16,DAE-Fuse: An Adaptive Discriminative Autoencoder for Multi-Modality Image Fusion,2409.10080,http://arxiv.org/abs/2409.10080v1,2024-09-16 08:37:09+00:00
+17,A Riemannian Approach to Ground Metric Learning for Optimal Transport,2409.10085,http://arxiv.org/abs/2409.10085v1,2024-09-16 08:42:56+00:00
+18,Industry 6.0: New Generation of Industry driven by Generative AI and Swarm of Heterogeneous Robots,2409.10106,http://arxiv.org/abs/2409.10106v1,2024-09-16 09:12:06+00:00
+19,StruEdit: Structured Outputs Enable the Fast and Accurate Knowledge Editing for Large Language Models,2409.10132,http://arxiv.org/abs/2409.10132v1,2024-09-16 09:48:56+00:00
+20,Advancing Towards a Marine Digital Twin Platform: Modeling the Mar Menor Coastal Lagoon Ecosystem in the South Western Mediterranean,2409.10134,http://arxiv.org/abs/2409.10134v1,2024-09-16 10:01:18+00:00
+21,LLMs4OL 2024 Overview: The 1st Large Language Models for Ontology Learning Challenge,2409.10146,http://arxiv.org/abs/2409.10146v1,2024-09-16 10:15:30+00:00
+22,Augmenting Automatic Speech Recognition Models with Disfluency Detection,2409.10177,http://arxiv.org/abs/2409.10177v2,2024-09-16 11:13:14+00:00
+23,Relative Positioning for Aerial Robot Path Planning in GPS Denied Environment,2409.10193,http://arxiv.org/abs/2409.10193v1,2024-09-16 11:35:39+00:00
+24,Hedging Is Not All You Need: A Simple Baseline for Online Learning Under Haphazard Inputs,2409.10242,http://arxiv.org/abs/2409.10242v1,2024-09-16 12:45:03+00:00
+25,Causal Discovery in Recommender Systems: Example and Discussion,2409.10271,http://arxiv.org/abs/2409.10271v1,2024-09-16 13:31:04+00:00
+26,MGSA: Multi-granularity Graph Structure Attention for Knowledge Graph-to-Text Generation,2409.10294,http://arxiv.org/abs/2409.10294v1,2024-09-16 14:01:03+00:00
+27,"On Synthetic Texture Datasets: Challenges, Creation, and Curation",2409.10297,http://arxiv.org/abs/2409.10297v1,2024-09-16 14:02:18+00:00
+28,Know your limits! Optimize the robot's behavior through self-awareness,2409.10308,http://arxiv.org/abs/2409.10308v1,2024-09-16 14:14:58+00:00
+29,InfoDisent: Explainability of Image Classification Models by Information Disentanglement,2409.10329,http://arxiv.org/abs/2409.10329v1,2024-09-16 14:39:15+00:00
+30,The 20 questions game to distinguish large language models,2409.10338,http://arxiv.org/abs/2409.10338v1,2024-09-16 14:50:29+00:00
+31,Large Language Model Enhanced Hard Sample Identification for Denoising Recommendation,2409.10343,http://arxiv.org/abs/2409.10343v1,2024-09-16 14:57:09+00:00
+32,Robust image representations with counterfactual contrastive learning,2409.10365,http://arxiv.org/abs/2409.10365v1,2024-09-16 15:11:00+00:00
+33,MOST: MR reconstruction Optimization for multiple downStream Tasks via continual learning,2409.10394,http://arxiv.org/abs/2409.10394v1,2024-09-16 15:31:04+00:00
+34,A Knowledge-Enhanced Disease Diagnosis Method Based on Prompt Learning and BERT Integration,2409.10403,http://arxiv.org/abs/2409.10403v1,2024-09-16 15:34:58+00:00
+35,Geometric Clustering for Hardware-Efficient Implementation of Chromatic Dispersion Compensation,2409.10416,http://arxiv.org/abs/2409.10416v1,2024-09-16 15:48:05+00:00
+36,HiFi-CS: Towards Open Vocabulary Visual Grounding For Robotic Grasping Using Vision-Language Models,2409.10419,http://arxiv.org/abs/2409.10419v1,2024-09-16 15:50:39+00:00
+37,MacDiff: Unified Skeleton Modeling with Masked Conditional Diffusion,2409.10473,http://arxiv.org/abs/2409.10473v1,2024-09-16 17:06:10+00:00
+38,Exploring 3D Face Reconstruction and Fusion Methods for Face Verification: A Case-Study in Video Surveillance,2409.10481,http://arxiv.org/abs/2409.10481v1,2024-09-16 17:17:47+00:00
+39,Do Pre-trained Vision-Language Models Encode Object States?,2409.10488,http://arxiv.org/abs/2409.10488v1,2024-09-16 17:22:18+00:00
+40,Flash STU: Fast Spectral Transform Units,2409.10489,http://arxiv.org/abs/2409.10489v2,2024-09-16 17:22:34+00:00
+41,Reinforcement Learning with Quasi-Hyperbolic Discounting,2409.10583,http://arxiv.org/abs/2409.10583v1,2024-09-16 06:00:42+00:00
+42,Offline Reinforcement Learning for Learning to Dispatch for Job Shop Scheduling,2409.10589,http://arxiv.org/abs/2409.10589v1,2024-09-16 15:18:10+00:00
+43,Logic Synthesis Optimization with Predictive Self-Supervision via Causal Transformers,2409.10653,http://arxiv.org/abs/2409.10653v1,2024-09-16 18:45:07+00:00
+44,Multi-agent Path Finding in Continuous Environment,2409.10680,http://arxiv.org/abs/2409.10680v1,2024-09-16 19:23:04+00:00
+45,AutoSafeCoder: A Multi-Agent Framework for Securing LLM Code Generation through Static Analysis and Fuzz Testing,2409.10737,http://arxiv.org/abs/2409.10737v1,2024-09-16 21:15:56+00:00
+46,VulnLLMEval: A Framework for Evaluating Large Language Models in Software Vulnerability Detection and Patching,2409.10756,http://arxiv.org/abs/2409.10756v1,2024-09-16 22:00:20+00:00
+47,Model Tells Itself Where to Attend: Faithfulness Meets Automatic Attention Steering,2409.10790,http://arxiv.org/abs/2409.10790v1,2024-09-16 23:52:41+00:00
+48,MARCA: Mamba Accelerator with ReConfigurable Architecture,2409.11440,http://arxiv.org/abs/2409.11440v1,2024-09-16 15:18:33+00:00
+49,Comprehensive Study on Sentiment Analysis: From Rule-based to modern LLM based system,2409.09989,http://arxiv.org/abs/2409.09989v1,2024-09-16 04:44:52+00:00
+50,FreeMark: A Non-Invasive White-Box Watermarking for Deep Neural Networks,2409.09996,http://arxiv.org/abs/2409.09996v1,2024-09-16 05:05:03+00:00
+51,On the Diagram of Thought,2409.10038,http://arxiv.org/abs/2409.10038v1,2024-09-16 07:01:41+00:00
+52,Audio-Driven Reinforcement Learning for Head-Orientation in Naturalistic Environments,2409.10048,http://arxiv.org/abs/2409.10048v1,2024-09-16 07:20:33+00:00
+53,GlobalMapNet: An Online Framework for Vectorized Global HD Map Construction,2409.10063,http://arxiv.org/abs/2409.10063v2,2024-09-16 07:56:41+00:00
+54,MindGuard: Towards Accessible and Sitgma-free Mental Health First Aid via Edge LLM,2409.10064,http://arxiv.org/abs/2409.10064v1,2024-09-16 07:58:56+00:00
+55,Trustworthiness in Retrieval-Augmented Generation Systems: A Survey,2409.10102,http://arxiv.org/abs/2409.10102v1,2024-09-16 09:06:44+00:00
+56,Towards Explainable Automated Data Quality Enhancement without Domain Knowledge,2409.10139,http://arxiv.org/abs/2409.10139v1,2024-09-16 10:08:05+00:00
+57,AutoPET Challenge III: Testing the Robustness of Generalized Dice Focal Loss trained 3D Residual UNet for FDG and PSMA Lesion Segmentation from Whole-Body PET/CT Images,2409.10151,http://arxiv.org/abs/2409.10151v1,2024-09-16 10:27:30+00:00
+58,SplatSim: Zero-Shot Sim2Real Transfer of RGB Manipulation Policies Using Gaussian Splatting,2409.10161,http://arxiv.org/abs/2409.10161v1,2024-09-16 10:52:16+00:00
+59,Quantile Regression for Distributional Reward Models in RLHF,2409.10164,http://arxiv.org/abs/2409.10164v1,2024-09-16 10:54:04+00:00
+60,Algorithmic Behaviors Across Regions: A Geolocation Audit of YouTube Search for COVID-19 Misinformation between the United States and South Africa,2409.10168,http://arxiv.org/abs/2409.10168v1,2024-09-16 10:56:43+00:00
+61,jina-embeddings-v3: Multilingual Embeddings With Task LoRA,2409.10173,http://arxiv.org/abs/2409.10173v3,2024-09-16 11:10:29+00:00
+62,"NEUSIS: A Compositional Neuro-Symbolic Framework for Autonomous Perception, Reasoning, and Planning in Complex UAV Search Missions",2409.10196,http://arxiv.org/abs/2409.10196v1,2024-09-16 11:42:15+00:00
+63,FGR-Net:Interpretable fundus imagegradeability classification based on deepreconstruction learning,2409.10246,http://arxiv.org/abs/2409.10246v1,2024-09-16 12:56:23+00:00
+64,Enhancing Personalized Recipe Recommendation Through Multi-Class Classification,2409.10267,http://arxiv.org/abs/2409.10267v1,2024-09-16 13:21:09+00:00
+65,DreamHead: Learning Spatial-Temporal Correspondence via Hierarchical Diffusion for Audio-driven Talking Head Synthesis,2409.10281,http://arxiv.org/abs/2409.10281v1,2024-09-16 13:44:20+00:00
+66,ReflectDiffu:Reflect between Emotion-intent Contagion and Mimicry for Empathetic Response Generation via a RL-Diffusion Framework,2409.10289,http://arxiv.org/abs/2409.10289v2,2024-09-16 13:56:17+00:00
+67,Neuromorphic Spintronics,2409.10290,http://arxiv.org/abs/2409.10290v1,2024-09-16 13:57:39+00:00
+68,How to do impactful research in artificial intelligence for chemistry and materials science,2409.10304,http://arxiv.org/abs/2409.10304v1,2024-09-16 14:10:38+00:00
+69,SEAL: Towards Safe Autonomous Driving via Skill-Enabled Adversary Learning for Closed-Loop Scenario Generation,2409.10320,http://arxiv.org/abs/2409.10320v1,2024-09-16 14:33:21+00:00
+70,Hyperedge Modeling in Hypergraph Neural Networks by using Densest Overlapping Subgraphs,2409.10340,http://arxiv.org/abs/2409.10340v1,2024-09-16 14:56:10+00:00
+71,Point2Graph: An End-to-end Point Cloud-based 3D Open-Vocabulary Scene Graph for Robot Navigation,2409.10350,http://arxiv.org/abs/2409.10350v1,2024-09-16 15:01:28+00:00
+72,Instigating Cooperation among LLM Agents Using Adaptive Information Modulation,2409.10372,http://arxiv.org/abs/2409.10372v2,2024-09-16 15:15:51+00:00
+73,MusicLIME: Explainable Multimodal Music Understanding,2409.10496,http://arxiv.org/abs/2409.10496v1,2024-09-16 17:28:21+00:00
+74,An Efficient Self-Learning Framework For Interactive Spoken Dialog Systems,2409.10515,http://arxiv.org/abs/2409.10515v1,2024-09-16 17:59:50+00:00
+75,WaveMixSR-V2: Enhancing Super-resolution with Higher Efficiency,2409.10582,http://arxiv.org/abs/2409.10582v1,2024-09-16 04:16:52+00:00
+76,Motion Forecasting via Model-Based Risk Minimization,2409.10585,http://arxiv.org/abs/2409.10585v2,2024-09-16 09:03:28+00:00
+77,Opponent Shaping for Antibody Development,2409.10588,http://arxiv.org/abs/2409.10588v2,2024-09-16 14:56:27+00:00
+78,CSKV: Training-Efficient Channel Shrinking for KV Cache in Long-Context Scenarios,2409.10593,http://arxiv.org/abs/2409.10593v1,2024-09-16 17:36:50+00:00
+79,Kolmogorov-Arnold Transformer,2409.10594,http://arxiv.org/abs/2409.10594v1,2024-09-16 17:54:51+00:00
+80,Exploring Fine-tuned Generative Models for Keyphrase Selection: A Case Study for Russian,2409.10640,http://arxiv.org/abs/2409.10640v2,2024-09-16 18:15:28+00:00
+81,Disentangling Uncertainty for Safe Social Navigation using Deep Reinforcement Learning,2409.10655,http://arxiv.org/abs/2409.10655v1,2024-09-16 18:49:38+00:00
+82,MotIF: Motion Instruction Fine-tuning,2409.10683,http://arxiv.org/abs/2409.10683v1,2024-09-16 19:30:21+00:00
+83,Encoding Reusable Multi-Robot Planning Strategies as Abstract Hypergraphs,2409.10692,http://arxiv.org/abs/2409.10692v1,2024-09-16 19:39:52+00:00
+84,Playground v3: Improving Text-to-Image Alignment with Deep-Fusion Large Language Models,2409.10695,http://arxiv.org/abs/2409.10695v1,2024-09-16 19:52:24+00:00
+85,Model-in-the-Loop (MILO): Accelerating Multimodal AI Data Annotation with LLMs,2409.10702,http://arxiv.org/abs/2409.10702v1,2024-09-16 20:05:57+00:00
+86,Self-supervised Speech Models for Word-Level Stuttered Speech Detection,2409.10704,http://arxiv.org/abs/2409.10704v1,2024-09-16 20:18:20+00:00
+87,Self-Attention Limits Working Memory Capacity of Transformer-Based Models,2409.10715,http://arxiv.org/abs/2409.10715v1,2024-09-16 20:38:35+00:00
+88,A Missing Data Imputation GAN for Character Sprite Generation,2409.10721,http://arxiv.org/abs/2409.10721v1,2024-09-16 20:50:32+00:00
+89,Generalized Measures of Anticipation and Responsivity in Online Language Processing,2409.10728,http://arxiv.org/abs/2409.10728v1,2024-09-16 21:05:15+00:00
+90,Are Deep Learning Models Robust to Partial Object Occlusion in Visual Recognition Tasks?,2409.10775,http://arxiv.org/abs/2409.10775v1,2024-09-16 23:21:22+00:00
+91,Deep Learning tools to support deforestation monitoring in the Ivory Coast using SAR and Optical satellite imagery,2409.11186,http://arxiv.org/abs/2409.11186v1,2024-09-16 14:26:41+00:00
+92,Machine listening in a neonatal intensive care unit,2409.11439,http://arxiv.org/abs/2409.11439v1,2024-09-16 09:19:19+00:00
+93,A Green Multi-Attribute Client Selection for Over-The-Air Federated Learning: A Grey-Wolf-Optimizer Approach,2409.11442,http://arxiv.org/abs/2409.11442v1,2024-09-16 20:03:57+00:00
+94,ASMA: An Adaptive Safety Margin Algorithm for Vision-Language Drone Navigation via Scene-Aware Control Barrier Functions,2409.10283,http://arxiv.org/abs/2409.10283v1,2024-09-16 13:44:50+00:00
+95,Manifold-Constrained Nucleus-Level Denoising Diffusion Model for Structure-Based Drug Design,2409.10584,http://arxiv.org/abs/2409.10584v1,2024-09-16 08:42:46+00:00
