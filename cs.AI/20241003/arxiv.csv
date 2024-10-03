@@ -1,0 +1,101 @@
+,title,id,arxiv_url,published
+0,A Time Series is Worth Five Experts: Heterogeneous Mixture of Experts for Traffic Flow Prediction,2409.17440,http://arxiv.org/abs/2409.17440v1,2024-09-26 00:26:47+00:00
+1,What Would Happen Next? Predicting Consequences from An Event Causality Graph,2409.17480,http://arxiv.org/abs/2409.17480v1,2024-09-26 02:34:08+00:00
+2,From News to Forecast: Integrating Event Analysis in LLM-Based Time Series Forecasting with Reflection,2409.17515,http://arxiv.org/abs/2409.17515v1,2024-09-26 03:50:22+00:00
+3,Just say what you want: only-prompting self-rewarding online preference optimization,2409.17534,http://arxiv.org/abs/2409.17534v1,2024-09-26 04:41:08+00:00
+4,Showing Many Labels in Multi-label Classification Models: An Empirical Study of Adversarial Examples,2409.17568,http://arxiv.org/abs/2409.17568v1,2024-09-26 06:31:31+00:00
+5,A Scalable Data-Driven Framework for Systematic Analysis of SEC 10-K Filings Using Large Language Models,2409.17581,http://arxiv.org/abs/2409.17581v1,2024-09-26 06:57:22+00:00
+6,Dirichlet-Based Coarse-to-Fine Example Selection For Open-Set Annotation,2409.17607,http://arxiv.org/abs/2409.17607v1,2024-09-26 07:47:50+00:00
+7,Hierarchical End-to-End Autonomous Driving: Integrating BEV Perception with Deep Reinforcement Learning,2409.17659,http://arxiv.org/abs/2409.17659v1,2024-09-26 09:14:16+00:00
+8,The application of GPT-4 in grading design university students' assignment and providing feedback: An exploratory study,2409.17698,http://arxiv.org/abs/2409.17698v1,2024-09-26 10:09:10+00:00
+9,Ophthalmic Biomarker Detection with Parallel Prediction of Transformer and Convolutional Architecture,2409.17788,http://arxiv.org/abs/2409.17788v1,2024-09-26 12:33:34+00:00
+10,DREAMS: A python framework to train deep learning models with model card reporting for medical and health applications,2409.17815,http://arxiv.org/abs/2409.17815v1,2024-09-26 13:12:13+00:00
+11,Detecting and Measuring Confounding Using Causal Mechanism Shifts,2409.17840,http://arxiv.org/abs/2409.17840v1,2024-09-26 13:44:22+00:00
+12,DarkSAM: Fooling Segment Anything Model to Segment Nothing,2409.17874,http://arxiv.org/abs/2409.17874v1,2024-09-26 14:20:14+00:00
+13,Learning to Love Edge Cases in Formative Math Assessment: Using the AMMORE Dataset and Chain-of-Thought Prompting to Improve Grading Accuracy,2409.17904,http://arxiv.org/abs/2409.17904v1,2024-09-26 14:51:40+00:00
+14,Navigation in a simplified Urban Flow through Deep Reinforcement Learning,2409.17922,http://arxiv.org/abs/2409.17922v1,2024-09-26 15:05:15+00:00
+15,Enhancing elusive clues in knowledge learning by contrasting attention of language models,2409.17954,http://arxiv.org/abs/2409.17954v1,2024-09-26 15:30:54+00:00
+16,CRoP: Context-wise Robust Static Human-Sensing Personalization,2409.17994,http://arxiv.org/abs/2409.17994v2,2024-09-26 16:06:38+00:00
+17,Role-RL: Online Long-Context Processing with Role Reinforcement Learning for Distinct LLMs in Their Optimal Roles,2409.18014,http://arxiv.org/abs/2409.18014v1,2024-09-26 16:22:59+00:00
+18,Trustworthy AI: Securing Sensitive Data in Large Language Models,2409.18222,http://arxiv.org/abs/2409.18222v1,2024-09-26 19:02:33+00:00
+19,Input-Dependent Power Usage in GPUs,2409.18324,http://arxiv.org/abs/2409.18324v1,2024-09-26 22:31:09+00:00
+20,Improving Agent Behaviors with RL Fine-tuning for Autonomous Driving,2409.18343,http://arxiv.org/abs/2409.18343v1,2024-09-26 23:40:33+00:00
+21,CadVLM: Bridging Language and Vision in the Generation of Parametric CAD Sketches,2409.17457,http://arxiv.org/abs/2409.17457v1,2024-09-26 01:22:29+00:00
+22,Autoregressive Multi-trait Essay Scoring via Reinforcement Learning with Scoring-aware Multiple Rewards,2409.17472,http://arxiv.org/abs/2409.17472v1,2024-09-26 02:16:48+00:00
+23,Global-Local Medical SAM Adaptor Based on Full Adaption,2409.17486,http://arxiv.org/abs/2409.17486v1,2024-09-26 02:48:15+00:00
+24,Human Mobility Modeling with Limited Information via Large Language Models,2409.17495,http://arxiv.org/abs/2409.17495v1,2024-09-26 03:07:32+00:00
+25,Dataset Distillation-based Hybrid Federated Learning on Non-IID Data,2409.17517,http://arxiv.org/abs/2409.17517v1,2024-09-26 03:52:41+00:00
+26,Multi-Designated Detector Watermarking for Language Models,2409.17518,http://arxiv.org/abs/2409.17518v2,2024-09-26 04:01:15+00:00
+27,EAGLE: Egocentric AGgregated Language-video Engine,2409.17523,http://arxiv.org/abs/2409.17523v1,2024-09-26 04:17:27+00:00
+28,Drone Stereo Vision for Radiata Pine Branch Detection and Distance Measurement: Integrating SGBM and Segmentation Models,2409.17526,http://arxiv.org/abs/2409.17526v1,2024-09-26 04:27:44+00:00
+29,SimVG: A Simple Framework for Visual Grounding with Decoupled Multi-modal Fusion,2409.17531,http://arxiv.org/abs/2409.17531v1,2024-09-26 04:36:19+00:00
+30,Triple Point Masking,2409.17547,http://arxiv.org/abs/2409.17547v1,2024-09-26 05:33:30+00:00
+31,Dr. GPT in Campus Counseling: Understanding Higher Education Students' Opinions on LLM-assisted Mental Health Services,2409.17572,http://arxiv.org/abs/2409.17572v1,2024-09-26 06:40:45+00:00
+32,Multimodal Banking Dataset: Understanding Client Needs through Event Sequences,2409.17587,http://arxiv.org/abs/2409.17587v1,2024-09-26 07:07:08+00:00
+33,Improving Fast Adversarial Training via Self-Knowledge Guidance,2409.17589,http://arxiv.org/abs/2409.17589v1,2024-09-26 07:12:04+00:00
+34,Deep Manifold Part 1: Anatomy of Neural Network Manifold,2409.17592,http://arxiv.org/abs/2409.17592v1,2024-09-26 07:19:12+00:00
+35,TA-Cleaner: A Fine-grained Text Alignment Backdoor Defense Strategy for Multimodal Contrastive Learning,2409.17601,http://arxiv.org/abs/2409.17601v1,2024-09-26 07:35:23+00:00
+36,Open Digital Rights Enforcement Framework (ODRE): from descriptive to enforceable policies,2409.17602,http://arxiv.org/abs/2409.17602v1,2024-09-26 07:36:49+00:00
+37,Neural P$^3$M: A Long-Range Interaction Modeling Enhancer for Geometric GNNs,2409.17622,http://arxiv.org/abs/2409.17622v1,2024-09-26 08:16:59+00:00
+38,Hand-object reconstruction via interaction-aware graph attention mechanism,2409.17629,http://arxiv.org/abs/2409.17629v1,2024-09-26 08:23:04+00:00
+39,P4Q: Learning to Prompt for Quantization in Visual-language Models,2409.17634,http://arxiv.org/abs/2409.17634v1,2024-09-26 08:31:27+00:00
+40,T3: A Novel Zero-shot Transfer Learning Framework Iteratively Training on an Assistant Task for a Target Task,2409.17640,http://arxiv.org/abs/2409.17640v1,2024-09-26 08:44:38+00:00
+41,AI Delegates with a Dual Focus: Ensuring Privacy and Strategic Self-Disclosure,2409.17642,http://arxiv.org/abs/2409.17642v1,2024-09-26 08:45:15+00:00
+42,Digital Twin Ecosystem for Oncology Clinical Operations,2409.17650,http://arxiv.org/abs/2409.17650v1,2024-09-26 08:56:54+00:00
+43,FactorSim: Generative Simulation via Factorized Representation,2409.17652,http://arxiv.org/abs/2409.17652v1,2024-09-26 09:00:30+00:00
+44,A Fuzzy-based Approach to Predict Human Interaction by Functional Near-Infrared Spectroscopy,2409.17661,http://arxiv.org/abs/2409.17661v1,2024-09-26 09:20:12+00:00
+45,Zero- and Few-shot Named Entity Recognition and Text Expansion in Medication Prescriptions using ChatGPT,2409.17683,http://arxiv.org/abs/2409.17683v1,2024-09-26 09:49:27+00:00
+46,Preserving logical and functional dependencies in synthetic tabular data,2409.17684,http://arxiv.org/abs/2409.17684v1,2024-09-26 09:51:07+00:00
+47,Artificial Data Point Generation in Clustered Latent Space for Small Medical Datasets,2409.17685,http://arxiv.org/abs/2409.17685v1,2024-09-26 09:51:08+00:00
+48,Graph Edit Distance with General Costs Using Neural Set Divergence,2409.17687,http://arxiv.org/abs/2409.17687v1,2024-09-26 09:51:29+00:00
+49,Efficient Bias Mitigation Without Privileged Information,2409.17691,http://arxiv.org/abs/2409.17691v1,2024-09-26 09:56:13+00:00
+50,Episodic Memory Verbalization using Hierarchical Representations of Life-Long Robot Experience,2409.17702,http://arxiv.org/abs/2409.17702v1,2024-09-26 10:16:08+00:00
+51,AlterMOMA: Fusion Redundancy Pruning for Camera-LiDAR Fusion Models with Alternative Modality Masking,2409.17728,http://arxiv.org/abs/2409.17728v1,2024-09-26 10:57:02+00:00
+52,Byzantine-Robust Aggregation for Securing Decentralized Federated Learning,2409.17754,http://arxiv.org/abs/2409.17754v1,2024-09-26 11:36:08+00:00
+53,Integrating Hierarchical Semantic into Iterative Generation Model for Entailment Tree Explanation,2409.17757,http://arxiv.org/abs/2409.17757v1,2024-09-26 11:46:58+00:00
+54,Federated Learning under Attack: Improving Gradient Inversion for Batch of Images,2409.17767,http://arxiv.org/abs/2409.17767v1,2024-09-26 12:02:36+00:00
+55,Faithfulness and the Notion of Adversarial Sensitivity in NLP Explanations,2409.17774,http://arxiv.org/abs/2409.17774v1,2024-09-26 12:11:28+00:00
+56,Harnessing Shared Relations via Multimodal Mixup Contrastive Learning for Multimodal Classification,2409.17777,http://arxiv.org/abs/2409.17777v1,2024-09-26 12:15:13+00:00
+57,Self-supervised Preference Optimization: Enhance Your Language Model with Preference Degree Awareness,2409.17791,http://arxiv.org/abs/2409.17791v1,2024-09-26 12:37:26+00:00
+58,Inference-Time Language Model Alignment via Integrated Value Guidance,2409.17819,http://arxiv.org/abs/2409.17819v1,2024-09-26 13:15:18+00:00
+59,Language Models as Zero-shot Lossless Gradient Compressors: Towards General Neural Parameter Prior Models,2409.17836,http://arxiv.org/abs/2409.17836v1,2024-09-26 13:38:33+00:00
+60,Machine Learning-based vs Deep Learning-based Anomaly Detection in Multivariate Time Series for Spacecraft Attitude Sensors,2409.17841,http://arxiv.org/abs/2409.17841v1,2024-09-26 13:45:36+00:00
+61,Pioneering Reliable Assessment in Text-to-Image Knowledge Editing: Leveraging a Fine-Grained Dataset and an Innovative Criterion,2409.17928,http://arxiv.org/abs/2409.17928v1,2024-09-26 15:07:30+00:00
+62,Transferring disentangled representations: bridging the gap between synthetic and real images,2409.18017,http://arxiv.org/abs/2409.18017v1,2024-09-26 16:25:48+00:00
+63,Compositional Hardness of Code in Large Language Models -- A Probabilistic Perspective,2409.18028,http://arxiv.org/abs/2409.18028v1,2024-09-26 16:34:35+00:00
+64,DualAD: Dual-Layer Planning for Reasoning in Autonomous Driving,2409.18053,http://arxiv.org/abs/2409.18053v1,2024-09-26 16:58:04+00:00
+65,Visual Data Diagnosis and Debiasing with Concept Graphs,2409.18055,http://arxiv.org/abs/2409.18055v1,2024-09-26 16:59:01+00:00
+66,FreeEdit: Mask-free Reference-based Image Editing with Multi-modal Instruction,2409.18071,http://arxiv.org/abs/2409.18071v1,2024-09-26 17:18:39+00:00
+67,GSON: A Group-based Social Navigation Framework with Large Multimodal Model,2409.18084,http://arxiv.org/abs/2409.18084v1,2024-09-26 17:27:15+00:00
+68,EfficientCrackNet: A Lightweight Model for Crack Segmentation,2409.18099,http://arxiv.org/abs/2409.18099v1,2024-09-26 17:44:20+00:00
+69,"AI-Powered Augmented Reality for Satellite Assembly, Integration and Test",2409.18101,http://arxiv.org/abs/2409.18101v1,2024-09-26 17:44:52+00:00
+70,A Survey on Neural Architecture Search Based on Reinforcement Learning,2409.18163,http://arxiv.org/abs/2409.18163v2,2024-09-26 17:28:10+00:00
+71,Evaluation of Large Language Models for Summarization Tasks in the Medical Domain: A Narrative Review,2409.18170,http://arxiv.org/abs/2409.18170v1,2024-09-26 17:58:26+00:00
+72,PCEvE: Part Contribution Evaluation Based Model Explanation for Human Figure Drawing Assessment and Beyond,2409.18260,http://arxiv.org/abs/2409.18260v1,2024-09-26 20:13:03+00:00
+73,Omni6D: Large-Vocabulary 3D Object Dataset for Category-Level 6D Object Pose Estimation,2409.18261,http://arxiv.org/abs/2409.18261v2,2024-09-26 20:13:33+00:00
+74,Retrospective Comparative Analysis of Prostate Cancer In-Basket Messages: Responses from Closed-Domain LLM vs. Clinical Teams,2409.18290,http://arxiv.org/abs/2409.18290v1,2024-09-26 21:00:51+00:00
+75,Cross-Institutional Structured Radiology Reporting for Lung Cancer Screening Using a Dynamic Template-Constrained Large Language Model,2409.18319,http://arxiv.org/abs/2409.18319v1,2024-09-26 21:59:11+00:00
+76,A Fairness-Driven Method for Learning Human-Compatible Negotiation Strategies,2409.18335,http://arxiv.org/abs/2409.18335v1,2024-09-26 23:16:47+00:00
+77,AER-LLM: Ambiguity-aware Emotion Recognition Leveraging Large Language Models,2409.18339,http://arxiv.org/abs/2409.18339v1,2024-09-26 23:25:21+00:00
+78,Elephant in the Room: Unveiling the Impact of Reward Model Quality in Alignment,2409.19024,http://arxiv.org/abs/2409.19024v1,2024-09-26 04:28:35+00:00
+79,Adjusting Regression Models for Conditional Uncertainty Calibration,2409.17466,http://arxiv.org/abs/2409.17466v1,2024-09-26 01:55:45+00:00
+80,MaskLLM: Learnable Semi-Structured Sparsity for Large Language Models,2409.17481,http://arxiv.org/abs/2409.17481v1,2024-09-26 02:37:41+00:00
+81,GLinSAT: The General Linear Satisfiability Neural Network Layer By Accelerated Gradient Descent,2409.17500,http://arxiv.org/abs/2409.17500v1,2024-09-26 03:12:53+00:00
+82,Uni-Med: A Unified Medical Generalist Foundation Model For Multi-Task Learning Via Connector-MoE,2409.17508,http://arxiv.org/abs/2409.17508v1,2024-09-26 03:33:26+00:00
+83,NeuroPath: A Neural Pathway Transformer for Joining the Dots of Human Connectomes,2409.17510,http://arxiv.org/abs/2409.17510v2,2024-09-26 03:40:12+00:00
+84,Functional Classification of Spiking Signal Data Using Artificial Intelligence Techniques: A Review,2409.17516,http://arxiv.org/abs/2409.17516v1,2024-09-26 03:50:55+00:00
+85,Robotic Environmental State Recognition with Pre-Trained Vision-Language Models and Black-Box Optimization,2409.17519,http://arxiv.org/abs/2409.17519v1,2024-09-26 04:02:20+00:00
+86,On the Implicit Relation Between Low-Rank Adaptation and Differential Privacy,2409.17538,http://arxiv.org/abs/2409.17538v1,2024-09-26 04:56:49+00:00
+87,"Modulated Intervention Preference Optimization (MIPO): Keep the Easy, Refine the Difficult",2409.17545,http://arxiv.org/abs/2409.17545v2,2024-09-26 05:24:14+00:00
+88,Pixel-Space Post-Training of Latent Diffusion Models,2409.17565,http://arxiv.org/abs/2409.17565v1,2024-09-26 06:27:26+00:00
+89,Enhancing Structured-Data Retrieval with GraphRAG: Soccer Data Case Study,2409.17580,http://arxiv.org/abs/2409.17580v1,2024-09-26 06:53:29+00:00
+90,Let the Quantum Creep In: Designing Quantum Neural Network Models by Gradually Swapping Out Classical Components,2409.17583,http://arxiv.org/abs/2409.17583v1,2024-09-26 07:01:29+00:00
+91,Subjective and Objective Quality-of-Experience Evaluation Study for Live Video Streaming,2409.17596,http://arxiv.org/abs/2409.17596v1,2024-09-26 07:22:38+00:00
+92,AssistantX: An LLM-Powered Proactive Assistant in Collaborative Human-Populated Environment,2409.17655,http://arxiv.org/abs/2409.17655v1,2024-09-26 09:06:56+00:00
+93,Prototype based Masked Audio Model for Self-Supervised Learning of Sound Event Detection,2409.17656,http://arxiv.org/abs/2409.17656v1,2024-09-26 09:07:20+00:00
+94,Explanation Bottleneck Models,2409.17663,http://arxiv.org/abs/2409.17663v1,2024-09-26 09:21:48+00:00
+95,MIO: A Foundation Model on Multimodal Tokens,2409.17692,http://arxiv.org/abs/2409.17692v1,2024-09-26 09:57:16+00:00
+96,"MoJE: Mixture of Jailbreak Experts, Naive Tabular Classifiers as Guard for Prompt Attacks",2409.17699,http://arxiv.org/abs/2409.17699v2,2024-09-26 10:12:19+00:00
+97,SECURE: Semantics-aware Embodied Conversation under Unawareness for Lifelong Robot Learning,2409.17755,http://arxiv.org/abs/2409.17755v1,2024-09-26 11:40:07+00:00
+98,Confidence intervals uncovered: Are we ready for real-world medical imaging AI?,2409.17763,http://arxiv.org/abs/2409.17763v2,2024-09-26 11:58:41+00:00
+99,A Multimodal Single-Branch Embedding Network for Recommendation in Cold-Start and Missing Modality Scenarios,2409.17864,http://arxiv.org/abs/2409.17864v1,2024-09-26 14:12:23+00:00
