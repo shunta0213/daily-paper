@@ -1,0 +1,54 @@
+,title,id,arxiv_url,published
+0,Local Search for Integer Quadratic Programming,2409.19668,http://arxiv.org/abs/2409.19668v1,2024-09-29 11:45:44+00:00
+1,MedHalu: Hallucinations in Responses to Healthcare Queries by Large Language Models,2409.19492,http://arxiv.org/abs/2409.19492v1,2024-09-29 00:09:01+00:00
+2,One Node Per User: Node-Level Federated Learning for Graph Neural Networks,2409.19513,http://arxiv.org/abs/2409.19513v1,2024-09-29 02:16:07+00:00
+3,KODA: A Data-Driven Recursive Model for Time Series Forecasting and Data Assimilation using Koopman Operators,2409.19518,http://arxiv.org/abs/2409.19518v1,2024-09-29 02:25:48+00:00
+4,Understanding Clinical Decision-Making in Traditional East Asian Medicine through Dimensionality Reduction: An Empirical Investigation,2409.19531,http://arxiv.org/abs/2409.19531v1,2024-09-29 03:28:19+00:00
+5,Unlabeled Debiasing in Downstream Tasks via Class-wise Low Variance Regularization,2409.19541,http://arxiv.org/abs/2409.19541v3,2024-09-29 03:56:50+00:00
+6,CLIP-based Camera-Agnostic Feature Learning for Intra-camera Person Re-Identification,2409.19563,http://arxiv.org/abs/2409.19563v1,2024-09-29 05:43:01+00:00
+7,Abstractive Summarization of Low resourced Nepali language using Multilingual Transformers,2409.19566,http://arxiv.org/abs/2409.19566v1,2024-09-29 05:58:27+00:00
+8,Mitigating the Negative Impact of Over-association for Conversational Query Production,2409.19572,http://arxiv.org/abs/2409.19572v1,2024-09-29 06:19:59+00:00
+9,See then Tell: Enhancing Key Information Extraction with Vision Grounding,2409.19573,http://arxiv.org/abs/2409.19573v1,2024-09-29 06:21:05+00:00
+10,One Token to Seg Them All: Language Instructed Reasoning Segmentation in Videos,2409.19603,http://arxiv.org/abs/2409.19603v1,2024-09-29 07:47:15+00:00
+11,Discerning the Chaos: Detecting Adversarial Perturbations while Disentangling Intentional from Unintentional Noises,2409.19619,http://arxiv.org/abs/2409.19619v1,2024-09-29 09:10:43+00:00
+12,DropEdge not Foolproof: Effective Augmentation Method for Signed Graph Neural Networks,2409.19620,http://arxiv.org/abs/2409.19620v2,2024-09-29 09:13:23+00:00
+13,Storynizor: Consistent Story Generation via Inter-Frame Synchronized and Shuffled ID Injection,2409.19624,http://arxiv.org/abs/2409.19624v1,2024-09-29 09:15:51+00:00
+14,An action language-based formalisation of an abstract argumentation framework,2409.19625,http://arxiv.org/abs/2409.19625v1,2024-09-29 09:24:29+00:00
+15,"A Survey on Graph Neural Networks for Remaining Useful Life Prediction: Methodologies, Evaluation and Future Trends",2409.19629,http://arxiv.org/abs/2409.19629v1,2024-09-29 09:38:07+00:00
+16,BadHMP: Backdoor Attack against Human Motion Prediction,2409.19638,http://arxiv.org/abs/2409.19638v1,2024-09-29 09:55:31+00:00
+17,Grounding 3D Scene Affordance From Egocentric Interactions,2409.19650,http://arxiv.org/abs/2409.19650v1,2024-09-29 10:46:19+00:00
+18,Assessment and manipulation of latent constructs in pre-trained language models using psychometric scales,2409.19655,http://arxiv.org/abs/2409.19655v1,2024-09-29 11:00:41+00:00
+19,Identifying Knowledge Editing Types in Large Language Models,2409.19663,http://arxiv.org/abs/2409.19663v2,2024-09-29 11:29:57+00:00
+20,"Can Large Language Models Analyze Graphs like Professionals? A Benchmark, Datasets and Models",2409.19667,http://arxiv.org/abs/2409.19667v1,2024-09-29 11:38:45+00:00
+21,See Detail Say Clear: Towards Brain CT Report Generation via Pathological Clue-driven Representation Learning,2409.19676,http://arxiv.org/abs/2409.19676v2,2024-09-29 12:08:20+00:00
+22,Instruction Embedding: Latent Representations of Instructions Towards Task Identification,2409.19680,http://arxiv.org/abs/2409.19680v1,2024-09-29 12:12:24+00:00
+23,Unified Gradient-Based Machine Unlearning with Remain Geometry Enhancement,2409.19732,http://arxiv.org/abs/2409.19732v1,2024-09-29 15:17:33+00:00
+24,PEAR: Position-Embedding-Agnostic Attention Re-weighting Enhances Retrieval-Augmented Generation with Zero Inference Overhead,2409.19745,http://arxiv.org/abs/2409.19745v1,2024-09-29 15:40:54+00:00
+25,Towards Robust Extractive Question Answering Models: Rethinking the Training Methodology,2409.19766,http://arxiv.org/abs/2409.19766v1,2024-09-29 20:35:57+00:00
+26,Analysis on Riemann Hypothesis with Cross Entropy Optimization and Reasoning,2409.19790,http://arxiv.org/abs/2409.19790v1,2024-09-29 21:25:58+00:00
+27,Grounded Curriculum Learning,2409.19816,http://arxiv.org/abs/2409.19816v1,2024-09-29 22:54:08+00:00
+28,Qompose: A Technique to Select Optimal Algorithm- Specific Layout for Neutral Atom Quantum Architectures,2409.19820,http://arxiv.org/abs/2409.19820v1,2024-09-29 23:03:08+00:00
+29,OrganiQ: Mitigating Classical Resource Bottlenecks of Quantum Generative Adversarial Networks on NISQ-Era Machines,2409.19823,http://arxiv.org/abs/2409.19823v1,2024-09-29 23:11:35+00:00
+30,Counterfactual Evaluation of Ads Ranking Models through Domain Adaptation,2409.19824,http://arxiv.org/abs/2409.19824v1,2024-09-29 23:12:04+00:00
+31,Neural Decompiling of Tracr Transformers,2410.00061,http://arxiv.org/abs/2410.00061v1,2024-09-29 13:12:39+00:00
+32,Learning Frame-Wise Emotion Intensity for Audio-Driven Talking-Head Generation,2409.19501,http://arxiv.org/abs/2409.19501v1,2024-09-29 01:02:01+00:00
+33,Heterogeneity-Aware Resource Allocation and Topology Design for Hierarchical Federated Edge Learning,2409.19509,http://arxiv.org/abs/2409.19509v1,2024-09-29 01:48:04+00:00
+34,Efficient Backdoor Defense in Multimodal Contrastive Learning: A Token-Level Unlearning Method for Mitigating Threats,2409.19526,http://arxiv.org/abs/2409.19526v1,2024-09-29 02:55:38+00:00
+35,BuildingView: Constructing Urban Building Exteriors Databases with Street View Imagery and Multimodal Large Language Mode,2409.19527,http://arxiv.org/abs/2409.19527v1,2024-09-29 03:00:16+00:00
+36,Almost Sure Convergence of Average Reward Temporal Difference Learning,2409.19546,http://arxiv.org/abs/2409.19546v3,2024-09-29 04:16:24+00:00
+37,A Universal Deep Learning Framework for Materials X-ray Absorption Spectra,2409.19552,http://arxiv.org/abs/2409.19552v1,2024-09-29 04:41:10+00:00
+38,MASKDROID: Robust Android Malware Detection with Masked Graph Representations,2409.19594,http://arxiv.org/abs/2409.19594v1,2024-09-29 07:22:47+00:00
+39,An Unbiased Risk Estimator for Partial Label Learning with Augmented Classes,2409.19600,http://arxiv.org/abs/2409.19600v1,2024-09-29 07:36:16+00:00
+40,MCDDPM: Multichannel Conditional Denoising Diffusion Model for Unsupervised Anomaly Detection in Brain MRI,2409.19623,http://arxiv.org/abs/2409.19623v1,2024-09-29 09:15:24+00:00
+41,Fine-Tuning Hybrid Physics-Informed Neural Networks for Vehicle Dynamics Model Estimation,2409.19647,http://arxiv.org/abs/2409.19647v1,2024-09-29 10:33:07+00:00
+42,Machine Learning for Raman Spectroscopy-based Cyber-Marine Fish Biochemical Composition Analysis,2409.19688,http://arxiv.org/abs/2409.19688v1,2024-09-29 12:28:19+00:00
+43,Constrained Reinforcement Learning for Safe Heat Pump Control,2409.19716,http://arxiv.org/abs/2409.19716v1,2024-09-29 14:15:13+00:00
+44,Balancing the Scales: A Comprehensive Study on Tackling Class Imbalance in Binary Classification,2409.19751,http://arxiv.org/abs/2409.19751v1,2024-09-29 16:02:32+00:00
+45,Adaptive Event-triggered Reinforcement Learning Control for Complex Nonlinear Systems,2409.19769,http://arxiv.org/abs/2409.19769v1,2024-09-29 20:42:19+00:00
+46,CRScore: Grounding Automated Evaluation of Code Review Comments in Code Claims and Smells,2409.19801,http://arxiv.org/abs/2409.19801v1,2024-09-29 21:53:18+00:00
+47,PALM: Few-Shot Prompt Learning for Audio Language Models,2409.19806,http://arxiv.org/abs/2409.19806v1,2024-09-29 22:06:07+00:00
+48,Can Models Learn Skill Composition from Examples?,2409.19808,http://arxiv.org/abs/2409.19808v1,2024-09-29 22:14:02+00:00
+49,Calibrating Language Models with Adaptive Temperature Scaling,2409.19817,http://arxiv.org/abs/2409.19817v1,2024-09-29 22:54:31+00:00
+50,Generalizability of Graph Neural Networks for Decentralized Unlabeled Motion Planning,2409.19829,http://arxiv.org/abs/2409.19829v1,2024-09-29 23:57:25+00:00
+51,IDEA: An Inverse Domain Expert Adaptation Based Active DNN IP Protection Method,2410.00059,http://arxiv.org/abs/2410.00059v1,2024-09-29 09:34:33+00:00
+52,InfantCryNet: A Data-driven Framework for Intelligent Analysis of Infant Cries,2409.19689,http://arxiv.org/abs/2409.19689v1,2024-09-29 12:35:47+00:00
