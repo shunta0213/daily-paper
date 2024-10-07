@@ -1,0 +1,99 @@
+,title,id,arxiv_url,published
+0,Inferring Preferences from Demonstrations in Multi-objective Reinforcement Learning,2409.20258,http://arxiv.org/abs/2409.20258v1,2024-09-30 12:49:10+00:00
+1,Learning to Ground Existentially Quantified Goals,2409.20259,http://arxiv.org/abs/2409.20259v1,2024-09-30 12:49:27+00:00
+2,Probabilistic Answer Set Programming with Discrete and Continuous Random Variables,2409.20274,http://arxiv.org/abs/2409.20274v1,2024-09-30 13:24:42+00:00
+3,Maia-2: A Unified Model for Human-AI Alignment in Chess,2409.20553,http://arxiv.org/abs/2409.20553v1,2024-09-30 17:54:23+00:00
+4,TSI: A Multi-View Representation Learning Approach for Time Series Forecasting,2409.19871,http://arxiv.org/abs/2409.19871v1,2024-09-30 02:11:57+00:00
+5,Contrastive Token Learning with Similarity Decay for Repetition Suppression in Machine Translation,2409.19877,http://arxiv.org/abs/2409.19877v1,2024-09-30 02:21:39+00:00
+6,TRANSAGENT: An LLM-Based Multi-Agent System for Code Translation,2409.19894,http://arxiv.org/abs/2409.19894v2,2024-09-30 02:53:03+00:00
+7,"UniSumEval: Towards Unified, Fine-Grained, Multi-Dimensional Summarization Evaluation for LLMs",2409.19898,http://arxiv.org/abs/2409.19898v2,2024-09-30 02:56:35+00:00
+8,Task-agnostic Pre-training and Task-guided Fine-tuning for Versatile Diffusion Planner,2409.19949,http://arxiv.org/abs/2409.19949v1,2024-09-30 05:05:37+00:00
+9,Attribute-Text Guided Forgetting Compensation for Lifelong Person Re-Identification,2409.19954,http://arxiv.org/abs/2409.19954v1,2024-09-30 05:19:09+00:00
+10,Knowledge Graph Embedding by Normalizing Flows,2409.19977,http://arxiv.org/abs/2409.19977v1,2024-09-30 06:04:34+00:00
+11,CONTESTS: a Framework for Consistency Testing of Span Probabilities in Language Models,2409.19984,http://arxiv.org/abs/2409.19984v1,2024-09-30 06:24:43+00:00
+12,Do Influence Functions Work on Large Language Models?,2409.19998,http://arxiv.org/abs/2409.19998v1,2024-09-30 06:50:18+00:00
+13,Model Selection with a Shapelet-based Distance Measure for Multi-source Transfer Learning in Time Series Classification,2409.20005,http://arxiv.org/abs/2409.20005v1,2024-09-30 06:57:30+00:00
+14,Customized Information and Domain-centric Knowledge Graph Construction with Large Language Models,2409.20010,http://arxiv.org/abs/2409.20010v1,2024-09-30 07:08:28+00:00
+15,Personalisation via Dynamic Policy Fusion,2409.20016,http://arxiv.org/abs/2409.20016v2,2024-09-30 07:23:47+00:00
+16,Beyond Scores: A Modular RAG-Based System for Automatic Short Answer Scoring with Feedback,2409.20042,http://arxiv.org/abs/2409.20042v1,2024-09-30 07:48:55+00:00
+17,Mitigating Propensity Bias of Large Language Models for Recommender Systems,2409.20052,http://arxiv.org/abs/2409.20052v1,2024-09-30 07:57:13+00:00
+18,Evaluating and explaining training strategies for zero-shot cross-lingual news sentiment analysis,2409.20054,http://arxiv.org/abs/2409.20054v1,2024-09-30 07:59:41+00:00
+19,Knowledge Discovery using Unsupervised Cognition,2409.20064,http://arxiv.org/abs/2409.20064v1,2024-09-30 08:07:29+00:00
+20,Continuous-Time Linear Positional Embedding for Irregular Time Series Forecasting,2409.20092,http://arxiv.org/abs/2409.20092v1,2024-09-30 08:46:18+00:00
+21,Aggressive Post-Training Compression on Extremely Large Language Models,2409.20094,http://arxiv.org/abs/2409.20094v1,2024-09-30 08:47:17+00:00
+22,Reevaluation of Inductive Link Prediction,2409.20130,http://arxiv.org/abs/2409.20130v1,2024-09-30 09:32:10+00:00
+23,Classification of Radiological Text in Small and Imbalanced Datasets in a Non-English Language,2409.20147,http://arxiv.org/abs/2409.20147v1,2024-09-30 09:52:28+00:00
+24,1 Trillion Token (1TT) Platform: A Novel Framework for Efficient Data Sharing and Compensation in Large Language Models,2409.20149,http://arxiv.org/abs/2409.20149v1,2024-09-30 09:55:39+00:00
+25,MemSim: A Bayesian Simulator for Evaluating Memory of LLM-based Personal Assistants,2409.20163,http://arxiv.org/abs/2409.20163v1,2024-09-30 10:19:04+00:00
+26,Modelando procesos cognitivos de la lectura natural con GPT-2,2409.20174,http://arxiv.org/abs/2409.20174v1,2024-09-30 10:34:32+00:00
+27,"Factory Operators' Perspectives on Cognitive Assistants for Knowledge Sharing: Challenges, Risks, and Impact on Work",2409.20192,http://arxiv.org/abs/2409.20192v1,2024-09-30 11:08:27+00:00
+28,Beyond Prompts: Dynamic Conversational Benchmarking of Large Language Models,2409.20222,http://arxiv.org/abs/2409.20222v1,2024-09-30 12:01:29+00:00
+29,What is the Role of Large Language Models in the Evolution of Astronomy Research?,2409.20252,http://arxiv.org/abs/2409.20252v2,2024-09-30 12:42:25+00:00
+30,A Looming Replication Crisis in Evaluating Behavior in Language Models? Evidence and Solutions,2409.20303,http://arxiv.org/abs/2409.20303v1,2024-09-30 14:00:34+00:00
+31,Rotated Runtime Smooth: Training-Free Activation Smoother for accurate INT4 inference,2409.20361,http://arxiv.org/abs/2409.20361v1,2024-09-30 14:59:22+00:00
+32,Frequency Adaptive Normalization For Non-stationary Time Series Forecasting,2409.20371,http://arxiv.org/abs/2409.20371v1,2024-09-30 15:07:16+00:00
+33,World to Code: Multi-modal Data Generation via Self-Instructed Compositional Captioning and Filtering,2409.20424,http://arxiv.org/abs/2409.20424v1,2024-09-30 15:49:54+00:00
+34,Linear Projections of Teacher Embeddings for Few-Class Distillation,2409.20449,http://arxiv.org/abs/2409.20449v2,2024-09-30 16:07:34+00:00
+35,A Weakly Supervised Data Labeling Framework for Machine Lexical Normalization in Vietnamese Social Media,2409.20467,http://arxiv.org/abs/2409.20467v1,2024-09-30 16:26:40+00:00
+36,SMLE: Safe Machine Learning via Embedded Overapproximation,2409.20517,http://arxiv.org/abs/2409.20517v1,2024-09-30 17:19:57+00:00
+37,Word Sense Disambiguation in Native Spanish: A Comprehensive Lexical Evaluation Resource,2409.20524,http://arxiv.org/abs/2409.20524v1,2024-09-30 17:22:33+00:00
+38,From homeostasis to resource sharing: Biologically and economically compatible multi-objective multi-agent AI safety benchmarks,2410.00081,http://arxiv.org/abs/2410.00081v1,2024-09-30 17:24:21+00:00
+39,ACE: All-round Creator and Editor Following Instructions via Diffusion Transformer,2410.00086,http://arxiv.org/abs/2410.00086v1,2024-09-30 17:56:27+00:00
+40,Semantic-Driven Topic Modeling Using Transformer-Based Embeddings and Clustering Algorithms,2410.00134,http://arxiv.org/abs/2410.00134v1,2024-09-30 18:15:31+00:00
+41,Adapting LLMs for the Medical Domain in Portuguese: A Study on Fine-Tuning and Model Evaluation,2410.00163,http://arxiv.org/abs/2410.00163v1,2024-09-30 19:10:03+00:00
+42,Zero-Shot Classification of Crisis Tweets Using Instruction-Finetuned Large Language Models,2410.00182,http://arxiv.org/abs/2410.00182v1,2024-09-30 19:33:58+00:00
+43,Demonstrating the Continual Learning Capabilities and Practical Application of Discrete-Time Active Inference,2410.00240,http://arxiv.org/abs/2410.00240v1,2024-09-30 21:18:46+00:00
+44,Possible principles for aligned structure learning agents,2410.00258,http://arxiv.org/abs/2410.00258v1,2024-09-30 22:06:06+00:00
+45,Procedure-Aware Surgical Video-language Pretraining with Hierarchical Knowledge Augmentation,2410.00263,http://arxiv.org/abs/2410.00263v1,2024-09-30 22:21:05+00:00
+46,KPCA-CAM: Visual Explainability of Deep Computer Vision Models using Kernel PCA,2410.00267,http://arxiv.org/abs/2410.00267v1,2024-09-30 22:36:37+00:00
+47,On Large Uni- and Multi-modal Models for Unsupervised Classification of Social Media Images: Nature's Contribution to People as case study,2410.00275,http://arxiv.org/abs/2410.00275v1,2024-09-30 23:04:55+00:00
+48,A Knowledge-Informed Large Language Model Framework for U.S. Nuclear Power Plant Shutdown Initiating Event Classification for Probabilistic Risk Assessment,2410.00929,http://arxiv.org/abs/2410.00929v1,2024-09-30 20:35:03+00:00
+49,ForecastBench: A Dynamic Benchmark of AI Forecasting Capabilities,2409.19839,http://arxiv.org/abs/2409.19839v1,2024-09-30 00:41:51+00:00
+50,Counter-Current Learning: A Biologically Plausible Dual Network Approach for Deep Learning,2409.19841,http://arxiv.org/abs/2409.19841v1,2024-09-30 00:47:13+00:00
+51,SWIM: Short-Window CNN Integrated with Mamba for EEG-Based Auditory Spatial Attention Decoding,2409.19884,http://arxiv.org/abs/2409.19884v1,2024-09-30 02:28:32+00:00
+52,RouterDC: Query-Based Router by Dual Contrastive Learning for Assembling Large Language Models,2409.19886,http://arxiv.org/abs/2409.19886v1,2024-09-30 02:31:40+00:00
+53,Scaling Optimal LR Across Token Horizons,2409.19913,http://arxiv.org/abs/2409.19913v2,2024-09-30 03:32:02+00:00
+54,"On The Planning Abilities of OpenAI's o1 Models: Feasibility, Optimality, and Generalizability",2409.19924,http://arxiv.org/abs/2409.19924v2,2024-09-30 03:58:43+00:00
+55,Positive-Sum Fairness: Leveraging Demographic Attributes to Achieve Fair AI Outcomes Without Sacrificing Group Gains,2409.19940,http://arxiv.org/abs/2409.19940v1,2024-09-30 04:37:23+00:00
+56,JaPOC: Japanese Post-OCR Correction Benchmark using Vouchers,2409.19948,http://arxiv.org/abs/2409.19948v1,2024-09-30 05:01:49+00:00
+57,Law of the Weakest Link: Cross Capabilities of Large Language Models,2409.19951,http://arxiv.org/abs/2409.19951v2,2024-09-30 05:12:01+00:00
+58,A large-scale operational study of fingerprint quality and demographics,2409.19992,http://arxiv.org/abs/2409.19992v1,2024-09-30 06:30:33+00:00
+59,Towards Robust Multimodal Sentiment Analysis with Incomplete Data,2409.20012,http://arxiv.org/abs/2409.20012v1,2024-09-30 07:14:31+00:00
+60,GUNDAM: Aligning Large Language Models with Graph Understanding,2409.20053,http://arxiv.org/abs/2409.20053v1,2024-09-30 07:59:10+00:00
+61,Choosing DAG Models Using Markov and Minimal Edge Count in the Absence of Ground Truth,2409.20187,http://arxiv.org/abs/2409.20187v1,2024-09-30 11:03:44+00:00
+62,Forecasting Disease Progression with Parallel Hyperplanes in Longitudinal Retinal OCT,2409.20195,http://arxiv.org/abs/2409.20195v2,2024-09-30 11:11:35+00:00
+63,Melody Is All You Need For Music Generation,2409.20196,http://arxiv.org/abs/2409.20196v2,2024-09-30 11:13:35+00:00
+64,Computer-mediated therapies for stroke rehabilitation: a systematic review and meta-Analysis,2409.20260,http://arxiv.org/abs/2409.20260v1,2024-09-30 12:50:46+00:00
+65,OM4OV: Leveraging Ontology Matching for Ontology Versioning,2409.20302,http://arxiv.org/abs/2409.20302v1,2024-09-30 14:00:04+00:00
+66,Enhancing GANs with Contrastive Learning-Based Multistage Progressive Finetuning SNN and RL-Based External Optimization,2409.20340,http://arxiv.org/abs/2409.20340v2,2024-09-30 14:39:56+00:00
+67,Efficient Driving Behavior Narration and Reasoning on Edge Device Using Large Language Models,2409.20364,http://arxiv.org/abs/2409.20364v1,2024-09-30 15:03:55+00:00
+68,The Perfect Blend: Redefining RLHF with Mixture of Judges,2409.20370,http://arxiv.org/abs/2409.20370v1,2024-09-30 15:06:53+00:00
+69,Conformal Prediction for Dose-Response Models with Continuous Treatments,2409.20412,http://arxiv.org/abs/2409.20412v1,2024-09-30 15:40:54+00:00
+70,Stream-level flow matching from a Bayesian decision theoretic perspective,2409.20423,http://arxiv.org/abs/2409.20423v2,2024-09-30 15:47:22+00:00
+71,Sufficient and Necessary Explanations (and What Lies in Between),2409.20427,http://arxiv.org/abs/2409.20427v1,2024-09-30 15:50:57+00:00
+72,POMONAG: Pareto-Optimal Many-Objective Neural Architecture Generator,2409.20447,http://arxiv.org/abs/2409.20447v1,2024-09-30 16:05:29+00:00
+73,RecSys Challenge 2024: Balancing Accuracy and Editorial Values in News Recommendations,2409.20483,http://arxiv.org/abs/2409.20483v1,2024-09-30 16:42:57+00:00
+74,COLLAGE: Collaborative Human-Agent Interaction Generation using Hierarchical Latent Diffusion and Language Models,2409.20502,http://arxiv.org/abs/2409.20502v1,2024-09-30 17:02:13+00:00
+75,What Information Contributes to Log-based Anomaly Detection? Insights from a Configurable Transformer-Based Approach,2409.20503,http://arxiv.org/abs/2409.20503v1,2024-09-30 17:03:13+00:00
+76,Upper and Lower Bounds for Distributionally Robust Off-Dynamics Reinforcement Learning,2409.20521,http://arxiv.org/abs/2409.20521v1,2024-09-30 17:21:15+00:00
+77,Robi Butler: Remote Multimodal Interactions with Household Robot Assistant,2409.20548,http://arxiv.org/abs/2409.20548v1,2024-09-30 17:49:09+00:00
+78,"LLM Hallucinations in Practical Code Generation: Phenomena, Mechanism, and Mitigation",2409.20550,http://arxiv.org/abs/2409.20550v1,2024-09-30 17:51:15+00:00
+79,M2Distill: Multi-Modal Distillation for Lifelong Imitation Learning,2410.00064,http://arxiv.org/abs/2410.00064v2,2024-09-30 01:43:06+00:00
+80,Graph Residual Noise Learner Network for Brain Connectivity Graph Prediction,2410.00082,http://arxiv.org/abs/2410.00082v1,2024-09-30 17:28:38+00:00
+81,A Survey on Diffusion Models for Inverse Problems,2410.00083,http://arxiv.org/abs/2410.00083v1,2024-09-30 17:34:01+00:00
+82,Cartesian Genetic Programming Approach for Designing Convolutional Neural Networks,2410.00129,http://arxiv.org/abs/2410.00129v1,2024-09-30 18:10:06+00:00
+83,Fisher Information-based Efficient Curriculum Federated Learning with Large Language Models,2410.00131,http://arxiv.org/abs/2410.00131v1,2024-09-30 18:12:18+00:00
+84,Beyond Single Concept Vector: Modeling Concept Subspace in LLMs with Gaussian Distribution,2410.00153,http://arxiv.org/abs/2410.00153v1,2024-09-30 18:52:53+00:00
+85,Helpful DoggyBot: Open-World Object Fetching using Legged Robots and Vision-Language Models,2410.00231,http://arxiv.org/abs/2410.00231v1,2024-09-30 20:58:38+00:00
+86,Robin3D: Improving 3D Large Language Model via Robust Instruction Tuning,2410.00255,http://arxiv.org/abs/2410.00255v1,2024-09-30 21:55:38+00:00
+87,The age of spiritual machines: Language quietus induces synthetic altered states of consciousness in artificial intelligence,2410.00257,http://arxiv.org/abs/2410.00257v1,2024-09-30 22:03:26+00:00
+88,DoPAMine: Domain-specific Pre-training Adaptation from seed-guided data Mining,2410.00260,http://arxiv.org/abs/2410.00260v1,2024-09-30 22:15:58+00:00
+89,Social Conjuring: Multi-User Runtime Collaboration with AI in Building Virtual 3D Worlds,2410.00274,http://arxiv.org/abs/2410.00274v2,2024-09-30 23:02:51+00:00
+90,Binding Affinity Prediction: From Conventional to Machine Learning-Based Approaches,2410.00709,http://arxiv.org/abs/2410.00709v1,2024-09-30 03:40:49+00:00
+91,ACEV: Unsupervised Intersecting Manifold Segmentation using Adaptation to Angular Change of Eigenvectors in Intrinsic Dimension,2410.00930,http://arxiv.org/abs/2410.00930v1,2024-09-30 20:37:47+00:00
+92,StreamEnsemble: Predictive Queries over Spatiotemporal Streaming Data,2410.00933,http://arxiv.org/abs/2410.00933v1,2024-09-30 23:50:16+00:00
+93,LaMMA-P: Generalizable Multi-Agent Long-Horizon Task Allocation and Planning with LM-Driven PDDL Planner,2409.20560,http://arxiv.org/abs/2409.20560v1,2024-09-30 17:58:18+00:00
+94,Interactive Speculative Planning: Enhance Agent Efficiency through Co-design of System and User Interface,2410.00079,http://arxiv.org/abs/2410.00079v1,2024-09-30 16:52:51+00:00
+95,Mitigating Backdoor Threats to Large Language Models: Advancement and Challenges,2409.19993,http://arxiv.org/abs/2409.19993v1,2024-09-30 06:31:36+00:00
+96,Resource Allocation for Stable LLM Training in Mobile Edge Computing,2409.20247,http://arxiv.org/abs/2409.20247v1,2024-09-30 12:36:27+00:00
+97,Continuously Improving Mobile Manipulation with Autonomous Real-World RL,2409.20568,http://arxiv.org/abs/2409.20568v1,2024-09-30 17:59:50+00:00
