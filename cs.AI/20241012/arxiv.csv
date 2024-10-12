@@ -1,0 +1,58 @@
+,title,id,arxiv_url,published
+0,DAMMI:Daily Activities in a Psychologically Annotated Multi-Modal IoT dataset,2410.04152,http://arxiv.org/abs/2410.04152v1,2024-10-05 13:26:54+00:00
+1,Neuro-Symbolic Entity Alignment via Variational Inference,2410.04153,http://arxiv.org/abs/2410.04153v1,2024-10-05 13:29:22+00:00
+2,RainbowPO: A Unified Framework for Combining Improvements in Preference Optimization,2410.04203,http://arxiv.org/abs/2410.04203v1,2024-10-05 15:44:46+00:00
+3,Towards Propositional KLM-Style Defeasible Standpoint Logics,2410.04245,http://arxiv.org/abs/2410.04245v1,2024-10-05 18:07:03+00:00
+4,Take It Easy: Label-Adaptive Self-Rationalization for Fact Verification and Explanation Generation,2410.04002,http://arxiv.org/abs/2410.04002v1,2024-10-05 02:19:49+00:00
+5,"JAM: A Comprehensive Model for Age Estimation, Verification, and Comparability",2410.04012,http://arxiv.org/abs/2410.04012v1,2024-10-05 03:02:47+00:00
+6,Efficient Large-Scale Urban Parking Prediction: Graph Coarsening Based on Real-Time Parking Service Capability,2410.04022,http://arxiv.org/abs/2410.04022v1,2024-10-05 03:54:25+00:00
+7,IdeaSynth: Iterative Research Idea Development Through Evolving and Composing Idea Facets with Literature-Grounded Feedback,2410.04025,http://arxiv.org/abs/2410.04025v1,2024-10-05 04:06:07+00:00
+8,Gamified crowd-sourcing of high-quality data for visual fine-tuning,2410.04038,http://arxiv.org/abs/2410.04038v2,2024-10-05 05:10:29+00:00
+9,BlockFound: Customized blockchain foundation model for anomaly detection,2410.04039,http://arxiv.org/abs/2410.04039v1,2024-10-05 05:11:34+00:00
+10,Beyond Forecasting: Compositional Time Series Reasoning for End-to-End Task Execution,2410.04047,http://arxiv.org/abs/2410.04047v2,2024-10-05 06:04:19+00:00
+11,LoRTA: Low Rank Tensor Adaptation of Large Language Models,2410.04060,http://arxiv.org/abs/2410.04060v1,2024-10-05 06:59:50+00:00
+12,Text2Chart31: Instruction Tuning for Chart Generation with Automatic Feedback,2410.04064,http://arxiv.org/abs/2410.04064v1,2024-10-05 07:25:56+00:00
+13,ECon: On the Detection and Resolution of Evidence Conflicts,2410.04068,http://arxiv.org/abs/2410.04068v1,2024-10-05 07:41:17+00:00
+14,PAD: Personalized Alignment at Decoding-Time,2410.04070,http://arxiv.org/abs/2410.04070v1,2024-10-05 08:00:55+00:00
+15,Multi-Round Region-Based Optimization for Scene Sketching,2410.04072,http://arxiv.org/abs/2410.04072v1,2024-10-05 08:04:26+00:00
+16,"GlobeSumm: A Challenging Benchmark Towards Unifying Multi-lingual, Cross-lingual and Multi-document News Summarization",2410.04087,http://arxiv.org/abs/2410.04087v1,2024-10-05 08:56:44+00:00
+17,On the Sample Complexity of a Policy Gradient Algorithm with Occupancy Approximation for General Utility Reinforcement Learning,2410.04108,http://arxiv.org/abs/2410.04108v1,2024-10-05 10:24:07+00:00
+18,Transport-Embedded Neural Architecture: Redefining the Landscape of physics aware neural models in fluid mechanics,2410.04114,http://arxiv.org/abs/2410.04114v1,2024-10-05 10:32:51+00:00
+19,From Reading to Compressing: Exploring the Multi-document Reader for Prompt Compression,2410.04139,http://arxiv.org/abs/2410.04139v1,2024-10-05 12:27:47+00:00
+20,Reasoning with Natural Language Explanations,2410.04148,http://arxiv.org/abs/2410.04148v1,2024-10-05 13:15:24+00:00
+21,IV-Mixed Sampler: Leveraging Image Diffusion Models for Enhanced Video Synthesis,2410.04171,http://arxiv.org/abs/2410.04171v2,2024-10-05 14:33:28+00:00
+22,Non-monotonic Extensions to Formal Concept Analysis via Object Preferences,2410.04184,http://arxiv.org/abs/2410.04184v1,2024-10-05 15:01:00+00:00
+23,Accelerating Diffusion Models with One-to-Many Knowledge Distillation,2410.04191,http://arxiv.org/abs/2410.04191v1,2024-10-05 15:10:04+00:00
+24,LongGenBench: Long-context Generation Benchmark,2410.04199,http://arxiv.org/abs/2410.04199v2,2024-10-05 15:33:25+00:00
+25,Correlation-Aware Select and Merge Attention for Efficient Fine-Tuning and Context Length Extension,2410.04211,http://arxiv.org/abs/2410.04211v1,2024-10-05 15:59:32+00:00
+26,Improving Portfolio Optimization Results with Bandit Networks,2410.04217,http://arxiv.org/abs/2410.04217v2,2024-10-05 16:17:31+00:00
+27,Contrastive Explanations That Anticipate Human Misconceptions Can Improve Human Decision-Making Skills,2410.04253,http://arxiv.org/abs/2410.04253v1,2024-10-05 18:21:04+00:00
+28,Implicit to Explicit Entropy Regularization: Benchmarking ViT Fine-tuning under Noisy Labels,2410.04256,http://arxiv.org/abs/2410.04256v1,2024-10-05 18:24:38+00:00
+29,Constructing Cloze Questions Generatively,2410.04266,http://arxiv.org/abs/2410.04266v1,2024-10-05 18:55:38+00:00
+30,Mechanistic Behavior Editing of Language Models,2410.04277,http://arxiv.org/abs/2410.04277v1,2024-10-05 19:58:08+00:00
+31,PalmBench: A Comprehensive Benchmark of Compressed Large Language Models on Mobile Platforms,2410.05315,http://arxiv.org/abs/2410.05315v1,2024-10-05 03:37:07+00:00
+32,Improving LLM Reasoning through Scaling Inference Computation with Collaborative Verification,2410.05318,http://arxiv.org/abs/2410.05318v1,2024-10-05 05:21:48+00:00
+33,From Incomplete Coarse-Grained to Complete Fine-Grained: A Two-Stage Framework for Spatiotemporal Data Reconstruction,2410.05323,http://arxiv.org/abs/2410.05323v1,2024-10-05 13:16:53+00:00
+34,Reward Learning From Preference With Ties,2410.05328,http://arxiv.org/abs/2410.05328v1,2024-10-05 21:02:57+00:00
+35,FastLRNR and Sparse Physics Informed Backpropagation,2410.04001,http://arxiv.org/abs/2410.04001v1,2024-10-05 02:19:28+00:00
+36,Hyperbolic Fine-tuning for Large Language Models,2410.04010,http://arxiv.org/abs/2410.04010v1,2024-10-05 02:58:25+00:00
+37,SyllableLM: Learning Coarse Semantic Units for Speech Language Models,2410.04029,http://arxiv.org/abs/2410.04029v1,2024-10-05 04:29:55+00:00
+38,Enhancing Graph Self-Supervised Learning with Graph Interplay,2410.04061,http://arxiv.org/abs/2410.04061v2,2024-10-05 07:05:21+00:00
+39,On Eliciting Syntax from Language Models via Hashing,2410.04074,http://arxiv.org/abs/2410.04074v1,2024-10-05 08:06:19+00:00
+40,$ε$-VAE: Denoising as Visual Decoding,2410.04081,http://arxiv.org/abs/2410.04081v1,2024-10-05 08:27:53+00:00
+41,Taming the Tail: Leveraging Asymmetric Loss and Pade Approximation to Overcome Medical Image Long-Tailed Class Imbalance,2410.04084,http://arxiv.org/abs/2410.04084v1,2024-10-05 08:49:33+00:00
+42,The OCON model: an old but green solution for distributable supervised classification for acoustic monitoring in smart cities,2410.04098,http://arxiv.org/abs/2410.04098v1,2024-10-05 09:47:54+00:00
+43,Riemann Sum Optimization for Accurate Integrated Gradients Computation,2410.04118,http://arxiv.org/abs/2410.04118v1,2024-10-05 10:57:13+00:00
+44,From Hospital to Portables: A Universal ECG Foundation Model Built on 10+ Million Diverse Recordings,2410.04133,http://arxiv.org/abs/2410.04133v1,2024-10-05 12:12:02+00:00
+45,IceCloudNet: 3D reconstruction of cloud ice from Meteosat SEVIRI,2410.04135,http://arxiv.org/abs/2410.04135v1,2024-10-05 12:15:38+00:00
+46,Applying Quantum Autoencoders for Time Series Anomaly Detection,2410.04154,http://arxiv.org/abs/2410.04154v2,2024-10-05 13:29:25+00:00
+47,Functional Homotopy: Smoothing Discrete Optimization via Continuous Parameters for LLM Jailbreak Attacks,2410.04234,http://arxiv.org/abs/2410.04234v1,2024-10-05 17:22:39+00:00
+48,Overview of Factify5WQA: Fact Verification through 5W Question-Answering,2410.04236,http://arxiv.org/abs/2410.04236v1,2024-10-05 17:28:18+00:00
+49,Pareto Control Barrier Function for Inner Safe Set Maximization Under Input Constraints,2410.04260,http://arxiv.org/abs/2410.04260v1,2024-10-05 18:45:19+00:00
+50,Self-Supervised Anomaly Detection in the Wild: Favor Joint Embeddings Methods,2410.04289,http://arxiv.org/abs/2410.04289v1,2024-10-05 21:27:47+00:00
+51,Accelerating Diffusion Transformers with Token-wise Feature Caching,2410.05317,http://arxiv.org/abs/2410.05317v1,2024-10-05 03:47:06+00:00
+52,Large Language Models can Achieve Social Balance,2410.04054,http://arxiv.org/abs/2410.04054v1,2024-10-05 06:23:28+00:00
+53,Enhancing Future Link Prediction in Quantum Computing Semantic Networks through LLM-Initiated Node Features,2410.04251,http://arxiv.org/abs/2410.04251v1,2024-10-05 18:16:07+00:00
+54,Entity Insertion in Multilingual Linked Corpora: The Case of Wikipedia,2410.04254,http://arxiv.org/abs/2410.04254v1,2024-10-05 18:22:15+00:00
+55,Sinc Kolmogorov-Arnold Network and Its Applications on Physics-informed Neural Networks,2410.04096,http://arxiv.org/abs/2410.04096v1,2024-10-05 09:33:39+00:00
+56,The OCON model: an old but gold solution for distributable supervised classification,2410.05320,http://arxiv.org/abs/2410.05320v1,2024-10-05 09:15:01+00:00
