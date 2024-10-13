@@ -1,0 +1,44 @@
+,title,id,arxiv_url,published
+0,Channel-Aware Throughput Maximization for Cooperative Data Fusion in CAV,2410.04320,http://arxiv.org/abs/2410.04320v1,2024-10-06 00:43:46+00:00
+1,Gödel Agent: A Self-Referential Agent Framework for Recursive Self-Improvement,2410.04444,http://arxiv.org/abs/2410.04444v1,2024-10-06 10:49:40+00:00
+2,Semi-Markovian Planning to Coordinate Aerial and Maritime Medical Evacuation Platforms,2410.04523,http://arxiv.org/abs/2410.04523v1,2024-10-06 15:32:59+00:00
+3,Gradient Routing: Masking Gradients to Localize Computation in Neural Networks,2410.04332,http://arxiv.org/abs/2410.04332v1,2024-10-06 02:43:49+00:00
+4,MVP-Bench: Can Large Vision--Language Models Conduct Multi-level Visual Perception Like Humans?,2410.04345,http://arxiv.org/abs/2410.04345v1,2024-10-06 03:47:57+00:00
+5,GenSim: A General Social Simulation Platform with Large Language Model based Agents,2410.04360,http://arxiv.org/abs/2410.04360v2,2024-10-06 05:02:23+00:00
+6,Towards Understanding and Enhancing Security of Proof-of-Training for DNN Model Ownership Verification,2410.04397,http://arxiv.org/abs/2410.04397v2,2024-10-06 08:30:31+00:00
+7,Optimizing AI Reasoning: A Hamiltonian Dynamics Approach to Multi-Hop Question Answering,2410.04415,http://arxiv.org/abs/2410.04415v2,2024-10-06 09:09:14+00:00
+8,DAdEE: Unsupervised Domain Adaptation in Early Exit PLMs,2410.04424,http://arxiv.org/abs/2410.04424v1,2024-10-06 09:44:58+00:00
+9,Empowering Backbone Models for Visual Text Generation with Input Granularity Control and Glyph-Aware Training,2410.04439,http://arxiv.org/abs/2410.04439v1,2024-10-06 10:25:39+00:00
+10,MindScope: Exploring cognitive biases in large language models through Multi-Agent Systems,2410.04452,http://arxiv.org/abs/2410.04452v1,2024-10-06 11:23:56+00:00
+11,Learning to Solve Abstract Reasoning Problems with Neurosymbolic Program Synthesis and Task Generation,2410.04480,http://arxiv.org/abs/2410.04480v1,2024-10-06 13:42:53+00:00
+12,A Pluggable Common Sense-Enhanced Framework for Knowledge Graph Completion,2410.04488,http://arxiv.org/abs/2410.04488v1,2024-10-06 14:06:12+00:00
+13,Adjusting Pretrained Backbones for Performativity,2410.04499,http://arxiv.org/abs/2410.04499v1,2024-10-06 14:41:13+00:00
+14,LRHP: Learning Representations for Human Preferences via Preference Pairs,2410.04503,http://arxiv.org/abs/2410.04503v1,2024-10-06 14:48:28+00:00
+15,FAMMA: A Benchmark for Financial Domain Multilingual Multimodal Question Answering,2410.04526,http://arxiv.org/abs/2410.04526v2,2024-10-06 15:41:26+00:00
+16,On Evaluating LLMs' Capabilities as Functional Approximators: A Bayesian Perspective,2410.04541,http://arxiv.org/abs/2410.04541v1,2024-10-06 16:30:47+00:00
+17,Passage Retrieval of Polish Texts Using OKAPI BM25 and an Ensemble of Cross Encoders,2410.04620,http://arxiv.org/abs/2410.04620v1,2024-10-06 20:43:42+00:00
+18,DeepLTL: Learning to Efficiently Satisfy Complex LTL Specifications,2410.04631,http://arxiv.org/abs/2410.04631v1,2024-10-06 21:30:38+00:00
+19,Toward Debugging Deep Reinforcement Learning Programs with RLExplorer,2410.04322,http://arxiv.org/abs/2410.04322v1,2024-10-06 01:01:21+00:00
+20,SONAR: A Synthetic AI-Audio Detection Framework and Benchmark,2410.04324,http://arxiv.org/abs/2410.04324v3,2024-10-06 01:03:42+00:00
+21,VideoGuide: Improving Video Diffusion Models without Training Through a Teacher's Guide,2410.04364,http://arxiv.org/abs/2410.04364v2,2024-10-06 05:46:17+00:00
+22,RespDiff: An End-to-End Multi-scale RNN Diffusion Model for Respiratory Waveform Estimation from PPG Signals,2410.04366,http://arxiv.org/abs/2410.04366v1,2024-10-06 05:54:49+00:00
+23,Algorithmic Capabilities of Random Transformers,2410.04368,http://arxiv.org/abs/2410.04368v1,2024-10-06 06:04:23+00:00
+24,Disentangling Regional Primitives for Image Generation,2410.04421,http://arxiv.org/abs/2410.04421v1,2024-10-06 09:27:45+00:00
+25,CAPEEN: Image Captioning with Early Exits and Knowledge Distillation,2410.04433,http://arxiv.org/abs/2410.04433v1,2024-10-06 10:05:01+00:00
+26,An Attention-Based Algorithm for Gravity Adaptation Zone Calibration,2410.04457,http://arxiv.org/abs/2410.04457v1,2024-10-06 12:03:13+00:00
+27,Revisiting In-context Learning Inference Circuit in Large Language Models,2410.04468,http://arxiv.org/abs/2410.04468v1,2024-10-06 12:50:15+00:00
+28,Exploring the Potential of Conversational Test Suite Based Program Repair on SWE-bench,2410.04485,http://arxiv.org/abs/2410.04485v1,2024-10-06 13:55:33+00:00
+29,Knowledge-Guided Dynamic Modality Attention Fusion Framework for Multimodal Sentiment Analysis,2410.04491,http://arxiv.org/abs/2410.04491v1,2024-10-06 14:10:28+00:00
+30,Interpret Your Decision: Logical Reasoning Regularization for Generalization in Visual Classification,2410.04492,http://arxiv.org/abs/2410.04492v1,2024-10-06 14:11:39+00:00
+31,Generalizability analysis of deep learning predictions of human brain responses to augmented and semantically novel visual stimuli,2410.04497,http://arxiv.org/abs/2410.04497v1,2024-10-06 14:29:02+00:00
+32,Leveraging Large Language Models for Suicide Detection on Social Media with Limited Labels,2410.04501,http://arxiv.org/abs/2410.04501v2,2024-10-06 14:45:01+00:00
+33,Pullback Flow Matching on Data Manifolds,2410.04543,http://arxiv.org/abs/2410.04543v1,2024-10-06 16:41:26+00:00
+34,Modeling Social Media Recommendation Impacts Using Academic Networks: A Graph Neural Network Approach,2410.04552,http://arxiv.org/abs/2410.04552v1,2024-10-06 17:03:27+00:00
+35,Hammer: Robust Function-Calling for On-Device Language Models via Function Masking,2410.04587,http://arxiv.org/abs/2410.04587v2,2024-10-06 18:57:46+00:00
+36,Regressing the Relative Future: Efficient Policy Optimization for Multi-turn RLHF,2410.04612,http://arxiv.org/abs/2410.04612v1,2024-10-06 20:20:22+00:00
+37,Multi-Tiered Self-Contrastive Learning for Medical Microwave Radiometry (MWR) Breast Cancer Detection,2410.04636,http://arxiv.org/abs/2410.04636v1,2024-10-06 21:51:02+00:00
+38,Multimodal 3D Fusion and In-Situ Learning for Spatially Aware AI,2410.04652,http://arxiv.org/abs/2410.04652v1,2024-10-06 23:25:21+00:00
+39,Taylor Unswift: Secured Weight Release for Large Language Models via Taylor Expansion,2410.05331,http://arxiv.org/abs/2410.05331v1,2024-10-06 01:13:49+00:00
+40,Distributed Inference on Mobile Edge and Cloud: An Early Exit based Clustering Approach,2410.05338,http://arxiv.org/abs/2410.05338v1,2024-10-06 20:14:27+00:00
+41,Ranking Policy Learning via Marketplace Expected Value Estimation From Observational Data,2410.04568,http://arxiv.org/abs/2410.04568v1,2024-10-06 17:53:44+00:00
+42,Graph Fourier Neural Kernels (G-FuNK): Learning Solutions of Nonlinear Diffusive Parametric PDEs on Multiple Domains,2410.04655,http://arxiv.org/abs/2410.04655v2,2024-10-06 23:55:34+00:00
