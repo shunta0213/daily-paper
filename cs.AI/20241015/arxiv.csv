@@ -1,0 +1,101 @@
+,title,id,arxiv_url,published
+0,Versatile Motion Langauge Models for Multi-Turn Interactive Agents,2410.05628,http://arxiv.org/abs/2410.05628v1,2024-10-08 02:23:53+00:00
+1,On the Modeling Capabilities of Large Language Models for Sequential Decision Making,2410.05656,http://arxiv.org/abs/2410.05656v1,2024-10-08 03:12:57+00:00
+2,"ACPBench: Reasoning about Action, Change, and Planning",2410.05669,http://arxiv.org/abs/2410.05669v1,2024-10-08 03:48:57+00:00
+3,Reducing fuzzy relation equations via concept lattices,2410.05728,http://arxiv.org/abs/2410.05728v1,2024-10-08 06:47:35+00:00
+4,Heuristics for Partially Observable Stochastic Contingent Planning,2410.05870,http://arxiv.org/abs/2410.05870v1,2024-10-08 09:57:16+00:00
+5,Athanor: Local Search over Abstract Constraint Specifications,2410.05937,http://arxiv.org/abs/2410.05937v1,2024-10-08 11:41:38+00:00
+6,ConceptAgent: LLM-Driven Precondition Grounding and Tree Search for Robust Task Planning and Execution,2410.06108,http://arxiv.org/abs/2410.06108v1,2024-10-08 15:05:40+00:00
+7,A Taxonomy of Collectible Card Games from a Game-Playing AI Perspective,2410.06299,http://arxiv.org/abs/2410.06299v1,2024-10-08 19:04:12+00:00
+8,Boolean Nearest Neighbor Language in the Knowledge Compilation Map,2410.06332,http://arxiv.org/abs/2410.06332v1,2024-10-08 20:12:55+00:00
+9,AAAI Workshop on AI Planning for Cyber-Physical Systems -- CAIPI24,2410.07245,http://arxiv.org/abs/2410.07245v1,2024-10-08 05:52:00+00:00
+10,ClaimBrush: A Novel Framework for Automated Patent Claim Refinement Based on Large Language Models,2410.05575,http://arxiv.org/abs/2410.05575v2,2024-10-08 00:20:54+00:00
+11,Swift Sampler: Efficient Learning of Sampler by 10 Parameters,2410.05578,http://arxiv.org/abs/2410.05578v1,2024-10-08 00:26:29+00:00
+12,NegMerge: Consensual Weight Negation for Strong Machine Unlearning,2410.05583,http://arxiv.org/abs/2410.05583v1,2024-10-08 00:50:54+00:00
+13,TeaserGen: Generating Teasers for Long Documentaries,2410.05586,http://arxiv.org/abs/2410.05586v1,2024-10-08 01:00:09+00:00
+14,Chain-of-Thoughts for Molecular Understanding,2410.05610,http://arxiv.org/abs/2410.05610v1,2024-10-08 01:49:48+00:00
+15,"Understanding Gradient Boosting Classifier: Training, Prediction, and the Role of $γ_j$",2410.05623,http://arxiv.org/abs/2410.05623v1,2024-10-08 02:11:35+00:00
+16,CLOSER: Towards Better Representation Learning for Few-Shot Class-Incremental Learning,2410.05627,http://arxiv.org/abs/2410.05627v1,2024-10-08 02:23:16+00:00
+17,Vector-ICL: In-context Learning with Continuous Vector Representations,2410.05629,http://arxiv.org/abs/2410.05629v1,2024-10-08 02:25:38+00:00
+18,Scaling Laws Across Model Architectures: A Comparative Analysis of Dense and MoE Models in Large Language Models,2410.05661,http://arxiv.org/abs/2410.05661v1,2024-10-08 03:21:56+00:00
+19,"T2V-Turbo-v2: Enhancing Video Generation Model Post-Training through Data, Reward, and Conditional Guidance Design",2410.05677,http://arxiv.org/abs/2410.05677v2,2024-10-08 04:30:06+00:00
+20,A Two-Step Approach for Data-Efficient French Pronunciation Learning,2410.05698,http://arxiv.org/abs/2410.05698v1,2024-10-08 05:30:23+00:00
+21,PixLens: A Novel Framework for Disentangled Evaluation in Diffusion-Based Image Editing with Object Detection + SAM,2410.05710,http://arxiv.org/abs/2410.05710v1,2024-10-08 06:05:15+00:00
+22,Mero Nagarikta: Advanced Nepali Citizenship Data Extractor with Deep Learning-Powered Text Detection and OCR,2410.05721,http://arxiv.org/abs/2410.05721v1,2024-10-08 06:29:08+00:00
+23,KnowledgeSG: Privacy-Preserving Synthetic Text Generation with Knowledge Distillation from Server,2410.05725,http://arxiv.org/abs/2410.05725v2,2024-10-08 06:42:28+00:00
+24,Less is more: Embracing sparsity and interpolation with Esiformer for time series forecasting,2410.05726,http://arxiv.org/abs/2410.05726v1,2024-10-08 06:45:47+00:00
+25,Equi-GSPR: Equivariant SE(3) Graph Network Model for Sparse Point Cloud Registration,2410.05729,http://arxiv.org/abs/2410.05729v1,2024-10-08 06:48:01+00:00
+26,Polynomial Time Cryptanalytic Extraction of Deep Neural Networks in the Hard-Label Setting,2410.05750,http://arxiv.org/abs/2410.05750v1,2024-10-08 07:27:55+00:00
+27,Learning the Generalizable Manipulation Skills on Soft-body Tasks via Guided Self-attention Behavior Cloning Policy,2410.05756,http://arxiv.org/abs/2410.05756v1,2024-10-08 07:31:10+00:00
+28,LightRAG: Simple and Fast Retrieval-Augmented Generation,2410.05779,http://arxiv.org/abs/2410.05779v1,2024-10-08 08:00:12+00:00
+29,Core Tokensets for Data-efficient Sequential Training of Transformers,2410.05800,http://arxiv.org/abs/2410.05800v1,2024-10-08 08:34:35+00:00
+30,"Retrieving, Rethinking and Revising: The Chain-of-Verification Can Improve Retrieval Augmented Generation",2410.05801,http://arxiv.org/abs/2410.05801v1,2024-10-08 08:34:54+00:00
+31,PostCast: Generalizable Postprocessing for Precipitation Nowcasting via Unsupervised Blurriness Modeling,2410.05805,http://arxiv.org/abs/2410.05805v1,2024-10-08 08:38:23+00:00
+32,Towards an Operational Responsible AI Framework for Learning Analytics in Higher Education,2410.05827,http://arxiv.org/abs/2410.05827v1,2024-10-08 08:55:24+00:00
+33,Time Transfer: On Optimal Learning Rate and Batch Size In The Infinite Data Limit,2410.05838,http://arxiv.org/abs/2410.05838v1,2024-10-08 09:06:34+00:00
+34,Bottom-up Anytime Discovery of Generalised Multimodal Graph Patterns for Knowledge Graphs,2410.05839,http://arxiv.org/abs/2410.05839v1,2024-10-08 09:07:27+00:00
+35,Communicating with Speakers and Listeners of Different Pragmatic Levels,2410.05851,http://arxiv.org/abs/2410.05851v1,2024-10-08 09:42:37+00:00
+36,MelissaDL x Breed: Towards Data-Efficient On-line Supervised Training of Multi-parametric Surrogates with Active Learning,2410.05860,http://arxiv.org/abs/2410.05860v1,2024-10-08 09:52:15+00:00
+37,From Tokens to Words: On the Inner Lexicon of LLMs,2410.05864,http://arxiv.org/abs/2410.05864v2,2024-10-08 09:53:35+00:00
+38,MEXA: Multilingual Evaluation of English-Centric LLMs via Cross-Lingual Alignment,2410.05873,http://arxiv.org/abs/2410.05873v1,2024-10-08 09:59:23+00:00
+39,Deep learning-based fault identification in condition monitoring,2410.05889,http://arxiv.org/abs/2410.05889v1,2024-10-08 10:31:13+00:00
+40,Automatic Summarization of Long Documents,2410.05903,http://arxiv.org/abs/2410.05903v1,2024-10-08 11:00:49+00:00
+41,Fortify Your Foundations: Practical Privacy and Security for Foundation Model Deployments In The Cloud,2410.05930,http://arxiv.org/abs/2410.05930v1,2024-10-08 11:33:09+00:00
+42,EMMA: Empowering Multi-modal Mamba with Structural and Hierarchical Alignment,2410.05938,http://arxiv.org/abs/2410.05938v1,2024-10-08 11:41:55+00:00
+43,STNet: Deep Audio-Visual Fusion Network for Robust Speaker Tracking,2410.05964,http://arxiv.org/abs/2410.05964v1,2024-10-08 12:15:17+00:00
+44,FLOPS: Forward Learning with OPtimal Sampling,2410.05966,http://arxiv.org/abs/2410.05966v1,2024-10-08 12:16:12+00:00
+45,Utilizing Lyapunov Exponents in designing deep neural networks,2410.05988,http://arxiv.org/abs/2410.05988v1,2024-10-08 12:36:06+00:00
+46,Data Quality Issues in Vulnerability Detection Datasets,2410.06030,http://arxiv.org/abs/2410.06030v1,2024-10-08 13:31:29+00:00
+47,Block Induced Signature Generative Adversarial Network (BISGAN): Signature Spoofing Using GANs and Their Evaluation,2410.06041,http://arxiv.org/abs/2410.06041v2,2024-10-08 13:40:33+00:00
+48,Extracting Finite State Machines from Transformers,2410.06045,http://arxiv.org/abs/2410.06045v1,2024-10-08 13:43:50+00:00
+49,Posets and Bounded Probabilities for Discovering Order-inducing Features in Event Knowledge Graphs,2410.06065,http://arxiv.org/abs/2410.06065v1,2024-10-08 14:12:51+00:00
+50,TOWER: Tree Organized Weighting for Evaluating Complex Instructions,2410.06089,http://arxiv.org/abs/2410.06089v1,2024-10-08 14:46:50+00:00
+51,Coevolving with the Other You: Fine-Tuning LLM with Sequential Cooperative Multi-Agent Reinforcement Learning,2410.06101,http://arxiv.org/abs/2410.06101v1,2024-10-08 14:55:26+00:00
+52,Towards AI-Native Software Engineering (SE 3.0): A Vision and a Challenge Roadmap,2410.06107,http://arxiv.org/abs/2410.06107v1,2024-10-08 15:04:07+00:00
+53,Quality Diversity Imitation Learning,2410.06151,http://arxiv.org/abs/2410.06151v1,2024-10-08 15:49:33+00:00
+54,Multimodal Situational Safety,2410.06172,http://arxiv.org/abs/2410.06172v1,2024-10-08 16:16:07+00:00
+55,SC-Bench: A Large-Scale Dataset for Smart Contract Auditing,2410.06176,http://arxiv.org/abs/2410.06176v1,2024-10-08 16:23:50+00:00
+56,Entering Real Social World! Benchmarking the Theory of Mind and Socialization Capabilities of LLMs from a First-person Perspective,2410.06195,http://arxiv.org/abs/2410.06195v1,2024-10-08 16:55:51+00:00
+57,Integrating Planning into Single-Turn Long-Form Text Generation,2410.06203,http://arxiv.org/abs/2410.06203v1,2024-10-08 17:02:40+00:00
+58,A Timeline and Analysis for Representation Plasticity in Large Language Models,2410.06225,http://arxiv.org/abs/2410.06225v1,2024-10-08 17:34:15+00:00
+59,BUMBLE: Unifying Reasoning and Acting with Vision-Language Models for Building-wide Mobile Manipulation,2410.06237,http://arxiv.org/abs/2410.06237v1,2024-10-08 17:52:29+00:00
+60,Probing the Robustness of Theory of Mind in Large Language Models,2410.06271,http://arxiv.org/abs/2410.06271v1,2024-10-08 18:13:27+00:00
+61,PREDICT: Preference Reasoning by Evaluating Decomposed preferences Inferred from Candidate Trajectories,2410.06273,http://arxiv.org/abs/2410.06273v1,2024-10-08 18:16:41+00:00
+62,Compositional Risk Minimization,2410.06303,http://arxiv.org/abs/2410.06303v1,2024-10-08 19:25:07+00:00
+63,Solving Multi-Goal Robotic Tasks with Decision Transformer,2410.06347,http://arxiv.org/abs/2410.06347v1,2024-10-08 20:35:30+00:00
+64,Context-Aware Command Understanding for Tabletop Scenarios,2410.06355,http://arxiv.org/abs/2410.06355v2,2024-10-08 20:46:39+00:00
+65,Physics-Informed Regularization for Domain-Agnostic Dynamical System Modeling,2410.06366,http://arxiv.org/abs/2410.06366v1,2024-10-08 21:04:01+00:00
+66,Cooperative and Asynchronous Transformer-based Mission Planning for Heterogeneous Teams of Mobile Robots,2410.06372,http://arxiv.org/abs/2410.06372v1,2024-10-08 21:14:09+00:00
+67,Multimodal Representation Learning using Adaptive Graph Construction,2410.06395,http://arxiv.org/abs/2410.06395v1,2024-10-08 21:57:46+00:00
+68,"Tackling the Abstraction and Reasoning Corpus with Vision Transformers: the Importance of 2D Representation, Positions, and Objects",2410.06405,http://arxiv.org/abs/2410.06405v1,2024-10-08 22:25:34+00:00
+69,Biased AI can Influence Political Decision-Making,2410.06415,http://arxiv.org/abs/2410.06415v1,2024-10-08 22:56:00+00:00
+70,FAIREDU: A Multiple Regression-Based Method for Enhancing Fairness in Machine Learning Models for Educational Applications,2410.06423,http://arxiv.org/abs/2410.06423v1,2024-10-08 23:29:24+00:00
+71,Reconstruction of Particle Flow Energy Distribution Using Deep Learning Algorithms,2410.07250,http://arxiv.org/abs/2410.07250v1,2024-10-08 11:49:18+00:00
+72,Improved deep learning of chaotic dynamical systems with multistep penalty losses,2410.05572,http://arxiv.org/abs/2410.05572v1,2024-10-08 00:13:57+00:00
+73,TaeBench: Improving Quality of Toxic Adversarial Examples,2410.05573,http://arxiv.org/abs/2410.05573v1,2024-10-08 00:14:27+00:00
+74,Adaptation Odyssey in LLMs: Why Does Additional Pretraining Sometimes Fail to Improve?,2410.05581,http://arxiv.org/abs/2410.05581v1,2024-10-08 00:37:16+00:00
+75,Rethinking Reward Model Evaluation: Are We Barking up the Wrong Tree?,2410.05584,http://arxiv.org/abs/2410.05584v1,2024-10-08 00:52:03+00:00
+76,Towards Robust Spacecraft Trajectory Optimization via Transformers,2410.05585,http://arxiv.org/abs/2410.05585v1,2024-10-08 00:58:42+00:00
+77,Training Stiff Neural Ordinary Differential Equations with Implicit Single-Step Methods,2410.05592,http://arxiv.org/abs/2410.05592v1,2024-10-08 01:08:17+00:00
+78,Everything Everywhere All at Once: LLMs can In-Context Learn Multiple Tasks in Superposition,2410.05603,http://arxiv.org/abs/2410.05603v1,2024-10-08 01:28:57+00:00
+79,Federated Neural Nonparametric Point Processes,2410.05637,http://arxiv.org/abs/2410.05637v1,2024-10-08 02:40:04+00:00
+80,Score-Based Variational Inference for Inverse Problems,2410.05646,http://arxiv.org/abs/2410.05646v1,2024-10-08 02:55:16+00:00
+81,ViBiDSampler: Enhancing Video Interpolation Using Bidirectional Diffusion Sampler,2410.05651,http://arxiv.org/abs/2410.05651v1,2024-10-08 03:01:54+00:00
+82,Diversity and Inclusion Index with Networks and Similarity: Analysis and its Application,2410.05668,http://arxiv.org/abs/2410.05668v1,2024-10-08 03:41:39+00:00
+83,Copiloting Diagnosis of Autism in Real Clinical Scenarios via LLMs,2410.05684,http://arxiv.org/abs/2410.05684v2,2024-10-08 04:48:42+00:00
+84,Enhancing Temporal Modeling of Video LLMs via Time Gating,2410.05714,http://arxiv.org/abs/2410.05714v1,2024-10-08 06:21:29+00:00
+85,Array2BR: An End-to-End Noise-immune Binaural Audio Synthesis from Microphone-array Signals,2410.05739,http://arxiv.org/abs/2410.05739v1,2024-10-08 06:55:35+00:00
+86,Learning to Race in Extreme Turning Scene with Active Exploration and Gaussian Process Regression-based MPC,2410.05740,http://arxiv.org/abs/2410.05740v1,2024-10-08 06:56:51+00:00
+87,Grounding is All You Need? Dual Temporal Grounding for Video Dialog,2410.05767,http://arxiv.org/abs/2410.05767v1,2024-10-08 07:48:34+00:00
+88,Integrated Encoding and Quantization to Enhance Quanvolutional Neural Networks,2410.05777,http://arxiv.org/abs/2410.05777v1,2024-10-08 07:57:13+00:00
+89,FürElise: Capturing and Physically Synthesizing Hand Motions of Piano Performance,2410.05791,http://arxiv.org/abs/2410.05791v1,2024-10-08 08:21:05+00:00
+90,A Parameter Update Balancing Algorithm for Multi-task Ranking Models in Recommendation Systems,2410.05806,http://arxiv.org/abs/2410.05806v1,2024-10-08 08:39:15+00:00
+91,Unobserved Object Detection using Generative Models,2410.05869,http://arxiv.org/abs/2410.05869v1,2024-10-08 09:57:14+00:00
+92,A second-order-like optimizer with adaptive gradient scaling for deep learning,2410.05871,http://arxiv.org/abs/2410.05871v1,2024-10-08 09:58:38+00:00
+93,Towards an Autonomous Surface Vehicle Prototype for Artificial Intelligence Applications of Water Quality Monitoring,2410.05892,http://arxiv.org/abs/2410.05892v1,2024-10-08 10:35:32+00:00
+94,Mini-Batch Kernel $k$-means,2410.05902,http://arxiv.org/abs/2410.05902v1,2024-10-08 10:59:14+00:00
+95,Accelerating Error Correction Code Transformers,2410.05911,http://arxiv.org/abs/2410.05911v1,2024-10-08 11:07:55+00:00
+96,Give me a hint: Can LLMs take a hint to solve math problems?,2410.05915,http://arxiv.org/abs/2410.05915v1,2024-10-08 11:09:31+00:00
+97,FINALLY: fast and universal speech enhancement with studio-like quality,2410.05920,http://arxiv.org/abs/2410.05920v1,2024-10-08 11:16:03+00:00
+98,Beyond Captioning: Task-Specific Prompting for Improved VLM Performance in Mathematical Reasoning,2410.05928,http://arxiv.org/abs/2410.05928v1,2024-10-08 11:29:40+00:00
+99,PDF-WuKong: A Large Multimodal Model for Efficient Long PDF Reading with End-to-End Sparse Sampling,2410.05970,http://arxiv.org/abs/2410.05970v1,2024-10-08 12:17:42+00:00
