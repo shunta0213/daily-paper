@@ -1,0 +1,101 @@
+,title,id,arxiv_url,published
+0,ShapefileGPT: A Multi-Agent Large Language Model Framework for Automated Shapefile Processing,2410.12376,http://arxiv.org/abs/2410.12376v1,2024-10-16 08:48:27+00:00
+1,A Fast Convoluted Story: Scaling Probabilistic Inference for Integer Arithmetic,2410.12389,http://arxiv.org/abs/2410.12389v1,2024-10-16 09:16:10+00:00
+2,Benchmarking Defeasible Reasoning with Large Language Models -- Initial Experiments and Future Directions,2410.12509,http://arxiv.org/abs/2410.12509v1,2024-10-16 12:36:23+00:00
+3,Iter-AHMCL: Alleviate Hallucination for Large Language Model via Iterative Model-level Contrastive Learning,2410.12130,http://arxiv.org/abs/2410.12130v1,2024-10-16 00:15:40+00:00
+4,Sample-Efficient Reinforcement Learning with Temporal Logic Objectives: Leveraging the Task Specification to Guide Exploration,2410.12136,http://arxiv.org/abs/2410.12136v1,2024-10-16 00:53:41+00:00
+5,Facing Identity: The Formation and Performance of Identity via Face-Based Artificial Intelligence Technologies,2410.12148,http://arxiv.org/abs/2410.12148v1,2024-10-16 01:14:04+00:00
+6,Layer-of-Thoughts Prompting (LoT): Leveraging LLM-Based Retrieval with Constraint Hierarchies,2410.12153,http://arxiv.org/abs/2410.12153v1,2024-10-16 01:20:44+00:00
+7,Exploiting LLMs' Reasoning Capability to Infer Implicit Concepts in Legal Information Retrieval,2410.12154,http://arxiv.org/abs/2410.12154v1,2024-10-16 01:34:14+00:00
+8,NSSI-Net: Multi-Concept Generative Adversarial Network for Non-Suicidal Self-Injury Detection Using High-Dimensional EEG Signals in a Semi-Supervised Learning Framework,2410.12159,http://arxiv.org/abs/2410.12159v1,2024-10-16 01:39:04+00:00
+9,Dual-Model Distillation for Efficient Action Classification with Hybrid Edge-Cloud Solution,2410.12165,http://arxiv.org/abs/2410.12165v2,2024-10-16 02:06:27+00:00
+10,Reclaiming the Source of Programmatic Policies: Programmatic versus Latent Spaces,2410.12166,http://arxiv.org/abs/2410.12166v1,2024-10-16 02:10:04+00:00
+11,Reinforcement Learning with LTL and $ω$-Regular Objectives via Optimality-Preserving Translation to Average Rewards,2410.12175,http://arxiv.org/abs/2410.12175v1,2024-10-16 02:42:37+00:00
+12,DAQ: Density-Aware Post-Training Weight-Only Quantization For LLMs,2410.12187,http://arxiv.org/abs/2410.12187v2,2024-10-16 03:13:51+00:00
+13,DocETL: Agentic Query Rewriting and Evaluation for Complex Document Processing,2410.12189,http://arxiv.org/abs/2410.12189v1,2024-10-16 03:22:35+00:00
+14,Trajectory Manifold Optimization for Fast and Adaptive Kinodynamic Motion Planning,2410.12193,http://arxiv.org/abs/2410.12193v1,2024-10-16 03:29:33+00:00
+15,Sparse Prototype Network for Explainable Pedestrian Behavior Prediction,2410.12195,http://arxiv.org/abs/2410.12195v1,2024-10-16 03:33:40+00:00
+16,Abnormality Forecasting: Time Series Anomaly Prediction via Future Context Modeling,2410.12206,http://arxiv.org/abs/2410.12206v1,2024-10-16 04:00:00+00:00
+17,Divide-Verify-Refine: Aligning LLM Responses with Complex Instructions,2410.12207,http://arxiv.org/abs/2410.12207v1,2024-10-16 04:01:55+00:00
+18,Order-aware Interactive Segmentation,2410.12214,http://arxiv.org/abs/2410.12214v2,2024-10-16 04:19:28+00:00
+19,On A Scale From 1 to 5: Quantifying Hallucination in Faithfulness Evaluation,2410.12222,http://arxiv.org/abs/2410.12222v1,2024-10-16 04:36:17+00:00
+20,Comprehending Knowledge Graphs with Large Language Models for Recommender Systems,2410.12229,http://arxiv.org/abs/2410.12229v1,2024-10-16 04:44:34+00:00
+21,Enhancing LLM Agents for Code Generation with Possibility and Pass-rate Prioritized Experience Replay,2410.12236,http://arxiv.org/abs/2410.12236v1,2024-10-16 04:54:42+00:00
+22,CATCH: Channel-Aware multivariate Time Series Anomaly Detection via Frequency Patching,2410.12261,http://arxiv.org/abs/2410.12261v1,2024-10-16 05:58:55+00:00
+23,Kallini et al. (2024) do not compare impossible languages with constituency-based ones,2410.12271,http://arxiv.org/abs/2410.12271v1,2024-10-16 06:16:30+00:00
+24,A Prompt-Based Knowledge Graph Foundation Model for Universal In-Context Reasoning,2410.12288,http://arxiv.org/abs/2410.12288v1,2024-10-16 06:47:18+00:00
+25,Conjunction Subspaces Test for Conformal and Selective Classification,2410.12297,http://arxiv.org/abs/2410.12297v1,2024-10-16 06:56:53+00:00
+26,Pyramid-Driven Alignment: Pyramid Principle Guided Integration of Large Language Models and Knowledge Graphs,2410.12298,http://arxiv.org/abs/2410.12298v2,2024-10-16 06:57:18+00:00
+27,Open Domain Question Answering with Conflicting Contexts,2410.12311,http://arxiv.org/abs/2410.12311v2,2024-10-16 07:24:28+00:00
+28,FaceChain-FACT: Face Adapter with Decoupled Training for Identity-preserved Personalization,2410.12312,http://arxiv.org/abs/2410.12312v1,2024-10-16 07:25:24+00:00
+29,UTF:Undertrained Tokens as Fingerprints A Novel Approach to LLM Identification,2410.12318,http://arxiv.org/abs/2410.12318v1,2024-10-16 07:36:57+00:00
+30,Reversal of Thought: Enhancing Large Language Models with Preference-Guided Reverse Reasoning Warm-up,2410.12323,http://arxiv.org/abs/2410.12323v1,2024-10-16 07:44:28+00:00
+31,Understanding the Role of LLMs in Multimodal Evaluation Benchmarks,2410.12329,http://arxiv.org/abs/2410.12329v1,2024-10-16 07:49:13+00:00
+32,A linguistic analysis of undesirable outcomes in the era of generative AI,2410.12341,http://arxiv.org/abs/2410.12341v1,2024-10-16 08:02:48+00:00
+33,TAS: Distilling Arbitrary Teacher and Student via a Hybrid Assistant,2410.12342,http://arxiv.org/abs/2410.12342v1,2024-10-16 08:02:49+00:00
+34,GECTurk WEB: An Explainable Online Platform for Turkish Grammatical Error Detection and Correction,2410.12350,http://arxiv.org/abs/2410.12350v1,2024-10-16 08:13:54+00:00
+35,Towards Neural Scaling Laws for Time Series Foundation Models,2410.12360,http://arxiv.org/abs/2410.12360v1,2024-10-16 08:23:39+00:00
+36,Proactive Agent: Shifting LLM Agents from Reactive Responses to Active Assistance,2410.12361,http://arxiv.org/abs/2410.12361v1,2024-10-16 08:24:09+00:00
+37,HumanEval-V: Evaluating Visual Understanding and Reasoning Abilities of Large Multimodal Models Through Coding Tasks,2410.12381,http://arxiv.org/abs/2410.12381v1,2024-10-16 09:04:57+00:00
+38,Revealing the Barriers of Language Agents in Planning,2410.12409,http://arxiv.org/abs/2410.12409v1,2024-10-16 09:44:38+00:00
+39,Conformity in Large Language Models,2410.12428,http://arxiv.org/abs/2410.12428v1,2024-10-16 10:16:34+00:00
+40,Open Ko-LLM Leaderboard2: Bridging Foundational and Practical Evaluation for Korean LLMs,2410.12445,http://arxiv.org/abs/2410.12445v1,2024-10-16 10:49:22+00:00
+41,Sharpness-Aware Black-Box Optimization,2410.12457,http://arxiv.org/abs/2410.12457v1,2024-10-16 11:08:06+00:00
+42,"Evaluating Software Development Agents: Patch Patterns, Code Quality, and Issue Complexity in Real-World GitHub Scenarios",2410.12468,http://arxiv.org/abs/2410.12468v1,2024-10-16 11:33:57+00:00
+43,Unifying Economic and Language Models for Enhanced Sentiment Analysis of the Oil Market,2410.12473,http://arxiv.org/abs/2410.12473v1,2024-10-16 11:41:24+00:00
+44,SAC-GLAM: Improving Online RL for LLM agents with Soft Actor-Critic and Hindsight Relabeling,2410.12481,http://arxiv.org/abs/2410.12481v1,2024-10-16 11:59:27+00:00
+45,Stable Object Placement Planning From Contact Point Robustness,2410.12483,http://arxiv.org/abs/2410.12483v1,2024-10-16 12:02:15+00:00
+46,Stabilize the Latent Space for Image Autoregressive Modeling: A Unified Perspective,2410.12490,http://arxiv.org/abs/2410.12490v1,2024-10-16 12:13:17+00:00
+47,DH-VTON: Deep Text-Driven Virtual Try-On via Hybrid Attention Learning,2410.12501,http://arxiv.org/abs/2410.12501v1,2024-10-16 12:27:10+00:00
+48,QueensCAMP: an RGB-D dataset for robust Visual SLAM,2410.12520,http://arxiv.org/abs/2410.12520v1,2024-10-16 12:58:08+00:00
+49,Spectrum Sharing using Deep Reinforcement Learning in Vehicular Networks,2410.12521,http://arxiv.org/abs/2410.12521v1,2024-10-16 12:59:59+00:00
+50,Is Complex Query Answering Really Complex?,2410.12537,http://arxiv.org/abs/2410.12537v1,2024-10-16 13:19:03+00:00
+51,Counterfactual Effect Decomposition in Multi-Agent Sequential Decision Making,2410.12539,http://arxiv.org/abs/2410.12539v1,2024-10-16 13:20:35+00:00
+52,LLM-based Translation Inference with Iterative Bilingual Understanding,2410.12543,http://arxiv.org/abs/2410.12543v2,2024-10-16 13:21:46+00:00
+53,A Claim Decomposition Benchmark for Long-form Answer Verification,2410.12558,http://arxiv.org/abs/2410.12558v1,2024-10-16 13:34:51+00:00
+54,Development of Image Collection Method Using YOLO and Siamese Network,2410.12561,http://arxiv.org/abs/2410.12561v1,2024-10-16 13:36:47+00:00
+55,Robust RL with LLM-Driven Data Synthesis and Policy Adaptation for Autonomous Driving,2410.12568,http://arxiv.org/abs/2410.12568v2,2024-10-16 13:43:00+00:00
+56,STRUX: An LLM for Decision-Making with Structured Explanations,2410.12583,http://arxiv.org/abs/2410.12583v1,2024-10-16 14:01:22+00:00
+57,Rethinking Visual Counterfactual Explanations Through Region Constraint,2410.12591,http://arxiv.org/abs/2410.12591v1,2024-10-16 14:10:48+00:00
+58,Expand and Compress: Exploring Tuning Principles for Continual Spatio-Temporal Graph Forecasting,2410.12593,http://arxiv.org/abs/2410.12593v1,2024-10-16 14:12:11+00:00
+59,Self-Supervised Learning of Disentangled Representations for Multivariate Time-Series,2410.12606,http://arxiv.org/abs/2410.12606v2,2024-10-16 14:24:44+00:00
+60,Towards Graph Foundation Models: The Perspective of Zero-shot Reasoning on Knowledge Graphs,2410.12609,http://arxiv.org/abs/2410.12609v1,2024-10-16 14:26:08+00:00
+61,Explainable Moral Values: a neuro-symbolic approach to value classification,2410.12631,http://arxiv.org/abs/2410.12631v1,2024-10-16 14:53:13+00:00
+62,Evaluating Morphological Compositional Generalization in Large Language Models,2410.12656,http://arxiv.org/abs/2410.12656v1,2024-10-16 15:17:20+00:00
+63,Context Matters: Leveraging Contextual Features for Time Series Forecasting,2410.12672,http://arxiv.org/abs/2410.12672v2,2024-10-16 15:36:13+00:00
+64,Transformer based super-resolution downscaling for regional reanalysis: Full domain vs tiling approaches,2410.12728,http://arxiv.org/abs/2410.12728v1,2024-10-16 16:42:20+00:00
+65,Unitary Multi-Margin BERT for Robust Natural Language Processing,2410.12759,http://arxiv.org/abs/2410.12759v1,2024-10-16 17:30:58+00:00
+66,Vaccinating Federated Learning for Robust Modulation Classification in Distributed Wireless Networks,2410.12772,http://arxiv.org/abs/2410.12772v1,2024-10-16 17:48:47+00:00
+67,Harmon: Whole-Body Motion Generation of Humanoid Robots from Language Descriptions,2410.12773,http://arxiv.org/abs/2410.12773v1,2024-10-16 17:48:50+00:00
+68,Identifying Task Groupings for Multi-Task Learning Using Pointwise V-Usable Information,2410.12774,http://arxiv.org/abs/2410.12774v1,2024-10-16 17:49:45+00:00
+69,Using Protected Attributes to Consider Fairness in Multi-Agent Systems,2410.12889,http://arxiv.org/abs/2410.12889v1,2024-10-16 08:12:01+00:00
+70,MIRROR: A Novel Approach for the Automated Evaluation of Open-Ended Question Generation,2410.12893,http://arxiv.org/abs/2410.12893v1,2024-10-16 12:24:42+00:00
+71,Large Language Models and the Rationalist Empiricist Debate,2410.12895,http://arxiv.org/abs/2410.12895v1,2024-10-16 15:49:33+00:00
+72,Boosting Asynchronous Decentralized Learning with Model Fragmentation,2410.12918,http://arxiv.org/abs/2410.12918v1,2024-10-16 18:03:52+00:00
+73,SoK: On Finding Common Ground in Loss Landscapes Using Deep Model Merging Techniques,2410.12927,http://arxiv.org/abs/2410.12927v1,2024-10-16 18:14:05+00:00
+74,A Note on Shumailov et al. (2024): `AI Models Collapse When Trained on Recursively Generated Data',2410.12954,http://arxiv.org/abs/2410.12954v1,2024-10-16 18:43:52+00:00
+75,Large Language Models as a Tool for Mining Object Knowledge,2410.12959,http://arxiv.org/abs/2410.12959v1,2024-10-16 18:46:02+00:00
+76,Flash Inference: Near Linear Time Inference for Long Convolution Sequence Models and Beyond,2410.12982,http://arxiv.org/abs/2410.12982v1,2024-10-16 19:23:46+00:00
+77,Reinforcement Learning with Euclidean Data Augmentation for State-Based Continuous Control,2410.12983,http://arxiv.org/abs/2410.12983v1,2024-10-16 19:25:30+00:00
+78,Qtok: A Comprehensive Framework for Evaluating Multilingual Tokenizer Quality in Large Language Models,2410.12989,http://arxiv.org/abs/2410.12989v1,2024-10-16 19:34:34+00:00
+79,SSET: Swapping-Sliding Explanation for Time Series Classifiers in Affect Detection,2410.12996,http://arxiv.org/abs/2410.12996v1,2024-10-16 19:47:08+00:00
+80,Flex: End-to-End Text-Instructed Visual Navigation with Foundation Models,2410.13002,http://arxiv.org/abs/2410.13002v1,2024-10-16 19:59:31+00:00
+81,FedGTST: Boosting Global Transferability of Federated Models via Statistics Tuning,2410.13045,http://arxiv.org/abs/2410.13045v1,2024-10-16 21:13:52+00:00
+82,Channel-Wise Mixed-Precision Quantization for Large Language Models,2410.13056,http://arxiv.org/abs/2410.13056v1,2024-10-16 21:34:41+00:00
+83,ERAS: Evaluating the Robustness of Chinese NLP Models to Morphological Garden Path Errors,2410.13057,http://arxiv.org/abs/2410.13057v1,2024-10-16 21:35:20+00:00
+84,Language Models as Semiotic Machines: Reconceptualizing AI Language Systems through Structuralist and Post-Structuralist Theories of Language,2410.13065,http://arxiv.org/abs/2410.13065v1,2024-10-16 21:45:54+00:00
+85,Tuning Language Models by Mixture-of-Depths Ensemble,2410.13077,http://arxiv.org/abs/2410.13077v1,2024-10-16 22:51:45+00:00
+86,Task Consistent Prototype Learning for Incremental Few-shot Semantic Segmentation,2410.13094,http://arxiv.org/abs/2410.13094v1,2024-10-16 23:42:27+00:00
+87,Parametric Graph Representations in the Era of Foundation Models: A Survey and Position,2410.12126,http://arxiv.org/abs/2410.12126v1,2024-10-16 00:01:31+00:00
+88,FragNet: A Graph Neural Network for Molecular Property Prediction with Four Layers of Interpretability,2410.12156,http://arxiv.org/abs/2410.12156v1,2024-10-16 01:37:01+00:00
+89,The State of Robot Motion Generation,2410.12172,http://arxiv.org/abs/2410.12172v1,2024-10-16 02:31:31+00:00
+90,OmnixR: Evaluating Omni-modality Language Models on Reasoning across Modalities,2410.12219,http://arxiv.org/abs/2410.12219v1,2024-10-16 04:29:46+00:00
+91,EdgeRL: Reinforcement Learning-driven Deep Learning Model Inference Optimization at Edge,2410.12221,http://arxiv.org/abs/2410.12221v1,2024-10-16 04:31:39+00:00
+92,"Triple Modality Fusion: Aligning Visual, Textual, and Graph Data with Large Language Models for Multi-Behavior Recommendations",2410.12228,http://arxiv.org/abs/2410.12228v1,2024-10-16 04:44:15+00:00
+93,Improving the Generalization of Unseen Crowd Behaviors for Reinforcement Learning based Local Motion Planners,2410.12232,http://arxiv.org/abs/2410.12232v1,2024-10-16 04:46:21+00:00
+94,Dual Action Policy for Robust Sim-to-Real Reinforcement Learning,2410.12250,http://arxiv.org/abs/2410.12250v1,2024-10-16 05:22:06+00:00
+95,Understanding Expert Structures on Minimax Parameter Estimation in Contaminated Mixture of Experts,2410.12258,http://arxiv.org/abs/2410.12258v1,2024-10-16 05:52:51+00:00
+96,Controlled Automatic Task-Specific Synthetic Data Generation for Hallucination Detection,2410.12278,http://arxiv.org/abs/2410.12278v1,2024-10-16 06:31:59+00:00
+97,Beyond Oversmoothing: Evaluating DDPM and MSE for Scalable Speech Synthesis in ASR,2410.12279,http://arxiv.org/abs/2410.12279v1,2024-10-16 06:35:56+00:00
+98,Consistency Calibration: Improving Uncertainty Calibration via Consistency among Perturbed Neighbors,2410.12295,http://arxiv.org/abs/2410.12295v1,2024-10-16 06:55:02+00:00
+99,Two Birds with One Stone: Multi-Task Semantic Communications Systems over Relay Channel,2410.12302,http://arxiv.org/abs/2410.12302v1,2024-10-16 07:02:51+00:00
