@@ -1,0 +1,101 @@
+,title,id,arxiv_url,published
+0,A Pattern to Align Them All: Integrating Different Modalities to Define Multi-Modal Entities,2410.13803,http://arxiv.org/abs/2410.13803v1,2024-10-17 17:41:04+00:00
+1,The KnowWhereGraph Ontology,2410.13948,http://arxiv.org/abs/2410.13948v1,2024-10-17 18:18:41+00:00
+2,Toward a Unified Graph-Based Representation of Medical Data for Precision Oncology Medicine,2410.14739,http://arxiv.org/abs/2410.14739v1,2024-10-17 07:43:48+00:00
+3,Cliqueformer: Model-Based Optimization with Structured Transformers,2410.13106,http://arxiv.org/abs/2410.13106v1,2024-10-17 00:35:47+00:00
+4,Learning to Summarize from LLM-generated Feedback,2410.13116,http://arxiv.org/abs/2410.13116v1,2024-10-17 01:01:09+00:00
+5,Preference Diffusion for Recommendation,2410.13117,http://arxiv.org/abs/2410.13117v1,2024-10-17 01:02:04+00:00
+6,Trust but Verify: Programmatic VLM Evaluation in the Wild,2410.13121,http://arxiv.org/abs/2410.13121v1,2024-10-17 01:19:18+00:00
+7,GeSubNet: Gene Interaction Inference for Disease Subtype Network Generation,2410.13178,http://arxiv.org/abs/2410.13178v1,2024-10-17 02:58:57+00:00
+8,Chain of Ideas: Revolutionizing Research in Novel Idea Development with LLM Agents,2410.13185,http://arxiv.org/abs/2410.13185v2,2024-10-17 03:26:37+00:00
+9,CohEx: A Generalized Framework for Cohort Explanation,2410.13190,http://arxiv.org/abs/2410.13190v1,2024-10-17 03:36:18+00:00
+10,"MCQG-SRefine: Multiple Choice Question Generation and Evaluation with Iterative Self-Critique, Correction, and Comparison Feedback",2410.13191,http://arxiv.org/abs/2410.13191v2,2024-10-17 03:38:29+00:00
+11,Context-Enhanced Multi-View Trajectory Representation Learning: Bridging the Gap through Self-Supervised Models,2410.13196,http://arxiv.org/abs/2410.13196v2,2024-10-17 03:56:12+00:00
+12,TabSeq: A Framework for Deep Learning on Tabular Data via Sequential Ordering,2410.13203,http://arxiv.org/abs/2410.13203v2,2024-10-17 04:10:36+00:00
+13,FaithBench: A Diverse Hallucination Benchmark for Summarization by Modern LLMs,2410.13210,http://arxiv.org/abs/2410.13210v1,2024-10-17 04:30:46+00:00
+14,AsymKV: Enabling 1-Bit Quantization of KV Cache with Layer-Wise Asymmetric Quantization Configurations,2410.13212,http://arxiv.org/abs/2410.13212v1,2024-10-17 04:35:57+00:00
+15,LLMOPT: Learning to Define and Solve General Optimization Problems from Scratch,2410.13213,http://arxiv.org/abs/2410.13213v1,2024-10-17 04:37:37+00:00
+16,Anchored Alignment for Self-Explanations Enhancement,2410.13216,http://arxiv.org/abs/2410.13216v1,2024-10-17 04:42:48+00:00
+17,Research on Travel Route Planing Problems Based on Greedy Algorithm,2410.13226,http://arxiv.org/abs/2410.13226v2,2024-10-17 05:17:01+00:00
+18,Quamba: A Post-Training Quantization Recipe for Selective State Space Models,2410.13229,http://arxiv.org/abs/2410.13229v1,2024-10-17 05:32:33+00:00
+19,SPIN: Self-Supervised Prompt INjection,2410.13236,http://arxiv.org/abs/2410.13236v1,2024-10-17 05:40:54+00:00
+20,Atomic Calibration of LLMs in Long-Form Generations,2410.13246,http://arxiv.org/abs/2410.13246v1,2024-10-17 06:09:26+00:00
+21,Automatic Translation Alignment Pipeline for Multilingual Digital Editions of Literary Works,2410.13255,http://arxiv.org/abs/2410.13255v1,2024-10-17 06:21:38+00:00
+22,scFusionTTT: Single-cell transcriptomics and proteomics fusion with Test-Time Training layers,2410.13257,http://arxiv.org/abs/2410.13257v1,2024-10-17 06:29:29+00:00
+23,A Simplifying and Learnable Graph Convolutional Attention Network for Unsupervised Knowledge Graphs Alignment,2410.13263,http://arxiv.org/abs/2410.13263v1,2024-10-17 06:37:46+00:00
+24,The Latent Road to Atoms: Backmapping Coarse-grained Protein Structures with Latent Diffusion,2410.13264,http://arxiv.org/abs/2410.13264v1,2024-10-17 06:38:07+00:00
+25,Fairness-Enhancing Ensemble Classification in Water Distribution Networks,2410.13296,http://arxiv.org/abs/2410.13296v1,2024-10-17 07:53:02+00:00
+26,Advancing Large Language Model Attribution through Self-Improving,2410.13298,http://arxiv.org/abs/2410.13298v1,2024-10-17 07:55:33+00:00
+27,LLM-Rank: A Graph Theoretical Approach to Pruning Large Language Models,2410.13299,http://arxiv.org/abs/2410.13299v1,2024-10-17 07:55:47+00:00
+28,Automating IETF Insights generation with AI,2410.13301,http://arxiv.org/abs/2410.13301v1,2024-10-17 07:59:05+00:00
+29,Hiformer: Hybrid Frequency Feature Enhancement Inverted Transformer for Long-Term Wind Power Prediction,2410.13303,http://arxiv.org/abs/2410.13303v1,2024-10-17 08:00:36+00:00
+30,Computational Approaches to Arabic-English Code-Switching,2410.13318,http://arxiv.org/abs/2410.13318v1,2024-10-17 08:20:29+00:00
+31,Improving Discrete Optimisation Via Decoupled Straight-Through Gumbel-Softmax,2410.13331,http://arxiv.org/abs/2410.13331v1,2024-10-17 08:44:57+00:00
+32,DiffImp: Efficient Diffusion Model for Probabilistic Time Series Imputation with Bidirectional Mamba Backbone,2410.13338,http://arxiv.org/abs/2410.13338v1,2024-10-17 08:48:52+00:00
+33,Cerberus: Efficient Inference with Adaptive Parallel Decoding and Sequential Knowledge Enhancement,2410.13344,http://arxiv.org/abs/2410.13344v1,2024-10-17 08:55:18+00:00
+34,LAR-ECHR: A New Legal Argument Reasoning Task and Dataset for Cases of the European Court of Human Rights,2410.13352,http://arxiv.org/abs/2410.13352v1,2024-10-17 09:03:38+00:00
+35,MagicTailor: Component-Controllable Personalization in Text-to-Image Diffusion Models,2410.13370,http://arxiv.org/abs/2410.13370v1,2024-10-17 09:22:53+00:00
+36,Context-aware adaptive personalised recommendation: a meta-hybrid,2410.13374,http://arxiv.org/abs/2410.13374v1,2024-10-17 09:24:40+00:00
+37,Attr-Int: A Simple and Effective Entity Alignment Framework for Heterogeneous Knowledge Graphs,2410.13409,http://arxiv.org/abs/2410.13409v1,2024-10-17 10:16:56+00:00
+38,Think Thrice Before You Act: Progressive Thought Refinement in Large Language Models,2410.13413,http://arxiv.org/abs/2410.13413v1,2024-10-17 10:23:24+00:00
+39,Shavette: Low Power Neural Network Acceleration via Algorithm-level Error Detection and Undervolting,2410.13415,http://arxiv.org/abs/2410.13415v1,2024-10-17 10:29:15+00:00
+40,Solving Prior Distribution Mismatch in Diffusion Models via Optimal Transport,2410.13431,http://arxiv.org/abs/2410.13431v1,2024-10-17 10:54:55+00:00
+41,Instruction-Driven Game Engine: A Poker Case Study,2410.13441,http://arxiv.org/abs/2410.13441v1,2024-10-17 11:16:27+00:00
+42,Bias in the Mirror : Are LLMs opinions robust to their own adversarial attacks ?,2410.13517,http://arxiv.org/abs/2410.13517v1,2024-10-17 13:06:02+00:00
+43,Can Medical Vision-Language Pre-training Succeed with Purely Synthetic Data?,2410.13523,http://arxiv.org/abs/2410.13523v1,2024-10-17 13:11:07+00:00
+44,Integrating Temporal Representations for Dynamic Memory Retrieval and Management in Large Language Models,2410.13553,http://arxiv.org/abs/2410.13553v1,2024-10-17 13:51:03+00:00
+45,CCUP: A Controllable Synthetic Data Generation Pipeline for Pretraining Cloth-Changing Person Re-Identification Models,2410.13567,http://arxiv.org/abs/2410.13567v1,2024-10-17 14:04:02+00:00
+46,OAH-Net: A Deep Neural Network for Hologram Reconstruction of Off-axis Digital Holographic Microscope,2410.13592,http://arxiv.org/abs/2410.13592v1,2024-10-17 14:25:18+00:00
+47,Text-Guided Multi-Property Molecular Optimization with a Diffusion Language Model,2410.13597,http://arxiv.org/abs/2410.13597v1,2024-10-17 14:30:27+00:00
+48,MeNTi: Bridging Medical Calculator and LLM Agent with Nested Tool Calling,2410.13610,http://arxiv.org/abs/2410.13610v1,2024-10-17 14:46:22+00:00
+49,Spatiotemporal Object Detection for Improved Aerial Vehicle Detection in Traffic Monitoring,2410.13616,http://arxiv.org/abs/2410.13616v1,2024-10-17 14:49:37+00:00
+50,Normalizing self-supervised learning for provably reliable Change Point Detection,2410.13637,http://arxiv.org/abs/2410.13637v1,2024-10-17 15:07:56+00:00
+51,Fine-Tuning Discrete Diffusion Models via Reward Optimization with Applications to DNA and Protein Design,2410.13643,http://arxiv.org/abs/2410.13643v1,2024-10-17 15:10:13+00:00
+52,SimpleToM: Exposing the Gap between Explicit ToM Inference and Implicit ToM Application in LLMs,2410.13648,http://arxiv.org/abs/2410.13648v1,2024-10-17 15:15:00+00:00
+53,A new approach for fine-tuning sentence transformers for intent classification and out-of-scope detection tasks,2410.13649,http://arxiv.org/abs/2410.13649v2,2024-10-17 15:15:12+00:00
+54,Diffusion Curriculum: Synthetic-to-Real Generative Curriculum Learning via Image-Guided Diffusion,2410.13674,http://arxiv.org/abs/2410.13674v2,2024-10-17 15:33:35+00:00
+55,Jailbreaking LLM-Controlled Robots,2410.13691,http://arxiv.org/abs/2410.13691v1,2024-10-17 15:55:36+00:00
+56,Disjointness Violations in Wikidata,2410.13707,http://arxiv.org/abs/2410.13707v1,2024-10-17 16:07:51+00:00
+57,MIRAGE-Bench: Automatic Multilingual Benchmark Arena for Retrieval-Augmented Generation Systems,2410.13716,http://arxiv.org/abs/2410.13716v1,2024-10-17 16:18:49+00:00
+58,Persistent Pre-Training Poisoning of LLMs,2410.13722,http://arxiv.org/abs/2410.13722v1,2024-10-17 16:27:13+00:00
+59,DAWN: Dynamic Frame Avatar with Non-autoregressive Diffusion Framework for Talking Head Video Generation,2410.13726,http://arxiv.org/abs/2410.13726v2,2024-10-17 16:32:36+00:00
+60,LLM-Human Pipeline for Cultural Context Grounding of Conversations,2410.13727,http://arxiv.org/abs/2410.13727v1,2024-10-17 16:33:01+00:00
+61,Privacy-Preserving Decentralized AI with Confidential Computing,2410.13752,http://arxiv.org/abs/2410.13752v2,2024-10-17 16:50:48+00:00
+62,Virtual Sensing for Real-Time Degradation Monitoring of Nuclear Systems: Leveraging DeepONet for Enhanced Sensing Coverage for Digital Twin-Enabling Technology,2410.13762,http://arxiv.org/abs/2410.13762v1,2024-10-17 16:56:04+00:00
+63,Aggregation Artifacts in Subjective Tasks Collapse Large Language Models' Posteriors,2410.13776,http://arxiv.org/abs/2410.13776v2,2024-10-17 17:16:00+00:00
+64,PopAlign: Diversifying Contrasting Patterns for a More Comprehensive Alignment,2410.13785,http://arxiv.org/abs/2410.13785v1,2024-10-17 17:22:05+00:00
+65,Looking Inward: Language Models Can Learn About Themselves by Introspection,2410.13787,http://arxiv.org/abs/2410.13787v1,2024-10-17 17:24:10+00:00
+66,Guided Reinforcement Learning for Robust Multi-Contact Loco-Manipulation,2410.13817,http://arxiv.org/abs/2410.13817v1,2024-10-17 17:46:27+00:00
+67,Multi-style conversion for semantic segmentation of lesions in fundus images by adversarial attacks,2410.13822,http://arxiv.org/abs/2410.13822v1,2024-10-17 17:48:17+00:00
+68,AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents,2410.13825,http://arxiv.org/abs/2410.13825v1,2024-10-17 17:50:38+00:00
+69,The Disparate Benefits of Deep Ensembles,2410.13831,http://arxiv.org/abs/2410.13831v1,2024-10-17 17:53:01+00:00
+70,Influence Functions for Scalable Data Attribution in Diffusion Models,2410.13850,http://arxiv.org/abs/2410.13850v1,2024-10-17 17:59:02+00:00
+71,Leveraging Fine-Tuned Language Models for Efficient and Accurate Smart Contract Auditing,2410.13918,http://arxiv.org/abs/2410.13918v1,2024-10-17 09:09:09+00:00
+72,LLM Agent Honeypot: Monitoring AI Hacking Agents in the Wild,2410.13919,http://arxiv.org/abs/2410.13919v1,2024-10-17 09:25:28+00:00
+73,ARKit LabelMaker: A New Scale for Indoor 3D Scene Understanding,2410.13924,http://arxiv.org/abs/2410.13924v1,2024-10-17 14:44:35+00:00
+74,Detecting AI-Generated Texts in Cross-Domains,2410.13966,http://arxiv.org/abs/2410.13966v1,2024-10-17 18:43:30+00:00
+75,MarineFormer: A Transformer-based Navigation Policy Model for Collision Avoidance in Marine Environment,2410.13973,http://arxiv.org/abs/2410.13973v1,2024-10-17 18:57:15+00:00
+76,RecoveryChaining: Learning Local Recovery Policies for Robust Manipulation,2410.13979,http://arxiv.org/abs/2410.13979v1,2024-10-17 19:14:43+00:00
+77,On the Learn-to-Optimize Capabilities of Transformers in In-Context Sparse Recovery,2410.13981,http://arxiv.org/abs/2410.13981v1,2024-10-17 19:18:28+00:00
+78,Whisker-Inspired Tactile Sensing: A Sim2Real Approach for Precise Underwater Contact Tracking,2410.14005,http://arxiv.org/abs/2410.14005v1,2024-10-17 20:19:01+00:00
+79,Vision-Language-Action Model and Diffusion Policy Switching Enables Dexterous Control of an Anthropomorphic Hand,2410.14022,http://arxiv.org/abs/2410.14022v1,2024-10-17 20:49:45+00:00
+80,"Ensemble-based, large-eddy reconstruction of wind turbine inflow in a near-stationary atmospheric boundary layer through generative artificial intelligence",2410.14024,http://arxiv.org/abs/2410.14024v1,2024-10-17 20:53:04+00:00
+81,Best in Tau@LLMJudge: Criteria-Based Relevance Evaluation with Llama3,2410.14044,http://arxiv.org/abs/2410.14044v1,2024-10-17 21:37:08+00:00
+82,Towards Cross-Cultural Machine Translation with Retrieval-Augmented Generation from Multilingual Knowledge Graphs,2410.14057,http://arxiv.org/abs/2410.14057v1,2024-10-17 21:56:22+00:00
+83,"FaceSaliencyAug: Mitigating Geographic, Gender and Stereotypical Biases via Saliency-Based Data Augmentation",2410.14070,http://arxiv.org/abs/2410.14070v1,2024-10-17 22:36:52+00:00
+84,Interpreting Inflammation Prediction Model via Tag-based Cohort Explanation,2410.14082,http://arxiv.org/abs/2410.14082v1,2024-10-17 23:22:59+00:00
+85,In-context learning and Occam's razor,2410.14086,http://arxiv.org/abs/2410.14086v1,2024-10-17 23:37:34+00:00
+86,Efficient Deep Learning Board: Training Feedback Is Not All You Need,2410.14743,http://arxiv.org/abs/2410.14743v1,2024-10-17 14:43:34+00:00
+87,Eliciting Uncertainty in Chain-of-Thought to Mitigate Bias against Forecasting Harmful User Behaviors,2410.14744,http://arxiv.org/abs/2410.14744v1,2024-10-17 15:07:53+00:00
+88,SemiEvol: Semi-supervised Fine-tuning for LLM Adaptation,2410.14745,http://arxiv.org/abs/2410.14745v1,2024-10-17 16:59:46+00:00
+89,Accelerating Object Detection with YOLOv4 for Real-Time Applications,2410.16320,http://arxiv.org/abs/2410.16320v1,2024-10-17 17:44:57+00:00
+90,A Little Human Data Goes A Long Way,2410.13098,http://arxiv.org/abs/2410.13098v1,2024-10-17 00:04:02+00:00
+91,Sound Check: Auditing Audio Datasets,2410.13114,http://arxiv.org/abs/2410.13114v1,2024-10-17 00:51:27+00:00
+92,Utilizing Large Language Models in An Iterative Paradigm with Domain Feedback for Molecule Optimization,2410.13147,http://arxiv.org/abs/2410.13147v2,2024-10-17 02:04:57+00:00
+93,An Evolved Universal Transformer Memory,2410.13166,http://arxiv.org/abs/2410.13166v2,2024-10-17 02:47:10+00:00
+94,TCP-Diffusion: A Multi-modal Diffusion Model for Global Tropical Cyclone Precipitation Forecasting with Change Awareness,2410.13175,http://arxiv.org/abs/2410.13175v1,2024-10-17 02:58:05+00:00
+95,aiXcoder-7B: A Lightweight and Effective Large Language Model for Code Completion,2410.13187,http://arxiv.org/abs/2410.13187v1,2024-10-17 03:32:02+00:00
+96,Golyadkin's Torment: Doppelgängers and Adversarial Vulnerability,2410.13193,http://arxiv.org/abs/2410.13193v1,2024-10-17 03:42:06+00:00
+97,Meta-DiffuB: A Contextualized Sequence-to-Sequence Text Diffusion Model with Meta-Exploration,2410.13201,http://arxiv.org/abs/2410.13201v1,2024-10-17 04:06:02+00:00
+98,Measuring Free-Form Decision-Making Inconsistency of Language Models in Military Crisis Simulations,2410.13204,http://arxiv.org/abs/2410.13204v1,2024-10-17 04:12:17+00:00
+99,Estimating the Probabilities of Rare Outputs in Language Models,2410.13211,http://arxiv.org/abs/2410.13211v1,2024-10-17 04:31:18+00:00
