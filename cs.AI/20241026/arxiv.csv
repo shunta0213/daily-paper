@@ -1,0 +1,68 @@
+,title,id,arxiv_url,published
+0,LSS-SKAN: Efficient Kolmogorov-Arnold Networks based on Single-Parameterized Function,2410.14951,http://arxiv.org/abs/2410.14951v1,2024-10-19 02:44:35+00:00
+1,Retrieval Augmented Diffusion Model for Structure-informed Antibody Design and Optimization,2410.15040,http://arxiv.org/abs/2410.15040v1,2024-10-19 08:53:01+00:00
+2,MorphAgent: Empowering Agents through Self-Evolving Profiles and Decentralized Collaboration,2410.15048,http://arxiv.org/abs/2410.15048v1,2024-10-19 09:10:49+00:00
+3,Mining Glitch Tokens in Large Language Models via Gradient-based Discrete Optimization,2410.15052,http://arxiv.org/abs/2410.15052v2,2024-10-19 09:49:12+00:00
+4,A Dual-Fusion Cognitive Diagnosis Framework for Open Student Learning Environments,2410.15054,http://arxiv.org/abs/2410.15054v1,2024-10-19 10:12:02+00:00
+5,A Prompt Engineering Approach and a Knowledge Graph based Framework for Tackling Legal Implications of Large Language Model Answers,2410.15064,http://arxiv.org/abs/2410.15064v1,2024-10-19 10:59:50+00:00
+6,EPT-1.5 Technical Report,2410.15076,http://arxiv.org/abs/2410.15076v1,2024-10-19 11:44:04+00:00
+7,GDPO: Learning to Directly Align Language Models with Diversity Using GFlowNets,2410.15096,http://arxiv.org/abs/2410.15096v1,2024-10-19 13:07:52+00:00
+8,A Prompt Refinement-based Large Language Model for Metro Passenger Flow Forecasting under Delay Conditions,2410.15111,http://arxiv.org/abs/2410.15111v1,2024-10-19 13:46:46+00:00
+9,MCCoder: Streamlining Motion Control with LLM-Assisted Code Generation and Rigorous Verification,2410.15154,http://arxiv.org/abs/2410.15154v1,2024-10-19 16:46:21+00:00
+10,Optimizing Large Language Models for Dynamic Constraints through Human-in-the-Loop Discriminators,2410.15163,http://arxiv.org/abs/2410.15163v2,2024-10-19 17:27:38+00:00
+11,SPA-Bench: A Comprehensive Benchmark for SmartPhone Agent Evaluation,2410.15164,http://arxiv.org/abs/2410.15164v1,2024-10-19 17:28:48+00:00
+12,Linguistic Fuzzy Information Evolution with Random Leader Election Mechanism for Decision-Making Systems,2410.15171,http://arxiv.org/abs/2410.15171v1,2024-10-19 18:15:24+00:00
+13,Augmented Lagrangian-Based Safe Reinforcement Learning Approach for Distribution System Volt/VAR Control,2410.15188,http://arxiv.org/abs/2410.15188v1,2024-10-19 19:45:09+00:00
+14,Medical-GAT: Cancer Document Classification Leveraging Graph-Based Residual Network for Scenarios with Limited Data,2410.15198,http://arxiv.org/abs/2410.15198v2,2024-10-19 20:07:40+00:00
+15,Bias Amplification: Language Models as Increasingly Biased Media,2410.15234,http://arxiv.org/abs/2410.15234v1,2024-10-19 22:53:27+00:00
+16,Reflexive Guidance: Improving OoDD in Vision-Language Models via Self-Guided Image-Adaptive Concept Generation,2410.14975,http://arxiv.org/abs/2410.14975v1,2024-10-19 04:46:51+00:00
+17,AutoFPDesigner: Automated Flight Procedure Design Based on Multi-Agent Large Language Model,2410.14989,http://arxiv.org/abs/2410.14989v1,2024-10-19 05:41:11+00:00
+18,A comparative study of NeuralODE and Universal ODE approaches to solving Chandrasekhar White Dwarf equation,2410.14998,http://arxiv.org/abs/2410.14998v1,2024-10-19 06:13:32+00:00
+19,FlexMol: A Flexible Toolkit for Benchmarking Molecular Relational Learning,2410.15010,http://arxiv.org/abs/2410.15010v1,2024-10-19 06:53:11+00:00
+20,LLM-Driven Learning Analytics Dashboard for Teachers in EFL Writing Education,2410.15025,http://arxiv.org/abs/2410.15025v1,2024-10-19 07:46:11+00:00
+21,A Recommendation Model Utilizing Separation Embedding and Self-Attention for Feature Mining,2410.15026,http://arxiv.org/abs/2410.15026v1,2024-10-19 07:49:21+00:00
+22,A Novel Reinforcement Learning Model for Post-Incident Malware Investigations,2410.15028,http://arxiv.org/abs/2410.15028v2,2024-10-19 07:59:10+00:00
+23,Enhancing Multimodal Sentiment Analysis for Missing Modality through Self-Distillation and Unified Modality Cross-Attention,2410.15029,http://arxiv.org/abs/2410.15029v1,2024-10-19 07:59:41+00:00
+24,A General-Purpose Multimodal Foundation Model for Dermatology,2410.15038,http://arxiv.org/abs/2410.15038v1,2024-10-19 08:48:01+00:00
+25,Adversarial Training: A Survey,2410.15042,http://arxiv.org/abs/2410.15042v1,2024-10-19 08:57:35+00:00
+26,Distribution-Aware Compensation Design for Sustainable Data Rights in Machine Learning,2410.15045,http://arxiv.org/abs/2410.15045v2,2024-10-19 09:04:13+00:00
+27,LLaVA-Ultra: Large Chinese Language and Vision Assistant for Ultrasound,2410.15074,http://arxiv.org/abs/2410.15074v1,2024-10-19 11:38:31+00:00
+28,SLIC: Secure Learned Image Codec through Compressed Domain Watermarking to Defend Image Manipulation,2410.15075,http://arxiv.org/abs/2410.15075v1,2024-10-19 11:42:36+00:00
+29,A Distribution Semantics for Probabilistic Term Rewriting,2410.15081,http://arxiv.org/abs/2410.15081v1,2024-10-19 12:00:13+00:00
+30,Incorporating Group Prior into Variational Inference for Tail-User Behavior Modeling in CTR Prediction,2410.15098,http://arxiv.org/abs/2410.15098v1,2024-10-19 13:15:36+00:00
+31,Coarse-to-Fine Highlighting: Reducing Knowledge Hallucination in Large Language Models,2410.15116,http://arxiv.org/abs/2410.15116v1,2024-10-19 13:59:48+00:00
+32,MELT: Materials-aware Continued Pre-training for Language Model Adaptation to Materials Science,2410.15126,http://arxiv.org/abs/2410.15126v1,2024-10-19 14:49:03+00:00
+33,Reinfier and Reintrainer: Verification and Interpretation-Driven Safe Deep Reinforcement Learning Frameworks,2410.15127,http://arxiv.org/abs/2410.15127v1,2024-10-19 15:03:26+00:00
+34,Uncovering Autoregressive LLM Knowledge of Thematic Fit in Event Representation,2410.15173,http://arxiv.org/abs/2410.15173v1,2024-10-19 18:25:30+00:00
+35,Action abstractions for amortized sampling,2410.15184,http://arxiv.org/abs/2410.15184v1,2024-10-19 19:22:50+00:00
+36,Fine-tuning foundational models to code diagnoses from veterinary health records,2410.15186,http://arxiv.org/abs/2410.15186v1,2024-10-19 19:30:29+00:00
+37,Chasing Random: Instruction Selection Strategies Fail to Generalize,2410.15225,http://arxiv.org/abs/2410.15225v1,2024-10-19 22:10:49+00:00
+38,Team Ryu's Submission to SIGMORPHON 2024 Shared Task on Subword Tokenization,2410.17094,http://arxiv.org/abs/2410.17094v1,2024-10-19 04:06:09+00:00
+39,Cooperation and Fairness in Multi-Agent Reinforcement Learning,2410.14916,http://arxiv.org/abs/2410.14916v1,2024-10-19 00:10:52+00:00
+40,Water quality polluted by total suspended solids classified within an Artificial Neural Network approach,2410.14929,http://arxiv.org/abs/2410.14929v1,2024-10-19 01:33:08+00:00
+41,DEL-Ranking: Ranking-Correction Denoising Framework for Elucidating Molecular Affinities in DNA-Encoded Libraries,2410.14946,http://arxiv.org/abs/2410.14946v1,2024-10-19 02:32:09+00:00
+42,Optimally Solving Colored Generalized Sliding-Tile Puzzles: Complexity and Bounds,2410.14947,http://arxiv.org/abs/2410.14947v1,2024-10-19 02:34:13+00:00
+43,Offline-to-online Reinforcement Learning for Image-based Grasping with Scarce Demonstrations,2410.14957,http://arxiv.org/abs/2410.14957v1,2024-10-19 03:08:10+00:00
+44,LangGFM: A Large Language Model Alone Can be a Powerful Graph Foundation Model,2410.14961,http://arxiv.org/abs/2410.14961v1,2024-10-19 03:27:19+00:00
+45,Taming the Long Tail in Human Mobility Prediction,2410.14970,http://arxiv.org/abs/2410.14970v1,2024-10-19 04:28:44+00:00
+46,BrainECHO: Semantic Brain Signal Decoding through Vector-Quantized Spectrogram Reconstruction for Whisper-Enhanced Text Generation,2410.14971,http://arxiv.org/abs/2410.14971v1,2024-10-19 04:29:03+00:00
+47,Do Large Language Models Truly Grasp Mathematics? An Empirical Exploration,2410.14979,http://arxiv.org/abs/2410.14979v2,2024-10-19 05:01:56+00:00
+48,NeuralMAG: Fast and Generalizable Micromagnetic Simulation with Deep Neural Nets,2410.14986,http://arxiv.org/abs/2410.14986v1,2024-10-19 05:25:08+00:00
+49,Improving Pronunciation and Accent Conversion through Knowledge Distillation And Synthetic Ground-Truth from Native TTS,2410.14997,http://arxiv.org/abs/2410.14997v1,2024-10-19 06:12:31+00:00
+50,Pathologist-like explainable AI for interpretable Gleason grading in prostate cancer,2410.15012,http://arxiv.org/abs/2410.15012v1,2024-10-19 06:58:26+00:00
+51,DST-TransitNet: A Dynamic Spatio-Temporal Deep Learning Model for Scalable and Efficient Network-Wide Prediction of Station-Level Transit Ridership,2410.15013,http://arxiv.org/abs/2410.15013v1,2024-10-19 06:59:39+00:00
+52,DM-Codec: Distilling Multimodal Representations for Speech Tokenization,2410.15017,http://arxiv.org/abs/2410.15017v1,2024-10-19 07:14:14+00:00
+53,Personalized Federated Learning with Adaptive Feature Aggregation and Knowledge Transfer,2410.15073,http://arxiv.org/abs/2410.15073v1,2024-10-19 11:32:39+00:00
+54,DPVS-Shapley:Faster and Universal Contribution Evaluation Component in Federated Learning,2410.15093,http://arxiv.org/abs/2410.15093v1,2024-10-19 13:01:44+00:00
+55,On Designing Effective RL Reward at Training Time for LLM Reasoning,2410.15115,http://arxiv.org/abs/2410.15115v1,2024-10-19 13:53:50+00:00
+56,Generalized Flow Matching for Transition Dynamics Modeling,2410.15128,http://arxiv.org/abs/2410.15128v1,2024-10-19 15:03:39+00:00
+57,Budgeted Online Continual Learning by Adaptive Layer Freezing and Frequency-based Sampling,2410.15143,http://arxiv.org/abs/2410.15143v1,2024-10-19 16:00:00+00:00
+58,Simulation-Based Optimistic Policy Iteration For Multi-Agent MDPs with Kullback-Leibler Control Cost,2410.15156,http://arxiv.org/abs/2410.15156v1,2024-10-19 17:00:23+00:00
+59,"Implicit neural representation for free-breathing MR fingerprinting (INR-MRF): co-registered 3D whole-liver water T1, water T2, proton density fat fraction, and R2* mapping",2410.15175,http://arxiv.org/abs/2410.15175v1,2024-10-19 18:35:36+00:00
+60,Low-cost Robust Night-time Aerial Material Segmentation through Hyperspectral Data and Sparse Spatio-Temporal Learning,2410.15208,http://arxiv.org/abs/2410.15208v1,2024-10-19 20:48:41+00:00
+61,A Cycle Ride to HDR: Semantics Aware Self-Supervised Framework for Unpaired LDR-to-HDR Image Translation,2410.15068,http://arxiv.org/abs/2410.15068v1,2024-10-19 11:11:58+00:00
+62,Towards Safer Heuristics With XPlain,2410.15086,http://arxiv.org/abs/2410.15086v1,2024-10-19 12:21:42+00:00
+63,Enhancing Robot Navigation Policies with Task-Specific Uncertainty Management,2410.15178,http://arxiv.org/abs/2410.15178v1,2024-10-19 18:46:17+00:00
+64,IntersectionZoo: Eco-driving for Benchmarking Multi-Agent Contextual Reinforcement Learning,2410.15221,http://arxiv.org/abs/2410.15221v1,2024-10-19 21:34:24+00:00
+65,AutoFLUKA: A Large Language Model Based Framework for Automating Monte Carlo Simulations in FLUKA,2410.15222,http://arxiv.org/abs/2410.15222v1,2024-10-19 21:50:11+00:00
+66,Transit Pulse: Utilizing Social Media as a Source for Customer Feedback and Information Extraction with Large Language Model,2410.15016,http://arxiv.org/abs/2410.15016v1,2024-10-19 07:08:40+00:00
