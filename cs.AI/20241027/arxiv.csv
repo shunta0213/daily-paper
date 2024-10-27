@@ -1,0 +1,60 @@
+,title,id,arxiv_url,published
+0,Contextual Augmented Multi-Model Programming (CAMP): A Hybrid Local-Cloud Copilot Framework,2410.15285,http://arxiv.org/abs/2410.15285v1,2024-10-20 04:51:24+00:00
+1,IKDP: Inverse Kinematics through Diffusion Process,2410.15341,http://arxiv.org/abs/2410.15341v1,2024-10-20 09:21:04+00:00
+2,POSE: Pose estimation Of virtual Sync Exhibit system,2410.15343,http://arxiv.org/abs/2410.15343v1,2024-10-20 09:34:15+00:00
+3,A Survey of Hallucination in Large Visual Language Models,2410.15359,http://arxiv.org/abs/2410.15359v1,2024-10-20 10:58:58+00:00
+4,XAI-based Feature Ensemble for Enhanced Anomaly Detection in Autonomous Driving Systems,2410.15405,http://arxiv.org/abs/2410.15405v1,2024-10-20 14:34:48+00:00
+5,Unveiling and Consulting Core Experts in Retrieval-Augmented MoE-based LLMs,2410.15438,http://arxiv.org/abs/2410.15438v1,2024-10-20 16:08:54+00:00
+6,Heterogeneous Graph Reinforcement Learning for Dependency-aware Multi-task Allocation in Spatial Crowdsourcing,2410.15449,http://arxiv.org/abs/2410.15449v1,2024-10-20 17:00:45+00:00
+7,Improving Clinical Documentation with AI: A Comparative Study of Sporo AI Scribe and GPT-4o mini,2410.15528,http://arxiv.org/abs/2410.15528v1,2024-10-20 22:48:40+00:00
+8,Tensor-Fused Multi-View Graph Contrastive Learning,2410.15247,http://arxiv.org/abs/2410.15247v1,2024-10-20 01:40:12+00:00
+9,Lossless KV Cache Compression to 2%,2410.15252,http://arxiv.org/abs/2410.15252v1,2024-10-20 02:17:35+00:00
+10,HyQE: Ranking Contexts with Hypothetical Query Embeddings,2410.15262,http://arxiv.org/abs/2410.15262v1,2024-10-20 03:15:01+00:00
+11,AI Can Enhance Creativity in Social Networks,2410.15264,http://arxiv.org/abs/2410.15264v1,2024-10-20 03:33:25+00:00
+12,Performance-Driven QUBO for Recommender Systems on Quantum Annealers,2410.15272,http://arxiv.org/abs/2410.15272v1,2024-10-20 04:05:18+00:00
+13,Redefining Proactivity for Information Seeking Dialogue,2410.15297,http://arxiv.org/abs/2410.15297v1,2024-10-20 05:57:10+00:00
+14,LlamaLens: Specialized Multilingual LLM for Analyzing News and Social Media Content,2410.15308,http://arxiv.org/abs/2410.15308v1,2024-10-20 06:37:37+00:00
+15,Synergistic Dual Spatial-aware Generation of Image-to-Text and Text-to-Image,2410.15312,http://arxiv.org/abs/2410.15312v1,2024-10-20 06:47:34+00:00
+16,FoMo: A Foundation Model for Mobile Traffic Forecasting with Diffusion Model,2410.15322,http://arxiv.org/abs/2410.15322v1,2024-10-20 07:32:16+00:00
+17,YOLO-RD: Introducing Relevant and Compact Explicit Knowledge to YOLO by Retriever-Dictionary,2410.15346,http://arxiv.org/abs/2410.15346v1,2024-10-20 09:38:58+00:00
+18,LAC: Graph Contrastive Learning with Learnable Augmentation in Continuous Space,2410.15355,http://arxiv.org/abs/2410.15355v1,2024-10-20 10:47:15+00:00
+19,Ethical AI in Retail: Consumer Privacy and Fairness,2410.15369,http://arxiv.org/abs/2410.15369v1,2024-10-20 12:00:14+00:00
+20,Synthetic Data Generation for Residential Load Patterns via Recurrent GAN and Ensemble Method,2410.15379,http://arxiv.org/abs/2410.15379v1,2024-10-20 12:33:38+00:00
+21,The Best Defense is a Good Offense: Countering LLM-Powered Cyberattacks,2410.15396,http://arxiv.org/abs/2410.15396v1,2024-10-20 14:07:24+00:00
+22,MMCS: A Multimodal Medical Diagnosis System Integrating Image Analysis and Knowledge-based Departmental Consultation,2410.15403,http://arxiv.org/abs/2410.15403v1,2024-10-20 14:31:05+00:00
+23,A Comprehensive Evaluation of Cognitive Biases in LLMs,2410.15413,http://arxiv.org/abs/2410.15413v1,2024-10-20 15:07:51+00:00
+24,CASET: Complexity Analysis using Simple Execution Traces for CS* submissions,2410.15419,http://arxiv.org/abs/2410.15419v1,2024-10-20 15:29:50+00:00
+25,Where to Build Food Banks and Pantries: A Two-Level Machine Learning Approach,2410.15420,http://arxiv.org/abs/2410.15420v1,2024-10-20 15:31:24+00:00
+26,Power Plays: Unleashing Machine Learning Magic in Smart Grids,2410.15423,http://arxiv.org/abs/2410.15423v1,2024-10-20 15:39:08+00:00
+27,Evaluating Consistencies in LLM responses through a Semantic Clustering of Question Answering,2410.15440,http://arxiv.org/abs/2410.15440v1,2024-10-20 16:21:25+00:00
+28,Exploring Social Desirability Response Bias in Large Language Models: Evidence from GPT-4 Simulations,2410.15442,http://arxiv.org/abs/2410.15442v1,2024-10-20 16:28:24+00:00
+29,Concept Complement Bottleneck Model for Interpretable Medical Image Diagnosis,2410.15446,http://arxiv.org/abs/2410.15446v1,2024-10-20 16:52:09+00:00
+30,"Keep Guessing? When Considering Inference Scaling, Mind the Baselines",2410.15466,http://arxiv.org/abs/2410.15466v1,2024-10-20 18:43:05+00:00
+31,AssemblyComplete: 3D Combinatorial Construction with Deep Reinforcement Learning,2410.15469,http://arxiv.org/abs/2410.15469v1,2024-10-20 18:51:17+00:00
+32,How Aligned are Generative Models to Humans in High-Stakes Decision-Making?,2410.15471,http://arxiv.org/abs/2410.15471v1,2024-10-20 19:00:59+00:00
+33,Dynamic Intelligence Assessment: Benchmarking LLMs on the Road to AGI with a Focus on Model Confidence,2410.15490,http://arxiv.org/abs/2410.15490v2,2024-10-20 20:07:36+00:00
+34,SEA: State-Exchange Attention for High-Fidelity Physics-Based Transformers,2410.15495,http://arxiv.org/abs/2410.15495v1,2024-10-20 20:25:01+00:00
+35,GRS: Generating Robotic Simulation Tasks from Real-World Images,2410.15536,http://arxiv.org/abs/2410.15536v1,2024-10-20 23:33:06+00:00
+36,Jailbreaking and Mitigation of Vulnerabilities in Large Language Models,2410.15236,http://arxiv.org/abs/2410.15236v1,2024-10-20 00:00:56+00:00
+37,Economic Anthropology in the Era of Generative Artificial Intelligence,2410.15238,http://arxiv.org/abs/2410.15238v1,2024-10-20 00:27:33+00:00
+38,ContextDet: Temporal Action Detection with Adaptive Context Aggregation,2410.15279,http://arxiv.org/abs/2410.15279v1,2024-10-20 04:28:19+00:00
+39,"Large Language Models for Autonomous Driving (LLM4AD): Concept, Benchmark, Simulation, and Real-Vehicle Experiment",2410.15281,http://arxiv.org/abs/2410.15281v1,2024-10-20 04:36:19+00:00
+40,Fractional-order spike-timing-dependent gradient descent for multi-layer spiking neural networks,2410.15293,http://arxiv.org/abs/2410.15293v1,2024-10-20 05:31:34+00:00
+41,Who is Undercover? Guiding LLMs to Explore Multi-Perspective Team Tactic in the Game,2410.15311,http://arxiv.org/abs/2410.15311v1,2024-10-20 06:41:31+00:00
+42,SNAP: Stopping Catastrophic Forgetting in Hebbian Learning with Sigmoidal Neuronal Adaptive Plasticity,2410.15318,http://arxiv.org/abs/2410.15318v1,2024-10-20 07:20:33+00:00
+43,Causality for Large Language Models,2410.15319,http://arxiv.org/abs/2410.15319v1,2024-10-20 07:22:23+00:00
+44,Faster-GCG: Efficient Discrete Optimization Jailbreak Attacks against Aligned Large Language Models,2410.15362,http://arxiv.org/abs/2410.15362v1,2024-10-20 11:27:41+00:00
+45,FrameBridge: Improving Image-to-Video Generation with Bridge Models,2410.15371,http://arxiv.org/abs/2410.15371v1,2024-10-20 12:10:24+00:00
+46,Explainability of Point Cloud Neural Networks Using SMILE: Statistical Model-Agnostic Interpretability with Local Explanations,2410.15374,http://arxiv.org/abs/2410.15374v1,2024-10-20 12:13:59+00:00
+47,PEAS: A Strategy for Crafting Transferable Adversarial Examples,2410.15409,http://arxiv.org/abs/2410.15409v1,2024-10-20 14:55:08+00:00
+48,AttCDCNet: Attention-enhanced Chest Disease Classification using X-Ray Images,2410.15437,http://arxiv.org/abs/2410.15437v1,2024-10-20 16:08:20+00:00
+49,Hallucination Detox: Sensitive Neuron Dropout (SeND) for Large Language Model Training,2410.15460,http://arxiv.org/abs/2410.15460v1,2024-10-20 18:18:23+00:00
+50,"Hey GPT, Can You be More Racist? Analysis from Crowdsourced Attempts to Elicit Biased Content from Generative AI",2410.15467,http://arxiv.org/abs/2410.15467v1,2024-10-20 18:44:45+00:00
+51,Data Augmentation via Diffusion Model to Enhance AI Fairness,2410.15470,http://arxiv.org/abs/2410.15470v1,2024-10-20 18:52:31+00:00
+52,Multi-Layer Feature Fusion with Cross-Channel Attention-Based U-Net for Kidney Tumor Segmentation,2410.15472,http://arxiv.org/abs/2410.15472v2,2024-10-20 19:02:41+00:00
+53,Mitigating Forgetting in LLM Supervised Fine-Tuning and Preference Learning,2410.15483,http://arxiv.org/abs/2410.15483v1,2024-10-20 19:38:41+00:00
+54,Generative AI Agents in Autonomous Machines: A Safety Perspective,2410.15489,http://arxiv.org/abs/2410.15489v1,2024-10-20 20:07:08+00:00
+55,Improving Voice Quality in Speech Anonymization With Just Perception-Informed Losses,2410.15499,http://arxiv.org/abs/2410.15499v1,2024-10-20 20:33:44+00:00
+56,Anonymising Elderly and Pathological Speech: Voice Conversion Using DDSP and Query-by-Example,2410.15500,http://arxiv.org/abs/2410.15500v1,2024-10-20 20:40:56+00:00
+57,Exploring Curriculum Learning for Vision-Language Tasks: A Study on Small-Scale Multimodal Training,2410.15509,http://arxiv.org/abs/2410.15509v1,2024-10-20 21:03:51+00:00
+58,M-RewardBench: Evaluating Reward Models in Multilingual Settings,2410.15522,http://arxiv.org/abs/2410.15522v1,2024-10-20 22:09:44+00:00
