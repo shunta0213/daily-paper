@@ -1,0 +1,57 @@
+,title,id,arxiv_url,published
+0,MAD-Sherlock: Multi-Agent Debates for Out-of-Context Misinformation Detection,2410.20140,http://arxiv.org/abs/2410.20140v1,2024-10-26 10:34:22+00:00
+1,Rethinking the Uncertainty: A Critical Review and Analysis in the Era of Large Language Models,2410.20199,http://arxiv.org/abs/2410.20199v1,2024-10-26 15:07:15+00:00
+2,SWE-Search: Enhancing Software Agents with Monte Carlo Tree Search and Iterative Refinement,2410.20285,http://arxiv.org/abs/2410.20285v2,2024-10-26 22:45:56+00:00
+3,Think Carefully and Check Again! Meta-Generation Unlocking LLMs for Low-Resource Cross-Lingual Summarization,2410.20021,http://arxiv.org/abs/2410.20021v1,2024-10-26 00:39:44+00:00
+4,Beyond Fine-Tuning: Effective Strategies for Mitigating Hallucinations in Large Language Models for Data Analytics,2410.20024,http://arxiv.org/abs/2410.20024v1,2024-10-26 00:45:42+00:00
+5,FLOW: A Feedback LOop FrameWork for Simultaneously Enhancing Recommendation and User Agents,2410.20027,http://arxiv.org/abs/2410.20027v1,2024-10-26 00:51:39+00:00
+6,DQRM: Deep Quantized Recommendation Models,2410.20046,http://arxiv.org/abs/2410.20046v1,2024-10-26 02:33:52+00:00
+7,AutoMIR: Effective Zero-Shot Medical Information Retrieval without Relevance Labels,2410.20050,http://arxiv.org/abs/2410.20050v1,2024-10-26 02:53:20+00:00
+8,Evaluating Neural Networks for Early Maritime Threat Detection,2410.20054,http://arxiv.org/abs/2410.20054v1,2024-10-26 03:05:28+00:00
+9,A Multi-Modal Non-Invasive Deep Learning Framework for Progressive Prediction of Seizures,2410.20066,http://arxiv.org/abs/2410.20066v1,2024-10-26 04:06:09+00:00
+10,Optimizing Keyphrase Ranking for Relevance and Diversity Using Submodular Function Optimization (SFO),2410.20080,http://arxiv.org/abs/2410.20080v1,2024-10-26 05:14:32+00:00
+11,OGBench: Benchmarking Offline Goal-Conditioned RL,2410.20092,http://arxiv.org/abs/2410.20092v1,2024-10-26 06:06:08+00:00
+12,Self-Normalized Resets for Plasticity in Continual Learning,2410.20098,http://arxiv.org/abs/2410.20098v1,2024-10-26 06:47:13+00:00
+13,Estuary: A Framework For Building Multimodal Low-Latency Real-Time Socially Interactive Agents,2410.20116,http://arxiv.org/abs/2410.20116v1,2024-10-26 08:08:12+00:00
+14,Diff-CXR: Report-to-CXR generation through a disease-knowledge enhanced diffusion model,2410.20165,http://arxiv.org/abs/2410.20165v1,2024-10-26 12:38:12+00:00
+15,A Stack-Propagation Framework for Low-Resource Personalized Dialogue Generation,2410.20174,http://arxiv.org/abs/2410.20174v1,2024-10-26 13:09:21+00:00
+16,Physics informed Shadowgraph Density Field Reconstruction,2410.20203,http://arxiv.org/abs/2410.20203v1,2024-10-26 15:28:15+00:00
+17,A Survey of Large Language Models for Arabic Language and its Dialects,2410.20238,http://arxiv.org/abs/2410.20238v1,2024-10-26 17:48:20+00:00
+18,Adaptive Video Understanding Agent: Enhancing efficiency with dynamic frame sampling and feedback-driven reasoning,2410.20252,http://arxiv.org/abs/2410.20252v1,2024-10-26 19:01:06+00:00
+19,MarDini: Masked Autoregressive Diffusion for Video Generation at Scale,2410.20280,http://arxiv.org/abs/2410.20280v1,2024-10-26 21:12:32+00:00
+20,Multi-path Exploration and Feedback Adjustment for Text-to-Image Person Retrieval,2410.21318,http://arxiv.org/abs/2410.21318v1,2024-10-26 03:25:27+00:00
+21,Angel or Devil: Discriminating Hard Samples and Anomaly Contaminations for Unsupervised Time Series Anomaly Detection,2410.21322,http://arxiv.org/abs/2410.21322v1,2024-10-26 13:59:23+00:00
+22,"Just Propagate: Unifying Matrix Factorization, Network Embedding, and LightGCN for Link Prediction",2410.21325,http://arxiv.org/abs/2410.21325v1,2024-10-26 21:43:34+00:00
+23,Off-Policy Selection for Initiating Human-Centric Experimental Design,2410.20017,http://arxiv.org/abs/2410.20017v1,2024-10-26 00:17:33+00:00
+24,GHIL-Glue: Hierarchical Control with Filtered Subgoal Images,2410.20018,http://arxiv.org/abs/2410.20018v1,2024-10-26 00:32:21+00:00
+25,SCube: Instant Large-Scale Scene Reconstruction using VoxSplats,2410.20030,http://arxiv.org/abs/2410.20030v1,2024-10-26 00:52:46+00:00
+26,Sensor2Text: Enabling Natural Language Interactions for Daily Activity Tracking Using Wearable Sensors,2410.20034,http://arxiv.org/abs/2410.20034v1,2024-10-26 01:03:13+00:00
+27,Training the Untrainable: Introducing Inductive Bias via Representational Alignment,2410.20035,http://arxiv.org/abs/2410.20035v1,2024-10-26 01:04:03+00:00
+28,Architectural Flaw Detection in Civil Engineering Using GPT-4,2410.20036,http://arxiv.org/abs/2410.20036v1,2024-10-26 01:10:04+00:00
+29,Roles of LLMs in the Overall Mental Architecture,2410.20037,http://arxiv.org/abs/2410.20037v1,2024-10-26 01:13:44+00:00
+30,"Transforming Precision: A Comparative Analysis of Vision Transformers, CNNs, and Traditional ML for Knee Osteoarthritis Severity Diagnosis",2410.20062,http://arxiv.org/abs/2410.20062v1,2024-10-26 03:58:58+00:00
+31,RARe: Retrieval Augmented Retrieval with In-Context Examples,2410.20088,http://arxiv.org/abs/2410.20088v1,2024-10-26 05:46:20+00:00
+32,Emergence of Globally Attracting Fixed Points in Deep Neural Networks With Nonlinear Activations,2410.20107,http://arxiv.org/abs/2410.20107v2,2024-10-26 07:10:47+00:00
+33,GiVE: Guiding Visual Encoder to Perceive Overlooked Information,2410.20109,http://arxiv.org/abs/2410.20109v1,2024-10-26 07:37:43+00:00
+34,On-Site Precise Screening of SARS-CoV-2 Systems Using a Channel-Wise Attention-Based PLS-1D-CNN Model with Limited Infrared Signatures,2410.20132,http://arxiv.org/abs/2410.20132v1,2024-10-26 09:22:35+00:00
+35,Mask-based Membership Inference Attacks for Retrieval-Augmented Generation,2410.20142,http://arxiv.org/abs/2410.20142v1,2024-10-26 10:43:39+00:00
+36,Exploring Welfare Maximization and Fairness in Participatory Budgeting,2410.20143,http://arxiv.org/abs/2410.20143v1,2024-10-26 10:51:22+00:00
+37,AdaNeg: Adaptive Negative Proxy Guided OOD Detection with Vision-Language Models,2410.20149,http://arxiv.org/abs/2410.20149v1,2024-10-26 11:20:02+00:00
+38,Causal Abstraction in Model Interpretability: A Compact Survey,2410.20161,http://arxiv.org/abs/2410.20161v1,2024-10-26 12:24:28+00:00
+39,LLMs Can Evolve Continually on Modality for X-Modal Reasoning,2410.20178,http://arxiv.org/abs/2410.20178v1,2024-10-26 13:19:57+00:00
+40,Chemical Language Model Linker: blending text and molecules with modular adapters,2410.20182,http://arxiv.org/abs/2410.20182v1,2024-10-26 13:40:13+00:00
+41,Uncertainty-Penalized Direct Preference Optimization,2410.20187,http://arxiv.org/abs/2410.20187v1,2024-10-26 14:24:37+00:00
+42,"Generative AI in Health Economics and Outcomes Research: A Taxonomy of Key Definitions and Emerging Applications, an ISPOR Working Group Report",2410.20204,http://arxiv.org/abs/2410.20204v1,2024-10-26 15:42:50+00:00
+43,Neural Fields in Robotics: A Survey,2410.20220,http://arxiv.org/abs/2410.20220v1,2024-10-26 16:26:41+00:00
+44,Modelling of Economic Implications of Bias in AI-Powered Health Emergency Response Systems,2410.20229,http://arxiv.org/abs/2410.20229v1,2024-10-26 17:11:23+00:00
+45,Improving Model Evaluation using SMART Filtering of Benchmark Datasets,2410.20245,http://arxiv.org/abs/2410.20245v1,2024-10-26 18:21:44+00:00
+46,Equivariant Blurring Diffusion for Hierarchical Molecular Conformer Generation,2410.20255,http://arxiv.org/abs/2410.20255v1,2024-10-26 19:17:31+00:00
+47,EfficientEQA: An Efficient Approach for Open Vocabulary Embodied Question Answering,2410.20263,http://arxiv.org/abs/2410.20263v1,2024-10-26 19:48:47+00:00
+48,AI-Driven Cyber Threat Intelligence Automation,2410.20287,http://arxiv.org/abs/2410.20287v1,2024-10-26 22:56:53+00:00
+49,MatExpert: Decomposing Materials Discovery by Mimicking Human Experts,2410.21317,http://arxiv.org/abs/2410.21317v1,2024-10-26 00:44:54+00:00
+50,Towards Continuous Skin Sympathetic Nerve Activity Monitoring: Removing Muscle Noise,2410.21319,http://arxiv.org/abs/2410.21319v1,2024-10-26 04:10:14+00:00
+51,User-Aware Multilingual Abusive Content Detection in Social Media,2410.21321,http://arxiv.org/abs/2410.21321v1,2024-10-26 05:44:24+00:00
+52,Mathematical Derivation Graphs: A Task for Summarizing Equation Dependencies in STEM Manuscripts,2410.21324,http://arxiv.org/abs/2410.21324v1,2024-10-26 16:52:22+00:00
+53,"MMM-RS: A Multi-modal, Multi-GSD, Multi-scene Remote Sensing Dataset and Benchmark for Text-to-Image Generation",2410.22362,http://arxiv.org/abs/2410.22362v1,2024-10-26 11:19:07+00:00
+54,Advanced Cyberattack Detection in Internet of Medical Things (IoMT) Using Convolutional Neural Networks,2410.23306,http://arxiv.org/abs/2410.23306v1,2024-10-26 14:27:17+00:00
+55,Deep Optimizer States: Towards Scalable Training of Transformer Models Using Interleaved Offloading,2410.21316,http://arxiv.org/abs/2410.21316v1,2024-10-26 00:43:59+00:00
