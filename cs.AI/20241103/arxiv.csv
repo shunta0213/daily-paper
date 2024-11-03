@@ -1,0 +1,61 @@
+,title,id,arxiv_url,published
+0,Effective Instruction Parsing Plugin for Complex Logical Query Answering on Knowledge Graphs,2410.20321,http://arxiv.org/abs/2410.20321v1,2024-10-27 03:18:52+00:00
+1,Learning from Response not Preference: A Stackelberg Approach for LLM Detoxification using Non-parallel Data,2410.20298,http://arxiv.org/abs/2410.20298v1,2024-10-27 00:39:54+00:00
+2,ANOMIX: A Simple yet Effective Hard Negative Generation via Mixing for Graph Anomaly Detection,2410.20310,http://arxiv.org/abs/2410.20310v1,2024-10-27 02:35:12+00:00
+3,Deep Learning Based Dense Retrieval: A Comparative Study,2410.20315,http://arxiv.org/abs/2410.20315v1,2024-10-27 02:52:36+00:00
+4,Few-shot Open Relation Extraction with Gaussian Prototype and Adaptive Margin,2410.20320,http://arxiv.org/abs/2410.20320v1,2024-10-27 03:16:09+00:00
+5,R-LLaVA: Improving Med-VQA Understanding through Visual Region of Interest,2410.20327,http://arxiv.org/abs/2410.20327v1,2024-10-27 03:56:56+00:00
+6,Maintaining Informative Coherence: Migrating Hallucinations in Large Language Models via Absorbing Markov Chains,2410.20340,http://arxiv.org/abs/2410.20340v1,2024-10-27 04:51:18+00:00
+7,Idempotent Unsupervised Representation Learning for Skeleton-Based Action Recognition,2410.20349,http://arxiv.org/abs/2410.20349v1,2024-10-27 06:29:04+00:00
+8,Uncovering Capabilities of Model Pruning in Graph Contrastive Learning,2410.20356,http://arxiv.org/abs/2410.20356v1,2024-10-27 07:09:31+00:00
+9,Dynamics as Prompts: In-Context Learning for Sim-to-Real System Identifications,2410.20357,http://arxiv.org/abs/2410.20357v1,2024-10-27 07:13:38+00:00
+10,RopeTP: Global Human Motion Recovery via Integrating Robust Pose Estimation with Diffusion Trajectory Prior,2410.20358,http://arxiv.org/abs/2410.20358v1,2024-10-27 07:19:39+00:00
+11,Rethinking Data Synthesis: A Teacher Model Training Recipe with Interpretation,2410.20362,http://arxiv.org/abs/2410.20362v1,2024-10-27 07:38:39+00:00
+12,Multiple kernel concept factorization algorithm based on global fusion,2410.20383,http://arxiv.org/abs/2410.20383v1,2024-10-27 09:13:57+00:00
+13,"Addressing the Pitfalls of Image-Based Structural Health Monitoring: A Focus on False Positives, False Negatives, and Base Rate Bias",2410.20384,http://arxiv.org/abs/2410.20384v1,2024-10-27 09:15:05+00:00
+14,"ThunderKittens: Simple, Fast, and Adorable AI Kernels",2410.20399,http://arxiv.org/abs/2410.20399v1,2024-10-27 10:07:16+00:00
+15,Inevitable Trade-off between Watermark Strength and Speculative Sampling Efficiency for Language Models,2410.20418,http://arxiv.org/abs/2410.20418v1,2024-10-27 12:00:19+00:00
+16,NT-VOT211: A Large-Scale Benchmark for Night-time Visual Object Tracking,2410.20421,http://arxiv.org/abs/2410.20421v1,2024-10-27 12:19:48+00:00
+17,AutoKaggle: A Multi-Agent Framework for Autonomous Data Science Competitions,2410.20424,http://arxiv.org/abs/2410.20424v2,2024-10-27 12:44:25+00:00
+18,MedGo: A Chinese Medical Large Language Model,2410.20428,http://arxiv.org/abs/2410.20428v1,2024-10-27 12:52:52+00:00
+19,A Derivational ChainBank for Modern Standard Arabic,2410.20463,http://arxiv.org/abs/2410.20463v1,2024-10-27 14:43:23+00:00
+20,Improving Decision Sparsity,2410.20483,http://arxiv.org/abs/2410.20483v1,2024-10-27 15:39:52+00:00
+21,Efficient Diversity-based Experience Replay for Deep Reinforcement Learning,2410.20487,http://arxiv.org/abs/2410.20487v1,2024-10-27 15:51:27+00:00
+22,$\textit{Who Speaks Matters}$: Analysing the Influence of the Speaker's Ethnicity on Hate Classification,2410.20490,http://arxiv.org/abs/2410.20490v1,2024-10-27 16:06:24+00:00
+23,Props for Machine-Learning Security,2410.20522,http://arxiv.org/abs/2410.20522v1,2024-10-27 17:05:48+00:00
+24,Asynchronous Perception Machine For Efficient Test-Time-Training,2410.20535,http://arxiv.org/abs/2410.20535v1,2024-10-27 17:57:30+00:00
+25,SympCam: Remote Optical Measurement of Sympathetic Arousal,2410.20552,http://arxiv.org/abs/2410.20552v1,2024-10-27 18:46:55+00:00
+26,SPICEPilot: Navigating SPICE Code Generation and Simulation with AI Guidance,2410.20553,http://arxiv.org/abs/2410.20553v1,2024-10-27 18:58:06+00:00
+27,Generator Matching: Generative modeling with arbitrary Markov processes,2410.20587,http://arxiv.org/abs/2410.20587v1,2024-10-27 20:47:29+00:00
+28,Language Models And A Second Opinion Use Case: The Pocket Professional,2410.20636,http://arxiv.org/abs/2410.20636v1,2024-10-27 23:48:47+00:00
+29,Self-Supervised Learning and Opportunistic Inference for Continuous Monitoring of Freezing of Gait in Parkinson's Disease,2410.21326,http://arxiv.org/abs/2410.21326v1,2024-10-27 03:47:18+00:00
+30,Deconfounding Time Series Forecasting,2410.21328,http://arxiv.org/abs/2410.21328v1,2024-10-27 12:45:42+00:00
+31,LLM Robustness Against Misinformation in Biomedical Question Answering,2410.21330,http://arxiv.org/abs/2410.21330v1,2024-10-27 16:23:26+00:00
+32,Beyond Interpretability: The Gains of Feature Monosemanticity on Model Robustness,2410.21331,http://arxiv.org/abs/2410.21331v1,2024-10-27 18:03:20+00:00
+33,Fine-Tuning and Evaluating Open-Source Large Language Models for the Army Domain,2410.20297,http://arxiv.org/abs/2410.20297v1,2024-10-27 00:39:24+00:00
+34,Sequential Large Language Model-Based Hyper-Parameter Optimization,2410.20302,http://arxiv.org/abs/2410.20302v1,2024-10-27 00:50:30+00:00
+35,Enhancing Community Vision Screening -- AI Driven Retinal Photography for Early Disease Detection and Patient Trust,2410.20309,http://arxiv.org/abs/2410.20309v1,2024-10-27 02:31:19+00:00
+36,Get Large Language Models Ready to Speak: A Late-fusion Approach for Speech Generation,2410.20336,http://arxiv.org/abs/2410.20336v1,2024-10-27 04:28:57+00:00
+37,Historical Test-time Prompt Tuning for Vision Foundation Models,2410.20346,http://arxiv.org/abs/2410.20346v1,2024-10-27 06:03:15+00:00
+38,An approach to hummed-tune and song sequences matching,2410.20352,http://arxiv.org/abs/2410.20352v1,2024-10-27 06:50:43+00:00
+39,Open-Vocabulary Object Detection via Language Hierarchy,2410.20371,http://arxiv.org/abs/2410.20371v1,2024-10-27 08:20:03+00:00
+40,FuseFL: One-Shot Federated Learning through the Lens of Causality with Progressive Model Fusion,2410.20380,http://arxiv.org/abs/2410.20380v1,2024-10-27 09:07:10+00:00
+41,Lodge++: High-quality and Long Dance Generation with Vivid Choreography Patterns,2410.20389,http://arxiv.org/abs/2410.20389v1,2024-10-27 09:32:35+00:00
+42,TEAFormers: TEnsor-Augmented Transformers for Multi-Dimensional Time Series Forecasting,2410.20439,http://arxiv.org/abs/2410.20439v1,2024-10-27 13:32:12+00:00
+43,TrajAgent: An Agent Framework for Unified Trajectory Modelling,2410.20445,http://arxiv.org/abs/2410.20445v1,2024-10-27 13:51:09+00:00
+44,MusicFlow: Cascaded Flow Matching for Text Guided Music Generation,2410.20478,http://arxiv.org/abs/2410.20478v1,2024-10-27 15:35:41+00:00
+45,What Factors Affect Multi-Modal In-Context Learning? An In-Depth Exploration,2410.20482,http://arxiv.org/abs/2410.20482v1,2024-10-27 15:37:51+00:00
+46,Symbotunes: unified hub for symbolic music generative models,2410.20515,http://arxiv.org/abs/2410.20515v1,2024-10-27 16:54:58+00:00
+47,MidiTok Visualizer: a tool for visualization and analysis of tokenized MIDI symbolic music,2410.20518,http://arxiv.org/abs/2410.20518v1,2024-10-27 17:00:55+00:00
+48,Malinowski in the Age of AI: Can large language models create a text game based on an anthropological classic?,2410.20536,http://arxiv.org/abs/2410.20536v1,2024-10-27 17:59:17+00:00
+49,Deep Reinforcement Learning Agents for Strategic Production Policies in Microeconomic Market Simulations,2410.20550,http://arxiv.org/abs/2410.20550v1,2024-10-27 18:38:05+00:00
+50,Unsupervised Panoptic Interpretation of Latent Spaces in GANs Using Space-Filling Vector Quantization,2410.20573,http://arxiv.org/abs/2410.20573v1,2024-10-27 19:56:02+00:00
+51,Meta-Learning Approaches for Improving Detection of Unseen Speech Deepfakes,2410.20578,http://arxiv.org/abs/2410.20578v2,2024-10-27 20:14:32+00:00
+52,Toward Conditional Distribution Calibration in Survival Prediction,2410.20579,http://arxiv.org/abs/2410.20579v1,2024-10-27 20:19:46+00:00
+53,Implementation and Application of an Intelligibility Protocol for Interaction with an LLM,2410.20600,http://arxiv.org/abs/2410.20600v1,2024-10-27 21:20:18+00:00
+54,LoRA Done RITE: Robust Invariant Transformation Equilibration for LoRA Optimization,2410.20625,http://arxiv.org/abs/2410.20625v1,2024-10-27 22:57:12+00:00
+55,"Building, Reusing, and Generalizing Abstract Representations from Concrete Sequences",2410.21332,http://arxiv.org/abs/2410.21332v1,2024-10-27 18:13:07+00:00
+56,Mind Your Step (by Step): Chain-of-Thought can Reduce Performance on Tasks where Thinking Makes Humans Worse,2410.21333,http://arxiv.org/abs/2410.21333v1,2024-10-27 18:30:41+00:00
+57,E(3)-invaraint diffusion model for pocket-aware peptide generation,2410.21335,http://arxiv.org/abs/2410.21335v1,2024-10-27 19:59:09+00:00
+58,Conditional GAN for Enhancing Diffusion Models in Efficient and Authentic Global Gesture Generation from Audios,2410.20359,http://arxiv.org/abs/2410.20359v1,2024-10-27 07:25:11+00:00
+59,CodeRosetta: Pushing the Boundaries of Unsupervised Code Translation for Parallel Programming,2410.20527,http://arxiv.org/abs/2410.20527v1,2024-10-27 17:34:07+00:00
