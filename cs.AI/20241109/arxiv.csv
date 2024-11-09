@@ -1,0 +1,51 @@
+,title,id,arxiv_url,published
+0,Rule Based Rewards for Language Model Safety,2411.01111,http://arxiv.org/abs/2411.01111v1,2024-11-02 02:22:21+00:00
+1,"Infant Agent: A Tool-Integrated, Logic-Driven Agent with Cost-Effective API Usage",2411.01114,http://arxiv.org/abs/2411.01114v1,2024-11-02 02:48:37+00:00
+2,Task-Aware Harmony Multi-Task Decision Transformer for Offline Reinforcement Learning,2411.01146,http://arxiv.org/abs/2411.01146v1,2024-11-02 05:49:14+00:00
+3,Designing a Robust Radiology Report Generation System,2411.01153,http://arxiv.org/abs/2411.01153v1,2024-11-02 06:38:04+00:00
+4,Supervised Score-Based Modeling by Gradient Boosting,2411.01159,http://arxiv.org/abs/2411.01159v1,2024-11-02 07:06:53+00:00
+5,Prompt Tuning with Diffusion for Few-Shot Pre-trained Policy Generalization,2411.01168,http://arxiv.org/abs/2411.01168v1,2024-11-02 07:38:02+00:00
+6,Fast and Memory-Efficient Video Diffusion Using Streamlined Inference,2411.01171,http://arxiv.org/abs/2411.01171v1,2024-11-02 07:52:18+00:00
+7,Covariance-based Space Regularization for Few-shot Class Incremental Learning,2411.01172,http://arxiv.org/abs/2411.01172v1,2024-11-02 08:03:04+00:00
+8,Guiding Multi-agent Multi-task Reinforcement Learning by a Hierarchical Framework with Logical Reward Shaping,2411.01184,http://arxiv.org/abs/2411.01184v1,2024-11-02 09:03:23+00:00
+9,Class-specific feature selection for classification explainability,2411.01204,http://arxiv.org/abs/2411.01204v1,2024-11-02 10:31:55+00:00
+10,PRIMO: Progressive Induction for Multi-hop Open Rule Generation,2411.01205,http://arxiv.org/abs/2411.01205v1,2024-11-02 10:33:50+00:00
+11,The Interaction Layer: An Exploration for Co-Designing User-LLM Interactions in Parental Wellbeing Support Systems,2411.01228,http://arxiv.org/abs/2411.01228v1,2024-11-02 12:32:36+00:00
+12,AutoPT: How Far Are We from the End2End Automated Web Penetration Testing?,2411.01236,http://arxiv.org/abs/2411.01236v1,2024-11-02 13:24:30+00:00
+13,Varco Arena: A Tournament Approach to Reference-Free Benchmarking Large Language Models,2411.01281,http://arxiv.org/abs/2411.01281v1,2024-11-02 15:23:28+00:00
+14,Causal reasoning in difference graphs,2411.01292,http://arxiv.org/abs/2411.01292v1,2024-11-02 16:01:42+00:00
+15,FEED: Fairness-Enhanced Meta-Learning for Domain Generalization,2411.01316,http://arxiv.org/abs/2411.01316v1,2024-11-02 17:34:33+00:00
+16,Visual Fourier Prompt Tuning,2411.01327,http://arxiv.org/abs/2411.01327v1,2024-11-02 18:18:35+00:00
+17,A Mechanistic Explanatory Strategy for XAI,2411.01332,http://arxiv.org/abs/2411.01332v1,2024-11-02 18:30:32+00:00
+18,Adaptive World Models: Learning Behaviors by Latent Imagination Under Non-Stationarity,2411.01342,http://arxiv.org/abs/2411.01342v1,2024-11-02 19:09:56+00:00
+19,Guided Synthesis of Labeled Brain MRI Data Using Latent Diffusion Models for Segmentation of Enlarged Ventricles,2411.01351,http://arxiv.org/abs/2411.01351v1,2024-11-02 19:44:10+00:00
+20,Medical X-Ray Image Enhancement Using Global Contrast-Limited Adaptive Histogram Equalization,2411.01373,http://arxiv.org/abs/2411.01373v1,2024-11-02 22:20:56+00:00
+21,TypeScore: A Text Fidelity Metric for Text-to-Image Generative Models,2411.02437,http://arxiv.org/abs/2411.02437v1,2024-11-02 07:56:54+00:00
+22,Entropic Hetero-Associative Memory,2411.02438,http://arxiv.org/abs/2411.02438v1,2024-11-02 08:30:57+00:00
+23,Practical hybrid PQC-QKD protocols with enhanced security and performance,2411.01086,http://arxiv.org/abs/2411.01086v2,2024-11-02 00:02:01+00:00
+24,Artificial Intelligence for Microbiology and Microbiome Research,2411.01098,http://arxiv.org/abs/2411.01098v1,2024-11-02 01:03:43+00:00
+25,Data movement limits to frontier model training,2411.01137,http://arxiv.org/abs/2411.01137v1,2024-11-02 04:48:41+00:00
+26,Privacy-Preserving Federated Learning with Differentially Private Hyperdimensional Computing,2411.01140,http://arxiv.org/abs/2411.01140v1,2024-11-02 05:00:44+00:00
+27,NEO: Saving GPU Memory Crisis with CPU Offloading for Online LLM Inference,2411.01142,http://arxiv.org/abs/2411.01142v1,2024-11-02 05:15:44+00:00
+28,LEARNER: Learning Granular Labels from Coarse Labels using Contrastive Learning,2411.01144,http://arxiv.org/abs/2411.01144v1,2024-11-02 05:27:52+00:00
+29,Pin-Tuning: Parameter-Efficient In-Context Tuning for Few-Shot Molecular Property Prediction,2411.01158,http://arxiv.org/abs/2411.01158v1,2024-11-02 07:06:30+00:00
+30,Role Play: Learning Adaptive Role-Specific Strategies in Multi-Agent Interactions,2411.01166,http://arxiv.org/abs/2411.01166v1,2024-11-02 07:25:48+00:00
+31,Bi-Level Graph Structure Learning for Next POI Recommendation,2411.01169,http://arxiv.org/abs/2411.01169v1,2024-11-02 07:40:16+00:00
+32,Reasoning Limitations of Multimodal Large Language Models. A case study of Bongard Problems,2411.01173,http://arxiv.org/abs/2411.01173v1,2024-11-02 08:06:30+00:00
+33,Hollowed Net for On-Device Personalization of Text-to-Image Diffusion Models,2411.01179,http://arxiv.org/abs/2411.01179v1,2024-11-02 08:42:48+00:00
+34,Learning Rules Explaining Interactive Theorem Proving Tactic Prediction,2411.01188,http://arxiv.org/abs/2411.01188v1,2024-11-02 09:18:33+00:00
+35,GarmentLab: A Unified Simulation and Benchmark for Garment Manipulation,2411.01200,http://arxiv.org/abs/2411.01200v1,2024-11-02 10:09:08+00:00
+36,XNB: Explainable Class-Specific NaIve-Bayes Classifier,2411.01203,http://arxiv.org/abs/2411.01203v1,2024-11-02 10:28:22+00:00
+37,Spatial Transformers for Radio Map Estimation,2411.01211,http://arxiv.org/abs/2411.01211v2,2024-11-02 11:04:45+00:00
+38,Infinite-Resolution Integral Noise Warping for Diffusion Models,2411.01212,http://arxiv.org/abs/2411.01212v1,2024-11-02 11:05:00+00:00
+39,Optimizing Federated Learning by Entropy-Based Client Selection,2411.01240,http://arxiv.org/abs/2411.01240v1,2024-11-02 13:31:36+00:00
+40,Improving Energy Efficiency in Manufacturing: A Novel Expert System Shell,2411.01272,http://arxiv.org/abs/2411.01272v1,2024-11-02 14:50:37+00:00
+41,Marginal Causal Flows for Validation and Inference,2411.01295,http://arxiv.org/abs/2411.01295v1,2024-11-02 16:04:57+00:00
+42,From Federated Learning to Quantum Federated Learning for Space-Air-Ground Integrated Networks,2411.01312,http://arxiv.org/abs/2411.01312v2,2024-11-02 17:13:00+00:00
+43,False Data Injection Attack Detection in Edge-based Smart Metering Networks with Federated Learning,2411.01313,http://arxiv.org/abs/2411.01313v2,2024-11-02 17:23:08+00:00
+44,"Can Humans Oversee Agents to Prevent Privacy Leakage? A Study on Privacy Awareness, Preferences, and Trust in Language Model Agents",2411.01344,http://arxiv.org/abs/2411.01344v1,2024-11-02 19:15:42+00:00
+45,Online and Offline Evaluations of Collaborative Filtering and Content Based Recommender Systems,2411.01354,http://arxiv.org/abs/2411.01354v1,2024-11-02 20:05:31+00:00
+46,Scaling Laws with Hidden Structure,2411.01375,http://arxiv.org/abs/2411.01375v2,2024-11-02 22:32:53+00:00
+47,TODO: Enhancing LLM Alignment with Ternary Preferences,2411.02442,http://arxiv.org/abs/2411.02442v1,2024-11-02 14:36:03+00:00
+48,What Features in Prompts Jailbreak LLMs? Investigating the Mechanisms Behind Attacks,2411.03343,http://arxiv.org/abs/2411.03343v1,2024-11-02 17:29:47+00:00
+49,Interacting Large Language Model Agents. Interpretable Models and Social Learning,2411.01271,http://arxiv.org/abs/2411.01271v1,2024-11-02 14:49:34+00:00
