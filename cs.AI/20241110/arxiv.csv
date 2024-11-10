@@ -1,0 +1,55 @@
+,title,id,arxiv_url,published
+0,DELE: Deductive $\mathcal{EL}^{++} \thinspace $ Embeddings for Knowledge Base Completion,2411.01574,http://arxiv.org/abs/2411.01574v1,2024-11-03 14:00:04+00:00
+1,HeightMapNet: Explicit Height Modeling for End-to-End HD Map Learning,2411.01408,http://arxiv.org/abs/2411.01408v1,2024-11-03 02:35:17+00:00
+2,A Deep Dive Into Large Language Model Code Generation Mistakes: What and Why?,2411.01414,http://arxiv.org/abs/2411.01414v1,2024-11-03 02:47:03+00:00
+3,BF-IMNA: A Bit Fluid In-Memory Neural Architecture for Neural Network Acceleration,2411.01417,http://arxiv.org/abs/2411.01417v1,2024-11-03 03:02:23+00:00
+4,PSformer: Parameter-efficient Transformer with Segment Attention for Time Series Forecasting,2411.01419,http://arxiv.org/abs/2411.01419v1,2024-11-03 03:04:00+00:00
+5,Efficient Deep Learning Infrastructures for Embedded Computing Systems: A Comprehensive Survey and Future Envision,2411.01431,http://arxiv.org/abs/2411.01431v1,2024-11-03 03:55:04+00:00
+6,SkyServe: Serving AI Models across Regions and Clouds with Spot Instances,2411.01438,http://arxiv.org/abs/2411.01438v1,2024-11-03 05:00:53+00:00
+7,Adaptive Domain Learning for Cross-domain Image Denoising,2411.01472,http://arxiv.org/abs/2411.01472v1,2024-11-03 08:08:26+00:00
+8,Capsule Vision Challenge 2024: Multi-Class Abnormality Classification for Video Capsule Endoscopy,2411.01479,http://arxiv.org/abs/2411.01479v1,2024-11-03 08:34:04+00:00
+9,Diversity Progress for Goal Selection in Discriminability-Motivated RL,2411.01521,http://arxiv.org/abs/2411.01521v2,2024-11-03 10:47:39+00:00
+10,SinaTools: Open Source Toolkit for Arabic Natural Language Processing,2411.01523,http://arxiv.org/abs/2411.01523v1,2024-11-03 11:03:52+00:00
+11,Are LLMs good pragmatic speakers?,2411.01562,http://arxiv.org/abs/2411.01562v1,2024-11-03 13:23:18+00:00
+12,RS-MoE: Mixture of Experts for Remote Sensing Image Captioning and Visual Question Answering,2411.01595,http://arxiv.org/abs/2411.01595v1,2024-11-03 15:05:49+00:00
+13,OSAD: Open-Set Aircraft Detection in SAR Images,2411.01597,http://arxiv.org/abs/2411.01597v1,2024-11-03 15:06:14+00:00
+14,DreamPolish: Domain Score Distillation With Progressive Geometry Generation,2411.01602,http://arxiv.org/abs/2411.01602v1,2024-11-03 15:15:01+00:00
+15,Ontology Population using LLMs,2411.01612,http://arxiv.org/abs/2411.01612v1,2024-11-03 15:39:20+00:00
+16,VQ-Map: Bird's-Eye-View Map Layout Estimation in Tokenized Discrete Space via Vector Quantization,2411.01618,http://arxiv.org/abs/2411.01618v1,2024-11-03 16:09:47+00:00
+17,EcoAct: Economic Agent Determines When to Register What Action,2411.01643,http://arxiv.org/abs/2411.01643v1,2024-11-03 17:37:06+00:00
+18,Enriching Tabular Data with Contextual LLM Embeddings: A Comprehensive Ablation Study for Ensemble Classifiers,2411.01645,http://arxiv.org/abs/2411.01645v2,2024-11-03 17:45:00+00:00
+19,Optical Flow Representation Alignment Mamba Diffusion Model for Medical Video Generation,2411.01647,http://arxiv.org/abs/2411.01647v1,2024-11-03 17:57:00+00:00
+20,Optimizing Gastrointestinal Diagnostics: A CNN-Based Model for VCE Image Classification,2411.01652,http://arxiv.org/abs/2411.01652v1,2024-11-03 18:30:37+00:00
+21,Symmetry Adapted Residual Neural Network Diabatization: Conical Intersections in Aniline Photodissociation,2411.01702,http://arxiv.org/abs/2411.01702v1,2024-11-03 21:56:25+00:00
+22,Large-Scale Multi-Robot Coverage Path Planning on Grids with Path Deconfliction,2411.01707,http://arxiv.org/abs/2411.01707v1,2024-11-03 22:37:56+00:00
+23,"Rate, Explain and Cite (REC): Enhanced Explanation and Attribution in Automatic Evaluation by Large Language Models",2411.02448,http://arxiv.org/abs/2411.02448v1,2024-11-03 02:36:33+00:00
+24,Machine Learning Innovations in CPR: A Comprehensive Survey on Enhanced Resuscitation Techniques,2411.03131,http://arxiv.org/abs/2411.03131v1,2024-11-03 18:01:50+00:00
+25,Exploring the Edges of Latent State Clusters for Goal-Conditioned Reinforcement Learning,2411.01396,http://arxiv.org/abs/2411.01396v1,2024-11-03 01:21:43+00:00
+26,Pre-trained Molecular Language Models with Random Functional Group Masking,2411.01401,http://arxiv.org/abs/2411.01401v1,2024-11-03 01:56:15+00:00
+27,PageRank Bandits for Link Prediction,2411.01410,http://arxiv.org/abs/2411.01410v1,2024-11-03 02:39:28+00:00
+28,Conditional Latent Space Molecular Scaffold Optimization for Accelerated Molecular Design,2411.01423,http://arxiv.org/abs/2411.01423v1,2024-11-03 03:17:38+00:00
+29,Learning Hidden Subgoals under Temporal Ordering Constraints in Reinforcement Learning,2411.01425,http://arxiv.org/abs/2411.01425v1,2024-11-03 03:22:39+00:00
+30,Online Relational Inference for Evolving Multi-agent Interacting Systems,2411.01442,http://arxiv.org/abs/2411.01442v2,2024-11-03 05:43:55+00:00
+31,Denoising Fisher Training For Neural Implicit Samplers,2411.01453,http://arxiv.org/abs/2411.01453v1,2024-11-03 06:21:59+00:00
+32,Two-Timescale Model Caching and Resource Allocation for Edge-Enabled AI-Generated Content Services,2411.01458,http://arxiv.org/abs/2411.01458v1,2024-11-03 07:01:13+00:00
+33,Sample-Efficient Alignment for LLMs,2411.01493,http://arxiv.org/abs/2411.01493v1,2024-11-03 09:18:28+00:00
+34,FaceDig: Automated tool for placing landmarks on facial portraits for geometric morphometrics users,2411.01508,http://arxiv.org/abs/2411.01508v1,2024-11-03 10:03:52+00:00
+35,Enhancing LLM Evaluations: The Garbling Trick,2411.01533,http://arxiv.org/abs/2411.01533v2,2024-11-03 11:39:50+00:00
+36,Customized Subgraph Selection and Encoding for Drug-drug Interaction Prediction,2411.01535,http://arxiv.org/abs/2411.01535v1,2024-11-03 11:41:35+00:00
+37,Learning to Construct Implicit Communication Channel,2411.01553,http://arxiv.org/abs/2411.01553v1,2024-11-03 12:58:22+00:00
+38,"Trustworthy Federated Learning: Privacy, Security, and Beyond",2411.01583,http://arxiv.org/abs/2411.01583v1,2024-11-03 14:18:01+00:00
+39,Large Language Model Supply Chain: Open Problems From the Security Perspective,2411.01604,http://arxiv.org/abs/2411.01604v1,2024-11-03 15:20:21+00:00
+40,FilterNet: Harnessing Frequency Filters for Time Series Forecasting,2411.01623,http://arxiv.org/abs/2411.01623v2,2024-11-03 16:20:41+00:00
+41,Counterfactual explainability of black-box prediction models,2411.01625,http://arxiv.org/abs/2411.01625v1,2024-11-03 16:29:09+00:00
+42,Know Where You're Uncertain When Planning with Multimodal Foundation Models: A Formal Framework,2411.01639,http://arxiv.org/abs/2411.01639v1,2024-11-03 17:32:00+00:00
+43,Diagnosing Medical Datasets with Training Dynamics,2411.01653,http://arxiv.org/abs/2411.01653v1,2024-11-03 18:37:35+00:00
+44,Sing-On-Your-Beat: Simple Text-Controllable Accompaniment Generations,2411.01661,http://arxiv.org/abs/2411.01661v1,2024-11-03 19:17:20+00:00
+45,Unlocking the Theory Behind Scaling 1-Bit Neural Networks,2411.01663,http://arxiv.org/abs/2411.01663v1,2024-11-03 19:18:57+00:00
+46,UniGuard: Towards Universal Safety Guardrails for Jailbreak Attacks on Multimodal Large Language Models,2411.01703,http://arxiv.org/abs/2411.01703v1,2024-11-03 22:19:20+00:00
+47,Learning World Models for Unconstrained Goal Navigation,2411.02446,http://arxiv.org/abs/2411.02446v1,2024-11-03 01:35:06+00:00
+48,Graph-based Confidence Calibration for Large Language Models,2411.02454,http://arxiv.org/abs/2411.02454v1,2024-11-03 20:36:44+00:00
+49,An Exploration of Higher Education Course Evaluation by Large Language Models,2411.02455,http://arxiv.org/abs/2411.02455v1,2024-11-03 20:43:52+00:00
+50,Undermining Image and Text Classification Algorithms Using Adversarial Attacks,2411.03348,http://arxiv.org/abs/2411.03348v2,2024-11-03 18:44:28+00:00
+51,GITSR: Graph Interaction Transformer-based Scene Representation for Multi Vehicle Collaborative Decision-making,2411.01608,http://arxiv.org/abs/2411.01608v1,2024-11-03 15:27:26+00:00
+52,Stochastic Communication Avoidance for Recommendation Systems,2411.01611,http://arxiv.org/abs/2411.01611v1,2024-11-03 15:37:37+00:00
+53,Flexible Coded Distributed Convolution Computing for Enhanced Fault Tolerance and Numerical Stability in Distributed CNNs,2411.01579,http://arxiv.org/abs/2411.01579v1,2024-11-03 14:05:29+00:00
