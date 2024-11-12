@@ -1,0 +1,92 @@
+,title,id,arxiv_url,published
+0,V-DPO: Mitigating Hallucination in Large Vision Language Models via Vision-Guided Direct Preference Optimization,2411.02712,http://arxiv.org/abs/2411.02712v1,2024-11-05 01:24:37+00:00
+1,Multimodal Commonsense Knowledge Distillation for Visual Question Answering,2411.02722,http://arxiv.org/abs/2411.02722v1,2024-11-05 01:37:16+00:00
+2,EcoCropsAID: Economic Crops Aerial Image Dataset for Land Use Classification,2411.02762,http://arxiv.org/abs/2411.02762v1,2024-11-05 03:14:36+00:00
+3,Stochastic Monkeys at Play: Random Augmentations Cheaply Break LLM Safety Alignment,2411.02785,http://arxiv.org/abs/2411.02785v1,2024-11-05 03:51:13+00:00
+4,When to Localize? A Risk-Constrained Reinforcement Learning Approach,2411.02788,http://arxiv.org/abs/2411.02788v1,2024-11-05 03:54:00+00:00
+5,The Evolution of RWKV: Advancements in Efficient Language Modeling,2411.02795,http://arxiv.org/abs/2411.02795v1,2024-11-05 04:10:05+00:00
+6,"DeepContext: A Context-aware, Cross-platform, and Cross-framework Tool for Performance Profiling and Analysis of Deep Learning Workloads",2411.02797,http://arxiv.org/abs/2411.02797v1,2024-11-05 04:15:26+00:00
+7,Dissecting the Failure of Invariant Learning on Graphs,2411.02847,http://arxiv.org/abs/2411.02847v2,2024-11-05 06:36:48+00:00
+8,Domain Expansion and Boundary Growth for Open-Set Single-Source Domain Generalization,2411.02920,http://arxiv.org/abs/2411.02920v1,2024-11-05 09:08:46+00:00
+9,A Mamba Foundation Model for Time Series Forecasting,2411.02941,http://arxiv.org/abs/2411.02941v1,2024-11-05 09:34:05+00:00
+10,[Vision Paper] PRObot: Enhancing Patient-Reported Outcome Measures for Diabetic Retinopathy using Chatbots and Generative AI,2411.02973,http://arxiv.org/abs/2411.02973v1,2024-11-05 10:18:53+00:00
+11,Confidence Calibration of Classifiers with Many Classes,2411.02988,http://arxiv.org/abs/2411.02988v2,2024-11-05 10:51:01+00:00
+12,SUDS: A Strategy for Unsupervised Drift Sampling,2411.02995,http://arxiv.org/abs/2411.02995v1,2024-11-05 10:55:29+00:00
+13,Accelerating Task Generalisation with Multi-Level Hierarchical Options,2411.02998,http://arxiv.org/abs/2411.02998v1,2024-11-05 11:00:09+00:00
+14,Controlling for Unobserved Confounding with Large Language Model Classification of Patient Smoking Status,2411.03004,http://arxiv.org/abs/2411.03004v1,2024-11-05 11:05:53+00:00
+15,Data Quality Awareness: A Journey from Traditional Data Management to Data Science Systems,2411.03007,http://arxiv.org/abs/2411.03007v1,2024-11-05 11:12:25+00:00
+16,Hierarchical Orchestra of Policies,2411.03008,http://arxiv.org/abs/2411.03008v1,2024-11-05 11:13:09+00:00
+17,Leveraging Large Language Models in Code Question Answering: Baselines and Issues,2411.03012,http://arxiv.org/abs/2411.03012v1,2024-11-05 11:25:12+00:00
+18,Flashy Backdoor: Real-world Environment Backdoor Attack on SNNs with DVS Cameras,2411.03022,http://arxiv.org/abs/2411.03022v1,2024-11-05 11:44:54+00:00
+19,DA-MoE: Addressing Depth-Sensitivity in Graph-Level Analysis through Mixture of Experts,2411.03025,http://arxiv.org/abs/2411.03025v1,2024-11-05 11:46:27+00:00
+20,Adaptive Genetic Selection based Pinning Control with Asymmetric Coupling for Multi-Network Heterogeneous Vehicular Systems,2411.03027,http://arxiv.org/abs/2411.03027v1,2024-11-05 11:49:26+00:00
+21,HumanVLM: Foundation for Human-Scene Vision-Language Model,2411.03034,http://arxiv.org/abs/2411.03034v1,2024-11-05 12:14:57+00:00
+22,Gradient-Guided Conditional Diffusion Models for Private Image Reconstruction: Analyzing Adversarial Impacts of Differential Privacy and Denoising,2411.03053,http://arxiv.org/abs/2411.03053v1,2024-11-05 12:39:21+00:00
+23,Enhancing DP-SGD through Non-monotonous Adaptive Scaling Gradient Weight,2411.03059,http://arxiv.org/abs/2411.03059v1,2024-11-05 12:47:30+00:00
+24,HFGaussian: Learning Generalizable Gaussian Human with Integrated Human Features,2411.03086,http://arxiv.org/abs/2411.03086v1,2024-11-05 13:31:04+00:00
+25,Evaluating Machine Learning Models against Clinical Protocols for Enhanced Interpretability and Continuity of Care,2411.03105,http://arxiv.org/abs/2411.03105v1,2024-11-05 13:50:09+00:00
+26,Navigating Extremes: Dynamic Sparsity in Large Output Space,2411.03171,http://arxiv.org/abs/2411.03171v2,2024-11-05 15:19:29+00:00
+27,On Improved Conditioning Mechanisms and Pre-training Strategies for Diffusion Models,2411.03177,http://arxiv.org/abs/2411.03177v1,2024-11-05 15:22:26+00:00
+28,Knowledge Graphs of Driving Scenes to Empower the Emerging Capabilities of Neurosymbolic AI,2411.03225,http://arxiv.org/abs/2411.03225v2,2024-11-05 16:15:33+00:00
+29,Spontaneous Emergence of Agent Individuality through Social Interactions in LLM-Based Communities,2411.03252,http://arxiv.org/abs/2411.03252v1,2024-11-05 16:49:33+00:00
+30,Out-of-Distribution Recovery with Object-Centric Keypoint Inverse Policy For Visuomotor Imitation Learning,2411.03294,http://arxiv.org/abs/2411.03294v2,2024-11-05 17:41:14+00:00
+31,VERITAS: A Unified Approach to Reliability Evaluation,2411.03300,http://arxiv.org/abs/2411.03300v1,2024-11-05 17:53:25+00:00
+32,Neurons for Neutrons: A Transformer Model for Computation Load Estimation on Domain-Decomposed Neutron Transport Problems,2411.03389,http://arxiv.org/abs/2411.03389v2,2024-11-05 18:17:51+00:00
+33,STEER: Flexible Robotic Manipulation via Dense Language Grounding,2411.03409,http://arxiv.org/abs/2411.03409v1,2024-11-05 18:48:12+00:00
+34,Watson: A Cognitive Observability Framework for the Reasoning of Foundation Model-Powered Agents,2411.03455,http://arxiv.org/abs/2411.03455v1,2024-11-05 19:13:22+00:00
+35,"LLM Generated Distribution-Based Prediction of US Electoral Results, Part I",2411.03486,http://arxiv.org/abs/2411.03486v1,2024-11-05 20:10:25+00:00
+36,Automatic Generation of Question Hints for Mathematics Problems using Large Language Models in Educational Technology,2411.03495,http://arxiv.org/abs/2411.03495v1,2024-11-05 20:18:53+00:00
+37,Mitigating Metric Bias in Minimum Bayes Risk Decoding,2411.03524,http://arxiv.org/abs/2411.03524v1,2024-11-05 22:01:27+00:00
+38,Personalized Video Summarization by Multimodal Video Understanding,2411.03531,http://arxiv.org/abs/2411.03531v1,2024-11-05 22:14:35+00:00
+39,Exploring the Benefits of Domain-Pretraining of Generative Large Language Models for Chemistry,2411.03542,http://arxiv.org/abs/2411.03542v1,2024-11-05 22:45:10+00:00
+40,Large Language Models Orchestrating Structured Reasoning Achieve Kaggle Grandmaster Level,2411.03562,http://arxiv.org/abs/2411.03562v1,2024-11-05 23:55:23+00:00
+41,JPEC: A Novel Graph Neural Network for Competitor Retrieval in Financial Knowledge Graphs,2411.02692,http://arxiv.org/abs/2411.02692v1,2024-11-05 00:39:22+00:00
+42,JEL: Applying End-to-End Neural Entity Linking in JPMorgan Chase,2411.02695,http://arxiv.org/abs/2411.02695v1,2024-11-05 00:46:25+00:00
+43,Exploring Response Uncertainty in MLLMs: An Empirical Evaluation under Misleading Scenarios,2411.02708,http://arxiv.org/abs/2411.02708v1,2024-11-05 01:11:28+00:00
+44,Game Plot Design with an LLM-powered Assistant: An Empirical Study with Game Designers,2411.02714,http://arxiv.org/abs/2411.02714v1,2024-11-05 01:26:35+00:00
+45,A Bayesian explanation of machine learning models based on modes and functional ANOVA,2411.02746,http://arxiv.org/abs/2411.02746v1,2024-11-05 02:32:26+00:00
+46,Specialized Foundation Models Struggle to Beat Supervised Baselines,2411.02796,http://arxiv.org/abs/2411.02796v1,2024-11-05 04:10:59+00:00
+47,DroidSpeak: Enhancing Cross-LLM Communication,2411.02820,http://arxiv.org/abs/2411.02820v1,2024-11-05 05:41:41+00:00
+48,Mixtures of In-Context Learners,2411.02830,http://arxiv.org/abs/2411.02830v1,2024-11-05 06:02:41+00:00
+49,PersianRAG: A Retrieval-Augmented Generation System for Persian Language,2411.02832,http://arxiv.org/abs/2411.02832v2,2024-11-05 06:11:17+00:00
+50,Correlation of Object Detection Performance with Visual Saliency and Depth Estimation,2411.02844,http://arxiv.org/abs/2411.02844v1,2024-11-05 06:34:19+00:00
+51,"WASHtsApp -- A RAG-powered WhatsApp Chatbot for supporting rural African clean water access, sanitation and hygiene",2411.02850,http://arxiv.org/abs/2411.02850v1,2024-11-05 06:44:15+00:00
+52,Graph-DPEP: Decomposed Plug and Ensemble Play for Few-Shot Document Relation Extraction with Graph-of-Thoughts Reasoning,2411.02864,http://arxiv.org/abs/2411.02864v1,2024-11-05 07:12:36+00:00
+53,AtlasSeg: Atlas Prior Guided Dual-U-Net for Cortical Segmentation in Fetal Brain MRI,2411.02867,http://arxiv.org/abs/2411.02867v1,2024-11-05 07:16:32+00:00
+54,TokenSelect: Efficient Long-Context Inference and Length Extrapolation for LLMs via Dynamic Token-Level KV Cache Selection,2411.02886,http://arxiv.org/abs/2411.02886v1,2024-11-05 07:56:24+00:00
+55,Exploring the Interplay Between Video Generation and World Models in Autonomous Driving: A Survey,2411.02914,http://arxiv.org/abs/2411.02914v1,2024-11-05 08:58:35+00:00
+56,Textual Aesthetics in Large Language Models,2411.02930,http://arxiv.org/abs/2411.02930v1,2024-11-05 09:22:08+00:00
+57,A Post-Training Enhanced Optimization Approach for Small Language Models,2411.02939,http://arxiv.org/abs/2411.02939v1,2024-11-05 09:32:26+00:00
+58,Speaker Emotion Recognition: Leveraging Self-Supervised Models for Feature Extraction Using Wav2Vec2 and HuBERT,2411.02964,http://arxiv.org/abs/2411.02964v2,2024-11-05 10:06:40+00:00
+59,Region-Guided Attack on the Segment Anything Model (SAM),2411.02974,http://arxiv.org/abs/2411.02974v2,2024-11-05 10:21:21+00:00
+60,Autonomous Decision Making for UAV Cooperative Pursuit-Evasion Game with Reinforcement Learning,2411.02983,http://arxiv.org/abs/2411.02983v1,2024-11-05 10:45:30+00:00
+61,ATM: Improving Model Merging by Alternating Tuning and Merging,2411.03055,http://arxiv.org/abs/2411.03055v2,2024-11-05 12:42:42+00:00
+62,Self-supervised cross-modality learning for uncertainty-aware object detection and recognition in applications which lack pre-labelled training data,2411.03082,http://arxiv.org/abs/2411.03082v1,2024-11-05 13:26:31+00:00
+63,Local Lesion Generation is Effective for Capsule Endoscopy Image Data Augmentation in a Limited Data Setting,2411.03098,http://arxiv.org/abs/2411.03098v1,2024-11-05 13:44:25+00:00
+64,GIS Copilot: Towards an Autonomous GIS Agent for Spatial Analysis,2411.03205,http://arxiv.org/abs/2411.03205v2,2024-11-05 15:53:59+00:00
+65,Beyond Grid Data: Exploring Graph Neural Networks for Earth Observation,2411.03223,http://arxiv.org/abs/2411.03223v2,2024-11-05 16:12:12+00:00
+66,Formal Logic-guided Robust Federated Learning against Poisoning Attacks,2411.03231,http://arxiv.org/abs/2411.03231v2,2024-11-05 16:23:19+00:00
+67,On the Detection of Non-Cooperative RISs: Scan B-Testing via Deep Support Vector Data Description,2411.03237,http://arxiv.org/abs/2411.03237v1,2024-11-05 16:36:51+00:00
+68,DiffLM: Controllable Synthetic Data Generation via Diffusion Language Models,2411.03250,http://arxiv.org/abs/2411.03250v1,2024-11-05 16:47:53+00:00
+69,Discovering Data Structures: Nearest Neighbor Search and Beyond,2411.03253,http://arxiv.org/abs/2411.03253v1,2024-11-05 16:50:54+00:00
+70,Causal Responsibility Attribution for Human-AI Collaboration,2411.03275,http://arxiv.org/abs/2411.03275v1,2024-11-05 17:17:45+00:00
+71,SMoA: Improving Multi-agent Large Language Models with Sparse Mixture-of-Agents,2411.03284,http://arxiv.org/abs/2411.03284v1,2024-11-05 17:33:39+00:00
+72,Interaction2Code: How Far Are We From Automatic Interactive Webpage Generation?,2411.03292,http://arxiv.org/abs/2411.03292v1,2024-11-05 17:40:03+00:00
+73,Inference Optimal VLMs Need Only One Visual Token but Larger Models,2411.03312,http://arxiv.org/abs/2411.03312v1,2024-11-05 18:54:21+00:00
+74,Self-Calibrated Tuning of Vision-Language Models for Out-of-Distribution Detection,2411.03359,http://arxiv.org/abs/2411.03359v1,2024-11-05 02:29:16+00:00
+75,Enhanced Real-Time Threat Detection in 5G Networks: A Self-Attention RNN Autoencoder Approach for Spectral Intrusion Analysis,2411.03365,http://arxiv.org/abs/2411.03365v1,2024-11-05 07:01:15+00:00
+76,An Open API Architecture to Discover the Trustworthy Explanation of Cloud AI Services,2411.03376,http://arxiv.org/abs/2411.03376v1,2024-11-05 16:52:22+00:00
+77,Change Is the Only Constant: Dynamic LLM Slicing based on Layer Redundancy,2411.03513,http://arxiv.org/abs/2411.03513v1,2024-11-05 21:19:49+00:00
+78,AI Metropolis: Scaling Large Language Model-based Multi-Agent Simulation with Out-of-order Execution,2411.03519,http://arxiv.org/abs/2411.03519v1,2024-11-05 21:54:14+00:00
+79,Exploring the Potentials and Challenges of Using Large Language Models for the Analysis of Transcriptional Regulation of Long Non-coding RNAs,2411.03522,http://arxiv.org/abs/2411.03522v1,2024-11-05 21:57:38+00:00
+80,Two-Stage Pretraining for Molecular Property Prediction in the Wild,2411.03537,http://arxiv.org/abs/2411.03537v1,2024-11-05 22:36:17+00:00
+81,Enhancing Weakly Supervised Semantic Segmentation for Fibrosis via Controllable Image Generation,2411.03551,http://arxiv.org/abs/2411.03551v1,2024-11-05 23:11:26+00:00
+82,Generative Artificial Intelligence Meets Synthetic Aperture Radar: A Survey,2411.05027,http://arxiv.org/abs/2411.05027v1,2024-11-05 03:06:00+00:00
+83,Leveraging Transfer Learning and Multiple Instance Learning for HER2 Automatic Scoring of H\&E Whole Slide Images,2411.05028,http://arxiv.org/abs/2411.05028v1,2024-11-05 09:44:48+00:00
+84,RT-Affordance: Affordances are Versatile Intermediate Representations for Robot Manipulation,2411.02704,http://arxiv.org/abs/2411.02704v1,2024-11-05 01:02:51+00:00
+85,Conditional Vendi Score: An Information-Theoretic Approach to Diversity Evaluation of Prompt-based Generative Models,2411.02817,http://arxiv.org/abs/2411.02817v1,2024-11-05 05:30:39+00:00
+86,"Learning to Unify Audio, Visual and Text for Audio-Enhanced Multilingual Visual Answer Localization",2411.02851,http://arxiv.org/abs/2411.02851v1,2024-11-05 06:49:14+00:00
+87,Membership Inference Attacks against Large Vision-Language Models,2411.02902,http://arxiv.org/abs/2411.02902v1,2024-11-05 08:35:08+00:00
+88,Solving Trojan Detection Competitions with Linear Weight Classification,2411.03445,http://arxiv.org/abs/2411.03445v1,2024-11-05 19:00:34+00:00
+89,Language Models and Cycle Consistency for Self-Reflective Machine Translation,2411.02791,http://arxiv.org/abs/2411.02791v1,2024-11-05 04:01:41+00:00
+90,The Future of Intelligent Healthcare: A Systematic Analysis and Discussion on the Integration and Impact of Robots Using Large Language Models for Healthcare,2411.03287,http://arxiv.org/abs/2411.03287v1,2024-11-05 17:36:32+00:00
