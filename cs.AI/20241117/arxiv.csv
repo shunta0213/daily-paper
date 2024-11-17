@@ -1,0 +1,53 @@
+,title,id,arxiv_url,published
+0,Class Granularity: How richly does your knowledge graph represent the real world?,2411.06385,http://arxiv.org/abs/2411.06385v1,2024-11-10 07:57:39+00:00
+1,Mastering NIM and Impartial Games with Weak Neural Networks: An AlphaZero-inspired Multi-Frame Approach,2411.06403,http://arxiv.org/abs/2411.06403v1,2024-11-10 09:34:26+00:00
+2,Reinforcement learning for Quantum Tiq-Taq-Toe,2411.06429,http://arxiv.org/abs/2411.06429v1,2024-11-10 11:20:36+00:00
+3,Over-parameterized Student Model via Tensor Decomposition Boosted Knowledge Distillation,2411.06448,http://arxiv.org/abs/2411.06448v1,2024-11-10 12:40:59+00:00
+4,Does This Summary Answer My Question? Modeling Query-Focused Summary Readers with Rational Speech Acts,2411.06524,http://arxiv.org/abs/2411.06524v1,2024-11-10 16:48:21+00:00
+5,Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents,2411.06559,http://arxiv.org/abs/2411.06559v1,2024-11-10 18:50:51+00:00
+6,MEANT: Multimodal Encoder for Antecedent Information,2411.06616,http://arxiv.org/abs/2411.06616v1,2024-11-10 22:42:36+00:00
+7,A Review of Fairness and A Practical Guide to Selecting Context-Appropriate Fairness Metrics in Machine Learning,2411.06624,http://arxiv.org/abs/2411.06624v1,2024-11-10 23:13:28+00:00
+8,Layer-Wise Feature Metric of Semantic-Pixel Matching for Few-Shot Learning,2411.06363,http://arxiv.org/abs/2411.06363v1,2024-11-10 05:12:24+00:00
+9,A Variance Minimization Approach to Temporal-Difference Learning,2411.06396,http://arxiv.org/abs/2411.06396v1,2024-11-10 08:56:16+00:00
+10,Fineweb-Edu-Ar: Machine-translated Corpus to Support Arabic Small Language Models,2411.06402,http://arxiv.org/abs/2411.06402v1,2024-11-10 09:29:51+00:00
+11,Automated Strategy Invention for Confluence of Term Rewrite Systems,2411.06409,http://arxiv.org/abs/2411.06409v1,2024-11-10 10:08:43+00:00
+12,"Generating Mixcode Popular Songs with Artificial Intelligence: Concepts, Plans, and Speculations",2411.06420,http://arxiv.org/abs/2411.06420v1,2024-11-10 10:49:13+00:00
+13,PLM-Based Discrete Diffusion Language Models with Entropy-Adaptive Gibbs Sampling,2411.06438,http://arxiv.org/abs/2411.06438v1,2024-11-10 11:49:36+00:00
+14,Local Implicit Wavelet Transformer for Arbitrary-Scale Super-Resolution,2411.06442,http://arxiv.org/abs/2411.06442v1,2024-11-10 12:21:14+00:00
+15,Prompt-Efficient Fine-Tuning for GPT-like Deep Models to Reduce Hallucination and to Improve Reproducibility in Scientific Text Generation Using Stochastic Optimisation Techniques,2411.06445,http://arxiv.org/abs/2411.06445v1,2024-11-10 12:28:09+00:00
+16,RL-Pruner: Structured Pruning Using Reinforcement Learning for CNN Compression and Acceleration,2411.06463,http://arxiv.org/abs/2411.06463v1,2024-11-10 13:35:10+00:00
+17,Hermes: A Large Language Model Framework on the Journey to Autonomous Networks,2411.06490,http://arxiv.org/abs/2411.06490v1,2024-11-10 15:12:12+00:00
+18,LProtector: An LLM-driven Vulnerability Detection System,2411.06493,http://arxiv.org/abs/2411.06493v2,2024-11-10 15:21:30+00:00
+19,Barriers to Complexity-Theoretic Proofs that Achieving AGI Using Machine Learning is Intractable,2411.06498,http://arxiv.org/abs/2411.06498v1,2024-11-10 15:47:30+00:00
+20,I2VControl-Camera: Precise Video Camera Control with Adjustable Motion Strength,2411.06525,http://arxiv.org/abs/2411.06525v1,2024-11-10 16:59:39+00:00
+21,A Next-Generation Approach to Airline Reservations: Integrating Cloud Microservices with AI and Blockchain for Enhanced Operational Performance,2411.06538,http://arxiv.org/abs/2411.06538v1,2024-11-10 17:38:30+00:00
+22,In-Context Learning for Preserving Patient Privacy: A Framework for Synthesizing Realistic Patient Portal Messages,2411.06549,http://arxiv.org/abs/2411.06549v1,2024-11-10 18:06:55+00:00
+23,Foundation Model for Composite Materials and Microstructural Analysis,2411.06565,http://arxiv.org/abs/2411.06565v1,2024-11-10 19:06:25+00:00
+24,Gen-AI for User Safety: A Survey,2411.06606,http://arxiv.org/abs/2411.06606v1,2024-11-10 21:49:10+00:00
+25,Feature Fusion Transferability Aware Transformer for Unsupervised Domain Adaptation,2411.07794,http://arxiv.org/abs/2411.07794v1,2024-11-10 22:23:12+00:00
+26,InvisMark: Invisible and Robust Watermarking for AI-generated Image Provenance,2411.07795,http://arxiv.org/abs/2411.07795v1,2024-11-10 16:22:22+00:00
+27,Prompts Matter: Comparing ML/GAI Approaches for Generating Inductive Qualitative Coding Results,2411.06316,http://arxiv.org/abs/2411.06316v1,2024-11-10 00:23:55+00:00
+28,Deep Active Learning in the Open World,2411.06353,http://arxiv.org/abs/2411.06353v1,2024-11-10 04:04:20+00:00
+29,BayesNAM: Leveraging Inconsistency for Reliable Explanations,2411.06367,http://arxiv.org/abs/2411.06367v1,2024-11-10 05:55:25+00:00
+30,Phantom: Constraining Generative Artificial Intelligence Models for Practical Domain Specific Peripherals Trace Synthesizing,2411.06376,http://arxiv.org/abs/2411.06376v1,2024-11-10 07:15:03+00:00
+31,Self-Training Meets Consistency: Improving LLMs' Reasoning With Consistency-Driven Rationale Evaluation,2411.06387,http://arxiv.org/abs/2411.06387v1,2024-11-10 08:11:05+00:00
+32,CausalStock: Deep End-to-end Causal Discovery for News-driven Stock Movement Prediction,2411.06391,http://arxiv.org/abs/2411.06391v1,2024-11-10 08:24:03+00:00
+33,SequentialBreak: Large Language Models Can be Fooled by Embedding Jailbreak Prompts into Sequential Prompt Chains,2411.06426,http://arxiv.org/abs/2411.06426v1,2024-11-10 11:08:28+00:00
+34,Neuro-Symbolic Rule Lists,2411.06428,http://arxiv.org/abs/2411.06428v1,2024-11-10 11:10:36+00:00
+35,CTC-Assisted LLM-Based Contextual ASR,2411.06437,http://arxiv.org/abs/2411.06437v1,2024-11-10 11:47:50+00:00
+36,Offline Handwritten Signature Verification Using a Stream-Based Approach,2411.06510,http://arxiv.org/abs/2411.06510v1,2024-11-10 16:16:06+00:00
+37,Epistemic Integrity in Large Language Models,2411.06528,http://arxiv.org/abs/2411.06528v1,2024-11-10 17:10:13+00:00
+38,Probabilistic Consensus through Ensemble Validation: A Framework for LLM Reliability,2411.06535,http://arxiv.org/abs/2411.06535v1,2024-11-10 17:32:16+00:00
+39,Is Linear Feedback on Smoothed Dynamics Sufficient for Stabilizing Contact-Rich Plans?,2411.06542,http://arxiv.org/abs/2411.06542v2,2024-11-10 17:48:26+00:00
+40,Learning Loss Landscapes in Preference Optimization,2411.06568,http://arxiv.org/abs/2411.06568v1,2024-11-10 19:11:48+00:00
+41,Discovering emergent connections in quantum physics research via dynamic word embeddings,2411.06577,http://arxiv.org/abs/2411.06577v1,2024-11-10 19:45:59+00:00
+42,Federated LLMs Fine-tuned with Adaptive Importance-Aware LoRA,2411.06581,http://arxiv.org/abs/2411.06581v1,2024-11-10 19:59:54+00:00
+43,Enhancing frozen histological section images using permanent-section-guided deep learning with nuclei attention,2411.06583,http://arxiv.org/abs/2411.06583v1,2024-11-10 20:16:32+00:00
+44,CriticAL: Critic Automation with Language Models,2411.06590,http://arxiv.org/abs/2411.06590v1,2024-11-10 20:41:35+00:00
+45,OffLight: An Offline Multi-Agent Reinforcement Learning Framework for Traffic Signal Control,2411.06601,http://arxiv.org/abs/2411.06601v1,2024-11-10 21:26:17+00:00
+46,vTune: Verifiable Fine-Tuning for LLMs Through Backdooring,2411.06611,http://arxiv.org/abs/2411.06611v2,2024-11-10 22:08:37+00:00
+47,Exploring social bots: A feature-based approach to improve bot detection in social networks,2411.06626,http://arxiv.org/abs/2411.06626v1,2024-11-10 23:19:08+00:00
+48,MatPilot: an LLM-enabled AI Materials Scientist under the Framework of Human-Machine Collaboration,2411.08063,http://arxiv.org/abs/2411.08063v1,2024-11-10 12:23:44+00:00
+49,Balancing Power and Ethics: A Framework for Addressing Human Rights Concerns in Military AI,2411.06336,http://arxiv.org/abs/2411.06336v1,2024-11-10 02:27:01+00:00
+50,Multi-hop Upstream Preemptive Traffic Signal Control with Deep Reinforcement Learning,2411.07271,http://arxiv.org/abs/2411.07271v1,2024-11-10 16:28:42+00:00
+51,Understanding the Role of Equivariance in Self-supervised Learning,2411.06508,http://arxiv.org/abs/2411.06508v1,2024-11-10 16:09:47+00:00
