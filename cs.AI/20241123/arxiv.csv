@@ -1,0 +1,33 @@
+,title,id,arxiv_url,published
+0,SAM Decoding: Speculative Decoding via Suffix Automaton,2411.10666,http://arxiv.org/abs/2411.10666v1,2024-11-16 02:02:49+00:00
+1,HELENE: Hessian Layer-wise Clipping and Gradient Annealing for Accelerating Fine-tuning LLM with Zeroth-order Optimization,2411.10696,http://arxiv.org/abs/2411.10696v1,2024-11-16 04:27:22+00:00
+2,MetaLA: Unified Optimal Linear Approximation to Softmax Attention Map,2411.10741,http://arxiv.org/abs/2411.10741v1,2024-11-16 08:47:32+00:00
+3,Digital-Analog Quantum Machine Learning,2411.10744,http://arxiv.org/abs/2411.10744v1,2024-11-16 08:54:52+00:00
+4,LTCXNet: Advancing Chest X-Ray Analysis with Solutions for Long-Tailed Multi-Label Classification and Fairness Challenges,2411.10746,http://arxiv.org/abs/2411.10746v1,2024-11-16 08:59:20+00:00
+5,Adaptive Learning of Design Strategies over Non-Hierarchical Multi-Fidelity Models via Policy Alignment,2411.10841,http://arxiv.org/abs/2411.10841v1,2024-11-16 16:54:33+00:00
+6,CODECLEANER: Elevating Standards with A Robust Data Contamination Mitigation Toolkit,2411.10842,http://arxiv.org/abs/2411.10842v1,2024-11-16 17:06:21+00:00
+7,ViBe: A Text-to-Video Benchmark for Evaluating Hallucination in Large Multimodal Models,2411.10867,http://arxiv.org/abs/2411.10867v1,2024-11-16 19:23:12+00:00
+8,Developer Perspectives on Licensing and Copyright Issues Arising from Generative AI for Coding,2411.10877,http://arxiv.org/abs/2411.10877v1,2024-11-16 20:06:21+00:00
+9,Evolution of IVR building techniques: from code writing to AI-powered automation,2411.10895,http://arxiv.org/abs/2411.10895v1,2024-11-16 21:47:10+00:00
+10,A Novel Approach to Eliminating Hallucinations in Large Language Model-Assisted Causal Discovery,2411.12759,http://arxiv.org/abs/2411.12759v1,2024-11-16 03:06:39+00:00
+11,AI-Empowered Human Research Integrating Brain Science and Social Sciences Insights,2411.12761,http://arxiv.org/abs/2411.12761v1,2024-11-16 11:13:23+00:00
+12,Playing Language Game with LLMs Leads to Jailbreaking,2411.12762,http://arxiv.org/abs/2411.12762v1,2024-11-16 13:07:13+00:00
+13,Gender Bias Mitigation for Bangla Classification Tasks,2411.10636,http://arxiv.org/abs/2411.10636v1,2024-11-16 00:04:45+00:00
+14,MTA: Multimodal Task Alignment for BEV Perception and Captioning,2411.10639,http://arxiv.org/abs/2411.10639v1,2024-11-16 00:14:13+00:00
+15,Pluralistic Alignment Over Time,2411.10654,http://arxiv.org/abs/2411.10654v1,2024-11-16 01:23:25+00:00
+16,Exploring Feature-based Knowledge Distillation For Recommender System: A Frequency Perspective,2411.10676,http://arxiv.org/abs/2411.10676v1,2024-11-16 02:41:12+00:00
+17,DEBUG-HD: Debugging TinyML models on-device using Hyper-Dimensional computing,2411.10692,http://arxiv.org/abs/2411.10692v1,2024-11-16 04:03:22+00:00
+18,Chain-of-Programming (CoP) : Empowering Large Language Models for Geospatial Code Generation,2411.10753,http://arxiv.org/abs/2411.10753v1,2024-11-16 09:20:35+00:00
+19,Integrated Machine Learning and Survival Analysis Modeling for Enhanced Chronic Kidney Disease Risk Stratification,2411.10754,http://arxiv.org/abs/2411.10754v1,2024-11-16 09:22:06+00:00
+20,One-Layer Transformer Provably Learns One-Nearest Neighbor In Context,2411.10830,http://arxiv.org/abs/2411.10830v1,2024-11-16 16:12:42+00:00
+21,A Novel Adaptive Hybrid Focal-Entropy Loss for Enhancing Diabetic Retinopathy Detection Using Convolutional Neural Networks,2411.10843,http://arxiv.org/abs/2411.10843v1,2024-11-16 17:07:53+00:00
+22,See-Saw Generative Mechanism for Scalable Recursive Code Generation with Generative AI,2411.10861,http://arxiv.org/abs/2411.10861v1,2024-11-16 18:54:56+00:00
+23,Empowering Meta-Analysis: Leveraging Large Language Models for Scientific Synthesis,2411.10878,http://arxiv.org/abs/2411.10878v1,2024-11-16 20:18:57+00:00
+24,MetricGold: Leveraging Text-To-Image Latent Diffusion Models for Metric Depth Estimation,2411.10886,http://arxiv.org/abs/2411.10886v1,2024-11-16 20:59:01+00:00
+25,MpoxVLM: A Vision-Language Model for Diagnosing Skin Lesions from Mpox Virus Infection,2411.10888,http://arxiv.org/abs/2411.10888v1,2024-11-16 21:09:04+00:00
+26,LLM4DS: Evaluating Large Language Models for Data Science Code Generation,2411.11908,http://arxiv.org/abs/2411.11908v1,2024-11-16 18:43:26+00:00
+27,Education in the Era of Neurosymbolic AI,2411.12763,http://arxiv.org/abs/2411.12763v1,2024-11-16 19:18:39+00:00
+28,Enhanced FIWARE-Based Architecture for Cyberphysical Systems With Tiny Machine Learning and Machine Learning Operations: A Case Study on Urban Mobility Systems,2411.13583,http://arxiv.org/abs/2411.13583v1,2024-11-16 13:14:29+00:00
+29,MRI Parameter Mapping via Gaussian Mixture VAE: Breaking the Assumption of Independent Pixels,2411.10772,http://arxiv.org/abs/2411.10772v1,2024-11-16 11:11:36+00:00
+30,BanglaDialecto: An End-to-End AI-Powered Regional Speech Standardization,2411.10879,http://arxiv.org/abs/2411.10879v1,2024-11-16 20:20:15+00:00
+31,Understanding Learning with Sliced-Wasserstein Requires Rethinking Informative Slices,2411.10651,http://arxiv.org/abs/2411.10651v1,2024-11-16 01:18:27+00:00
