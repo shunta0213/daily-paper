@@ -1,0 +1,93 @@
+,title,id,arxiv_url,published
+0,Syllabus: Portable Curricula for Reinforcement Learning Agents,2411.11318,http://arxiv.org/abs/2411.11318v1,2024-11-18 06:22:30+00:00
+1,MEMO-Bench: A Multiple Benchmark for Text-to-Image and Multimodal Large Language Models on Human Emotion Analysis,2411.11235,http://arxiv.org/abs/2411.11235v1,2024-11-18 02:09:48+00:00
+2,ZeFaV: Boosting Large Language Models for Zero-shot Fact Verification,2411.11247,http://arxiv.org/abs/2411.11247v1,2024-11-18 02:35:15+00:00
+3,EXCON: Extreme Instance-based Contrastive Representation Learning of Severely Imbalanced Multivariate Time Series for Solar Flare Prediction,2411.11249,http://arxiv.org/abs/2411.11249v1,2024-11-18 02:36:19+00:00
+4,Cross-Patient Pseudo Bags Generation and Curriculum Contrastive Learning for Imbalanced Multiclassification of Whole Slide Image,2411.11262,http://arxiv.org/abs/2411.11262v1,2024-11-18 03:35:34+00:00
+5,Multi-Hyperbolic Space-based Heterogeneous Graph Attention Network,2411.11283,http://arxiv.org/abs/2411.11283v1,2024-11-18 04:55:26+00:00
+6,Zero-Shot Automatic Annotation and Instance Segmentation using LLM-Generated Datasets: Eliminating Field Imaging and Manual Annotation for Deep Learning Model Development,2411.11285,http://arxiv.org/abs/2411.11285v1,2024-11-18 05:11:29+00:00
+7,"LP Data Pipeline: Lightweight, Purpose-driven Data Pipeline for Large Language Models",2411.11289,http://arxiv.org/abs/2411.11289v1,2024-11-18 05:17:27+00:00
+8,Transcending Language Boundaries: Harnessing LLMs for Low-Resource Language Translation,2411.11295,http://arxiv.org/abs/2411.11295v1,2024-11-18 05:41:27+00:00
+9,Towards Personalized Brain-Computer Interface Application Based on Endogenous EEG Paradigms,2411.11302,http://arxiv.org/abs/2411.11302v1,2024-11-18 05:58:41+00:00
+10,Recurrent Stochastic Configuration Networks with Incremental Blocks,2411.11303,http://arxiv.org/abs/2411.11303v1,2024-11-18 05:58:47+00:00
+11,TP-UNet: Temporal Prompt Guided UNet for Medical Image Segmentation,2411.11305,http://arxiv.org/abs/2411.11305v2,2024-11-18 06:01:00+00:00
+12,Mitigating Knowledge Conflicts in Language Model-Driven Question Answering,2411.11344,http://arxiv.org/abs/2411.11344v1,2024-11-18 07:33:10+00:00
+13,"A comprehensive survey of oracle character recognition: challenges, benchmarks, and beyond",2411.11354,http://arxiv.org/abs/2411.11354v1,2024-11-18 07:50:22+00:00
+14,Continual Task Learning through Adaptive Policy Self-Composition,2411.11364,http://arxiv.org/abs/2411.11364v1,2024-11-18 08:20:21+00:00
+15,The GECo algorithm for Graph Neural Networks Explanation,2411.11391,http://arxiv.org/abs/2411.11391v1,2024-11-18 09:08:30+00:00
+16,Implicit Regularization for Multi-label Feature Selection,2411.11436,http://arxiv.org/abs/2411.11436v1,2024-11-18 10:08:05+00:00
+17,Unveiling the Inflexibility of Adaptive Embedding in Traffic Forecasting,2411.11448,http://arxiv.org/abs/2411.11448v1,2024-11-18 10:30:34+00:00
+18,Robust Markov Decision Processes: A Place Where AI and Formal Methods Meet,2411.11451,http://arxiv.org/abs/2411.11451v1,2024-11-18 10:34:14+00:00
+19,Addressing Hallucinations in Language Models with Knowledge Graph Embeddings as an Additional Modality,2411.11531,http://arxiv.org/abs/2411.11531v1,2024-11-18 12:40:51+00:00
+20,Enhancing Vision-Language Model Safety through Progressive Concept-Bottleneck-Driven Alignment,2411.11543,http://arxiv.org/abs/2411.11543v1,2024-11-18 13:01:57+00:00
+21,Topology-aware Preemptive Scheduling for Co-located LLM Workloads,2411.11560,http://arxiv.org/abs/2411.11560v1,2024-11-18 13:26:09+00:00
+22,ST-Tree with Interpretability for Multivariate Time Series Classification,2411.11620,http://arxiv.org/abs/2411.11620v1,2024-11-18 14:49:12+00:00
+23,Chapter 7 Review of Data-Driven Generative AI Models for Knowledge Extraction from Scientific Literature in Healthcare,2411.11635,http://arxiv.org/abs/2411.11635v1,2024-11-18 15:13:47+00:00
+24,SP${ }^3$ : Superpixel-propagated pseudo-label learning for weakly semi-supervised medical image segmentation,2411.11636,http://arxiv.org/abs/2411.11636v1,2024-11-18 15:14:36+00:00
+25,TSINR: Capturing Temporal Continuity via Implicit Neural Representations for Time Series Anomaly Detection,2411.11641,http://arxiv.org/abs/2411.11641v2,2024-11-18 15:19:54+00:00
+26,Artificial Scientific Discovery,2411.11672,http://arxiv.org/abs/2411.11672v1,2024-11-18 15:51:45+00:00
+27,PSPO*: An Effective Process-supervised Policy Optimization for Reasoning Alignment,2411.11681,http://arxiv.org/abs/2411.11681v1,2024-11-18 16:03:51+00:00
+28,TrojanRobot: Backdoor Attacks Against Robotic Manipulation in the Physical World,2411.11683,http://arxiv.org/abs/2411.11683v1,2024-11-18 16:09:26+00:00
+29,Technical Report: Enhancing LLM Reasoning with Reward-guided Tree Search,2411.11694,http://arxiv.org/abs/2411.11694v1,2024-11-18 16:15:17+00:00
+30,MC-LLaVA: Multi-Concept Personalized Vision-Language Model,2411.11706,http://arxiv.org/abs/2411.11706v1,2024-11-18 16:33:52+00:00
+31,FedCoLLM: A Parameter-Efficient Federated Co-tuning Framework for Large and Small Language Models,2411.11707,http://arxiv.org/abs/2411.11707v1,2024-11-18 16:34:58+00:00
+32,Semantic-Geometric-Physical-Driven Robot Manipulation Skill Transfer via Skill Library and Tactile Representation,2411.11714,http://arxiv.org/abs/2411.11714v1,2024-11-18 16:42:07+00:00
+33,Lifted Model Construction without Normalisation: A Vectorised Approach to Exploit Symmetries in Factor Graphs,2411.11730,http://arxiv.org/abs/2411.11730v2,2024-11-18 16:59:44+00:00
+34,Moral Persuasion in Large Language Models: Evaluating Susceptibility and Ethical Alignment,2411.11731,http://arxiv.org/abs/2411.11731v1,2024-11-18 16:59:59+00:00
+35,WoodYOLO: A Novel Object Detector for Wood Species Detection in Microscopic Images,2411.11738,http://arxiv.org/abs/2411.11738v1,2024-11-18 17:07:37+00:00
+36,QARM: Quantitative Alignment Multi-Modal Recommendation at Kuaishou,2411.11739,http://arxiv.org/abs/2411.11739v1,2024-11-18 17:08:35+00:00
+37,AdaptLIL: A Gaze-Adaptive Visualization for Ontology Mapping,2411.11768,http://arxiv.org/abs/2411.11768v1,2024-11-18 17:47:54+00:00
+38,CNMBert: A Model For Hanyu Pinyin Abbreviation to Character Conversion Task,2411.11770,http://arxiv.org/abs/2411.11770v1,2024-11-18 17:50:34+00:00
+39,Exploring the Requirements of Clinicians for Explainable AI Decision Support Systems in Intensive Care,2411.11774,http://arxiv.org/abs/2411.11774v1,2024-11-18 17:53:07+00:00
+40,LightFFDNets: Lightweight Convolutional Neural Networks for Rapid Facial Forgery Detection,2411.11826,http://arxiv.org/abs/2411.11826v1,2024-11-18 18:44:10+00:00
+41,Bi-Mamba: Towards Accurate 1-Bit State Space Models,2411.11843,http://arxiv.org/abs/2411.11843v1,2024-11-18 18:59:15+00:00
+42,AtomThink: A Slow Thinking Framework for Multimodal Mathematical Reasoning,2411.11930,http://arxiv.org/abs/2411.11930v1,2024-11-18 11:54:58+00:00
+43,SpatialDreamer: Self-supervised Stereo Video Synthesis from Monocular Input,2411.11934,http://arxiv.org/abs/2411.11934v1,2024-11-18 15:12:59+00:00
+44,Value Imprint: A Technique for Auditing the Human Values Embedded in RLHF Datasets,2411.11937,http://arxiv.org/abs/2411.11937v1,2024-11-18 16:12:24+00:00
+45,Newclid: A User-Friendly Replacement for AlphaGeometry,2411.11938,http://arxiv.org/abs/2411.11938v1,2024-11-18 16:24:21+00:00
+46,Medical Video Generation for Disease Progression Simulation,2411.11943,http://arxiv.org/abs/2411.11943v1,2024-11-18 18:37:09+00:00
+47,ByteScience: Bridging Unstructured Scientific Literature and Structured Data with Auto Fine-tuned Large Language Model in Token Granularity,2411.12000,http://arxiv.org/abs/2411.12000v1,2024-11-18 19:36:26+00:00
+48,Regret-Free Reinforcement Learning for LTL Specifications,2411.12019,http://arxiv.org/abs/2411.12019v1,2024-11-18 20:01:45+00:00
+49,TSPRank: Bridging Pairwise and Listwise Methods with a Bilinear Travelling Salesman Model,2411.12064,http://arxiv.org/abs/2411.12064v1,2024-11-18 21:10:14+00:00
+50,Leveraging MLLM Embeddings and Attribute Smoothing for Compositional Zero-Shot Learning,2411.12584,http://arxiv.org/abs/2411.12584v1,2024-11-18 07:55:54+00:00
+51,Advance Detection Of Bull And Bear Phases In Cryptocurrency Markets,2411.13586,http://arxiv.org/abs/2411.13586v1,2024-11-18 01:48:16+00:00
+52,Exploring the Adversarial Vulnerabilities of Vision-Language-Action Models in Robotics,2411.13587,http://arxiv.org/abs/2411.13587v1,2024-11-18 01:52:20+00:00
+53,Unveiling Redundancy in Diffusion Transformers (DiTs): A Systematic Study,2411.13588,http://arxiv.org/abs/2411.13588v1,2024-11-18 02:49:23+00:00
+54,A Novel Speech Analysis and Correction Tool for Arabic-Speaking Children,2411.13592,http://arxiv.org/abs/2411.13592v1,2024-11-18 09:43:40+00:00
+55,Enhancing Bidirectional Sign Language Communication: Integrating YOLOv8 and NLP for Real-Time Gesture Recognition & Translation,2411.13597,http://arxiv.org/abs/2411.13597v1,2024-11-18 19:55:11+00:00
+56,Making Sigmoid-MSE Great Again: Output Reset Challenges Softmax Cross-Entropy in Neural Network Classification,2411.11213,http://arxiv.org/abs/2411.11213v1,2024-11-18 00:46:38+00:00
+57,MoE-Lightning: High-Throughput MoE Inference on Memory-constrained GPUs,2411.11217,http://arxiv.org/abs/2411.11217v1,2024-11-18 01:06:12+00:00
+58,Continuous K-space Recovery Network with Image Guidance for Fast MRI Reconstruction,2411.11282,http://arxiv.org/abs/2411.11282v1,2024-11-18 04:54:04+00:00
+59,Study of the Performance of CEEMDAN in Underdetermined Speech Separation,2411.11312,http://arxiv.org/abs/2411.11312v1,2024-11-18 06:13:51+00:00
+60,IKEA Manuals at Work: 4D Grounding of Assembly Instructions on Internet Videos,2411.11409,http://arxiv.org/abs/2411.11409v1,2024-11-18 09:30:05+00:00
+61,HistoEncoder: a digital pathology foundation model for prostate cancer,2411.11458,http://arxiv.org/abs/2411.11458v1,2024-11-18 10:46:05+00:00
+62,Alien Recombination: Exploring Concept Blends Beyond Human Cognitive Availability in Visual Art,2411.11494,http://arxiv.org/abs/2411.11494v1,2024-11-18 11:55:38+00:00
+63,"Search, Verify and Feedback: Towards Next Generation Post-training Paradigm of Foundation Models via Verifier Engineering",2411.11504,http://arxiv.org/abs/2411.11504v1,2024-11-18 12:04:52+00:00
+64,Structure learning with Temporal Gaussian Mixture for model-based Reinforcement Learning,2411.11511,http://arxiv.org/abs/2411.11511v1,2024-11-18 12:16:03+00:00
+65,A Pre-Trained Graph-Based Model for Adaptive Sequencing of Educational Documents,2411.11520,http://arxiv.org/abs/2411.11520v1,2024-11-18 12:29:06+00:00
+66,Real-Time Fitness Exercise Classification and Counting from Video Frames,2411.11548,http://arxiv.org/abs/2411.11548v1,2024-11-18 13:06:29+00:00
+67,Hybrid Data-Driven SSM for Interpretable and Label-Free mmWave Channel Prediction,2411.11576,http://arxiv.org/abs/2411.11576v1,2024-11-18 13:54:44+00:00
+68,Signaling and Social Learning in Swarms of Robots,2411.11616,http://arxiv.org/abs/2411.11616v2,2024-11-18 14:42:15+00:00
+69,No-regret Exploration in Shuffle Private Reinforcement Learning,2411.11647,http://arxiv.org/abs/2411.11647v1,2024-11-18 15:24:11+00:00
+70,Dissecting Misalignment of Multimodal Large Language Models via Influence Function,2411.11667,http://arxiv.org/abs/2411.11667v1,2024-11-18 15:45:41+00:00
+71,Conceptwm: A Diffusion Model Watermark for Concept Protection,2411.11688,http://arxiv.org/abs/2411.11688v1,2024-11-18 16:11:25+00:00
+72,The Power of Many: Multi-Agent Multimodal Models for Cultural Image Captioning,2411.11758,http://arxiv.org/abs/2411.11758v1,2024-11-18 17:37:10+00:00
+73,"Exploring adversarial robustness of JPEG AI: methodology, comparison and new methods",2411.11795,http://arxiv.org/abs/2411.11795v1,2024-11-18 18:08:52+00:00
+74,Edge-Enhanced Dilated Residual Attention Network for Multimodal Medical Image Fusion,2411.11799,http://arxiv.org/abs/2411.11799v1,2024-11-18 18:11:53+00:00
+75,Reviving Dormant Memories: Investigating Catastrophic Forgetting in Language Models through Rationale-Guidance Difficulty,2411.11932,http://arxiv.org/abs/2411.11932v1,2024-11-18 14:28:04+00:00
+76,METEOR: Evolutionary Journey of Large Language Models from Guidance to Self-Growth,2411.11933,http://arxiv.org/abs/2411.11933v1,2024-11-18 15:09:50+00:00
+77,Variable Rate Neural Compression for Sparse Detector Data,2411.11942,http://arxiv.org/abs/2411.11942v1,2024-11-18 17:15:35+00:00
+78,Understanding Chain-of-Thought in LLMs through Information Theory,2411.11984,http://arxiv.org/abs/2411.11984v1,2024-11-18 19:14:36+00:00
+79,Scaling Deep Learning Research with Kubernetes on the NRP Nautilus HyperCluster,2411.12038,http://arxiv.org/abs/2411.12038v1,2024-11-18 20:19:49+00:00
+80,Fast Convergence of Softmax Policy Mirror Ascent,2411.12042,http://arxiv.org/abs/2411.12042v1,2024-11-18 20:27:13+00:00
+81,Fingerprinting and Tracing Shadows: The Development and Impact of Browser Fingerprinting on Digital Privacy,2411.12045,http://arxiv.org/abs/2411.12045v1,2024-11-18 20:32:31+00:00
+82,Benchmarking pre-trained text embedding models in aligning built asset information,2411.12056,http://arxiv.org/abs/2411.12056v1,2024-11-18 20:54:17+00:00
+83,"Zoomed In, Diffused Out: Towards Local Degradation-Aware Multi-Diffusion for Extreme Image Super-Resolution",2411.12072,http://arxiv.org/abs/2411.12072v1,2024-11-18 21:32:49+00:00
+84,Just Leaf It: Accelerating Diffusion Classifiers with Hierarchical Class Pruning,2411.12073,http://arxiv.org/abs/2411.12073v1,2024-11-18 21:34:05+00:00
+85,"Distill the Best, Ignore the Rest: Improving Dataset Distillation with Loss-Value-Based Pruning",2411.12115,http://arxiv.org/abs/2411.12115v1,2024-11-18 22:51:44+00:00
+86,The Role of Accuracy and Validation Effectiveness in Conversational Business Analytics,2411.12128,http://arxiv.org/abs/2411.12128v2,2024-11-18 23:58:24+00:00
+87,Suicide Risk Assessment on Social Media with Semi-Supervised Learning,2411.12767,http://arxiv.org/abs/2411.12767v1,2024-11-18 02:43:05+00:00
+88,CROW: Eliminating Backdoors from Large Language Models via Internal Consistency Regularization,2411.12768,http://arxiv.org/abs/2411.12768v1,2024-11-18 07:52:12+00:00
+89,Deep learning waterways for rural infrastructure development,2411.13590,http://arxiv.org/abs/2411.13590v1,2024-11-18 05:36:05+00:00
+90,Improved GUI Grounding via Iterative Narrowing,2411.13591,http://arxiv.org/abs/2411.13591v1,2024-11-18 05:47:12+00:00
+91,Closed-loop multi-step planning with innate physics knowledge,2411.11510,http://arxiv.org/abs/2411.11510v1,2024-11-18 12:15:16+00:00
