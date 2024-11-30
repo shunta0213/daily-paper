@@ -1,0 +1,50 @@
+,title,id,arxiv_url,published
+0,Aligning Generalisation Between Humans and Machines,2411.15626,http://arxiv.org/abs/2411.15626v1,2024-11-23 18:36:07+00:00
+1,Gradient-Free Classifier Guidance for Diffusion Model Sampling,2411.15393,http://arxiv.org/abs/2411.15393v1,2024-11-23 00:22:21+00:00
+2,"Exploring Large Language Models for Multimodal Sentiment Analysis: Challenges, Benchmarks, and Future Directions",2411.15408,http://arxiv.org/abs/2411.15408v1,2024-11-23 02:17:10+00:00
+3,FG-CXR: A Radiologist-Aligned Gaze Dataset for Enhancing Interpretability in Chest X-Ray Report Generation,2411.15413,http://arxiv.org/abs/2411.15413v1,2024-11-23 02:22:40+00:00
+4,GeoAI-Enhanced Community Detection on Spatial Networks with Graph Deep Learning,2411.15428,http://arxiv.org/abs/2411.15428v1,2024-11-23 03:09:34+00:00
+5,Automatic High-quality Verilog Assertion Generation through Subtask-Focused Fine-Tuned LLMs and Iterative Prompting,2411.15442,http://arxiv.org/abs/2411.15442v1,2024-11-23 03:52:32+00:00
+6,freePruner: A Training-free Approach for Large Multimodal Model Acceleration,2411.15446,http://arxiv.org/abs/2411.15446v1,2024-11-23 04:25:16+00:00
+7,Enhancing Instruction-Following Capability of Visual-Language Models by Reducing Image Redundancy,2411.15453,http://arxiv.org/abs/2411.15453v1,2024-11-23 05:03:32+00:00
+8,MUFM: A Mamba-Enhanced Feedback Model for Micro Video Popularity Prediction,2411.15455,http://arxiv.org/abs/2411.15455v1,2024-11-23 05:13:27+00:00
+9,"TANGNN: a Concise, Scalable and Effective Graph Neural Networks with Top-m Attention Mechanism for Graph Representation Learning",2411.15458,http://arxiv.org/abs/2411.15458v1,2024-11-23 05:31:25+00:00
+10,Interactive Visual Assessment for Text-to-Image Generation Models,2411.15509,http://arxiv.org/abs/2411.15509v1,2024-11-23 10:06:18+00:00
+11,Enhancing Grammatical Error Detection using BERT with Cleaned Lang-8 Dataset,2411.15523,http://arxiv.org/abs/2411.15523v1,2024-11-23 10:57:41+00:00
+12,Large Language Model with Region-guided Referring and Grounding for CT Report Generation,2411.15539,http://arxiv.org/abs/2411.15539v1,2024-11-23 12:25:06+00:00
+13,An unconditional distribution learning advantage with shallow quantum circuits,2411.15548,http://arxiv.org/abs/2411.15548v2,2024-11-23 13:03:22+00:00
+14,Class Order Disorder in Wikidata and First Fixes,2411.15550,http://arxiv.org/abs/2411.15550v1,2024-11-23 13:15:13+00:00
+15,ReWind: Understanding Long Videos with Instructed Learnable Memory,2411.15556,http://arxiv.org/abs/2411.15556v1,2024-11-23 13:23:22+00:00
+16,Do LLMs Agree on the Creativity Evaluation of Alternative Uses?,2411.15560,http://arxiv.org/abs/2411.15560v2,2024-11-23 13:34:50+00:00
+17,Deep Learning for THz Channel Estimation and Beamforming Prediction via Sub-6GHz Channel,2411.15589,http://arxiv.org/abs/2411.15589v1,2024-11-23 15:36:35+00:00
+18,A Survey on LLM-as-a-Judge,2411.15594,http://arxiv.org/abs/2411.15594v1,2024-11-23 16:03:35+00:00
+19,An adversarial feature learning based semantic communication method for Human 3D Reconstruction,2411.15595,http://arxiv.org/abs/2411.15595v1,2024-11-23 16:09:53+00:00
+20,How Texts Help? A Fine-grained Evaluation to Reveal the Role of Language in Vision-Language Tracking,2411.15600,http://arxiv.org/abs/2411.15600v1,2024-11-23 16:31:40+00:00
+21,Ontology-Constrained Generation of Domain-Specific Clinical Summaries,2411.15666,http://arxiv.org/abs/2411.15666v1,2024-11-23 23:05:48+00:00
+22,Steering Away from Harm: An Adaptive Approach to Defending Vision Language Model Against Jailbreaks,2411.16721,http://arxiv.org/abs/2411.16721v1,2024-11-23 02:17:17+00:00
+23,EmotiveTalk: Expressive Talking Head Generation through Audio Information Decoupling and Emotional Video Diffusion,2411.16726,http://arxiv.org/abs/2411.16726v1,2024-11-23 04:38:51+00:00
+24,Document Haystacks: Vision-Language Reasoning Over Piles of 1000+ Documents,2411.16740,http://arxiv.org/abs/2411.16740v1,2024-11-23 18:14:42+00:00
+25,Inducing Human-like Biases in Moral Reasoning Language Models,2411.15386,http://arxiv.org/abs/2411.15386v1,2024-11-23 00:01:07+00:00
+26,The Decoy Dilemma in Online Medical Information Evaluation: A Comparative Study of Credibility Assessments by LLM and Human Judges,2411.15396,http://arxiv.org/abs/2411.15396v1,2024-11-23 00:43:27+00:00
+27,A Preliminary Study of Multilingual Code Language Models for Code Generation Task Using Translated Benchmarks,2411.15470,http://arxiv.org/abs/2411.15470v1,2024-11-23 06:40:47+00:00
+28,KinMo: Kinematic-aware Human Motion Understanding and Generation,2411.15472,http://arxiv.org/abs/2411.15472v1,2024-11-23 06:50:11+00:00
+29,Towards Robust Evaluation of Unlearning in LLMs via Data Transformations,2411.15477,http://arxiv.org/abs/2411.15477v1,2024-11-23 07:20:36+00:00
+30,"Automatic Evaluation for Text-to-image Generation: Task-decomposed Framework, Distilled Training, and Meta-evaluation Benchmark",2411.15488,http://arxiv.org/abs/2411.15488v1,2024-11-23 08:06:06+00:00
+31,Instruct or Interact? Exploring and Eliciting LLMs' Capability in Code Snippet Adaptation Through Prompt Engineering,2411.15501,http://arxiv.org/abs/2411.15501v1,2024-11-23 09:40:36+00:00
+32,Optical-Flow Guided Prompt Optimization for Coherent Video Generation,2411.15540,http://arxiv.org/abs/2411.15540v1,2024-11-23 12:26:52+00:00
+33,LAGUNA: LAnguage Guided UNsupervised Adaptation with structured spaces,2411.15557,http://arxiv.org/abs/2411.15557v1,2024-11-23 13:26:53+00:00
+34,"""All that Glitters"": Approaches to Evaluations with Unreliable Model and Human Annotations",2411.15634,http://arxiv.org/abs/2411.15634v1,2024-11-23 19:18:08+00:00
+35,IRSKG: Unified Intrusion Response System Knowledge Graph Ontology for Cyber Defense,2411.15672,http://arxiv.org/abs/2411.15672v1,2024-11-23 23:31:55+00:00
+36,Two Heads Are Better Than One: Collaborative LLM Embodied Agents for Human-Robot Interaction,2411.16723,http://arxiv.org/abs/2411.16723v1,2024-11-23 02:47:12+00:00
+37,Maximizing the Impact of Deep Learning on Subseasonal-to-Seasonal Climate Forecasting: The Essential Role of Optimization,2411.16728,http://arxiv.org/abs/2411.16728v1,2024-11-23 08:01:54+00:00
+38,"""Moralized"" Multi-Step Jailbreak Prompts: Black-Box Testing of Guardrails in Large Language Models for Verbal Attacks",2411.16730,http://arxiv.org/abs/2411.16730v1,2024-11-23 09:32:44+00:00
+39,ChemSafetyBench: Benchmarking LLM Safety on Chemistry Domain,2411.16736,http://arxiv.org/abs/2411.16736v1,2024-11-23 12:50:33+00:00
+40,Classifier-Free Guidance inside the Attraction Basin May Cause Memorization,2411.16738,http://arxiv.org/abs/2411.16738v1,2024-11-23 15:36:03+00:00
+41,Gradient-Guided Parameter Mask for Multi-Scenario Image Restoration Under Adverse Weather,2411.16739,http://arxiv.org/abs/2411.16739v1,2024-11-23 16:16:27+00:00
+42,Text-to-SQL Calibration: No Need to Ask -- Just Rescale Model Probabilities,2411.16742,http://arxiv.org/abs/2411.16742v1,2024-11-23 19:20:24+00:00
+43,LoBAM: LoRA-Based Backdoor Attack on Model Merging,2411.16746,http://arxiv.org/abs/2411.16746v1,2024-11-23 20:41:24+00:00
+44,FollowGen: A Scaled Noise Conditional Diffusion Model for Car-Following Trajectory Prediction,2411.16747,http://arxiv.org/abs/2411.16747v1,2024-11-23 23:13:45+00:00
+45,Learning a local trading strategy: deep reinforcement learning for grid-scale renewable energy integration,2411.15422,http://arxiv.org/abs/2411.15422v1,2024-11-23 02:55:38+00:00
+46,ChatBCI: A P300 Speller BCI Leveraging Large Language Models for Improved Sentence Composition in Realistic Scenarios,2411.15395,http://arxiv.org/abs/2411.15395v1,2024-11-23 00:42:12+00:00
+47,Hindi audio-video-Deepfake (HAV-DF): A Hindi language-based Audio-video Deepfake Dataset,2411.15457,http://arxiv.org/abs/2411.15457v1,2024-11-23 05:18:43+00:00
+48,DiM-Gestor: Co-Speech Gesture Generation with Adaptive Layer Normalization Mamba-2,2411.16729,http://arxiv.org/abs/2411.16729v1,2024-11-23 08:02:03+00:00
