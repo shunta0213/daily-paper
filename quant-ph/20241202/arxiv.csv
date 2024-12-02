@@ -1,0 +1,55 @@
+,title,id,arxiv_url,published
+0,QUBO Refinement: Achieving Superior Precision through Iterative Quantum Formulation with Limited Qubits,2411.16138,http://arxiv.org/abs/2411.16138v1,2024-11-25 06:56:00+00:00
+1,A Dequantized Algorithm for the Guided Local Hamiltonian Problem,2411.16163,http://arxiv.org/abs/2411.16163v2,2024-11-25 07:38:16+00:00
+2,Soft information decoding with superconducting qubits,2411.16228,http://arxiv.org/abs/2411.16228v1,2024-11-25 09:41:25+00:00
+3,Divergence-free algorithms for solving nonlinear differential equations on quantum computers,2411.16233,http://arxiv.org/abs/2411.16233v1,2024-11-25 09:47:24+00:00
+4,Postselected amplification applied to Mach-Zehnder-interferometer for phase shift measurement of optical coherent states,2411.16334,http://arxiv.org/abs/2411.16334v1,2024-11-25 12:27:34+00:00
+5,Kibble-Zurek law in dissipative critical dynamics,2411.16406,http://arxiv.org/abs/2411.16406v1,2024-11-25 14:11:28+00:00
+6,On the equivalence between SAPPT and SAS states,2411.16461,http://arxiv.org/abs/2411.16461v1,2024-11-25 15:06:52+00:00
+7,Bloch Sphere of the Qutrit System,2411.16480,http://arxiv.org/abs/2411.16480v1,2024-11-25 15:21:05+00:00
+8,Subsystem decompositions of quantum evolutions and transformations between causal perspectives,2411.16504,http://arxiv.org/abs/2411.16504v1,2024-11-25 15:42:07+00:00
+9,Superradiant Quantum Phase Transition in Open Systems: System-Bath Interaction at the Critical Point,2411.16514,http://arxiv.org/abs/2411.16514v1,2024-11-25 15:56:40+00:00
+10,Cascaded Single Photons from Pulsed Quantum Excitation,2411.16539,http://arxiv.org/abs/2411.16539v1,2024-11-25 16:23:43+00:00
+11,Weak measurement-based protocol for ergotropy protection in open quantum batteries,2411.16633,http://arxiv.org/abs/2411.16633v1,2024-11-25 18:12:00+00:00
+12,Protomon: A Multimode Qubit in the Fluxonium Molecule,2411.16648,http://arxiv.org/abs/2411.16648v1,2024-11-25 18:28:49+00:00
+13,Extension of Clifford Data Regression Methods for Quantum Error Mitigation,2411.16653,http://arxiv.org/abs/2411.16653v1,2024-11-25 18:38:06+00:00
+14,Implementing transferable annealing protocols for combinatorial optimisation on neutral atom quantum processors: a case study on smart-charging of electric vehicles,2411.16656,http://arxiv.org/abs/2411.16656v2,2024-11-25 18:41:02+00:00
+15,Sequential Attack Impairs Security in Device-independent Quantum Key Distribution,2411.16822,http://arxiv.org/abs/2411.16822v1,2024-11-25 17:50:08+00:00
+16,Boundaries for quantum advantage with single photons and loop-based time-bin interferometers,2411.16873,http://arxiv.org/abs/2411.16873v1,2024-11-25 19:13:20+00:00
+17,Dynamic violation of Bell's inequalities in the angular momentum representation,2411.16875,http://arxiv.org/abs/2411.16875v1,2024-11-25 19:15:18+00:00
+18,Post-Markovian master equation à la microscopic collisional model,2411.16878,http://arxiv.org/abs/2411.16878v1,2024-11-25 19:18:10+00:00
+19,Symmetry-preserved cost functions for variational quantum eigensolver,2411.16915,http://arxiv.org/abs/2411.16915v1,2024-11-25 20:33:47+00:00
+20,Robustness of WDM technique for the co-propagation of quantum with classical signals in an optical fiber,2411.16942,http://arxiv.org/abs/2411.16942v1,2024-11-25 21:22:47+00:00
+21,A Review of Design Concerns in Superconducting Quantum Circuits,2411.16967,http://arxiv.org/abs/2411.16967v1,2024-11-25 22:16:57+00:00
+22,Understanding the Scalability of Circuit Cutting Techniques for Practical Quantum Applications,2411.17756,http://arxiv.org/abs/2411.17756v1,2024-11-25 23:16:27+00:00
+23,Asymmetric Quantum Harmonic Otto Engine Under Hot Squeezed Thermal Reservoir,2411.16115,http://arxiv.org/abs/2411.16115v2,2024-11-25 05:59:20+00:00
+24,Entropic uncertainty and quantum non-classicality of Unruh-Dewitt detectors in relativity,2411.16135,http://arxiv.org/abs/2411.16135v1,2024-11-25 06:49:50+00:00
+25,Charge-induced energy shift of a single-spin qubit under a magnetic-field gradient,2411.16224,http://arxiv.org/abs/2411.16224v1,2024-11-25 09:34:50+00:00
+26,Bose-Einstein condensation at constant pressure,2411.16226,http://arxiv.org/abs/2411.16226v1,2024-11-25 09:36:13+00:00
+27,Angular momentum effects in neutron decay,2411.16231,http://arxiv.org/abs/2411.16231v1,2024-11-25 09:44:28+00:00
+28,Interaction-induced enhancement of the efficiency in a quantum Hall thermal machine,2411.16240,http://arxiv.org/abs/2411.16240v1,2024-11-25 09:55:10+00:00
+29,Observation of quantized vortex in an atomic Bose-Einstein condensate at Dirac point,2411.16287,http://arxiv.org/abs/2411.16287v1,2024-11-25 11:10:46+00:00
+30,Graph Neural Networks-based Parameter Design towards Large-Scale Superconducting Quantum Circuits for Crosstalk Mitigation,2411.16354,http://arxiv.org/abs/2411.16354v1,2024-11-25 13:04:53+00:00
+31,Bosonic Peierls state emerging from the one-dimensional Ising-Kondo interaction,2411.16357,http://arxiv.org/abs/2411.16357v1,2024-11-25 13:10:53+00:00
+32,Ultrahigh-fidelity spatial mode quantum gates in high-dimensional space by diffractive deep neural networks,2411.16410,http://arxiv.org/abs/2411.16410v1,2024-11-25 14:16:55+00:00
+33,Limitations of tensor network approaches for optimization and sampling: A comparison against quantum and classical Ising machines,2411.16431,http://arxiv.org/abs/2411.16431v1,2024-11-25 14:35:14+00:00
+34,InAs/InP quantum dot based C-Band all-fiber plug-and-play triggered single-photon source integrated using micro-transfer printing,2411.16490,http://arxiv.org/abs/2411.16490v1,2024-11-25 15:31:32+00:00
+35,Quantum Circuit Training with Growth-Based Architectures,2411.16560,http://arxiv.org/abs/2411.16560v1,2024-11-25 16:46:22+00:00
+36,Factoring integers via Schnorr's algorithm assisted with VQE,2411.16632,http://arxiv.org/abs/2411.16632v1,2024-11-25 18:11:10+00:00
+37,Mobility edges in pseudo-unitary quasiperiodic quantum walks,2411.16843,http://arxiv.org/abs/2411.16843v1,2024-11-25 19:00:01+00:00
+38,Computed models of natural radiation backgrounds in qubits and superconducting detectors,2411.16974,http://arxiv.org/abs/2411.16974v1,2024-11-25 22:57:32+00:00
+39,Quantum Relay Channels,2411.16263,http://arxiv.org/abs/2411.16263v1,2024-11-25 10:27:28+00:00
+40,Out-of-Time Ordered Correlator for a Chaotic Many-Body Quantum System,2411.16274,http://arxiv.org/abs/2411.16274v1,2024-11-25 10:51:46+00:00
+41,Simulation of two-dimensional electronic spectroscopy on a near-term quantum computer using a probe qubit protocol,2411.16290,http://arxiv.org/abs/2411.16290v1,2024-11-25 11:13:57+00:00
+42,Statistical inference for quantum singular models,2411.16396,http://arxiv.org/abs/2411.16396v1,2024-11-25 14:01:55+00:00
+43,Nonlinear quantum computing by amplified encodings,2411.16435,http://arxiv.org/abs/2411.16435v1,2024-11-25 14:37:57+00:00
+44,Quantum droplets and Schrödinger's cat states in atomic-molecular Bose-Einstein condensates,2411.16529,http://arxiv.org/abs/2411.16529v1,2024-11-25 16:15:40+00:00
+45,"Distributing Quantum Computations, Shot-wise",2411.16530,http://arxiv.org/abs/2411.16530v1,2024-11-25 16:16:54+00:00
+46,Measuring entanglement without local addressing via spiral quantum state tomography,2411.16603,http://arxiv.org/abs/2411.16603v1,2024-11-25 17:37:29+00:00
+47,Discrete Quantum Walks with Marked Vertices and Their Average Vertex Mixing Matrices,2411.16676,http://arxiv.org/abs/2411.16676v1,2024-11-25 18:58:55+00:00
+48,Cavity-Quantum Electrodynamics with Moiré Flatband Photonic Crystals,2411.16830,http://arxiv.org/abs/2411.16830v1,2024-11-25 18:52:11+00:00
+49,A fluorescent-protein spin qubit,2411.16835,http://arxiv.org/abs/2411.16835v1,2024-11-25 19:00:00+00:00
+50,Unsupervised Quantum Anomaly Detection on Noisy Quantum Processors,2411.16970,http://arxiv.org/abs/2411.16970v1,2024-11-25 22:42:38+00:00
+51,Constraining symmetron fields with a levitated optomechanical system,2411.17744,http://arxiv.org/abs/2411.17744v1,2024-11-25 07:31:40+00:00
+52,Anyons on M5-Probes of Seifert 3-Orbifolds via Flux Quantization,2411.16852,http://arxiv.org/abs/2411.16852v1,2024-11-25 19:00:03+00:00
+53,Exact Solvability Of Entanglement For Arbitrary Initial State in an Infinite-Range Floquet System,2411.16670,http://arxiv.org/abs/2411.16670v1,2024-11-25 18:55:05+00:00
