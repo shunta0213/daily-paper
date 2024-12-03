@@ -1,0 +1,97 @@
+,title,id,arxiv_url,published
+0,ThreatModeling-LLM: Automating Threat Modeling using Large Language Models for Banking System,2411.17058,http://arxiv.org/abs/2411.17058v1,2024-11-26 02:57:28+00:00
+1,Graph Structure Learning with Bi-level Optimization,2411.17062,http://arxiv.org/abs/2411.17062v1,2024-11-26 03:00:30+00:00
+2,Creative Agents: Simulating the Systems Model of Creativity with Generative Agents,2411.17065,http://arxiv.org/abs/2411.17065v1,2024-11-26 03:06:04+00:00
+3,Path-RAG: Knowledge-Guided Key Region Retrieval for Open-ended Pathology Visual Question Answering,2411.17073,http://arxiv.org/abs/2411.17073v1,2024-11-26 03:22:01+00:00
+4,"Advancing Content Moderation: Evaluating Large Language Models for Detecting Sensitive Content Across Text, Images, and Videos",2411.17123,http://arxiv.org/abs/2411.17123v1,2024-11-26 05:29:18+00:00
+5,DOGE: Towards Versatile Visual Document Grounding and Referring,2411.17125,http://arxiv.org/abs/2411.17125v1,2024-11-26 05:38:34+00:00
+6,LLM-Based Offline Learning for Embodied Agents via Consistency-Guided Reward Ensemble,2411.17135,http://arxiv.org/abs/2411.17135v1,2024-11-26 06:04:10+00:00
+7,Self-reconfiguration Strategies for Space-distributed Spacecraft,2411.17137,http://arxiv.org/abs/2411.17137v1,2024-11-26 06:05:44+00:00
+8,Learning Monotonic Attention in Transducer for Streaming Generation,2411.17170,http://arxiv.org/abs/2411.17170v1,2024-11-26 07:19:26+00:00
+9,ChatGen: Automatic Text-to-Image Generation From FreeStyle Chatting,2411.17176,http://arxiv.org/abs/2411.17176v1,2024-11-26 07:31:12+00:00
+10,Strategic Prompting for Conversational Tasks: A Comparative Analysis of Large Language Models Across Diverse Conversational Tasks,2411.17204,http://arxiv.org/abs/2411.17204v2,2024-11-26 08:21:24+00:00
+11,GraphSubDetector: Time Series Subsequence Anomaly Detection via Density-Aware Adaptive Graph Neural Network,2411.17218,http://arxiv.org/abs/2411.17218v1,2024-11-26 08:36:07+00:00
+12,From Graph Diffusion to Graph Classification,2411.17236,http://arxiv.org/abs/2411.17236v1,2024-11-26 08:57:41+00:00
+13,Buffer Anytime: Zero-Shot Video Depth and Normal from Image Priors,2411.17249,http://arxiv.org/abs/2411.17249v1,2024-11-26 09:28:32+00:00
+14,Semantic Data Augmentation for Long-tailed Facial Expression Recognition,2411.17254,http://arxiv.org/abs/2411.17254v1,2024-11-26 09:31:12+00:00
+15,APT: Architectural Planning and Text-to-Blueprint Construction Using Large Language Models for Open-World Agents,2411.17255,http://arxiv.org/abs/2411.17255v1,2024-11-26 09:31:28+00:00
+16,HEIE: MLLM-Based Hierarchical Explainable AIGC Image Implausibility Evaluator,2411.17261,http://arxiv.org/abs/2411.17261v1,2024-11-26 09:37:59+00:00
+17,Social Distancing Induced Coronavirus Optimization Algorithm (COVO): Application to Multimodal Function Optimization and Noise Removal,2411.17282,http://arxiv.org/abs/2411.17282v1,2024-11-26 10:09:36+00:00
+18,GrokFormer: Graph Fourier Kolmogorov-Arnold Transformers,2411.17296,http://arxiv.org/abs/2411.17296v1,2024-11-26 10:38:00+00:00
+19,ER2Score: LLM-based Explainable and Customizable Metric for Assessing Radiology Reports with Reward-Control Loss,2411.17301,http://arxiv.org/abs/2411.17301v1,2024-11-26 10:48:55+00:00
+20,Meaningless is better: hashing bias-inducing words in LLM prompts improves performance in logical reasoning and statistical learning,2411.17304,http://arxiv.org/abs/2411.17304v1,2024-11-26 10:52:08+00:00
+21,Towards Intention Recognition for Robotic Assistants Through Online POMDP Planning,2411.17326,http://arxiv.org/abs/2411.17326v1,2024-11-26 11:13:00+00:00
+22,Can LLMs be Good Graph Judger for Knowledge Graph Construction?,2411.17388,http://arxiv.org/abs/2411.17388v1,2024-11-26 12:46:57+00:00
+23,BPP-Search: Enhancing Tree of Thought Reasoning for Mathematical Modeling Problem Solving,2411.17404,http://arxiv.org/abs/2411.17404v1,2024-11-26 13:05:53+00:00
+24,CLOVER: Constrained Learning with Orthonormal Vectors for Eliminating Redundancy,2411.17426,http://arxiv.org/abs/2411.17426v1,2024-11-26 13:34:02+00:00
+25,Rewiring Techniques to Mitigate Oversquashing and Oversmoothing in GNNs: A Survey,2411.17429,http://arxiv.org/abs/2411.17429v1,2024-11-26 13:38:12+00:00
+26,LC-SVD-DLinear: A low-cost physics-based hybrid machine learning model for data forecasting using sparse measurements,2411.17433,http://arxiv.org/abs/2411.17433v1,2024-11-26 13:43:50+00:00
+27,WF-VAE: Enhancing Video VAE by Wavelet-Driven Energy Flow for Latent Video Diffusion Model,2411.17459,http://arxiv.org/abs/2411.17459v2,2024-11-26 14:23:53+00:00
+28,What's in the Image? A Deep-Dive into the Vision of Vision Language Models,2411.17491,http://arxiv.org/abs/2411.17491v1,2024-11-26 14:59:06+00:00
+29,Inference Scaling $\scriptsize\mathtt{F}$Laws: The Limits of LLM Resampling with Imperfect Verifiers,2411.17501,http://arxiv.org/abs/2411.17501v1,2024-11-26 15:13:06+00:00
+30,A Bilayer Segmentation-Recombination Network for Accurate Segmentation of Overlapping C. elegans,2411.17557,http://arxiv.org/abs/2411.17557v1,2024-11-26 16:18:59+00:00
+31,Machine Learning and Multi-source Remote Sensing in Forest Carbon Stock Estimation: A Review,2411.17624,http://arxiv.org/abs/2411.17624v1,2024-11-26 17:34:59+00:00
+32,Learning Chemical Reaction Representation with Reactant-Product Alignment,2411.17629,http://arxiv.org/abs/2411.17629v1,2024-11-26 17:41:44+00:00
+33,MALMM: Multi-Agent Large Language Models for Zero-Shot Robotics Manipulation,2411.17636,http://arxiv.org/abs/2411.17636v1,2024-11-26 17:53:44+00:00
+34,Explainable AI for Classifying UTI Risk Groups Using a Real-World Linked EHR and Pathology Lab Dataset,2411.17645,http://arxiv.org/abs/2411.17645v1,2024-11-26 18:10:51+00:00
+35,RealSeal: Revolutionizing Media Authentication with Real-Time Realism Scoring,2411.17684,http://arxiv.org/abs/2411.17684v1,2024-11-26 18:48:23+00:00
+36,StableAnimator: High-Quality Identity-Preserving Human Image Animation,2411.17697,http://arxiv.org/abs/2411.17697v2,2024-11-26 18:59:22+00:00
+37,PROGRESSOR: A Perceptually Guided Reward Estimator with Self-Supervised Online Refinement,2411.17764,http://arxiv.org/abs/2411.17764v1,2024-11-26 04:17:51+00:00
+38,MVBoost: Boost 3D Reconstruction with Multi-View Refinement,2411.17772,http://arxiv.org/abs/2411.17772v1,2024-11-26 08:55:20+00:00
+39,Leaning Time-Varying Instruments for Identifying Causal Effects in Time-Series Data,2411.17774,http://arxiv.org/abs/2411.17774v1,2024-11-26 09:47:24+00:00
+40,"Joint Resource Optimization, Computation Offloading and Resource Slicing for Multi-Edge Traffic-Cognitive Networks",2411.17782,http://arxiv.org/abs/2411.17782v1,2024-11-26 11:51:10+00:00
+41,Self-supervised Monocular Depth and Pose Estimation for Endoscopy with Generative Latent Priors,2411.17790,http://arxiv.org/abs/2411.17790v1,2024-11-26 15:43:06+00:00
+42,Engineering AI Judge Systems,2411.17793,http://arxiv.org/abs/2411.17793v1,2024-11-26 17:43:32+00:00
+43,SVGDreamer++: Advancing Editability and Diversity in Text-Guided SVG Generation,2411.17832,http://arxiv.org/abs/2411.17832v1,2024-11-26 19:13:38+00:00
+44,"Basic Research, Lethal Effects: Military AI Research Funding as Enlistment",2411.17840,http://arxiv.org/abs/2411.17840v1,2024-11-26 19:29:27+00:00
+45,SoftmAP: Software-Hardware Co-design for Integer-Only Softmax on Associative Processors,2411.17847,http://arxiv.org/abs/2411.17847v1,2024-11-26 20:00:54+00:00
+46,Accelerating Proximal Policy Optimization Learning Using Task Prediction for Solving Games with Delayed Rewards,2411.17861,http://arxiv.org/abs/2411.17861v1,2024-11-26 20:22:31+00:00
+47,Can LLMs plan paths in the real world?,2411.17912,http://arxiv.org/abs/2411.17912v1,2024-11-26 22:06:39+00:00
+48,Spatio-temporal Causal Learning for Streamflow Forecasting,2411.17937,http://arxiv.org/abs/2411.17937v1,2024-11-26 23:19:56+00:00
+49,"Evaluating Generative AI-Enhanced Content: A Conceptual Framework Using Qualitative, Quantitative, and Mixed-Methods Approaches",2411.17943,http://arxiv.org/abs/2411.17943v1,2024-11-26 23:34:07+00:00
+50,SatVision-TOA: A Geospatial Foundation Model for Coarse-Resolution All-Sky Remote Sensing Imagery,2411.17000,http://arxiv.org/abs/2411.17000v1,2024-11-26 00:08:00+00:00
+51,Can a Single Tree Outperform an Entire Forest?,2411.17003,http://arxiv.org/abs/2411.17003v1,2024-11-26 00:18:18+00:00
+52,g3D-LF: Generalizable 3D-Language Feature Fields for Embodied Tasks,2411.17030,http://arxiv.org/abs/2411.17030v1,2024-11-26 01:54:52+00:00
+53,Free$^2$Guide: Gradient-Free Path Integral Control for Enhancing Text-to-Video Generation with Large Vision-Language Models,2411.17041,http://arxiv.org/abs/2411.17041v1,2024-11-26 02:14:47+00:00
+54,Contrastive CFG: Improving CFG in Diffusion Models by Contrasting Positive and Negative Concepts,2411.17077,http://arxiv.org/abs/2411.17077v1,2024-11-26 03:29:27+00:00
+55,DeepMDV: Learning Global Matching for Multi-depot Vehicle Routing Problems,2411.17080,http://arxiv.org/abs/2411.17080v1,2024-11-26 03:41:01+00:00
+56,Star Attention: Efficient LLM Inference over Long Sequences,2411.17116,http://arxiv.org/abs/2411.17116v1,2024-11-26 05:10:04+00:00
+57,MiceBoneChallenge: Micro-CT public dataset and six solutions for automatic growth plate detection in micro-CT mice bone scans,2411.17260,http://arxiv.org/abs/2411.17260v1,2024-11-26 09:37:47+00:00
+58,PIM-AI: A Novel Architecture for High-Efficiency LLM Inference,2411.17309,http://arxiv.org/abs/2411.17309v1,2024-11-26 10:54:19+00:00
+59,Different Bias Under Different Criteria: Assessing Bias in LLMs with a Fact-Based Approach,2411.17338,http://arxiv.org/abs/2411.17338v1,2024-11-26 11:32:43+00:00
+60,Knowledge-aware Evolutionary Graph Neural Architecture Search,2411.17339,http://arxiv.org/abs/2411.17339v1,2024-11-26 11:32:45+00:00
+61,Fairness And Performance In Harmony: Data Debiasing Is All You Need,2411.17374,http://arxiv.org/abs/2411.17374v1,2024-11-26 12:31:10+00:00
+62,Object-centric proto-symbolic behavioural reasoning from pixels,2411.17438,http://arxiv.org/abs/2411.17438v1,2024-11-26 13:54:24+00:00
+63,Spatially Visual Perception for End-to-End Robotic Learning,2411.17458,http://arxiv.org/abs/2411.17458v1,2024-11-26 14:23:42+00:00
+64,SoK: Decentralized AI (DeAI),2411.17461,http://arxiv.org/abs/2411.17461v1,2024-11-26 14:28:25+00:00
+65,ShowUI: One Vision-Language-Action Model for GUI Visual Agent,2411.17465,http://arxiv.org/abs/2411.17465v1,2024-11-26 14:29:47+00:00
+66,Puzzle Similarity: A Perceptually-guided No-Reference Metric for Artifact Detection in 3D Scene Reconstructions,2411.17489,http://arxiv.org/abs/2411.17489v1,2024-11-26 14:57:30+00:00
+67,"On Statistical Rates of Conditional Diffusion Transformers: Approximation, Estimation and Minimax Optimality",2411.17522,http://arxiv.org/abs/2411.17522v1,2024-11-26 15:30:48+00:00
+68,HSI-Drive v2.0: More Data for New Challenges in Scene Understanding for Autonomous Driving,2411.17530,http://arxiv.org/abs/2411.17530v1,2024-11-26 15:45:59+00:00
+69,AI-Augmented Ethical Hacking: A Practical Examination of Manual Exploitation and Privilege Escalation in Linux Environments,2411.17539,http://arxiv.org/abs/2411.17539v1,2024-11-26 15:55:15+00:00
+70,Learning Explainable Treatment Policies with Clinician-Informed Representations: A Practical Approach,2411.17570,http://arxiv.org/abs/2411.17570v1,2024-11-26 16:32:08+00:00
+71,What Differentiates Educational Literature? A Multimodal Fusion Approach of Transformers and Computational Linguistics,2411.17593,http://arxiv.org/abs/2411.17593v2,2024-11-26 17:01:27+00:00
+72,Agentic AI for Improving Precision in Identifying Contributions to Sustainable Development Goals,2411.17598,http://arxiv.org/abs/2411.17598v1,2024-11-26 17:06:30+00:00
+73,Making History Readable,2411.17600,http://arxiv.org/abs/2411.17600v1,2024-11-26 17:06:58+00:00
+74,Mixed-State Quantum Denoising Diffusion Probabilistic Model,2411.17608,http://arxiv.org/abs/2411.17608v1,2024-11-26 17:20:58+00:00
+75,Automating Chapter-Level Classification for Electronic Theses and Dissertations,2411.17614,http://arxiv.org/abs/2411.17614v1,2024-11-26 17:27:18+00:00
+76,Efficient Self-Improvement in Multimodal Large Language Models: A Model-Level Judge-Free Approach,2411.17760,http://arxiv.org/abs/2411.17760v1,2024-11-26 00:44:37+00:00
+77,DreamCache: Finetuning-Free Lightweight Personalized Image Generation via Feature Caching,2411.17786,http://arxiv.org/abs/2411.17786v1,2024-11-26 15:03:14+00:00
+78,Geometric Point Attention Transformer for 3D Shape Reassembly,2411.17788,http://arxiv.org/abs/2411.17788v1,2024-11-26 15:29:38+00:00
+79,"$H^3$Fusion: Helpful, Harmless, Honest Fusion of Aligned LLMs",2411.17792,http://arxiv.org/abs/2411.17792v1,2024-11-26 17:42:38+00:00
+80,Pan-protein Design Learning Enables Task-adaptive Generalization for Low-resource Enzyme Design,2411.17795,http://arxiv.org/abs/2411.17795v1,2024-11-26 17:51:33+00:00
+81,DapPep: Domain Adaptive Peptide-agnostic Learning for Universal T-cell Receptor-antigen Binding Affinity Prediction,2411.17798,http://arxiv.org/abs/2411.17798v1,2024-11-26 18:06:42+00:00
+82,STAR: Synthesis of Tailored Architectures,2411.17800,http://arxiv.org/abs/2411.17800v1,2024-11-26 18:42:42+00:00
+83,"""Give me the code"" -- Log Analysis of First-Year CS Students' Interactions With GPT",2411.17855,http://arxiv.org/abs/2411.17855v1,2024-11-26 20:11:46+00:00
+84,LongKey: Keyphrase Extraction for Long Documents,2411.17863,http://arxiv.org/abs/2411.17863v1,2024-11-26 20:26:47+00:00
+85,HOPPR Medical-Grade Platform for Medical Imaging AI,2411.17891,http://arxiv.org/abs/2411.17891v1,2024-11-26 21:21:45+00:00
+86,Automating grapevine LAI features estimation with UAV imagery and machine learning,2411.17897,http://arxiv.org/abs/2411.17897v1,2024-11-26 21:24:27+00:00
+87,Enhancing Project Performance Forecasting using Machine Learning Techniques,2411.17914,http://arxiv.org/abs/2411.17914v1,2024-11-26 22:09:55+00:00
+88,AI2T: Building Trustable AI Tutors by Interactively Teaching a Self-Aware Learning Agent,2411.17924,http://arxiv.org/abs/2411.17924v1,2024-11-26 22:39:11+00:00
+89,Combining Threat Intelligence with IoT Scanning to Predict Cyber Attack,2411.17931,http://arxiv.org/abs/2411.17931v1,2024-11-26 23:00:51+00:00
+90,Neural Networks Use Distance Metrics,2411.17932,http://arxiv.org/abs/2411.17932v1,2024-11-26 23:04:56+00:00
+91,MARVEL-40M+: Multi-Level Visual Elaboration for High-Fidelity Text-to-3D Content Creation,2411.17945,http://arxiv.org/abs/2411.17945v1,2024-11-26 23:39:43+00:00
+92,Hotspot-Driven Peptide Design via Multi-Fragment Autoregressive Extension,2411.18463,http://arxiv.org/abs/2411.18463v1,2024-11-26 15:13:17+00:00
+93,MADE: Graph Backdoor Defense with Masked Unlearning,2411.18648,http://arxiv.org/abs/2411.18648v1,2024-11-26 22:50:53+00:00
+94,Learning Hierarchical Polynomials of Multiple Nonlinear Features with Three-Layer Networks,2411.17201,http://arxiv.org/abs/2411.17201v1,2024-11-26 08:14:48+00:00
+95,Rapid Deployment of Domain-specific Hyperspectral Image Processors with Application to Autonomous Driving,2411.17543,http://arxiv.org/abs/2411.17543v1,2024-11-26 16:04:20+00:00
