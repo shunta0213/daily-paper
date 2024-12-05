@@ -1,0 +1,71 @@
+,title,id,arxiv_url,published
+0,Mars-PO: Multi-Agent Reasoning System Preference Optimization,2411.19039,http://arxiv.org/abs/2411.19039v1,2024-11-28 10:35:16+00:00
+1,OMuleT: Orchestrating Multiple Tools for Practicable Conversational Recommendation,2411.19352,http://arxiv.org/abs/2411.19352v1,2024-11-28 19:53:39+00:00
+2,Proceedings of the 2024 XCSP3 Competition,2412.00117,http://arxiv.org/abs/2412.00117v1,2024-11-28 08:16:40+00:00
+3,Redesigning the ensemble Kalman filter with a dedicated model of epistemic uncertainty,2411.18864,http://arxiv.org/abs/2411.18864v1,2024-11-28 02:11:23+00:00
+4,Comprehensive Survey of Reinforcement Learning: From Algorithms to Practical Challenges,2411.18892,http://arxiv.org/abs/2411.18892v1,2024-11-28 03:53:14+00:00
+5,Devising a Set of Compact and Explainable Spoken Language Feature for Screening Alzheimer's Disease,2411.18922,http://arxiv.org/abs/2411.18922v1,2024-11-28 05:23:22+00:00
+6,EzSQL: An SQL intermediate representation for improving SQL-to-text Generation,2411.18923,http://arxiv.org/abs/2411.18923v1,2024-11-28 05:24:46+00:00
+7,Knowledge Database or Poison Base? Detecting RAG Poisoning Attack through LLM Activations,2411.18948,http://arxiv.org/abs/2411.18948v1,2024-11-28 06:29:46+00:00
+8,NeuroLifting: Neural Inference on Markov Random Fields at Scale,2411.18954,http://arxiv.org/abs/2411.18954v1,2024-11-28 06:50:47+00:00
+9,USTCCTSU at SemEval-2024 Task 1: Reducing Anisotropy for Cross-lingual Semantic Textual Relatedness Task,2411.18990,http://arxiv.org/abs/2411.18990v1,2024-11-28 08:40:14+00:00
+10,GRU-PFG: Extract Inter-Stock Correlation from Stock Factors with Graph Neural Network,2411.18997,http://arxiv.org/abs/2411.18997v1,2024-11-28 08:50:55+00:00
+11,Using a Feedback Loop for LLM-based Infrastructure as Code Generation,2411.19043,http://arxiv.org/abs/2411.19043v1,2024-11-28 10:40:55+00:00
+12,Way to Specialist: Closing Loop Between Specialized LLM and Evolving Domain Knowledge Graph,2411.19064,http://arxiv.org/abs/2411.19064v1,2024-11-28 11:24:43+00:00
+13,ObjectRelator: Enabling Cross-View Object Relation Understanding in Ego-Centric and Exo-Centric Videos,2411.19083,http://arxiv.org/abs/2411.19083v1,2024-11-28 12:01:03+00:00
+14,Beautimeter: Harnessing GPT for Assessing Architectural and Urban Beauty based on the 15 Properties of Living Structure,2411.19094,http://arxiv.org/abs/2411.19094v1,2024-11-28 12:14:24+00:00
+15,MSG score: A Comprehensive Evaluation for Multi-Scene Video Generation,2411.19121,http://arxiv.org/abs/2411.19121v1,2024-11-28 13:11:50+00:00
+16,On Moving Object Segmentation from Monocular Video with Transformers,2411.19141,http://arxiv.org/abs/2411.19141v1,2024-11-28 13:42:35+00:00
+17,DESIRE: Dynamic Knowledge Consolidation for Rehearsal-Free Continual Learning,2411.19154,http://arxiv.org/abs/2411.19154v1,2024-11-28 13:54:01+00:00
+18,SOWing Information: Cultivating Contextual Coherence with MLLMs in Image Generation,2411.19182,http://arxiv.org/abs/2411.19182v1,2024-11-28 14:35:25+00:00
+19,Pre-Training Graph Contrastive Masked Autoencoders are Strong Distillers for EEG,2411.19230,http://arxiv.org/abs/2411.19230v1,2024-11-28 15:53:32+00:00
+20,SmartLLMSentry: A Comprehensive LLM Based Smart Contract Vulnerability Detection Framework,2411.19234,http://arxiv.org/abs/2411.19234v1,2024-11-28 16:02:01+00:00
+21,Structured Object Language Modeling (SoLM): Native Structured Objects Generation Conforming to Complex Schemas with Self-Supervised Denoising,2411.19301,http://arxiv.org/abs/2411.19301v1,2024-11-28 18:16:41+00:00
+22,PEFT-as-an-Attack! Jailbreaking Language Models during Federated Parameter-Efficient Fine-Tuning,2411.19335,http://arxiv.org/abs/2411.19335v1,2024-11-28 19:05:01+00:00
+23,An Adversarial Learning Approach to Irregular Time-Series Forecasting,2411.19341,http://arxiv.org/abs/2411.19341v1,2024-11-28 19:28:07+00:00
+24,SceneTAP: Scene-Coherent Typographic Adversarial Planner against Vision-Language Models in Real-World Environments,2412.00114,http://arxiv.org/abs/2412.00114v1,2024-11-28 05:55:13+00:00
+25,Relation-Aware Meta-Learning for Zero-shot Sketch-Based Image Retrieval,2412.00120,http://arxiv.org/abs/2412.00120v1,2024-11-28 09:35:27+00:00
+26,Hybrid Discriminative Attribute-Object Embedding Network for Compositional Zero-Shot Learning,2412.00121,http://arxiv.org/abs/2412.00121v1,2024-11-28 09:50:25+00:00
+27,Open-Sora Plan: Open-Source Large Video Generation Model,2412.00131,http://arxiv.org/abs/2412.00131v1,2024-11-28 14:07:45+00:00
+28,Knowledge-Augmented Explainable and Interpretable Learning for Anomaly Detection and Diagnosis,2412.00146,http://arxiv.org/abs/2412.00146v1,2024-11-28 23:42:46+00:00
+29,An Integrated Artificial Intelligence Operating System for Advanced Low-Altitude Aviation Applications,2411.18845,http://arxiv.org/abs/2411.18845v1,2024-11-28 01:24:16+00:00
+30,ArEEG_Words: Dataset for Envisioned Speech Recognition using EEG for Arabic Words,2411.18888,http://arxiv.org/abs/2411.18888v1,2024-11-28 03:31:12+00:00
+31,Federated Continual Graph Learning,2411.18919,http://arxiv.org/abs/2411.18919v1,2024-11-28 05:15:47+00:00
+32,VIPaint: Image Inpainting with Pre-Trained Diffusion Models via Variational Inference,2411.18929,http://arxiv.org/abs/2411.18929v1,2024-11-28 05:35:36+00:00
+33,ScratchEval: Are GPT-4o Smarter than My Child? Evaluating Large Multimodal Models with Visual Programming Challenges,2411.18932,http://arxiv.org/abs/2411.18932v1,2024-11-28 05:51:45+00:00
+34,Random Sampling for Diffusion-based Adversarial Purification,2411.18956,http://arxiv.org/abs/2411.18956v1,2024-11-28 07:04:09+00:00
+35,Harden Deep Neural Networks Against Fault Injections Through Weight Scaling,2411.18993,http://arxiv.org/abs/2411.18993v1,2024-11-28 08:47:23+00:00
+36,A Unified Platform for At-Home Post-Stroke Rehabilitation Enabled by Wearable Technologies and Artificial Intelligence,2411.19000,http://arxiv.org/abs/2411.19000v1,2024-11-28 09:04:39+00:00
+37,Enhancing Neural Network Robustness Against Fault Injection Through Non-linear Weight Transformations,2411.19027,http://arxiv.org/abs/2411.19027v1,2024-11-28 10:01:39+00:00
+38,LADDER: Multi-objective Backdoor Attack via Evolutionary Algorithm,2411.19075,http://arxiv.org/abs/2411.19075v1,2024-11-28 11:50:23+00:00
+39,PREBA: A Hardware/Software Co-Design for Multi-Instance GPU based AI Inference Servers,2411.19114,http://arxiv.org/abs/2411.19114v1,2024-11-28 13:02:41+00:00
+40,Visual SLAMMOT Considering Multiple Motion Models,2411.19134,http://arxiv.org/abs/2411.19134v1,2024-11-28 13:36:04+00:00
+41,HOT3D: Hand and Object Tracking in 3D from Egocentric Multi-View Videos,2411.19167,http://arxiv.org/abs/2411.19167v1,2024-11-28 14:09:42+00:00
+42,On the Ethical Considerations of Generative Agents,2411.19211,http://arxiv.org/abs/2411.19211v1,2024-11-28 15:31:49+00:00
+43,On the Unknowable Limits to Prediction,2411.19223,http://arxiv.org/abs/2411.19223v2,2024-11-28 15:48:02+00:00
+44,Habit Coach: Customising RAG-based chatbots to support behavior change,2411.19229,http://arxiv.org/abs/2411.19229v1,2024-11-28 15:53:27+00:00
+45,"Contrastive representations of high-dimensional, structured treatments",2411.19245,http://arxiv.org/abs/2411.19245v1,2024-11-28 16:33:31+00:00
+46,On-chip Hyperspectral Image Segmentation with Fully Convolutional Networks for Scene Understanding in Autonomous Driving,2411.19274,http://arxiv.org/abs/2411.19274v1,2024-11-28 17:10:50+00:00
+47,BPQP: A Differentiable Convex Optimization Framework for Efficient End-to-End Learning,2411.19285,http://arxiv.org/abs/2411.19285v1,2024-11-28 17:31:15+00:00
+48,Talking to DINO: Bridging Self-Supervised Vision Backbones with Language for Open-Vocabulary Segmentation,2411.19331,http://arxiv.org/abs/2411.19331v1,2024-11-28 19:00:03+00:00
+49,Towards a Mechanistic Explanation of Diffusion Model Generalization,2411.19339,http://arxiv.org/abs/2411.19339v1,2024-11-28 19:22:17+00:00
+50,"Mapping Public Perception of Artificial Intelligence: Expectations, Risk-Benefit Tradeoffs, and Value As Determinants for Societal Acceptance",2411.19356,http://arxiv.org/abs/2411.19356v1,2024-11-28 20:03:01+00:00
+51,Integrating Transit Signal Priority into Multi-Agent Reinforcement Learning based Traffic Signal Control,2411.19359,http://arxiv.org/abs/2411.19359v1,2024-11-28 20:09:12+00:00
+52,DENIAHL: In-Context Features Influence LLM Needle-In-A-Haystack Abilities,2411.19360,http://arxiv.org/abs/2411.19360v1,2024-11-28 20:14:47+00:00
+53,Libra: Leveraging Temporal Images for Biomedical Radiology Analysis,2411.19378,http://arxiv.org/abs/2411.19378v1,2024-11-28 21:07:22+00:00
+54,Marconi: Prefix Caching for the Era of Hybrid LLMs,2411.19379,http://arxiv.org/abs/2411.19379v1,2024-11-28 21:10:20+00:00
+55,Zero-Forget Preservation of Semantic Communication Alignment in Distributed AI Networks,2411.19385,http://arxiv.org/abs/2411.19385v1,2024-11-28 21:28:18+00:00
+56,Concept-driven Off Policy Evaluation,2411.19395,http://arxiv.org/abs/2411.19395v1,2024-11-28 22:15:06+00:00
+57,AMO Sampler: Enhancing Text Rendering with Overshooting,2411.19415,http://arxiv.org/abs/2411.19415v1,2024-11-28 23:45:45+00:00
+58,Virtual Sensing to Enable Real-Time Monitoring of Inaccessible Locations \& Unmeasurable Parameters,2412.00107,http://arxiv.org/abs/2412.00107v1,2024-11-28 00:58:29+00:00
+59,Demographic Predictability in 3D CT Foundation Embeddings,2412.00110,http://arxiv.org/abs/2412.00110v1,2024-11-28 04:26:39+00:00
+60,Boundary-Decoder network for inverse prediction of capacitor electrostatic analysis,2412.00113,http://arxiv.org/abs/2412.00113v1,2024-11-28 05:51:00+00:00
+61,Orthus: Autoregressive Interleaved Image-Text Generation with Modality-Specific Heads,2412.00127,http://arxiv.org/abs/2412.00127v1,2024-11-28 13:00:38+00:00
+62,Road User Classification from High-Frequency GNSS Data Using Distributed Edge Intelligence,2412.00132,http://arxiv.org/abs/2412.00132v1,2024-11-28 14:51:02+00:00
+63,FonTS: Text Rendering with Typography and Style Controls,2412.00136,http://arxiv.org/abs/2412.00136v1,2024-11-28 16:19:37+00:00
+64,Unleashing the Power of Data Synthesis in Visual Localization,2412.00138,http://arxiv.org/abs/2412.00138v1,2024-11-28 16:58:10+00:00
+65,Sparse Attention Vectors: Generative Multimodal Model Features Are Discriminative Vision-Language Classifiers,2412.00142,http://arxiv.org/abs/2412.00142v1,2024-11-28 18:55:41+00:00
+66,Towards Data-centric Machine Learning on Directed Graphs: a Survey,2412.01849,http://arxiv.org/abs/2412.01849v1,2024-11-28 06:09:12+00:00
+67,Examining Multimodal Gender and Content Bias in ChatGPT-4o,2411.19140,http://arxiv.org/abs/2411.19140v1,2024-11-28 13:41:44+00:00
+68,Convex Regularization and Convergence of Policy Gradient Flows under Safety Constraints,2411.19193,http://arxiv.org/abs/2411.19193v1,2024-11-28 15:04:43+00:00
+69,Global Tensor Motion Planning,2411.19393,http://arxiv.org/abs/2411.19393v1,2024-11-28 22:07:46+00:00
