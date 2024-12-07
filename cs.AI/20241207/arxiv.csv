@@ -1,0 +1,55 @@
+,title,id,arxiv_url,published
+0,Empowering the Deaf and Hard of Hearing Community: Enhancing Video Captions Using Large Language Models,2412.00342,http://arxiv.org/abs/2412.00342v1,2024-11-30 03:52:08+00:00
+1,CaDA: Cross-Problem Routing Solver with Constraint-Aware Dual-Attention,2412.00346,http://arxiv.org/abs/2412.00346v1,2024-11-30 04:11:36+00:00
+2,Strategic Application of AIGC for UAV Trajectory Design: A Channel Knowledge Map Approach,2412.00386,http://arxiv.org/abs/2412.00386v1,2024-11-30 07:34:49+00:00
+3,DroidCall: A Dataset for LLM-powered Android Intent Invocation,2412.00402,http://arxiv.org/abs/2412.00402v1,2024-11-30 08:55:39+00:00
+4,Federated Progressive Self-Distillation with Logits Calibration for Personalized IIoT Edge Intelligence,2412.00410,http://arxiv.org/abs/2412.00410v1,2024-11-30 09:32:05+00:00
+5,Opus: A Large Work Model for Complex Workflow Generation,2412.00573,http://arxiv.org/abs/2412.00573v1,2024-11-30 20:00:41+00:00
+6,Turing Representational Similarity Analysis (RSA): A Flexible Method for Measuring Alignment Between Human and Artificial Intelligence,2412.00577,http://arxiv.org/abs/2412.00577v1,2024-11-30 20:24:52+00:00
+7,Fairness at Every Intersection: Uncovering and Mitigating Intersectional Biases in Multimodal Clinical Predictions,2412.00606,http://arxiv.org/abs/2412.00606v1,2024-11-30 22:53:11+00:00
+8,Leveraging LLM for Automated Ontology Extraction and Knowledge Graph Generation,2412.00608,http://arxiv.org/abs/2412.00608v2,2024-11-30 23:11:44+00:00
+9,Adapting the re-ID challenge for static sensors,2412.00290,http://arxiv.org/abs/2412.00290v1,2024-11-30 00:00:29+00:00
+10,PlanCritic: Formal Planning with Human Feedback,2412.00300,http://arxiv.org/abs/2412.00300v1,2024-11-30 00:58:48+00:00
+11,Cognitive Biases in Large Language Models: A Survey and Mitigation Experiments,2412.00323,http://arxiv.org/abs/2412.00323v1,2024-11-30 02:37:59+00:00
+12,EFTViT: Efficient Federated Training of Vision Transformers with Masked Images on Resource-Constrained Edge Devices,2412.00334,http://arxiv.org/abs/2412.00334v1,2024-11-30 03:20:14+00:00
+13,Enhancing Zero-shot Chain of Thought Prompting via Uncertainty-Guided Strategy Selection,2412.00353,http://arxiv.org/abs/2412.00353v1,2024-11-30 04:22:00+00:00
+14,On the Role of Noise in Factorizers for Disentangling Distributed Representations,2412.00354,http://arxiv.org/abs/2412.00354v1,2024-11-30 04:25:18+00:00
+15,Safety Alignment Backfires: Preventing the Re-emergence of Suppressed Concepts in Fine-tuned Text-to-Image Diffusion Models,2412.00357,http://arxiv.org/abs/2412.00357v1,2024-11-30 04:37:38+00:00
+16,2-Factor Retrieval for Improved Human-AI Decision Making in Radiology,2412.00372,http://arxiv.org/abs/2412.00372v1,2024-11-30 06:44:42+00:00
+17,Unified Parameter-Efficient Unlearning for LLMs,2412.00383,http://arxiv.org/abs/2412.00383v1,2024-11-30 07:21:02+00:00
+18,Mixture of Experts for Node Classification,2412.00418,http://arxiv.org/abs/2412.00418v1,2024-11-30 10:05:03+00:00
+19,FreeCond: Free Lunch in the Input Conditions of Text-Guided Inpainting,2412.00427,http://arxiv.org/abs/2412.00427v1,2024-11-30 10:52:25+00:00
+20,Learner Attentiveness and Engagement Analysis in Online Education Using Computer Vision,2412.00429,http://arxiv.org/abs/2412.00429v1,2024-11-30 10:54:08+00:00
+21,Predictive Models in Sequential Recommendations: Bridging Performance Laws with Data Quality Insights,2412.00430,http://arxiv.org/abs/2412.00430v2,2024-11-30 10:56:30+00:00
+22,AgriBench: A Hierarchical Agriculture Benchmark for Multimodal Large Language Models,2412.00465,http://arxiv.org/abs/2412.00465v1,2024-11-30 12:59:03+00:00
+23,Node Importance Estimation Leveraging LLMs for Semantic Augmentation in Knowledge Graphs,2412.00478,http://arxiv.org/abs/2412.00478v1,2024-11-30 13:32:05+00:00
+24,Homeostazis and Sparsity in Transformer,2412.00503,http://arxiv.org/abs/2412.00503v1,2024-11-30 15:03:41+00:00
+25,FullStack Bench: Evaluating LLMs as Full Stack Coders,2412.00535,http://arxiv.org/abs/2412.00535v2,2024-11-30 16:58:42+00:00
+26,TextClass Benchmark: A Continuous Elo Rating of LLMs in Social Sciences,2412.00539,http://arxiv.org/abs/2412.00539v1,2024-11-30 17:09:49+00:00
+27,Rethinking Generalizability and Discriminability of Self-Supervised Learning from Evolutionary Game Theory Perspective,2412.00542,http://arxiv.org/abs/2412.00542v1,2024-11-30 17:20:23+00:00
+28,Motion Dreamer: Realizing Physically Coherent Video Generation through Scene-Aware Motion Reasoning,2412.00547,http://arxiv.org/abs/2412.00547v1,2024-11-30 17:40:49+00:00
+29,Unveiling Performance Challenges of Large Language Models in Low-Resource Healthcare: A Demographic Fairness Perspective,2412.00554,http://arxiv.org/abs/2412.00554v1,2024-11-30 18:52:30+00:00
+30,Polish Medical Exams: A new dataset for cross-lingual medical knowledge transfer assessment,2412.00559,http://arxiv.org/abs/2412.00559v1,2024-11-30 19:02:34+00:00
+31,Friend or Foe? Harnessing Controllable Overfitting for Anomaly Detection,2412.00560,http://arxiv.org/abs/2412.00560v1,2024-11-30 19:07:16+00:00
+32,PhyT2V: LLM-Guided Iterative Self-Refinement for Physics-Grounded Text-to-Video Generation,2412.00596,http://arxiv.org/abs/2412.00596v1,2024-11-30 22:02:12+00:00
+33,Adaptformer: Sequence models as adaptive iterative planners,2412.00293,http://arxiv.org/abs/2412.00293v1,2024-11-30 00:34:41+00:00
+34,BOTS: Batch Bayesian Optimization of Extended Thompson Sampling for Severely Episode-Limited RL Settings,2412.00308,http://arxiv.org/abs/2412.00308v1,2024-11-30 01:27:44+00:00
+35,Raw Audio Classification with Cosine Convolutional Neural Network (CosCovNN),2412.00312,http://arxiv.org/abs/2412.00312v1,2024-11-30 01:39:16+00:00
+36,One Model for One Graph: A New Perspective for Pretraining with Cross-domain Graphs,2412.00315,http://arxiv.org/abs/2412.00315v1,2024-11-30 01:49:45+00:00
+37,HiMoE: Heterogeneity-Informed Mixture-of-Experts for Fair Spatial-Temporal Forecasting,2412.00316,http://arxiv.org/abs/2412.00316v1,2024-11-30 01:50:42+00:00
+38,Improving speaker verification robustness with synthetic emotional utterances,2412.00319,http://arxiv.org/abs/2412.00319v1,2024-11-30 02:18:26+00:00
+39,MusicGen-Chord: Advancing Music Generation through Chord Progressions and Interactive Web-UI,2412.00325,http://arxiv.org/abs/2412.00325v1,2024-11-30 02:49:45+00:00
+40,Approximate Fiber Product: A Preliminary Algebraic-Geometric Perspective on Multimodal Embedding Alignment,2412.00373,http://arxiv.org/abs/2412.00373v1,2024-11-30 06:45:13+00:00
+41,Fine-Tuning Pre-trained Large Time Series Models for Prediction of Wind Turbine SCADA Data,2412.00403,http://arxiv.org/abs/2412.00403v1,2024-11-30 09:00:24+00:00
+42,Benchmark Real-time Adaptation and Communication Capabilities of Embodied Agent in Collaborative Scenarios,2412.00435,http://arxiv.org/abs/2412.00435v1,2024-11-30 11:17:17+00:00
+43,On the Conditions for Domain Stability for Machine Learning: a Mathematical Approach,2412.00464,http://arxiv.org/abs/2412.00464v1,2024-11-30 12:57:07+00:00
+44,Improved Cleanup and Decoding of Fractional Power Encodings,2412.00488,http://arxiv.org/abs/2412.00488v1,2024-11-30 14:10:48+00:00
+45,Graph-to-SFILES: Control structure prediction from process topologies using generative artificial intelligence,2412.00508,http://arxiv.org/abs/2412.00508v1,2024-11-30 15:30:11+00:00
+46,Energy-Based Prior Latent Space Diffusion model for Reconstruction of Lumbar Vertebrae from Thick Slice MRI,2412.00511,http://arxiv.org/abs/2412.00511v1,2024-11-30 15:34:46+00:00
+47,LAMBDA: Covering the Multimodal Critical Scenarios for Automated Driving Systems by Search Space Quantization,2412.00517,http://arxiv.org/abs/2412.00517v1,2024-11-30 15:57:05+00:00
+48,Human Action CLIPS: Detecting AI-generated Human Motion,2412.00526,http://arxiv.org/abs/2412.00526v1,2024-11-30 16:20:58+00:00
+49,Forma mentis networks predict creativity ratings of short texts via interpretable artificial intelligence in human and GPT-simulated raters,2412.00530,http://arxiv.org/abs/2412.00530v1,2024-11-30 16:33:48+00:00
+50,Towards Fault Tolerance in Multi-Agent Reinforcement Learning,2412.00534,http://arxiv.org/abs/2412.00534v1,2024-11-30 16:56:29+00:00
+51,Blind Inverse Problem Solving Made Easy by Text-to-Image Latent Diffusion,2412.00557,http://arxiv.org/abs/2412.00557v1,2024-11-30 18:55:01+00:00
+52,Audio Atlas: Visualizing and Exploring Audio Datasets,2412.00591,http://arxiv.org/abs/2412.00591v1,2024-11-30 21:35:20+00:00
+53,Generative LiDAR Editing with Controllable Novel Object Layouts,2412.00592,http://arxiv.org/abs/2412.00592v1,2024-11-30 21:39:51+00:00
