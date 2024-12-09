@@ -1,0 +1,60 @@
+,title,id,arxiv_url,published
+0,Low-temperature Quantum Metrology Enhanced by Strong Couplings,2412.01028,http://arxiv.org/abs/2412.01028v1,2024-12-02 01:22:08+00:00
+1,Quantum Scheme for Private Set Intersection and Union Cardinality based on Quantum Homomorphic Encryption,2412.01032,http://arxiv.org/abs/2412.01032v1,2024-12-02 01:31:06+00:00
+2,Using Reinforcement Learning to Guide Graph State Generation for Photonic Quantum Computers,2412.01038,http://arxiv.org/abs/2412.01038v1,2024-12-02 01:43:46+00:00
+3,Heisenberg-limited continuous-variable distributed quantum metrology with arbitrary weights,2412.01074,http://arxiv.org/abs/2412.01074v1,2024-12-02 03:19:46+00:00
+4,Long-distance feedback to cold atoms coupled to an optical nanofiber,2412.01099,http://arxiv.org/abs/2412.01099v1,2024-12-02 04:15:17+00:00
+5,Unified Cramér-Rao bound for quantum multi-parameter estimation: Invertible and non-invertible Fisher information matrix,2412.01117,http://arxiv.org/abs/2412.01117v1,2024-12-02 04:40:50+00:00
+6,High-fidelity multipartite entanglement creation in non-Hermitian qubits,2412.01133,http://arxiv.org/abs/2412.01133v1,2024-12-02 05:17:44+00:00
+7,Programming Variational Quantum Circuits with Quantum-Train Agent,2412.01173,http://arxiv.org/abs/2412.01173v1,2024-12-02 06:26:09+00:00
+8,Neural Network-Based Frequency Optimization for Superconducting Quantum Chips,2412.01183,http://arxiv.org/abs/2412.01183v2,2024-12-02 06:42:03+00:00
+9,Reducing PEC Overhead by Pauli Error Propagation,2412.01311,http://arxiv.org/abs/2412.01311v1,2024-12-02 09:25:40+00:00
+10,Order-six CHMs containing exactly three distinct elements,2412.01334,http://arxiv.org/abs/2412.01334v1,2024-12-02 09:58:35+00:00
+11,Transversal Logical Clifford gates on rotated surface codes with reconfigurable neutral atom arrays,2412.01391,http://arxiv.org/abs/2412.01391v1,2024-12-02 11:24:46+00:00
+12,Feasibility of Logical Bell State Generation in Memory Assisted Quantum Networks,2412.01434,http://arxiv.org/abs/2412.01434v2,2024-12-02 12:16:28+00:00
+13,Cavity-Heisenberg spin-$j$ chain quantum battery and reinforcement learning optimization,2412.01442,http://arxiv.org/abs/2412.01442v1,2024-12-02 12:32:07+00:00
+14,Magic State Injection on IBM Quantum Processors Above the Distillation Threshold,2412.01446,http://arxiv.org/abs/2412.01446v2,2024-12-02 12:35:52+00:00
+15,Dynamic Evolution of Quantum Fisher and Skew Information under Decoherence in Three-Qubit X-States,2412.01473,http://arxiv.org/abs/2412.01473v1,2024-12-02 13:19:06+00:00
+16,Enhanced feature encoding and classification on distributed quantum hardware,2412.01664,http://arxiv.org/abs/2412.01664v1,2024-12-02 16:14:37+00:00
+17,Observing the dynamics of quantum states generated inside nonlinear optical cavities,2412.01772,http://arxiv.org/abs/2412.01772v1,2024-12-02 18:20:06+00:00
+18,Approximate Quantum Circuit Synthesis for Diagonal Unitary,2412.01869,http://arxiv.org/abs/2412.01869v1,2024-12-02 08:54:23+00:00
+19,An access model for quantum encoded data,2412.01889,http://arxiv.org/abs/2412.01889v1,2024-12-02 19:00:00+00:00
+20,Spin Qubit Performance at the Error Correction Threshold: Advancing Quantum Information Processing Above 700 mK,2412.01920,http://arxiv.org/abs/2412.01920v1,2024-12-02 19:08:52+00:00
+21,Implementing Semiclassical Szegedy Walks in Classical-Quantum Circuits for Homomorphic Encryption,2412.01966,http://arxiv.org/abs/2412.01966v1,2024-12-02 20:50:48+00:00
+22,Hamiltonian characterisation of multi-time processes with classical memory,2412.01998,http://arxiv.org/abs/2412.01998v1,2024-12-02 22:06:34+00:00
+23,CaliScalpel: In-Situ and Fine-Grained Qubit Calibration Integrated with Surface Code Quantum Error Correction,2412.02036,http://arxiv.org/abs/2412.02036v1,2024-12-02 23:37:03+00:00
+24,"High-resolution, Wide-frequency-range Magnetic Spectroscopy with Solid-state Spin Ensembles",2412.02040,http://arxiv.org/abs/2412.02040v2,2024-12-02 23:53:24+00:00
+25,Quantum steering for different types of Bell-like states in gravitational background,2412.01043,http://arxiv.org/abs/2412.01043v1,2024-12-02 01:56:50+00:00
+26,Quantum Pointwise Convolution: A Flexible and Scalable Approach for Neural Network Enhancement,2412.01241,http://arxiv.org/abs/2412.01241v1,2024-12-02 08:03:59+00:00
+27,Simultaneously optimizing symmetry shifts and tensor factorizations for cost-efficient Fault-Tolerant Quantum Simulations of electronic Hamiltonians,2412.01338,http://arxiv.org/abs/2412.01338v1,2024-12-02 10:02:16+00:00
+28,Quantization of Visible Light by a Ni$_2$ Molecular Optical Resonator,2412.01444,http://arxiv.org/abs/2412.01444v1,2024-12-02 12:34:15+00:00
+29,Quadruply Bonded Mo$_2$ Molecules: An Emitter-Resonator Integrated Quantum System in Free Space,2412.01453,http://arxiv.org/abs/2412.01453v1,2024-12-02 12:43:15+00:00
+30,Quantum microwaves: stabilizing squeezed light by phase locking,2412.01499,http://arxiv.org/abs/2412.01499v1,2024-12-02 13:51:26+00:00
+31,Generative modeling assisted simulation of measurement-altered quantum criticality,2412.01513,http://arxiv.org/abs/2412.01513v1,2024-12-02 14:03:52+00:00
+32,Bose-Hubbard model with power-law hopping in one dimension,2412.01571,http://arxiv.org/abs/2412.01571v1,2024-12-02 14:54:53+00:00
+33,"Single-Photon Generation: Materials, Techniques, and the Rydberg Exciton Frontier",2412.01573,http://arxiv.org/abs/2412.01573v1,2024-12-02 14:56:19+00:00
+34,Coherent emission from single impurities in ZnSe through resonant excitation,2412.01677,http://arxiv.org/abs/2412.01677v1,2024-12-02 16:23:54+00:00
+35,Nonlinear functions of quantum states,2412.01696,http://arxiv.org/abs/2412.01696v1,2024-12-02 16:40:17+00:00
+36,Anomalous geometric transport signatures of topological Euler class,2412.01810,http://arxiv.org/abs/2412.01810v1,2024-12-02 18:53:08+00:00
+37,Quantifying Imaginarity in Neutrino Systems,2412.01871,http://arxiv.org/abs/2412.01871v1,2024-12-02 14:34:18+00:00
+38,The Design and Implementation of a Quantum Information Science Undergraduate Program,2412.01874,http://arxiv.org/abs/2412.01874v1,2024-12-02 17:24:35+00:00
+39,Teaching Quantum Formalism and Postulates to First-Year Undergraduates,2412.02017,http://arxiv.org/abs/2412.02017v1,2024-12-02 22:39:34+00:00
+40,Spread complexity and the saturation of wormhole size,2412.02038,http://arxiv.org/abs/2412.02038v1,2024-12-02 23:46:22+00:00
+41,Quantum criticality and universality in stationary state of long-range Kitaev model,2412.01076,http://arxiv.org/abs/2412.01076v1,2024-12-02 03:29:27+00:00
+42,Addressing general measurements in quantum Monte Carlo,2412.01384,http://arxiv.org/abs/2412.01384v1,2024-12-02 11:12:19+00:00
+43,Algorithmic Discovery of Casimir-Polder forces: Repulsion in the Ground State,2412.01483,http://arxiv.org/abs/2412.01483v1,2024-12-02 13:34:47+00:00
+44,Phase transitions and remnants of fractionalization at finite temperature in the triangular lattice quantum loop model,2412.01503,http://arxiv.org/abs/2412.01503v1,2024-12-02 13:55:29+00:00
+45,Chirally-protected state manipulation by tuning one-dimensional statistics,2412.01517,http://arxiv.org/abs/2412.01517v1,2024-12-02 14:07:37+00:00
+46,Quasiparticle Picture for Entanglement Hamiltonians in Higher Dimensions,2412.01538,http://arxiv.org/abs/2412.01538v1,2024-12-02 14:28:36+00:00
+47,Quasi-optimal sampling from Gibbs states via non-commutative optimal transport metrics,2412.01732,http://arxiv.org/abs/2412.01732v1,2024-12-02 17:25:24+00:00
+48,Superposing and gauging fermionic Gaussian projected entangled pair states to get lattice gauge theory groundstates,2412.01737,http://arxiv.org/abs/2412.01737v1,2024-12-02 17:31:20+00:00
+49,Solving one-body ensemble N-representability problems with spin,2412.01805,http://arxiv.org/abs/2412.01805v1,2024-12-02 18:50:01+00:00
+50,Universal microscopic descriptions for statistics of particles and extended excitations,2412.01886,http://arxiv.org/abs/2412.01886v1,2024-12-02 19:00:00+00:00
+51,Prospects for quantum process tomography at high energies,2412.01892,http://arxiv.org/abs/2412.01892v1,2024-12-02 19:00:00+00:00
+52,Accuracy of time-dependent GGE under weak dissipation,2412.01896,http://arxiv.org/abs/2412.01896v1,2024-12-02 19:00:02+00:00
+53,Hilbert space separability and the Einstein-Podolsky-Rosen state,2412.01897,http://arxiv.org/abs/2412.01897v1,2024-12-02 19:00:03+00:00
+54,Generalised second law beyond the semiclassical regime,2412.01903,http://arxiv.org/abs/2412.01903v1,2024-12-02 19:00:15+00:00
+55,Universal Spreading Dynamics in Quasiperiodic Non-Hermitian Systems,2412.01301,http://arxiv.org/abs/2412.01301v1,2024-12-02 09:13:43+00:00
+56,Matchgate circuits deeply thermalize,2412.01884,http://arxiv.org/abs/2412.01884v1,2024-12-02 19:00:00+00:00
+57,Designing Optically Addressable Nitrogen-Vacancy Centers in Ultra-Small Nanodiamonds: Insights from First-Principles Calculations,2412.01976,http://arxiv.org/abs/2412.01976v1,2024-12-02 21:09:15+00:00
+58,Overscreened spin-$\frac{1}{2}$ Kondo impurity and Shiba state at the edge of a one-dimensional spin-1 superconducting wire,2412.01924,http://arxiv.org/abs/2412.01924v1,2024-12-02 19:20:11+00:00
