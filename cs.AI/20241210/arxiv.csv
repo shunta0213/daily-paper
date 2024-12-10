@@ -1,0 +1,101 @@
+,title,id,arxiv_url,published
+0,Trust & Safety of LLMs and LLMs in Trust & Safety,2412.02113,http://arxiv.org/abs/2412.02113v1,2024-12-03 03:10:12+00:00
+1,A privacy-preserving distributed credible evidence fusion algorithm for collective decision-making,2412.02130,http://arxiv.org/abs/2412.02130v1,2024-12-03 03:36:42+00:00
+2,Graph Learning for Planning: The Story Thus Far and Open Challenges,2412.02136,http://arxiv.org/abs/2412.02136v1,2024-12-03 03:49:27+00:00
+3,Mining Tweets to Predict Future Bitcoin Price,2412.02148,http://arxiv.org/abs/2412.02148v1,2024-12-03 04:09:19+00:00
+4,Analyzing the Impact of AI Tools on Student Study Habits and Academic Performance,2412.02166,http://arxiv.org/abs/2412.02166v1,2024-12-03 04:51:57+00:00
+5,Keeping Experts in the Loop: Expert-Guided Optimization for Clinical Data Classification using Large Language Models,2412.02173,http://arxiv.org/abs/2412.02173v1,2024-12-03 05:05:13+00:00
+6,Comparative Performance of Machine Learning Algorithms for Early Genetic Disorder and Subclass Classification,2412.02189,http://arxiv.org/abs/2412.02189v1,2024-12-03 06:02:47+00:00
+7,Deep learning approach for predicting the replicator equation in evolutionary game theory,2412.02222,http://arxiv.org/abs/2412.02222v1,2024-12-03 07:28:52+00:00
+8,F-SE-LSTM: A Time Series Anomaly Detection Method with Frequency Domain Information,2412.02474,http://arxiv.org/abs/2412.02474v1,2024-12-03 14:36:24+00:00
+9,FCL-ViT: Task-Aware Attention Tuning for Continual Learning,2412.02509,http://arxiv.org/abs/2412.02509v2,2024-12-03 15:48:33+00:00
+10,Bias Analysis of AI Models for Undergraduate Student Admissions,2412.02528,http://arxiv.org/abs/2412.02528v1,2024-12-03 16:21:37+00:00
+11,Graph-Powered Defense: Controller Area Network Intrusion Detection for Unmanned Aerial Vehicles,2412.02539,http://arxiv.org/abs/2412.02539v1,2024-12-03 16:32:57+00:00
+12,Factored space models: Towards causality between levels of abstraction,2412.02579,http://arxiv.org/abs/2412.02579v1,2024-12-03 17:04:20+00:00
+13,Projection Abstractions in Planning Under the Lenses of Abstractions for MDPs,2412.02615,http://arxiv.org/abs/2412.02615v1,2024-12-03 17:43:28+00:00
+14,Optimization of Transformer heart disease prediction model based on particle swarm optimization algorithm,2412.02801,http://arxiv.org/abs/2412.02801v1,2024-12-03 20:04:32+00:00
+15,Flattering to Deceive: The Impact of Sycophantic Behavior on User Trust in Large Language Model,2412.02802,http://arxiv.org/abs/2412.02802v1,2024-12-03 20:07:41+00:00
+16,"A Novel Compact LLM Framework for Local, High-Privacy EHR Data Applications",2412.02868,http://arxiv.org/abs/2412.02868v1,2024-12-03 22:06:55+00:00
+17,Future of Information Retrieval Research in the Age of Generative AI,2412.02043,http://arxiv.org/abs/2412.02043v1,2024-12-03 00:01:48+00:00
+18,Construction and optimization of health behavior prediction model for the elderly in smart elderly care,2412.02062,http://arxiv.org/abs/2412.02062v1,2024-12-03 00:47:42+00:00
+19,Implementing An Artificial Quantum Perceptron,2412.02083,http://arxiv.org/abs/2412.02083v1,2024-12-03 01:57:09+00:00
+20,Comparative Analysis of Black-Box and White-Box Machine Learning Model in Phishing Detection,2412.02084,http://arxiv.org/abs/2412.02084v1,2024-12-03 02:00:47+00:00
+21,Evolution of Collective AI Beyond Individual Optimization,2412.02085,http://arxiv.org/abs/2412.02085v1,2024-12-03 02:03:36+00:00
+22,AccDiffusion v2: Towards More Accurate Higher-Resolution Diffusion Extrapolation,2412.02099,http://arxiv.org/abs/2412.02099v1,2024-12-03 02:44:35+00:00
+23,OmniCreator: Self-Supervised Unified Generation with Universal Editing,2412.02114,http://arxiv.org/abs/2412.02114v1,2024-12-03 03:10:19+00:00
+24,Optimizing Latent Goal by Learning from Trajectory Preference,2412.02125,http://arxiv.org/abs/2412.02125v1,2024-12-03 03:27:48+00:00
+25,Revisiting the Initial Steps in Adaptive Gradient Descent Optimization,2412.02153,http://arxiv.org/abs/2412.02153v1,2024-12-03 04:28:14+00:00
+26,Self-Supervised Learning-Based Path Planning and Obstacle Avoidance Using PPO and B-Splines in Unknown Environments,2412.02176,http://arxiv.org/abs/2412.02176v1,2024-12-03 05:20:29+00:00
+27,Anatomically-Grounded Fact Checking of Automated Chest X-ray Reports,2412.02177,http://arxiv.org/abs/2412.02177v1,2024-12-03 05:21:42+00:00
+28,VideoICL: Confidence-based Iterative In-context Learning for Out-of-Distribution Video Understanding,2412.02186,http://arxiv.org/abs/2412.02186v1,2024-12-03 05:54:43+00:00
+29,LayoutVLM: Differentiable Optimization of 3D Layout via Vision-Language Models,2412.02193,http://arxiv.org/abs/2412.02193v1,2024-12-03 06:15:04+00:00
+30,Recovering implicit physics model under real-world constraints,2412.02215,http://arxiv.org/abs/2412.02215v1,2024-12-03 07:11:21+00:00
+31,Cross-Attention Head Position Patterns Can Align with Human Visual Concepts in Text-to-Image Generative Models,2412.02237,http://arxiv.org/abs/2412.02237v1,2024-12-03 08:05:56+00:00
+32,VideoGen-of-Thought: A Collaborative Framework for Multi-Shot Video Generation,2412.02259,http://arxiv.org/abs/2412.02259v1,2024-12-03 08:33:50+00:00
+33,Connecting Large Language Models with Blockchain: Advancing the Evolution of Smart Contracts from Automation to Intelligence,2412.02263,http://arxiv.org/abs/2412.02263v2,2024-12-03 08:35:51+00:00
+34,Sustainable Self-evolution Adversarial Training,2412.02270,http://arxiv.org/abs/2412.02270v1,2024-12-03 08:41:11+00:00
+35,A Comprehensive Evaluation of Large Language Models on Aspect-Based Sentiment Analysis,2412.02279,http://arxiv.org/abs/2412.02279v1,2024-12-03 08:54:17+00:00
+36,AH-OCDA: Amplitude-based Curriculum Learning and Hopfield Segmentation Model for Open Compound Domain Adaptation,2412.02280,http://arxiv.org/abs/2412.02280v1,2024-12-03 08:55:10+00:00
+37,VR Based Emotion Recognition Using Deep Multimodal Fusion With Biosignals Across Multiple Anatomical Domains,2412.02283,http://arxiv.org/abs/2412.02283v1,2024-12-03 08:59:12+00:00
+38,GQWformer: A Quantum-based Transformer for Graph Representation Learning,2412.02285,http://arxiv.org/abs/2412.02285v1,2024-12-03 09:03:04+00:00
+39,Conformal Symplectic Optimization for Stable Reinforcement Learning,2412.02291,http://arxiv.org/abs/2412.02291v1,2024-12-03 09:07:31+00:00
+40,Enhanced Photovoltaic Power Forecasting: An iTransformer and LSTM-Based Model Integrating Temporal and Covariate Interactions,2412.02302,http://arxiv.org/abs/2412.02302v1,2024-12-03 09:16:13+00:00
+41,Reinforcement learning to learn quantum states for Heisenberg scaling accuracy,2412.02334,http://arxiv.org/abs/2412.02334v1,2024-12-03 09:53:32+00:00
+42,Dynamic Prompt Middleware: Contextual Prompt Refinement Controls for Comprehension Tasks,2412.02357,http://arxiv.org/abs/2412.02357v1,2024-12-03 10:27:04+00:00
+43,A Multi-Agent Framework for Extensible Structured Text Generation in PLCs,2412.02410,http://arxiv.org/abs/2412.02410v1,2024-12-03 12:05:56+00:00
+44,Knowledge-Enhanced Conversational Recommendation via Transformer-based Sequential Modelling,2412.02415,http://arxiv.org/abs/2412.02415v1,2024-12-03 12:20:56+00:00
+45,GerPS-Compare: Comparing NER methods for legal norm analysis,2412.02427,http://arxiv.org/abs/2412.02427v1,2024-12-03 12:46:06+00:00
+46,Towards Rich Emotions in 3D Avatars: A Text-to-3D Avatar Generation Benchmark,2412.02508,http://arxiv.org/abs/2412.02508v1,2024-12-03 15:39:05+00:00
+47,Semantic Tokens in Retrieval Augmented Generation,2412.02563,http://arxiv.org/abs/2412.02563v1,2024-12-03 16:52:06+00:00
+48,Explainable CTR Prediction via LLM Reasoning,2412.02588,http://arxiv.org/abs/2412.02588v1,2024-12-03 17:17:27+00:00
+49,PrefixLLM: LLM-aided Prefix Circuit Design,2412.02594,http://arxiv.org/abs/2412.02594v1,2024-12-03 17:26:42+00:00
+50,"Medical Multimodal Foundation Models in Clinical Diagnosis and Treatment: Applications, Challenges, and Future Directions",2412.02621,http://arxiv.org/abs/2412.02621v1,2024-12-03 17:50:19+00:00
+51,Time-Reversal Provides Unsupervised Feedback to LLMs,2412.02626,http://arxiv.org/abs/2412.02626v2,2024-12-03 17:54:12+00:00
+52,Scaling Image Tokenizers with Grouped Spherical Quantization,2412.02632,http://arxiv.org/abs/2412.02632v2,2024-12-03 18:01:45+00:00
+53,QA-TOOLBOX: Conversational Question-Answering for process task guidance in manufacturing,2412.02638,http://arxiv.org/abs/2412.02638v1,2024-12-03 18:10:31+00:00
+54,Scaffold or Crutch? Examining College Students' Use and Views of Generative AI Tools for STEM Education,2412.02653,http://arxiv.org/abs/2412.02653v1,2024-12-03 18:27:40+00:00
+55,AniGS: Animatable Gaussian Avatar from a Single Image with Inconsistent Gaussian Reconstruction,2412.02684,http://arxiv.org/abs/2412.02684v1,2024-12-03 18:55:39+00:00
+56,Taming Scalable Visual Tokenizer for Autoregressive Image Generation,2412.02692,http://arxiv.org/abs/2412.02692v1,2024-12-03 18:59:10+00:00
+57,Hacking CTFs with Plain Agents,2412.02776,http://arxiv.org/abs/2412.02776v1,2024-12-03 19:17:45+00:00
+58,WxC-Bench: A Novel Dataset for Weather and Climate Downstream Tasks,2412.02780,http://arxiv.org/abs/2412.02780v1,2024-12-03 19:20:27+00:00
+59,FathomGPT: A Natural Language Interface for Interactively Exploring Ocean Science Data,2412.02784,http://arxiv.org/abs/2412.02784v1,2024-12-03 19:22:55+00:00
+60,Hybrid-SQuAD: Hybrid Scholarly Question Answering Dataset,2412.02788,http://arxiv.org/abs/2412.02788v2,2024-12-03 19:37:00+00:00
+61,An Evolutionary Large Language Model for Hallucination Mitigation,2412.02790,http://arxiv.org/abs/2412.02790v1,2024-12-03 19:40:13+00:00
+62,CNNSum: Exploring Long-Conext Summarization with Large Language Models in Chinese Novels,2412.02819,http://arxiv.org/abs/2412.02819v2,2024-12-03 20:35:57+00:00
+63,Minimization of Boolean Complexity in In-Context Concept Learning,2412.02823,http://arxiv.org/abs/2412.02823v1,2024-12-03 20:41:37+00:00
+64,FLAME 3 Dataset: Unleashing the Power of Radiometric Thermal UAV Imagery for Wildfire Management,2412.02831,http://arxiv.org/abs/2412.02831v1,2024-12-03 20:53:42+00:00
+65,Constrained Identifiability of Causal Effects,2412.02869,http://arxiv.org/abs/2412.02869v1,2024-12-03 22:08:45+00:00
+66,Deep-Learning Based Docking Methods: Fair Comparisons to Conventional Docking Workflows,2412.02889,http://arxiv.org/abs/2412.02889v1,2024-12-03 22:47:47+00:00
+67,MLD-EA: Check and Complete Narrative Coherence by Introducing Emotions and Actions,2412.02897,http://arxiv.org/abs/2412.02897v1,2024-12-03 23:01:21+00:00
+68,"Social Media Informatics for Sustainable Cities and Societies: An Overview of the Applications, associated Challenges, and Potential Solutions",2412.03600,http://arxiv.org/abs/2412.03600v1,2024-12-03 08:53:32+00:00
+69,A Primer on Large Language Models and their Limitations,2412.04503,http://arxiv.org/abs/2412.04503v1,2024-12-03 02:45:02+00:00
+70,Comparative Analysis of Multi-Agent Reinforcement Learning Policies for Crop Planning Decision Support,2412.02057,http://arxiv.org/abs/2412.02057v1,2024-12-03 00:30:19+00:00
+71,The Problem of Social Cost in Multi-Agent General Reinforcement Learning: Survey and Synthesis,2412.02091,http://arxiv.org/abs/2412.02091v1,2024-12-03 02:22:55+00:00
+72,Benchmarking symbolic regression constant optimization schemes,2412.02126,http://arxiv.org/abs/2412.02126v1,2024-12-03 03:29:27+00:00
+73,Personalized Multimodal Large Language Models: A Survey,2412.02142,http://arxiv.org/abs/2412.02142v1,2024-12-03 03:59:03+00:00
+74,Failure Probability Estimation for Black-Box Autonomous Systems using State-Dependent Importance Sampling Proposals,2412.02154,http://arxiv.org/abs/2412.02154v1,2024-12-03 04:28:58+00:00
+75,CausalMob: Causal Human Mobility Prediction with LLMs-derived Human Intentions toward Public Events,2412.02155,http://arxiv.org/abs/2412.02155v1,2024-12-03 04:29:27+00:00
+76,Jailbreak Defense in a Narrow Domain: Limitations of Existing Methods and a New Transcript-Classifier Approach,2412.02159,http://arxiv.org/abs/2412.02159v1,2024-12-03 04:34:58+00:00
+77,VISCO: Benchmarking Fine-Grained Critique and Correction Towards Self-Improvement in Visual Reasoning,2412.02172,http://arxiv.org/abs/2412.02172v1,2024-12-03 05:04:49+00:00
+78,Generalizing Weisfeiler-Lehman Kernels to Subgraphs,2412.02181,http://arxiv.org/abs/2412.02181v1,2024-12-03 05:35:44+00:00
+79,DataLab: A Unified Platform for LLM-Powered Business Intelligence,2412.02205,http://arxiv.org/abs/2412.02205v2,2024-12-03 06:47:15+00:00
+80,Unlocking Tuning-Free Few-Shot Adaptability in Visual Foundation Models by Recycling Pre-Tuned LoRAs,2412.02220,http://arxiv.org/abs/2412.02220v1,2024-12-03 07:25:30+00:00
+81,BANER: Boundary-Aware LLMs for Few-Shot Named Entity Recognition,2412.02228,http://arxiv.org/abs/2412.02228v1,2024-12-03 07:51:14+00:00
+82,U-Net in Medical Image Segmentation: A Review of Its Applications Across Modalities,2412.02242,http://arxiv.org/abs/2412.02242v1,2024-12-03 08:11:06+00:00
+83,Deep Matrix Factorization with Adaptive Weights for Multi-View Clustering,2412.02292,http://arxiv.org/abs/2412.02292v1,2024-12-03 09:08:27+00:00
+84,Initial Study On Improving Segmentation By Combining Preoperative CT And Intraoperative CBCT Using Synthetic Data,2412.02294,http://arxiv.org/abs/2412.02294v1,2024-12-03 09:08:38+00:00
+85,CADMR: Cross-Attention and Disentangled Learning for Multimodal Recommender Systems,2412.02295,http://arxiv.org/abs/2412.02295v1,2024-12-03 09:09:52+00:00
+86,Large Multimodal Agents for Accurate Phishing Detection with Enhanced Token Optimization and Cost Reduction,2412.02301,http://arxiv.org/abs/2412.02301v1,2024-12-03 09:13:52+00:00
+87,Switchable deep beamformer for high-quality and real-time passive acoustic mapping,2412.02327,http://arxiv.org/abs/2412.02327v1,2024-12-03 09:40:59+00:00
+88,Sample Efficient Robot Learning in Supervised Effect Prediction Tasks,2412.02331,http://arxiv.org/abs/2412.02331v1,2024-12-03 09:48:28+00:00
+89,ScImage: How Good Are Multimodal Large Language Models at Scientific Text-to-Image Generation?,2412.02368,http://arxiv.org/abs/2412.02368v1,2024-12-03 10:52:06+00:00
+90,HERO: Hint-Based Efficient and Reliable Query Optimizer,2412.02372,http://arxiv.org/abs/2412.02372v2,2024-12-03 10:58:34+00:00
+91,OMENN: One Matrix to Explain Neural Networks,2412.02399,http://arxiv.org/abs/2412.02399v1,2024-12-03 11:49:01+00:00
+92,VISTA: A Panoramic View of Neural Representations,2412.02412,http://arxiv.org/abs/2412.02412v1,2024-12-03 12:12:03+00:00
+93,Artificial Expert Intelligence through PAC-reasoning,2412.02441,http://arxiv.org/abs/2412.02441v1,2024-12-03 13:25:18+00:00
+94,BYE: Build Your Encoder with One Sequence of Exploration Data for Long-Term Dynamic Scene Understanding,2412.02449,http://arxiv.org/abs/2412.02449v1,2024-12-03 13:34:42+00:00
+95,Gracefully Filtering Backdoor Samples for Generative Large Language Models without Retraining,2412.02454,http://arxiv.org/abs/2412.02454v1,2024-12-03 13:43:36+00:00
+96,OODFace: Benchmarking Robustness of Face Recognition under Common Corruptions and Appearance Variations,2412.02479,http://arxiv.org/abs/2412.02479v1,2024-12-03 14:42:31+00:00
+97,WEM-GAN: Wavelet transform based facial expression manipulation,2412.02530,http://arxiv.org/abs/2412.02530v1,2024-12-03 16:23:02+00:00
+98,Segmentation of Coronary Artery Stenosis in X-ray Angiography using Mamba Models,2412.02568,http://arxiv.org/abs/2412.02568v1,2024-12-03 16:54:46+00:00
+99,Generating Critical Scenarios for Testing Automated Driving Systems,2412.02574,http://arxiv.org/abs/2412.02574v1,2024-12-03 16:59:30+00:00
