@@ -1,0 +1,47 @@
+,title,id,arxiv_url,published
+0,QuTiP 5: The Quantum Toolbox in Python,2412.04705,http://arxiv.org/abs/2412.04705v1,2024-12-06 01:36:04+00:00
+1,States Violating Both Locality and Noncontextuality Inequalities in Quantum Theory,2412.04713,http://arxiv.org/abs/2412.04713v1,2024-12-06 02:06:00+00:00
+2,Nonlocality-Assisted Enhancement of Error-Free Communication in Noisy Classical Channels,2412.04779,http://arxiv.org/abs/2412.04779v1,2024-12-06 05:01:47+00:00
+3,Fault-Tolerant Implementation of the Deutsch-Jozsa Algorithm,2412.04791,http://arxiv.org/abs/2412.04791v1,2024-12-06 05:55:31+00:00
+4,Universal Hamming Weight Preserving Variational Quantum Ansatz,2412.04825,http://arxiv.org/abs/2412.04825v1,2024-12-06 07:42:20+00:00
+5,Optimizing Quantum Communication for Quantum Data Centers with Reconfigurable Networks,2412.04837,http://arxiv.org/abs/2412.04837v1,2024-12-06 08:07:26+00:00
+6,Transfer of Fisher Information in Quantum Postselection Metrology,2412.04838,http://arxiv.org/abs/2412.04838v1,2024-12-06 08:12:09+00:00
+7,Quantum-Enhanced Multi-Parameter Sensing in a Single Mode,2412.04865,http://arxiv.org/abs/2412.04865v1,2024-12-06 08:58:19+00:00
+8,On estimates of the Bures distance between bosonic Gaussian states,2412.04875,http://arxiv.org/abs/2412.04875v1,2024-12-06 09:16:28+00:00
+9,Enhancing low-temperature quantum thermometry via sequential measurements,2412.04878,http://arxiv.org/abs/2412.04878v1,2024-12-06 09:20:01+00:00
+10,Computational Advantage in Hybrid Quantum Neural Networks: Myth or Reality?,2412.04991,http://arxiv.org/abs/2412.04991v1,2024-12-06 12:31:04+00:00
+11,Predictive Window Decoding for Fault-Tolerant Quantum Programs,2412.05115,http://arxiv.org/abs/2412.05115v1,2024-12-06 15:17:18+00:00
+12,Non-Hermitian Generalization of Rayleigh-Schrödinger Perturbation Theory,2412.05166,http://arxiv.org/abs/2412.05166v1,2024-12-06 16:30:19+00:00
+13,Optimal control of a Bose-Eintein Condensate in an optical lattice: The non-linear and the two-dimensional cases,2412.05170,http://arxiv.org/abs/2412.05170v1,2024-12-06 16:42:18+00:00
+14,Scalable and shallow quantum circuits encoding probability distributions informed by asymptotic entanglement analysis,2412.05202,http://arxiv.org/abs/2412.05202v1,2024-12-06 17:31:35+00:00
+15,Partial Wavefunction Collapse Under Repeated Weak Measurement of a non-Conserved Observable,2412.05226,http://arxiv.org/abs/2412.05226v1,2024-12-06 17:58:38+00:00
+16,Dimensionality reduction for closed-loop quantum gate calibration,2412.05230,http://arxiv.org/abs/2412.05230v1,2024-12-06 18:00:07+00:00
+17,Bayesian quantum estimation of the separation of two incoherent point sources,2412.05245,http://arxiv.org/abs/2412.05245v1,2024-12-06 18:24:41+00:00
+18,Spectrally-Pure Optical Serrodyne Modulation for Continuously-Tunable Laser Offset Locking,2412.05411,http://arxiv.org/abs/2412.05411v1,2024-12-06 20:40:18+00:00
+19,Engineering qubit dynamics in open systems with photonic synthetic lattices,2412.04701,http://arxiv.org/abs/2412.04701v1,2024-12-06 01:27:58+00:00
+20,Infinite Grassmann time-evolving matrix product operators for non-equilibrium quantum impurity problems,2412.04702,http://arxiv.org/abs/2412.04702v1,2024-12-06 01:28:30+00:00
+21,Cutting is All You Need: Execution of Large-Scale Quantum Neural Networks on Limited-Qubit Devices,2412.04844,http://arxiv.org/abs/2412.04844v1,2024-12-06 08:29:46+00:00
+22,Optimally Fast Qubit Reset,2412.04883,http://arxiv.org/abs/2412.04883v1,2024-12-06 09:25:13+00:00
+23,Solid-state qubits in moire superlattices,2412.04904,http://arxiv.org/abs/2412.04904v1,2024-12-06 10:00:24+00:00
+24,A unified framework for classical and quantum uncertainty relations using stochastic representations,2412.04988,http://arxiv.org/abs/2412.04988v1,2024-12-06 12:16:41+00:00
+25,Two-photon coupling via Josephson element I: Breaking the symmetry with magnetic fields,2412.05016,http://arxiv.org/abs/2412.05016v1,2024-12-06 13:09:18+00:00
+26,Ultralong-range Rydberg molecules of Hg atoms,2412.05025,http://arxiv.org/abs/2412.05025v1,2024-12-06 13:22:50+00:00
+27,Quantum Security Analysis of the Key-Alternating Ciphers,2412.05026,http://arxiv.org/abs/2412.05026v1,2024-12-06 13:23:29+00:00
+28,How many lives does Schrödinger's cat have?,2412.05104,http://arxiv.org/abs/2412.05104v1,2024-12-06 15:01:52+00:00
+29,Enhancing fidelity in teleportation of a two-qubit state via a quantum communication channel formed by spin-1/2 Ising-Heisenberg trimer chains due to a magnetic field,2412.05113,http://arxiv.org/abs/2412.05113v2,2024-12-06 15:14:19+00:00
+30,A Localized Reality Appears To Underpin Quantum Circuits,2412.05456,http://arxiv.org/abs/2412.05456v1,2024-12-06 22:35:45+00:00
+31,High-contrast absorption magnetometry in the visible to near-infrared range with nitrogen-vacancy ensembles,2412.07798,http://arxiv.org/abs/2412.07798v1,2024-12-06 11:10:55+00:00
+32,Natural Probability,2412.04689,http://arxiv.org/abs/2412.04689v1,2024-12-06 01:04:57+00:00
+33,A simple model for longitudinal electron transport during and after laser excitation: Emergence of electron resistive transport,2412.04691,http://arxiv.org/abs/2412.04691v1,2024-12-06 01:06:10+00:00
+34,Enlargement of symmetry groups in physics: a practitioner's guide,2412.04695,http://arxiv.org/abs/2412.04695v1,2024-12-06 01:19:18+00:00
+35,Quantum-hydrodynamic modal perspective on plasmonic gap structures,2412.04804,http://arxiv.org/abs/2412.04804v1,2024-12-06 06:26:29+00:00
+36,Light-induced magnetic trapping for cold alkali atoms using a combined optical tweezers and nanofibre platform,2412.04809,http://arxiv.org/abs/2412.04809v3,2024-12-06 06:55:13+00:00
+37,Classical-quantum scattering,2412.04839,http://arxiv.org/abs/2412.04839v1,2024-12-06 08:14:50+00:00
+38,"Non-rotational measures in the Bargmann space, and entanglement of bipartite squeezed coherent states",2412.04863,http://arxiv.org/abs/2412.04863v1,2024-12-06 08:56:47+00:00
+39,Krylov Complexity in Mixed Phase Space,2412.04963,http://arxiv.org/abs/2412.04963v1,2024-12-06 11:27:54+00:00
+40,Fast Laplace transforms on quantum computers,2412.05173,http://arxiv.org/abs/2412.05173v2,2024-12-06 16:44:00+00:00
+41,The quantum magic of fermionic Gaussian states,2412.05367,http://arxiv.org/abs/2412.05367v1,2024-12-06 19:00:16+00:00
+42,Zephyr quantum-assisted hierarchical Calo4pQVAE for particle-calorimeter interactions,2412.04677,http://arxiv.org/abs/2412.04677v1,2024-12-06 00:23:12+00:00
+43,Exact Model Reduction for Continuous-Time Open Quantum Dynamics,2412.05102,http://arxiv.org/abs/2412.05102v1,2024-12-06 15:00:58+00:00
+44,Dirac-Equation Signal Processing: Physics Boosts Topological Machine Learning,2412.05132,http://arxiv.org/abs/2412.05132v1,2024-12-06 15:38:58+00:00
+45,YIG Photonic Crystals,2412.05361,http://arxiv.org/abs/2412.05361v1,2024-12-06 19:00:02+00:00
