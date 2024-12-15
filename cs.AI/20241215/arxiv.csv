@@ -1,0 +1,54 @@
+,title,id,arxiv_url,published
+0,A Collaborative Multi-Agent Approach to Retrieval-Augmented Generation Across Diverse Data,2412.05838,http://arxiv.org/abs/2412.05838v1,2024-12-08 07:18:19+00:00
+1,Policy-shaped prediction: avoiding distractions in model-based reinforcement learning,2412.05766,http://arxiv.org/abs/2412.05766v1,2024-12-08 00:21:37+00:00
+2,Uncovering Uncertainty in Transformer Inference,2412.05768,http://arxiv.org/abs/2412.05768v1,2024-12-08 00:46:10+00:00
+3,BudgetFusion: Perceptually-Guided Adaptive Diffusion Models,2412.05780,http://arxiv.org/abs/2412.05780v2,2024-12-08 02:23:40+00:00
+4,Speech Is Not Enough: Interpreting Nonverbal Indicators of Common Knowledge and Engagement,2412.05797,http://arxiv.org/abs/2412.05797v1,2024-12-08 03:26:44+00:00
+5,An Entailment Tree Generation Approach for Multimodal Multi-Hop Question Answering with Mixture-of-Experts and Iterative Feedback Mechanism,2412.05821,http://arxiv.org/abs/2412.05821v2,2024-12-08 05:47:55+00:00
+6,DapperFL: Domain Adaptive Federated Learning with Model Fusion Pruning for Edge Devices,2412.05823,http://arxiv.org/abs/2412.05823v1,2024-12-08 05:50:04+00:00
+7,Large Language Models Merging for Enhancing the Link Stealing Attack on Graph Neural Networks,2412.05830,http://arxiv.org/abs/2412.05830v1,2024-12-08 06:37:05+00:00
+8,DREAM: Domain-agnostic Reverse Engineering Attributes of Black-box Model,2412.05842,http://arxiv.org/abs/2412.05842v1,2024-12-08 07:37:05+00:00
+9,Kernel Stochastic Configuration Networks for Nonlinear Regression,2412.05846,http://arxiv.org/abs/2412.05846v1,2024-12-08 07:54:04+00:00
+10,CardOOD: Robust Query-driven Cardinality Estimation under Out-of-Distribution,2412.05864,http://arxiv.org/abs/2412.05864v1,2024-12-08 09:11:11+00:00
+11,MG-3D: Multi-Grained Knowledge-Enhanced 3D Medical Vision-Language Pre-training,2412.05876,http://arxiv.org/abs/2412.05876v1,2024-12-08 09:45:59+00:00
+12,3D-Consistent Image Inpainting with Diffusion Models,2412.05881,http://arxiv.org/abs/2412.05881v1,2024-12-08 10:07:07+00:00
+13,Towards Modeling Data Quality and Machine Learning Model Performance,2412.05882,http://arxiv.org/abs/2412.05882v1,2024-12-08 10:15:10+00:00
+14,BAMBA: A Bimodal Adversarial Multi-Round Black-Box Jailbreak Attacker for LVLMs,2412.05892,http://arxiv.org/abs/2412.05892v1,2024-12-08 11:14:16+00:00
+15,doScenes: An Autonomous Driving Dataset with Natural Language Instruction for Human Interaction and Vision-Language Navigation,2412.05893,http://arxiv.org/abs/2412.05893v1,2024-12-08 11:16:47+00:00
+16,Detecting Discrepancies Between AI-Generated and Natural Images Using Uncertainty,2412.05897,http://arxiv.org/abs/2412.05897v1,2024-12-08 11:32:25+00:00
+17,Heuristic-Induced Multimodal Risk Distribution Jailbreak Attack for Multimodal Large Language Models,2412.05934,http://arxiv.org/abs/2412.05934v1,2024-12-08 13:20:45+00:00
+18,Materials-Discovery Workflows Guided by Symbolic Regression: Identifying Acid-Stable Oxides for Electrocatalysis,2412.05947,http://arxiv.org/abs/2412.05947v1,2024-12-08 14:09:15+00:00
+19,PIG: Physics-Informed Gaussians as Adaptive Parametric Mesh Representations,2412.05994,http://arxiv.org/abs/2412.05994v1,2024-12-08 16:58:29+00:00
+20,Steering Large Language Models to Evaluate and Amplify Creativity,2412.06060,http://arxiv.org/abs/2412.06060v1,2024-12-08 20:28:48+00:00
+21,Curse of Attention: A Kernel-Based Perspective for Why Transformers Fail to Generalize on Time Series Forecasting and Beyond,2412.06061,http://arxiv.org/abs/2412.06061v1,2024-12-08 20:29:06+00:00
+22,Fuzzy Norm-Explicit Product Quantization for Recommender Systems,2412.06069,http://arxiv.org/abs/2412.06069v1,2024-12-08 21:14:57+00:00
+23,A4-Unet: Deformable Multi-Scale Attention Network for Brain Tumor Segmentation,2412.06088,http://arxiv.org/abs/2412.06088v1,2024-12-08 22:28:53+00:00
+24,DECO: Life-Cycle Management of Enterprise-Grade Chatbots,2412.06099,http://arxiv.org/abs/2412.06099v1,2024-12-08 23:00:06+00:00
+25,Fully Open Source Moxin-7B Technical Report,2412.06845,http://arxiv.org/abs/2412.06845v2,2024-12-08 02:01:46+00:00
+26,Classifier-free guidance in LLMs Safety,2412.06846,http://arxiv.org/abs/2412.06846v1,2024-12-08 02:11:33+00:00
+27,EGEAN: An Exposure-Guided Embedding Alignment Network for Post-Click Conversion Estimation,2412.06852,http://arxiv.org/abs/2412.06852v1,2024-12-08 10:17:02+00:00
+28,Tube Loss: A Novel Approach for Prediction Interval Estimation and probabilistic forecasting,2412.06853,http://arxiv.org/abs/2412.06853v2,2024-12-08 15:17:53+00:00
+29,Incentivized Symbiosis: A Paradigm for Human-Agent Coevolution,2412.06855,http://arxiv.org/abs/2412.06855v1,2024-12-08 20:23:48+00:00
+30,Open-Source Acceleration of Stable-Diffusion.cpp,2412.05781,http://arxiv.org/abs/2412.05781v2,2024-12-08 02:27:17+00:00
+31,Language-Guided Image Tokenization for Generation,2412.05796,http://arxiv.org/abs/2412.05796v1,2024-12-08 03:18:17+00:00
+32,Evolving Algebraic Multigrid Methods Using Grammar-Guided Genetic Programming,2412.05852,http://arxiv.org/abs/2412.05852v1,2024-12-08 08:21:35+00:00
+33,Automated Extraction and Creation of FBS Design Reasoning Knowledge Graphs from Structured Data in Product Catalogues Lacking Contextual Information,2412.05868,http://arxiv.org/abs/2412.05868v1,2024-12-08 09:20:25+00:00
+34,Accelerating Manufacturing Scale-Up from Material Discovery Using Agentic Web Navigation and Retrieval-Augmented AI for Process Engineering Schematics Design,2412.05937,http://arxiv.org/abs/2412.05937v1,2024-12-08 13:36:42+00:00
+35,Language hooks: a modular framework for augmenting LLM reasoning that decouples tool usage from the model and its prompt,2412.05967,http://arxiv.org/abs/2412.05967v1,2024-12-08 15:16:17+00:00
+36,LVS-Net: A Lightweight Vessels Segmentation Network for Retinal Image Analysis,2412.05968,http://arxiv.org/abs/2412.05968v1,2024-12-08 15:21:37+00:00
+37,Track4Gen: Teaching Video Diffusion Models to Track Points Improves Video Generation,2412.06016,http://arxiv.org/abs/2412.06016v2,2024-12-08 18:21:00+00:00
+38,Imputation Matters: A Deeper Look into an Overlooked Step in Longitudinal Health and Behavior Sensing Research,2412.06018,http://arxiv.org/abs/2412.06018v1,2024-12-08 18:29:53+00:00
+39,Can Generative AI Solve Your In-Context Learning Problem? A Martingale Perspective,2412.06033,http://arxiv.org/abs/2412.06033v1,2024-12-08 19:03:21+00:00
+40,The AI Double Standard: Humans Judge All AIs for the Actions of One,2412.06040,http://arxiv.org/abs/2412.06040v1,2024-12-08 19:26:52+00:00
+41,Cloud Platforms for Developing Generative AI Solutions: A Scoping Review of Tools and Services,2412.06044,http://arxiv.org/abs/2412.06044v1,2024-12-08 19:49:07+00:00
+42,KaSA: Knowledge-Aware Singular-Value Adaptation of Large Language Models,2412.06071,http://arxiv.org/abs/2412.06071v1,2024-12-08 21:26:22+00:00
+43,GVDepth: Zero-Shot Monocular Depth Estimation for Ground Vehicles based on Probabilistic Cue Fusion,2412.06080,http://arxiv.org/abs/2412.06080v1,2024-12-08 22:04:34+00:00
+44,Ethnography and Machine Learning: Synergies and New Directions,2412.06087,http://arxiv.org/abs/2412.06087v1,2024-12-08 22:28:05+00:00
+45,Trust No AI: Prompt Injection Along The CIA Security Triad,2412.06090,http://arxiv.org/abs/2412.06090v1,2024-12-08 22:46:30+00:00
+46,Order Theory in the Context of Machine Learning: an application,2412.06097,http://arxiv.org/abs/2412.06097v1,2024-12-08 22:57:41+00:00
+47,M$^{3}$-20M: A Large-Scale Multi-Modal Molecule Dataset for AI-driven Drug Design and Discovery,2412.06847,http://arxiv.org/abs/2412.06847v1,2024-12-08 03:43:07+00:00
+48,GL-Fusion: Rethinking the Combination of Graph Neural Network and Large Language model,2412.06849,http://arxiv.org/abs/2412.06849v1,2024-12-08 05:49:58+00:00
+49,Taming Sensitive Weights : Noise Perturbation Fine-tuning for Robust LLM Quantization,2412.06858,http://arxiv.org/abs/2412.06858v1,2024-12-08 21:46:22+00:00
+50,Learning to Correction: Explainable Feedback Generation for Visual Commonsense Reasoning Distractor,2412.07801,http://arxiv.org/abs/2412.07801v1,2024-12-08 03:59:59+00:00
+51,Strategizing Equitable Transit Evacuations: A Data-Driven Reinforcement Learning Approach,2412.05777,http://arxiv.org/abs/2412.05777v1,2024-12-08 02:17:38+00:00
+52,SILMM: Self-Improving Large Multimodal Models for Compositional Text-to-Image Generation,2412.05818,http://arxiv.org/abs/2412.05818v1,2024-12-08 05:28:08+00:00
