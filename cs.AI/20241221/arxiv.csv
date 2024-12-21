@@ -1,0 +1,59 @@
+,title,id,arxiv_url,published
+0,MedG-KRP: Medical Graph Knowledge Representation Probing,2412.10982,http://arxiv.org/abs/2412.10982v2,2024-12-14 22:23:20+00:00
+1,WaveGNN: Modeling Irregular Multivariate Time Series for Accurate Predictions,2412.10621,http://arxiv.org/abs/2412.10621v1,2024-12-14 00:03:44+00:00
+2,A recent evaluation on the performance of LLMs on radiation oncology physics using questions of randomly shuffled options,2412.10622,http://arxiv.org/abs/2412.10622v1,2024-12-14 00:05:42+00:00
+3,Model-driven deep neural network for enhanced direction finding with commodity 5G gNodeB,2412.10644,http://arxiv.org/abs/2412.10644v1,2024-12-14 02:09:36+00:00
+4,LAN: Learning to Adapt Noise for Image Denoising,2412.10651,http://arxiv.org/abs/2412.10651v1,2024-12-14 02:46:25+00:00
+5,Proposing and solving olympiad geometry with guided tree search,2412.10673,http://arxiv.org/abs/2412.10673v1,2024-12-14 04:20:47+00:00
+6,USM: Unbiased Survey Modeling for Limiting Negative User Experiences in Recommendation Systems,2412.10674,http://arxiv.org/abs/2412.10674v1,2024-12-14 04:22:09+00:00
+7,"Chasing Progress, Not Perfection: Revisiting Strategies for End-to-End LLM Plan Generation",2412.10675,http://arxiv.org/abs/2412.10675v1,2024-12-14 04:23:14+00:00
+8,Learning to Verify Summary Facts with Fine-Grained LLM Feedback,2412.10689,http://arxiv.org/abs/2412.10689v1,2024-12-14 05:28:44+00:00
+9,HITgram: A Platform for Experimenting with n-gram Language Models,2412.10717,http://arxiv.org/abs/2412.10717v1,2024-12-14 07:20:35+00:00
+10,Just a Few Glances: Open-Set Visual Perception with Image Prompt Paradigm,2412.10719,http://arxiv.org/abs/2412.10719v1,2024-12-14 07:23:14+00:00
+11,Rebalanced Vision-Language Retrieval Considering Structure-Aware Distillation,2412.10761,http://arxiv.org/abs/2412.10761v1,2024-12-14 09:10:36+00:00
+12,Sample-efficient Unsupervised Policy Cloning from Ensemble Self-supervised Labeled Videos,2412.10778,http://arxiv.org/abs/2412.10778v1,2024-12-14 10:12:22+00:00
+13,Optimizing Few-Step Sampler for Diffusion Probabilistic Model,2412.10786,http://arxiv.org/abs/2412.10786v1,2024-12-14 10:47:52+00:00
+14,AuctionNet: A Novel Benchmark for Decision-Making in Large-Scale Games,2412.10798,http://arxiv.org/abs/2412.10798v1,2024-12-14 11:31:21+00:00
+15,Medical Manifestation-Aware De-Identification,2412.10804,http://arxiv.org/abs/2412.10804v1,2024-12-14 12:09:41+00:00
+16,Enhance Vision-Language Alignment with Noise,2412.10817,http://arxiv.org/abs/2412.10817v2,2024-12-14 12:58:15+00:00
+17,Rethinking Chain-of-Thought from the Perspective of Self-Training,2412.10827,http://arxiv.org/abs/2412.10827v1,2024-12-14 13:12:50+00:00
+18,Superhuman performance of a large language model on the reasoning tasks of a physician,2412.10849,http://arxiv.org/abs/2412.10849v1,2024-12-14 14:46:18+00:00
+19,Heterogeneous Graph Transformer for Multiple Tiny Object Tracking in RGB-T Videos,2412.10861,http://arxiv.org/abs/2412.10861v1,2024-12-14 15:17:49+00:00
+20,TinySubNets: An efficient and low capacity continual learning strategy,2412.10869,http://arxiv.org/abs/2412.10869v1,2024-12-14 15:43:38+00:00
+21,Know Unreported Roadway Incidents in Real-time: A Deep Learning Framework for Early Traffic Anomaly Detection,2412.10892,http://arxiv.org/abs/2412.10892v1,2024-12-14 16:49:29+00:00
+22,CEKER: A Generalizable LLM Framework for Literature Analysis with a Case Study in Unikernel Security,2412.10904,http://arxiv.org/abs/2412.10904v1,2024-12-14 17:28:43+00:00
+23,LLMs-in-the-Loop Part 2: Expert Small AI Models for Anonymization and De-identification of PHI Across Multiple Languages,2412.10918,http://arxiv.org/abs/2412.10918v1,2024-12-14 18:10:29+00:00
+24,Predicting Survival of Hemodialysis Patients using Federated Learning,2412.10919,http://arxiv.org/abs/2412.10919v1,2024-12-14 18:10:44+00:00
+25,"Tokens, the oft-overlooked appetizer: Large language models, the distributional hypothesis, and meaning",2412.10924,http://arxiv.org/abs/2412.10924v2,2024-12-14 18:18:52+00:00
+26,Video Representation Learning with Joint-Embedding Predictive Architectures,2412.10925,http://arxiv.org/abs/2412.10925v1,2024-12-14 18:33:29+00:00
+27,APAR: Modeling Irregular Target Functions in Tabular Regression via Arithmetic-Aware Pre-Training and Adaptive-Regularized Fine-Tuning,2412.10941,http://arxiv.org/abs/2412.10941v1,2024-12-14 19:33:21+00:00
+28,PSMGD: Periodic Stochastic Multi-Gradient Descent for Fast Multi-Objective Optimization,2412.10961,http://arxiv.org/abs/2412.10961v2,2024-12-14 20:47:36+00:00
+29,Recursive Aggregates as Intensional Functions in Answer Set Programming: Semantics and Strong Equivalence,2412.10975,http://arxiv.org/abs/2412.10975v1,2024-12-14 21:34:55+00:00
+30,RapidNet: Multi-Level Dilated Convolution Based Mobile Backbone,2412.10995,http://arxiv.org/abs/2412.10995v1,2024-12-14 23:39:03+00:00
+31,Cocoa: Co-Planning and Co-Execution with AI Agents,2412.10999,http://arxiv.org/abs/2412.10999v1,2024-12-14 23:59:42+00:00
+32,TrendSim: Simulating Trending Topics in Social Media Under Poisoning Attacks with LLM-based Multi-agent System,2412.12196,http://arxiv.org/abs/2412.12196v1,2024-12-14 12:04:49+00:00
+33,Rapid Reconstruction of Extremely Accelerated Liver 4D MRI via Chained Iterative Refinement,2412.10629,http://arxiv.org/abs/2412.10629v1,2024-12-14 00:43:11+00:00
+34,Hidden Echoes Survive Training in Audio To Audio Generative Instrument Models,2412.10649,http://arxiv.org/abs/2412.10649v1,2024-12-14 02:36:45+00:00
+35,Combining Priors with Experience: Confidence Calibration Based on Binomial Process Modeling,2412.10658,http://arxiv.org/abs/2412.10658v2,2024-12-14 03:04:05+00:00
+36,Efficient Adaptation of Multilingual Models for Japanese ASR,2412.10705,http://arxiv.org/abs/2412.10705v1,2024-12-14 06:32:16+00:00
+37,RAT: Adversarial Attacks on Deep Reinforcement Agents for Targeted Behaviors,2412.10713,http://arxiv.org/abs/2412.10713v1,2024-12-14 06:56:11+00:00
+38,Control of Overfitting with Physics,2412.10716,http://arxiv.org/abs/2412.10716v1,2024-12-14 07:20:33+00:00
+39,NoisyEQA: Benchmarking Embodied Question Answering Against Noisy Queries,2412.10726,http://arxiv.org/abs/2412.10726v1,2024-12-14 07:52:24+00:00
+40,"Boosting ViT-based MRI Reconstruction from the Perspectives of Frequency Modulation, Spatial Purification, and Scale Diversification",2412.10776,http://arxiv.org/abs/2412.10776v1,2024-12-14 10:03:08+00:00
+41,Generative AI: A Pix2pix-GAN-Based Machine Learning Approach for Robust and Efficient Lung Segmentation,2412.10826,http://arxiv.org/abs/2412.10826v1,2024-12-14 13:12:09+00:00
+42,Deep Learning Models for Colloidal Nanocrystal Synthesis,2412.10838,http://arxiv.org/abs/2412.10838v1,2024-12-14 14:18:59+00:00
+43,Large Language Models for Medical Forecasting -- Foresight 2,2412.10848,http://arxiv.org/abs/2412.10848v1,2024-12-14 14:45:28+00:00
+44,Fully Test-time Adaptation for Tabular Data,2412.10871,http://arxiv.org/abs/2412.10871v1,2024-12-14 15:49:53+00:00
+45,BgGPT 1.0: Extending English-centric LLMs to other languages,2412.10893,http://arxiv.org/abs/2412.10893v1,2024-12-14 16:49:52+00:00
+46,ST-FiT: Inductive Spatial-Temporal Forecasting with Limited Training Data,2412.10912,http://arxiv.org/abs/2412.10912v2,2024-12-14 17:51:29+00:00
+47,Adaptive Reward Design for Reinforcement Learning in Complex Robotic Tasks,2412.10917,http://arxiv.org/abs/2412.10917v1,2024-12-14 18:04:18+00:00
+48,Human-Centric NLP or AI-Centric Illusion?: A Critical Investigation,2412.10939,http://arxiv.org/abs/2412.10939v1,2024-12-14 19:16:53+00:00
+49,ALPACA -- Adaptive Learning Pipeline for Comprehensive AI,2412.10950,http://arxiv.org/abs/2412.10950v1,2024-12-14 20:10:18+00:00
+50,Optimizing AI-Assisted Code Generation,2412.10953,http://arxiv.org/abs/2412.10953v1,2024-12-14 20:14:44+00:00
+51,SoftVQ-VAE: Efficient 1-Dimensional Continuous Tokenizer,2412.10958,http://arxiv.org/abs/2412.10958v1,2024-12-14 20:29:29+00:00
+52,FlowDock: Geometric Flow Matching for Generative Protein-Ligand Docking and Affinity Prediction,2412.10966,http://arxiv.org/abs/2412.10966v1,2024-12-14 20:54:37+00:00
+53,Hybrid Forecasting of Geopolitical Events,2412.10981,http://arxiv.org/abs/2412.10981v1,2024-12-14 22:09:45+00:00
+54,Navigating Dialectal Bias and Ethical Complexities in Levantine Arabic Hate Speech Detection,2412.10991,http://arxiv.org/abs/2412.10991v1,2024-12-14 23:02:46+00:00
+55,Pop-out vs. Glue: A Study on the pre-attentive and focused attention stages in Visual Search tasks,2412.12198,http://arxiv.org/abs/2412.12198v1,2024-12-14 13:31:27+00:00
+56,ANaGRAM: A Natural Gradient Relative to Adapted Model for efficient PINNs learning,2412.10782,http://arxiv.org/abs/2412.10782v1,2024-12-14 10:38:09+00:00
+57,Composers' Evaluations of an AI Music Tool: Insights for Human-Centred Design,2412.10968,http://arxiv.org/abs/2412.10968v1,2024-12-14 20:56:23+00:00
