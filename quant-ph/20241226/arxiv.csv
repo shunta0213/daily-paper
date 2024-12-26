@@ -1,0 +1,74 @@
+,title,id,arxiv_url,published
+0,Quantum expectation value estimation by doubling the number of qubits,2412.14466,http://arxiv.org/abs/2412.14466v1,2024-12-19 02:27:42+00:00
+1,Quantum Homogenization as a Quantum Steady State Protocol on NISQ Hardware,2412.14544,http://arxiv.org/abs/2412.14544v1,2024-12-19 05:50:54+00:00
+2,TorchQC -- A framework for efficiently integrating machine and deep learning methods in quantum dynamics and control,2412.14591,http://arxiv.org/abs/2412.14591v1,2024-12-19 07:19:55+00:00
+3,Derivation of Lorentz-Drude undamped oscillator hierarchical equations of motion,2412.14727,http://arxiv.org/abs/2412.14727v1,2024-12-19 10:51:29+00:00
+4,Topological eigenvalues braiding and quantum state transfer near a third-order exceptional point,2412.14733,http://arxiv.org/abs/2412.14733v1,2024-12-19 11:02:49+00:00
+5,Gaussian boson sampling for binary optimization,2412.14783,http://arxiv.org/abs/2412.14783v1,2024-12-19 12:12:22+00:00
+6,Quantum computing in spin-adapted representations for efficient simulations of spin systems,2412.14797,http://arxiv.org/abs/2412.14797v1,2024-12-19 12:38:20+00:00
+7,Efficient optical cat state generation using squeezed few-photon superposition states,2412.14798,http://arxiv.org/abs/2412.14798v1,2024-12-19 12:38:25+00:00
+8,Quantum circuit synthesis with SQiSW,2412.14828,http://arxiv.org/abs/2412.14828v2,2024-12-19 13:17:43+00:00
+9,Multiplexed Readout of Superconducting Qubits Using a 3D Re-entrant Cavity Filter,2412.14853,http://arxiv.org/abs/2412.14853v2,2024-12-19 13:48:17+00:00
+10,Quantum Algorithms for Stochastic Differential Equations: A Schrödingerisation Approach,2412.14868,http://arxiv.org/abs/2412.14868v2,2024-12-19 14:04:11+00:00
+11,Harnessing energy transitions for low-temperature thermometry,2412.14898,http://arxiv.org/abs/2412.14898v1,2024-12-19 14:28:04+00:00
+12,Dynamics of Quantum Coherence and Non-Classical Correlations in Open Quantum System Coupled to a Squeezed Thermal Bath,2412.14913,http://arxiv.org/abs/2412.14913v1,2024-12-19 14:46:09+00:00
+13,Efficient Experimental Qudit State Estimation via Point Tomography,2412.14915,http://arxiv.org/abs/2412.14915v1,2024-12-19 14:49:36+00:00
+14,Testing the presence of balanced and bipartite components in a sparse graph is QMA1-hard,2412.14932,http://arxiv.org/abs/2412.14932v1,2024-12-19 15:10:04+00:00
+15,Quantum teleportation of cat states with binary-outcome measurements,2412.15011,http://arxiv.org/abs/2412.15011v1,2024-12-19 16:22:52+00:00
+16,Quantum SWAP gate realized with CZ and iSWAP gates in a superconducting architecture,2412.15022,http://arxiv.org/abs/2412.15022v1,2024-12-19 16:32:36+00:00
+17,Quantum computation over the vibrational modes of a single trapped ion,2412.15025,http://arxiv.org/abs/2412.15025v1,2024-12-19 16:38:24+00:00
+18,Eigenstate Preparation on Quantum Computers,2412.15081,http://arxiv.org/abs/2412.15081v1,2024-12-19 17:28:21+00:00
+19,Reservoir engineering to protect quantum coherence in tripartite systems under dephasing noise,2412.15082,http://arxiv.org/abs/2412.15082v1,2024-12-19 17:28:32+00:00
+20,Faulty States can be used in Cat Code Error Correction,2412.15134,http://arxiv.org/abs/2412.15134v1,2024-12-19 18:15:55+00:00
+21,Performance of Variational Algorithms for Local Hamiltonian Problems on Random Regular Graphs,2412.15147,http://arxiv.org/abs/2412.15147v1,2024-12-19 18:27:39+00:00
+22,Neutral atom transport and transfer between optical tweezers,2412.15173,http://arxiv.org/abs/2412.15173v1,2024-12-19 18:48:31+00:00
+23,Universal quantum computation via scalable measurement-free error correction,2412.15187,http://arxiv.org/abs/2412.15187v1,2024-12-19 18:55:44+00:00
+24,Quantum Frequency Conversion of $μs$-long Photons from the Visible to the Telecom-C-Band,2412.15193,http://arxiv.org/abs/2412.15193v1,2024-12-19 18:57:52+00:00
+25,von Neumann entropy and quantum version of thermodynamic entropy,2412.15316,http://arxiv.org/abs/2412.15316v1,2024-12-19 17:51:44+00:00
+26,Rotational stability in nanorotor and spin contrast in one-loop interferometry in the Stern-Gerlach setup,2412.15335,http://arxiv.org/abs/2412.15335v1,2024-12-19 19:04:46+00:00
+27,Reliable quantum advantage in quantum battery charging,2412.15339,http://arxiv.org/abs/2412.15339v1,2024-12-19 19:11:50+00:00
+28,Complete Rabi oscillations in the ion-laser interaction,2412.15357,http://arxiv.org/abs/2412.15357v1,2024-12-19 19:42:15+00:00
+29,Wave function evolution from source to detection and the measurement,2412.15409,http://arxiv.org/abs/2412.15409v1,2024-12-19 21:30:24+00:00
+30,Optimizing FTQC Programs through QEC Transpiler and Architecture Codesign,2412.15434,http://arxiv.org/abs/2412.15434v1,2024-12-19 22:33:21+00:00
+31,Unitary twirling with supermaps,2412.15466,http://arxiv.org/abs/2412.15466v1,2024-12-19 23:58:51+00:00
+32,Enhanced second-order sideband generation and slow-fast light via coupled opto- and magnomechanical microspheres,2412.14514,http://arxiv.org/abs/2412.14514v1,2024-12-19 04:26:17+00:00
+33,A Novel Pseudo-Spectral Time-Domain Theory of Magnetic Neutron Scattering Illustrated Using A Uniformly Magnetized Sphere,2412.14586,http://arxiv.org/abs/2412.14586v1,2024-12-19 07:11:00+00:00
+34,Relational Observables in Group Field Theory,2412.14622,http://arxiv.org/abs/2412.14622v1,2024-12-19 08:19:38+00:00
+35,Space-time Peer-to-Peer Distribution of Multi-party Entanglement for Any Quantum Network,2412.14757,http://arxiv.org/abs/2412.14757v2,2024-12-19 11:37:32+00:00
+36,Impact of Josephson junction array modes on fluxonium readout,2412.14788,http://arxiv.org/abs/2412.14788v1,2024-12-19 12:28:46+00:00
+37,Individual assembly of two-species Rydberg molecules using optical tweezers,2412.14888,http://arxiv.org/abs/2412.14888v1,2024-12-19 14:21:16+00:00
+38,Revealing Hidden States in Quantum Dot Array Dynamics: Quantum Polyspectra Versus Waiting Time Analysis,2412.14893,http://arxiv.org/abs/2412.14893v1,2024-12-19 14:22:11+00:00
+39,Short two-qubit pulse sequences for exchange-only spin qubits in 2D layouts,2412.14918,http://arxiv.org/abs/2412.14918v2,2024-12-19 14:54:54+00:00
+40,Emergence of unidirectionality and phase separation in optically dense emitter ensembles,2412.14930,http://arxiv.org/abs/2412.14930v1,2024-12-19 15:07:22+00:00
+41,Single-Photon Advantage in Quantum Cryptography Beyond QKD,2412.14993,http://arxiv.org/abs/2412.14993v1,2024-12-19 16:06:07+00:00
+42,Enhancing dynamic range through quantum deamplification,2412.15061,http://arxiv.org/abs/2412.15061v1,2024-12-19 17:08:27+00:00
+43,Cavity Quantum Electrodynamics in Finite-Bandwidth Squeezed Reservoir,2412.15068,http://arxiv.org/abs/2412.15068v1,2024-12-19 17:19:05+00:00
+44,Experimental Demonstration of Logical Magic State Distillation,2412.15165,http://arxiv.org/abs/2412.15165v1,2024-12-19 18:38:46+00:00
+45,From black hole interior to quantum complexity through operator rank,2412.15183,http://arxiv.org/abs/2412.15183v1,2024-12-19 18:54:24+00:00
+46,A Finite-Time Quantum Otto Engine subject to Control Noise and Enhancement Techniques,2412.15196,http://arxiv.org/abs/2412.15196v1,2024-12-19 18:58:14+00:00
+47,Algorithmic construction of SSA-compatible extreme rays of the subadditivity cone and the ${\sf N}=6$ solution,2412.15364,http://arxiv.org/abs/2412.15364v1,2024-12-19 19:51:02+00:00
+48,Time-Reversal Symmetry-Protected Coherent Control of Ultracold Molecular Collisions,2412.14425,http://arxiv.org/abs/2412.14425v1,2024-12-19 00:26:59+00:00
+49,Soft edges: the many links between soft and edge modes,2412.14548,http://arxiv.org/abs/2412.14548v1,2024-12-19 05:57:12+00:00
+50,AI-Enabled Rapid Assembly of Thousands of Defect-Free Neutral Atom Arrays with Constant-time-overhead,2412.14647,http://arxiv.org/abs/2412.14647v1,2024-12-19 08:56:28+00:00
+51,A brief history of quantum vs classical computational advantage,2412.14703,http://arxiv.org/abs/2412.14703v1,2024-12-19 10:16:49+00:00
+52,"Quantum chaos, localization and phase transitions in random graphs",2412.14722,http://arxiv.org/abs/2412.14722v1,2024-12-19 10:44:53+00:00
+53,Opportunities and limitations of explaining quantum machine learning,2412.14753,http://arxiv.org/abs/2412.14753v1,2024-12-19 11:34:22+00:00
+54,Rydberg states and new resonant states of the imidogen molecule NH: pathways for nitrogen release,2412.14830,http://arxiv.org/abs/2412.14830v1,2024-12-19 13:19:42+00:00
+55,Dynamic Realization of Majorana Zero Modes in a Particle-Conserving Ladder,2412.14886,http://arxiv.org/abs/2412.14886v1,2024-12-19 14:19:51+00:00
+56,Photocurrent-induced harmonics in nanostructures,2412.14921,http://arxiv.org/abs/2412.14921v1,2024-12-19 14:59:15+00:00
+57,Quantum chaos on the separatrix of the periodically perturbed Harper model,2412.14926,http://arxiv.org/abs/2412.14926v2,2024-12-19 15:04:21+00:00
+58,Estimating the impact of light pollution on quantum communication between QEYSSat and Canadian quantum ground station sites,2412.14944,http://arxiv.org/abs/2412.14944v1,2024-12-19 15:24:11+00:00
+59,Quantum Compilation Toolkit for Rydberg Atom Arrays with Implications for Problem Hardness and Quantum Speedups,2412.14976,http://arxiv.org/abs/2412.14976v1,2024-12-19 15:51:33+00:00
+60,General tradeoff relation of fundamental quantum limits for linear multiparameter estimation,2412.15031,http://arxiv.org/abs/2412.15031v1,2024-12-19 16:43:19+00:00
+61,Coherent spin-1 dynamics encoded in the rotational states of ultracold molecules,2412.15088,http://arxiv.org/abs/2412.15088v1,2024-12-19 17:35:57+00:00
+62,Capturing the Page Curve and Entanglement Dynamics of Black Holes in Quantum Computers,2412.15180,http://arxiv.org/abs/2412.15180v1,2024-12-19 18:53:05+00:00
+63,Operator K-complexity in DSSYK: Krylov complexity equals bulk length,2412.15318,http://arxiv.org/abs/2412.15318v1,2024-12-19 18:54:30+00:00
+64,Quantum simulating continuum field theories with large-spin lattice models,2412.15325,http://arxiv.org/abs/2412.15325v1,2024-12-19 19:00:01+00:00
+65,Scaling theory of fading ergodicity,2412.15331,http://arxiv.org/abs/2412.15331v1,2024-12-19 19:00:05+00:00
+66,Second-law-allowed temporal cooling of the coldest reservoir without external refrigeration,2412.15355,http://arxiv.org/abs/2412.15355v1,2024-12-19 19:40:31+00:00
+67,Persistent current in a non-Hermitian Hatano-Nelson ring: Disorder-induced amplification,2412.14593,http://arxiv.org/abs/2412.14593v1,2024-12-19 07:26:55+00:00
+68,Recurrence method in Non-Hermitian Systems,2412.14912,http://arxiv.org/abs/2412.14912v1,2024-12-19 14:44:42+00:00
+69,Categorical Symmetries in Spin Models with Atom Arrays,2412.15024,http://arxiv.org/abs/2412.15024v1,2024-12-19 16:37:21+00:00
+70,"Islands, Double Holography, and the Entanglement Membrane",2412.15070,http://arxiv.org/abs/2412.15070v1,2024-12-19 17:21:18+00:00
+71,A correspondence between quantum error correcting codes and quantum reference frames,2412.15317,http://arxiv.org/abs/2412.15317v1,2024-12-19 18:52:38+00:00
+72,Abelian Spectral Topology of Multifold Exceptional Points,2412.15323,http://arxiv.org/abs/2412.15323v1,2024-12-19 19:00:00+00:00
