@@ -1,0 +1,73 @@
+,title,id,arxiv_url,published
+0,Deep Reinforcement Learning Based Systems for Safety Critical Applications in Aerospace,2412.16489,http://arxiv.org/abs/2412.16489v1,2024-12-21 05:17:55+00:00
+1,"Privacy in Fine-tuning Large Language Models: Attacks, Defenses, and Future Directions",2412.16504,http://arxiv.org/abs/2412.16504v1,2024-12-21 06:41:29+00:00
+2,Mathematics and Machine Creativity: A Survey on Bridging Mathematics with AI,2412.16543,http://arxiv.org/abs/2412.16543v1,2024-12-21 08:58:36+00:00
+3,ActPC-Chem: Discrete Active Predictive Coding for Goal-Guided Algorithmic Chemistry as a Potential Cognitive Kernel for Hyperon & PRIMUS-Based AGI,2412.16547,http://arxiv.org/abs/2412.16547v1,2024-12-21 09:14:25+00:00
+4,CognTKE: A Cognitive Temporal Knowledge Extrapolation Framework,2412.16557,http://arxiv.org/abs/2412.16557v1,2024-12-21 09:50:55+00:00
+5,Metagoals Endowing Self-Modifying AGI Systems with Goal Stability or Moderated Goal Evolution: Toward a Formally Sound and Practical Approach,2412.16559,http://arxiv.org/abs/2412.16559v1,2024-12-21 09:57:13+00:00
+6,Effective and Efficient Representation Learning for Flight Trajectories,2412.16581,http://arxiv.org/abs/2412.16581v1,2024-12-21 10:59:54+00:00
+7,Do Multimodal Language Models Really Understand Direction? A Benchmark for Compass Direction Reasoning,2412.16599,http://arxiv.org/abs/2412.16599v1,2024-12-21 12:09:13+00:00
+8,TimeRAG: BOOSTING LLM Time Series Forecasting via Retrieval-Augmented Generation,2412.16643,http://arxiv.org/abs/2412.16643v1,2024-12-21 14:27:38+00:00
+9,Internalized Self-Correction for Large Language Models,2412.16653,http://arxiv.org/abs/2412.16653v1,2024-12-21 14:53:13+00:00
+10,On Enhancing Network Throughput using Reinforcement Learning in Sliced Testbeds,2412.16673,http://arxiv.org/abs/2412.16673v1,2024-12-21 15:47:49+00:00
+11,STAMPsy: Towards SpatioTemporal-Aware Mixed-Type Dialogues for Psychological Counseling,2412.16674,http://arxiv.org/abs/2412.16674v1,2024-12-21 15:48:02+00:00
+12,Formal Language Knowledge Corpus for Retrieval Augmented Generation,2412.16689,http://arxiv.org/abs/2412.16689v1,2024-12-21 16:31:41+00:00
+13,FAP-CD: Fairness-Driven Age-Friendly Community Planning via Conditional Diffusion Generation,2412.16699,http://arxiv.org/abs/2412.16699v1,2024-12-21 16:57:09+00:00
+14,OpenAI o1 System Card,2412.16720,http://arxiv.org/abs/2412.16720v1,2024-12-21 18:04:31+00:00
+15,Argumentation Computation with Large Language Models : A Benchmark Study,2412.16725,http://arxiv.org/abs/2412.16725v1,2024-12-21 18:23:06+00:00
+16,Reasoning about Actual Causes in Nondeterministic Domains -- Extended Version,2412.16728,http://arxiv.org/abs/2412.16728v1,2024-12-21 18:35:25+00:00
+17,DCOR: Anomaly Detection in Attributed Networks via Dual Contrastive Learning Reconstruction,2412.16788,http://arxiv.org/abs/2412.16788v1,2024-12-21 22:02:06+00:00
+18,Object Detection Approaches to Identifying Hand Images with High Forensic Values,2412.16431,http://arxiv.org/abs/2412.16431v1,2024-12-21 01:37:54+00:00
+19,Has LLM Reached the Scaling Ceiling Yet? Unified Insights into LLM Regularities and Constraints,2412.16443,http://arxiv.org/abs/2412.16443v1,2024-12-21 02:19:07+00:00
+20,Sensitive Image Classification by Vision Transformers,2412.16446,http://arxiv.org/abs/2412.16446v1,2024-12-21 02:34:24+00:00
+21,A Generalizable Anomaly Detection Method in Dynamic Graphs,2412.16447,http://arxiv.org/abs/2412.16447v1,2024-12-21 02:38:48+00:00
+22,The Evolving Usage of GenAI by Computing Students,2412.16453,http://arxiv.org/abs/2412.16453v1,2024-12-21 03:00:04+00:00
+23,TrojFlow: Flow Models are Natural Targets for Trojan Attacks,2412.16512,http://arxiv.org/abs/2412.16512v1,2024-12-21 07:21:53+00:00
+24,VSFormer: Value and Shape-Aware Transformer with Prior-Enhanced Self-Attention for Multivariate Time Series Classification,2412.16515,http://arxiv.org/abs/2412.16515v1,2024-12-21 07:31:22+00:00
+25,"Enhancing Contrastive Learning Inspired by the Philosophy of ""The Blind Men and the Elephant""",2412.16522,http://arxiv.org/abs/2412.16522v1,2024-12-21 07:50:59+00:00
+26,From Creation to Curriculum: Examining the role of generative AI in Arts Universities,2412.16531,http://arxiv.org/abs/2412.16531v1,2024-12-21 08:18:43+00:00
+27,Prior2Posterior: Model Prior Correction for Long-Tailed Learning,2412.16540,http://arxiv.org/abs/2412.16540v1,2024-12-21 08:49:02+00:00
+28,Diffusion Prior Interpolation for Flexibility Real-World Face Super-Resolution,2412.16552,http://arxiv.org/abs/2412.16552v1,2024-12-21 09:28:44+00:00
+29,Learning for Cross-Layer Resource Allocation in MEC-Aided Cell-Free Networks,2412.16565,http://arxiv.org/abs/2412.16565v1,2024-12-21 10:18:55+00:00
+30,Breaking the Context Bottleneck on Long Time Series Forecasting,2412.16572,http://arxiv.org/abs/2412.16572v1,2024-12-21 10:29:34+00:00
+31,AIGCodeSet: A New Annotated Dataset for AI Generated Code Detection,2412.16594,http://arxiv.org/abs/2412.16594v1,2024-12-21 11:53:49+00:00
+32,"V""Mean""ba: Visual State Space Models only need 1 hidden dimension",2412.16602,http://arxiv.org/abs/2412.16602v1,2024-12-21 12:27:07+00:00
+33,Distributed Inference on Mobile Edge and Cloud: A Data-Cartography based Clustering Approach,2412.16616,http://arxiv.org/abs/2412.16616v1,2024-12-21 13:20:26+00:00
+34,Automated Bleeding Detection and Classification in Wireless Capsule Endoscopy with YOLOv8-X,2412.16624,http://arxiv.org/abs/2412.16624v1,2024-12-21 13:37:11+00:00
+35,A Systems Thinking Approach to Algorithmic Fairness,2412.16641,http://arxiv.org/abs/2412.16641v1,2024-12-21 14:21:33+00:00
+36,PB-UAP: Hybrid Universal Adversarial Attack For Image Segmentation,2412.16651,http://arxiv.org/abs/2412.16651v1,2024-12-21 14:46:01+00:00
+37,Generalizable Articulated Object Perception with Superpoints,2412.16656,http://arxiv.org/abs/2412.16656v1,2024-12-21 14:57:24+00:00
+38,Adversarial Attack Against Images Classification based on Generative Adversarial Networks,2412.16662,http://arxiv.org/abs/2412.16662v2,2024-12-21 15:23:34+00:00
+39,Subgoal Discovery Using a Free Energy Paradigm and State Aggregations,2412.16687,http://arxiv.org/abs/2412.16687v1,2024-12-21 16:26:47+00:00
+40,From Histopathology Images to Cell Clouds: Learning Slide Representations with Hierarchical Cell Transformer,2412.16715,http://arxiv.org/abs/2412.16715v1,2024-12-21 17:57:12+00:00
+41,Large Language Models Compression via Low-Rank Feature Distillation,2412.16719,http://arxiv.org/abs/2412.16719v1,2024-12-21 18:04:01+00:00
+42,Coupling Neural Networks and Physics Equations For Li-Ion Battery State-of-Charge Prediction,2412.16724,http://arxiv.org/abs/2412.16724v1,2024-12-21 18:19:12+00:00
+43,Unpacking Political Bias in Large Language Models: Insights Across Topic Polarization,2412.16746,http://arxiv.org/abs/2412.16746v2,2024-12-21 19:42:40+00:00
+44,The Master Key Filters Hypothesis: Deep Filters Are General in DS-CNNs,2412.16751,http://arxiv.org/abs/2412.16751v1,2024-12-21 20:04:23+00:00
+45,Towards Selection and Transition Between Behavior-Based Neural Networks for Automated Driving,2412.16764,http://arxiv.org/abs/2412.16764v1,2024-12-21 20:23:05+00:00
+46,A Comparative Study on Machine Learning Models to Classify Diseases Based on Patient Behaviour and Habits,2412.16768,http://arxiv.org/abs/2412.16768v1,2024-12-21 20:46:40+00:00
+47,Evaluating and Enhancing LLMs for Multi-turn Text-to-SQL with Multiple Question Types,2412.17867,http://arxiv.org/abs/2412.17867v1,2024-12-21 10:13:45+00:00
+48,Uncertainty Quantification in Continual Open-World Learning,2412.16409,http://arxiv.org/abs/2412.16409v1,2024-12-21 00:09:20+00:00
+49,Knowledge as a Breaking of Ergodicity,2412.16411,http://arxiv.org/abs/2412.16411v1,2024-12-21 00:30:07+00:00
+50,Technical Report: Small Language Model for Japanese Clinical and Medicine,2412.16423,http://arxiv.org/abs/2412.16423v1,2024-12-21 01:12:48+00:00
+51,Patherea: Cell Detection and Classification for the 2020s,2412.16425,http://arxiv.org/abs/2412.16425v1,2024-12-21 01:23:58+00:00
+52,"Deepfake detection, image manipulation detection, fairness, generalization",2412.16428,http://arxiv.org/abs/2412.16428v1,2024-12-21 01:28:35+00:00
+53,LearnLM: Improving Gemini for Learning,2412.16429,http://arxiv.org/abs/2412.16429v1,2024-12-21 01:34:05+00:00
+54,Learning Cross-Task Generalities Across Graphs via Task-trees,2412.16441,http://arxiv.org/abs/2412.16441v1,2024-12-21 02:07:43+00:00
+55,Correcting Large Language Model Behavior via Influence Function,2412.16451,http://arxiv.org/abs/2412.16451v1,2024-12-21 02:50:08+00:00
+56,When Can Proxies Improve the Sample Complexity of Preference Learning?,2412.16475,http://arxiv.org/abs/2412.16475v1,2024-12-21 04:07:17+00:00
+57,Enhancing Nighttime Vehicle Detection with Day-to-Night Style Transfer and Labeling-Free Augmentation,2412.16478,http://arxiv.org/abs/2412.16478v1,2024-12-21 04:13:46+00:00
+58,Speech Retrieval-Augmented Generation without Automatic Speech Recognition,2412.16500,http://arxiv.org/abs/2412.16500v1,2024-12-21 06:16:04+00:00
+59,Text2midi: Generating Symbolic Music from Captions,2412.16526,http://arxiv.org/abs/2412.16526v1,2024-12-21 08:09:12+00:00
+60,Towards Environmentally Equitable AI,2412.16539,http://arxiv.org/abs/2412.16539v1,2024-12-21 08:46:19+00:00
+61,Predictive Monitoring of Black-Box Dynamical Systems,2412.16564,http://arxiv.org/abs/2412.16564v1,2024-12-21 10:17:46+00:00
+62,Automated Classification of Cybercrime Complaints using Transformer-based Language Models for Hinglish Texts,2412.16614,http://arxiv.org/abs/2412.16614v1,2024-12-21 13:17:09+00:00
+63,Mamba-SEUNet: Mamba UNet for Monaural Speech Enhancement,2412.16626,http://arxiv.org/abs/2412.16626v1,2024-12-21 13:43:51+00:00
+64,"Deep Learning for Spatio-Temporal Fusion in Land Surface Temperature Estimation: A Comprehensive Survey, Experimental Analysis, and Future Trends",2412.16631,http://arxiv.org/abs/2412.16631v1,2024-12-21 13:53:15+00:00
+65,POEX: Policy Executable Embodied AI Jailbreak Attacks,2412.16633,http://arxiv.org/abs/2412.16633v1,2024-12-21 13:58:27+00:00
+66,The Task Shield: Enforcing Task Alignment to Defend Against Indirect Prompt Injection in LLM Agents,2412.16682,http://arxiv.org/abs/2412.16682v1,2024-12-21 16:17:48+00:00
+67,A Method for the Runtime Validation of AI-based Environment Perception in Automated Driving System,2412.16762,http://arxiv.org/abs/2412.16762v1,2024-12-21 20:21:49+00:00
+68,Apples to Apples: Establishing Comparability in Knowledge Generation Tasks Involving Users,2412.16766,http://arxiv.org/abs/2412.16766v1,2024-12-21 20:26:20+00:00
+69,Assessing Social Alignment: Do Personality-Prompted Large Language Models Behave Like Humans?,2412.16772,http://arxiv.org/abs/2412.16772v1,2024-12-21 20:58:19+00:00
+70,Enhancing web traffic attacks identification through ensemble methods and feature selection,2412.16791,http://arxiv.org/abs/2412.16791v1,2024-12-21 22:13:30+00:00
+71,L3TC: Leveraging RWKV for Learned Lossless Low-Complexity Text Compression,2412.16642,http://arxiv.org/abs/2412.16642v2,2024-12-21 14:24:32+00:00
