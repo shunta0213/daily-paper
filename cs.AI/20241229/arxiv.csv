@@ -1,0 +1,61 @@
+,title,id,arxiv_url,published
+0,An Exploration of Pattern Mining with ChatGPT,2412.16814,http://arxiv.org/abs/2412.16814v1,2024-12-22 01:27:12+00:00
+1,Visual Prompting with Iterative Refinement for Design Critique Generation,2412.16829,http://arxiv.org/abs/2412.16829v1,2024-12-22 02:35:57+00:00
+2,OpenRFT: Adapting Reasoning Foundation Model for Domain-specific Tasks with Reinforcement Fine-Tuning,2412.16849,http://arxiv.org/abs/2412.16849v1,2024-12-22 04:21:30+00:00
+3,GAS: Generative Auto-bidding with Post-training Search,2412.17018,http://arxiv.org/abs/2412.17018v1,2024-12-22 13:47:46+00:00
+4,GraphAgent: Agentic Graph Language Assistant,2412.17029,http://arxiv.org/abs/2412.17029v1,2024-12-22 14:13:32+00:00
+5,ViLBias: A Framework for Bias Detection using Linguistic and Visual Cues,2412.17052,http://arxiv.org/abs/2412.17052v1,2024-12-22 15:05:30+00:00
+6,SubstationAI: Multimodal Large Model-Based Approaches for Analyzing Substation Equipment Faults,2412.17077,http://arxiv.org/abs/2412.17077v1,2024-12-22 15:59:07+00:00
+7,Aligning Graphical and Functional Causal Abstractions,2412.17080,http://arxiv.org/abs/2412.17080v1,2024-12-22 16:11:25+00:00
+8,AI-Based Teat Shape and Skin Condition Prediction for Dairy Management,2412.17142,http://arxiv.org/abs/2412.17142v1,2024-12-22 19:37:07+00:00
+9,ASP-based Multi-shot Reasoning via DLV2 with Incremental Grounding,2412.17143,http://arxiv.org/abs/2412.17143v2,2024-12-22 19:46:49+00:00
+10,"Semantic Web: Past, Present, and Future",2412.17159,http://arxiv.org/abs/2412.17159v1,2024-12-22 20:58:14+00:00
+11,"Survey on Abstractive Text Summarization: Dataset, Models, and Metrics",2412.17165,http://arxiv.org/abs/2412.17165v1,2024-12-22 21:18:40+00:00
+12,Better Think with Tables: Leveraging Tables to Enhance Large Language Model Comprehension,2412.17189,http://arxiv.org/abs/2412.17189v1,2024-12-22 23:31:03+00:00
+13,KG4Diagnosis: A Hierarchical Multi-Agent LLM Framework with Knowledge Graph Enhancement for Medical Diagnosis,2412.16833,http://arxiv.org/abs/2412.16833v1,2024-12-22 02:40:59+00:00
+14,Online Learning from Strategic Human Feedback in LLM Fine-Tuning,2412.16834,http://arxiv.org/abs/2412.16834v2,2024-12-22 02:43:07+00:00
+15,Human-Guided Image Generation for Expanding Small-Scale Training Image Datasets,2412.16839,http://arxiv.org/abs/2412.16839v2,2024-12-22 03:15:39+00:00
+16,Sim911: Towards Effective and Equitable 9-1-1 Dispatcher Training with an LLM-Enabled Simulation,2412.16844,http://arxiv.org/abs/2412.16844v2,2024-12-22 03:43:51+00:00
+17,Adversarial Diffusion Model for Unsupervised Domain-Adaptive Semantic Segmentation,2412.16859,http://arxiv.org/abs/2412.16859v1,2024-12-22 04:55:41+00:00
+18,A Multi-modal Approach to Dysarthria Detection and Severity Assessment Using Speech and Text Information,2412.16874,http://arxiv.org/abs/2412.16874v1,2024-12-22 06:08:35+00:00
+19,Online Preference-based Reinforcement Learning with Self-augmented Feedback from Large Language Model,2412.16878,http://arxiv.org/abs/2412.16878v1,2024-12-22 06:15:25+00:00
+20,"PsychAdapter: Adapting LLM Transformers to Reflect Traits, Personality and Mental Health",2412.16882,http://arxiv.org/abs/2412.16882v1,2024-12-22 06:22:40+00:00
+21,Preventing Non-intrusive Load Monitoring Privacy Invasion: A Precise Adversarial Attack Scheme for Networked Smart Meters,2412.16893,http://arxiv.org/abs/2412.16893v1,2024-12-22 07:06:46+00:00
+22,MVREC: A General Few-shot Defect Classification Model Using Multi-View Region-Context,2412.16897,http://arxiv.org/abs/2412.16897v1,2024-12-22 07:14:45+00:00
+23,A Backdoor Attack Scheme with Invisible Triggers Based on Model Architecture Modification,2412.16905,http://arxiv.org/abs/2412.16905v1,2024-12-22 07:39:43+00:00
+24,Map Imagination Like Blind Humans: Group Diffusion Model for Robotic Map Generation,2412.16908,http://arxiv.org/abs/2412.16908v1,2024-12-22 07:54:21+00:00
+25,Enhancing Supply Chain Transparency in Emerging Economies Using Online Contents and LLMs,2412.16922,http://arxiv.org/abs/2412.16922v1,2024-12-22 08:46:16+00:00
+26,Prompting Large Language Models with Rationale Heuristics for Knowledge-based Visual Question Answering,2412.16936,http://arxiv.org/abs/2412.16936v1,2024-12-22 09:14:35+00:00
+27,System-2 Mathematical Reasoning via Enriched Instruction Tuning,2412.16964,http://arxiv.org/abs/2412.16964v2,2024-12-22 10:49:27+00:00
+28,Environment Descriptions for Usability and Generalisation in Reinforcement Learning,2412.16970,http://arxiv.org/abs/2412.16970v1,2024-12-22 11:02:13+00:00
+29,Cannot or Should Not? Automatic Analysis of Refusal Composition in IFT/RLHF Datasets and Refusal Behavior of Black-Box LLMs,2412.16974,http://arxiv.org/abs/2412.16974v1,2024-12-22 11:16:53+00:00
+30,On Fusing ChatGPT and Ensemble Learning in Discon-tinuous Named Entity Recognition in Health Corpora,2412.16976,http://arxiv.org/abs/2412.16976v1,2024-12-22 11:26:49+00:00
+31,PromptDresser: Improving the Quality and Controllability of Virtual Try-On via Generative Textual Prompt and Prompt-aware Mask,2412.16978,http://arxiv.org/abs/2412.16978v1,2024-12-22 11:38:04+00:00
+32,LLM-Powered User Simulator for Recommender System,2412.16984,http://arxiv.org/abs/2412.16984v1,2024-12-22 12:00:04+00:00
+33,A Reality Check on Context Utilisation for Retrieval-Augmented Generation,2412.17031,http://arxiv.org/abs/2412.17031v1,2024-12-22 14:16:38+00:00
+34,ErasableMask: A Robust and Erasable Privacy Protection Scheme against Black-box Face Recognition Models,2412.17038,http://arxiv.org/abs/2412.17038v2,2024-12-22 14:30:26+00:00
+35,Optimizing Data Curation through Spectral Analysis and Joint Batch Selection (SALN),2412.17069,http://arxiv.org/abs/2412.17069v1,2024-12-22 15:38:36+00:00
+36,SAIL: Sample-Centric In-Context Learning for Document Information Extraction,2412.17092,http://arxiv.org/abs/2412.17092v1,2024-12-22 16:58:59+00:00
+37,Analysis on LLMs Performance for Code Summarization,2412.17094,http://arxiv.org/abs/2412.17094v1,2024-12-22 17:09:34+00:00
+38,On the ETHOS of AI Agents: An Ethical Technology and Holistic Oversight System,2412.17114,http://arxiv.org/abs/2412.17114v2,2024-12-22 18:01:49+00:00
+39,LLM Agent for Fire Dynamics Simulations,2412.17146,http://arxiv.org/abs/2412.17146v1,2024-12-22 20:03:35+00:00
+40,DCC: Differentiable Cardinality Constraints for Partial Index Tracking,2412.17175,http://arxiv.org/abs/2412.17175v1,2024-12-22 22:05:56+00:00
+41,Hierarchically Gated Experts for Efficient Online Continual Learning,2412.17188,http://arxiv.org/abs/2412.17188v1,2024-12-22 23:27:20+00:00
+42,Evaluating LLM Reasoning in the Operations Research Domain with ORQA,2412.17874,http://arxiv.org/abs/2412.17874v1,2024-12-22 09:10:34+00:00
+43,Unsupervised Discovery of Formulas for Mathematical Constants,2412.16818,http://arxiv.org/abs/2412.16818v1,2024-12-22 01:43:56+00:00
+44,Layer- and Timestep-Adaptive Differentiable Token Compression Ratios for Efficient Diffusion Transformers,2412.16822,http://arxiv.org/abs/2412.16822v1,2024-12-22 02:04:17+00:00
+45,Graph Learning-based Regional Heavy Rainfall Prediction Using Low-Cost Rain Gauges,2412.16842,http://arxiv.org/abs/2412.16842v1,2024-12-22 03:40:16+00:00
+46,ACL-QL: Adaptive Conservative Level in Q-Learning for Offline Reinforcement Learning,2412.16848,http://arxiv.org/abs/2412.16848v1,2024-12-22 04:18:02+00:00
+47,Revisiting In-Context Learning with Long Context Language Models,2412.16926,http://arxiv.org/abs/2412.16926v1,2024-12-22 08:55:19+00:00
+48,Towards a Unified Paradigm: Integrating Recommendation Systems as a New Language in Large Models,2412.16933,http://arxiv.org/abs/2412.16933v1,2024-12-22 09:08:46+00:00
+49,Efficiently Solving Turn-Taking Stochastic Games with Extensive-Form Correlation,2412.16934,http://arxiv.org/abs/2412.16934v1,2024-12-22 09:12:05+00:00
+50,Solving Nonlinear Energy Supply and Demand System Using Physics-Informed Neural Networks,2412.17001,http://arxiv.org/abs/2412.17001v1,2024-12-22 12:37:59+00:00
+51,Data value estimation on private gradients,2412.17008,http://arxiv.org/abs/2412.17008v1,2024-12-22 13:15:51+00:00
+52,An OpenMind for 3D medical vision self-supervised learning,2412.17041,http://arxiv.org/abs/2412.17041v1,2024-12-22 14:38:28+00:00
+53,DR-Encoder: Encode Low-rank Gradients with Random Prior for Large Language Models Differentially Privately,2412.17053,http://arxiv.org/abs/2412.17053v1,2024-12-22 15:06:09+00:00
+54,Grams: Gradient Descent with Adaptive Momentum Scaling,2412.17107,http://arxiv.org/abs/2412.17107v1,2024-12-22 17:39:32+00:00
+55,Joint Knowledge Editing for Information Enrichment and Probability Promotion,2412.17872,http://arxiv.org/abs/2412.17872v1,2024-12-22 03:16:49+00:00
+56,FADA: Fast Diffusion Avatar Synthesis with Mixed-Supervised Multi-CFG Distillation,2412.16915,http://arxiv.org/abs/2412.16915v1,2024-12-22 08:19:22+00:00
+57,Quantifying Public Response to COVID-19 Events: Introducing the Community Sentiment and Engagement Index,2412.16925,http://arxiv.org/abs/2412.16925v1,2024-12-22 08:52:12+00:00
+58,A Multi-AI Agent System for Autonomous Optimization of Agentic AI Solutions via Iterative Refinement and LLM-Driven Feedback Loops,2412.17149,http://arxiv.org/abs/2412.17149v1,2024-12-22 20:08:04+00:00
+59,"COVID-19 on YouTube: A Data-Driven Analysis of Sentiment, Toxicity, and Content Recommendations",2412.17180,http://arxiv.org/abs/2412.17180v1,2024-12-22 22:43:36+00:00
