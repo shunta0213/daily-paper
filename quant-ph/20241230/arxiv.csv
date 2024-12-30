@@ -1,0 +1,56 @@
+,title,id,arxiv_url,published
+0,Classical simulability of Clifford+T circuits with Clifford-augmented matrix product states,2412.17209,http://arxiv.org/abs/2412.17209v1,2024-12-23 01:26:40+00:00
+1,Quantum Simulation for Dynamical Transition Rates in Open Quantum Systems,2412.17229,http://arxiv.org/abs/2412.17229v1,2024-12-23 02:53:05+00:00
+2,Quantum Algorithms for Discrete Log Require Precise Rotations,2412.17269,http://arxiv.org/abs/2412.17269v1,2024-12-23 04:33:19+00:00
+3,A Quantum Super-Krylov Method for Ground State Energy Estimation,2412.17289,http://arxiv.org/abs/2412.17289v1,2024-12-23 05:21:43+00:00
+4,Postmeasurement information and nonlocality of quantum state discrimination,2412.17435,http://arxiv.org/abs/2412.17435v1,2024-12-23 09:53:32+00:00
+5,Sensitivity-Adapted Closed-Loop Optimization for High-Fidelity Controlled-Z Gates in Superconducting Qubits,2412.17454,http://arxiv.org/abs/2412.17454v1,2024-12-23 10:20:48+00:00
+6,Distribution-Adaptive Dynamic Shot Optimization for Variational Quantum Algorithms,2412.17485,http://arxiv.org/abs/2412.17485v1,2024-12-23 11:28:44+00:00
+7,Fast generation of entanglement between coupled spins using optimization and deep learning methods,2412.17489,http://arxiv.org/abs/2412.17489v1,2024-12-23 11:38:01+00:00
+8,Advantages of density in tensor network geometries for gradient based training,2412.17497,http://arxiv.org/abs/2412.17497v1,2024-12-23 11:54:44+00:00
+9,Disorder-averaged Qudit Dynamics,2412.17519,http://arxiv.org/abs/2412.17519v1,2024-12-23 12:32:22+00:00
+10,No quantum advantage for violating fixed-order inequalities?,2412.17551,http://arxiv.org/abs/2412.17551v1,2024-12-23 13:19:13+00:00
+11,Modal division multiplexing of quantum and classical signals in few-mode fibers,2412.17578,http://arxiv.org/abs/2412.17578v1,2024-12-23 13:51:01+00:00
+12,Interplay between dressed and strong-axial-field states in Nitrogen-Vacancy centers for quantum sensing and computation,2412.17608,http://arxiv.org/abs/2412.17608v1,2024-12-23 14:28:19+00:00
+13,Lindblad engineering for quantum Gibbs state preparation under the eigenstate thermalization hypothesis,2412.17706,http://arxiv.org/abs/2412.17706v1,2024-12-23 16:35:12+00:00
+14,"Simulating lossy and partially distinguishable quantum optical circuits: theory, algorithms and applications to experiment validation and state preparation",2412.17742,http://arxiv.org/abs/2412.17742v1,2024-12-23 17:45:37+00:00
+15,Power-optimized amplitude modulation for robust trapped-ion entangling gates: a study of gate-timing errors,2412.17789,http://arxiv.org/abs/2412.17789v1,2024-12-23 18:49:30+00:00
+16,Correlated Noise Estimation with Quantum Sensor Networks,2412.17903,http://arxiv.org/abs/2412.17903v1,2024-12-23 19:00:06+00:00
+17,"A Case for Quantum Circuit Cutting for NISQ Applications: Impact of topology, determinism, and sparsity",2412.17929,http://arxiv.org/abs/2412.17929v1,2024-12-23 19:39:48+00:00
+18,Device-Independent Randomness Amplification,2412.17931,http://arxiv.org/abs/2412.17931v1,2024-12-23 19:42:52+00:00
+19,Approximating Ground States of Quantum Hamiltonians with Snapshot-QAOA,2412.17990,http://arxiv.org/abs/2412.17990v1,2024-12-23 21:18:30+00:00
+20,Entropy Density Benchmarking of Near-Term Quantum Circuits,2412.18007,http://arxiv.org/abs/2412.18007v1,2024-12-23 22:01:09+00:00
+21,Quantum simulation of Burgers turbulence: Nonlinear transformation and direct evaluation of statistical quantities,2412.17206,http://arxiv.org/abs/2412.17206v1,2024-12-23 01:17:26+00:00
+22,Decomposition of thermal light with a flat spectrum into localized pulses,2412.17223,http://arxiv.org/abs/2412.17223v1,2024-12-23 02:36:11+00:00
+23,Quantum Approximate Optimisation Applied to Graph Similarity,2412.17309,http://arxiv.org/abs/2412.17309v1,2024-12-23 06:04:08+00:00
+24,Scattering halos in strongly interacting Feshbach molecular Bose-Einstein condensates,2412.17319,http://arxiv.org/abs/2412.17319v1,2024-12-23 06:22:14+00:00
+25,Emergence of nonequilibrium Lieb excitations in periodically driven strongly interacting bosons,2412.17443,http://arxiv.org/abs/2412.17443v1,2024-12-23 10:06:21+00:00
+26,Complex energy structures of exceptional point pairs in two level systems,2412.17450,http://arxiv.org/abs/2412.17450v1,2024-12-23 10:18:17+00:00
+27,Quantum Gravity Signature in a Thermodynamic Observable,2412.17460,http://arxiv.org/abs/2412.17460v1,2024-12-23 10:28:10+00:00
+28,Measurement of the work statistics of an open quantum system using a quantum computer,2412.17491,http://arxiv.org/abs/2412.17491v1,2024-12-23 11:40:05+00:00
+29,Quantum Phase Diagram of the Bilayer Kitaev-Heisenberg Model,2412.17495,http://arxiv.org/abs/2412.17495v1,2024-12-23 11:53:01+00:00
+30,A 3-dimensional scanning trapped-ion probe,2412.17528,http://arxiv.org/abs/2412.17528v1,2024-12-23 12:50:48+00:00
+31,Two-Photon Interference of Photons from Remote Tin-Vacancy Centers in Diamond,2412.17539,http://arxiv.org/abs/2412.17539v1,2024-12-23 13:02:21+00:00
+32,Quantum Time-Series Learning with Evolutionary Algorithms,2412.17580,http://arxiv.org/abs/2412.17580v1,2024-12-23 13:53:35+00:00
+33,On-chip frequency-bin quantum photonics,2412.17683,http://arxiv.org/abs/2412.17683v1,2024-12-23 16:08:37+00:00
+34,ShotQC: Reducing Sampling Overhead in Quantum Circuit Cutting,2412.17704,http://arxiv.org/abs/2412.17704v1,2024-12-23 16:34:57+00:00
+35,Third-Order Exceptional Point in Non-Hermitian Spin-Orbit-Coupled cold atoms,2412.17705,http://arxiv.org/abs/2412.17705v1,2024-12-23 16:35:02+00:00
+36,QKD protected fiber-based infrastructure for time dissemination,2412.17731,http://arxiv.org/abs/2412.17731v1,2024-12-23 17:28:39+00:00
+37,Multiphoton ionization distributions beyond the dipole approximation: Retardation versus recoil corrections,2412.17996,http://arxiv.org/abs/2412.17996v1,2024-12-23 21:38:46+00:00
+38,Correlation hypergraph: a new representation of a quantum marginal independence pattern,2412.18018,http://arxiv.org/abs/2412.18018v1,2024-12-23 22:29:14+00:00
+39,Spectroscopic footprints of quantum friction in nonreciprocal and chiral media,2412.18044,http://arxiv.org/abs/2412.18044v1,2024-12-23 23:39:10+00:00
+40,Local unitarty equivalence and entanglement by Bargmann invariants,2412.17237,http://arxiv.org/abs/2412.17237v1,2024-12-23 03:15:51+00:00
+41,Carbon-based light emitting defects in different layers of hexagonal boron nitride,2412.17457,http://arxiv.org/abs/2412.17457v1,2024-12-23 10:23:52+00:00
+42,Discovery of an anomalous non-evaporating sub-nanometre water layer in open environment,2412.17636,http://arxiv.org/abs/2412.17636v1,2024-12-23 15:13:10+00:00
+43,"Ultrashort-pulse-pumped, single-mode type-0 squeezers in lithium niobate nanophotonics",2412.17708,http://arxiv.org/abs/2412.17708v1,2024-12-23 16:39:31+00:00
+44,Towards structure-preserving quantum encodings,2412.17772,http://arxiv.org/abs/2412.17772v1,2024-12-23 18:32:08+00:00
+45,Variational Quantum Simulation of Anyonic Chains,2412.17781,http://arxiv.org/abs/2412.17781v1,2024-12-23 18:39:28+00:00
+46,Krylov spread complexity as holographic complexity beyond JT gravity,2412.17785,http://arxiv.org/abs/2412.17785v1,2024-12-23 18:43:35+00:00
+47,"Hiding, Shuffling, and Triangle Finding: Quantum Algorithms on Edge Lists",2412.17786,http://arxiv.org/abs/2412.17786v1,2024-12-23 18:43:41+00:00
+48,Probing the magnetic origin of the pseudogap using a Fermi-Hubbard quantum simulator,2412.17801,http://arxiv.org/abs/2412.17801v1,2024-12-23 18:58:01+00:00
+49,Continuous-variable designs and design-based shadow tomography from random lattices,2412.17909,http://arxiv.org/abs/2412.17909v1,2024-12-23 19:04:47+00:00
+50,Exotic phase transitions in spin ladders with discrete symmetries that emulate spin-1/2 bosons in two dimensions,2412.17911,http://arxiv.org/abs/2412.17911v1,2024-12-23 19:06:21+00:00
+51,A dynamical algebra of protocol-induced transformations on Dicke states,2412.17917,http://arxiv.org/abs/2412.17917v1,2024-12-23 19:10:16+00:00
+52,Analytic 3D vector non-uniform Fourier crystal optics in arbitrary $\bar{\bar{\varepsilon}}$ dielectric,2412.17224,http://arxiv.org/abs/2412.17224v2,2024-12-23 02:39:51+00:00
+53,Abrupt changes in the spectra of the Laplacian with constant complex magnetic field,2412.17419,http://arxiv.org/abs/2412.17419v1,2024-12-23 09:33:11+00:00
+54,Ultra-sensitive heterodyne detection at room temperature in the atmospheric windows,2412.17633,http://arxiv.org/abs/2412.17633v1,2024-12-23 15:11:30+00:00
