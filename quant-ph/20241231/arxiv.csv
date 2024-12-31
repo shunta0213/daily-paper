@@ -1,0 +1,36 @@
+,title,id,arxiv_url,published
+0,Grover's search meets Ising models: a quantum algorithm for finding low-energy states,2412.18233,http://arxiv.org/abs/2412.18233v1,2024-12-24 07:35:24+00:00
+1,"Device-independent, high bit-rate quantum random number generator with beam-splitter-free architecture and live Bell test certification",2412.18285,http://arxiv.org/abs/2412.18285v1,2024-12-24 08:43:54+00:00
+2,The optimization of exact multi-target quantum search algorithm based on MindQuantum,2412.18306,http://arxiv.org/abs/2412.18306v1,2024-12-24 09:39:59+00:00
+3,Simple Quantum Gradient Descent Without Coherent Oracle Access,2412.18309,http://arxiv.org/abs/2412.18309v1,2024-12-24 09:48:38+00:00
+4,Superactivation and Incompressibility of Genuine Multipartite Entanglement,2412.18331,http://arxiv.org/abs/2412.18331v1,2024-12-24 10:35:04+00:00
+5,Universal pulses for superconducting qudit ladder gates,2412.18339,http://arxiv.org/abs/2412.18339v1,2024-12-24 10:54:05+00:00
+6,Distributed multi-parameter quantum metrology with a superconducting quantum network,2412.18398,http://arxiv.org/abs/2412.18398v1,2024-12-24 12:41:53+00:00
+7,Randomized Benchmarking with Synthetic Quantum Circuits,2412.18578,http://arxiv.org/abs/2412.18578v1,2024-12-24 18:10:00+00:00
+8,Uniform Additivity of Tripartite Optimized Correlation Measures,2412.18586,http://arxiv.org/abs/2412.18586v1,2024-12-24 18:28:29+00:00
+9,Probing Entanglement Scaling Across a Quantum Phase Transition on a Quantum Computer,2412.18602,http://arxiv.org/abs/2412.18602v1,2024-12-24 18:56:44+00:00
+10,Laplace expansions and tree decompositions: polytime algorithm for shallow nearest-neighbour Boson Sampling,2412.18664,http://arxiv.org/abs/2412.18664v1,2024-12-24 19:34:26+00:00
+11,Continuous variable entanglement in a cold-atoms mirrorless optical parametric oscillator,2412.18683,http://arxiv.org/abs/2412.18683v1,2024-12-24 21:10:44+00:00
+12,Quantum Thermodynamics of a Power-Law Potential,2412.18684,http://arxiv.org/abs/2412.18684v1,2024-12-24 21:11:38+00:00
+13,Strong coupling of a chiral molecule with circularly polarised modes inside a cavity,2412.18700,http://arxiv.org/abs/2412.18700v1,2024-12-24 23:18:04+00:00
+14,"Quantum framework for Reinforcement Learning: integrating Markov Decision Process, quantum arithmetic, and trajectory search",2412.18208,http://arxiv.org/abs/2412.18208v1,2024-12-24 06:28:34+00:00
+15,Structure and statistical properties of the semiclassical Einstein equations,2412.18213,http://arxiv.org/abs/2412.18213v1,2024-12-24 06:43:01+00:00
+16,Variational quantum state diagonalization with computational-basis probabilities,2412.18257,http://arxiv.org/abs/2412.18257v1,2024-12-24 08:13:18+00:00
+17,Hardware-aware Circuit Cutting and Distributed Qubit Mapping for Connected Quantum Systems,2412.18458,http://arxiv.org/abs/2412.18458v1,2024-12-24 14:32:06+00:00
+18,Effects of noise-induced coherence on the performance of a four-level laser heat engine,2412.18476,http://arxiv.org/abs/2412.18476v1,2024-12-24 15:04:25+00:00
+19,Inline-Amplification-Free Time Transfer Utilizing Waveform-Resolved Single-Photon Detection,2412.18503,http://arxiv.org/abs/2412.18503v1,2024-12-24 15:41:52+00:00
+20,Circuit Folding: Modular and Qubit-Level Workload Management in Quantum-Classical Systems,2412.18705,http://arxiv.org/abs/2412.18705v1,2024-12-24 23:34:17+00:00
+21,Efficient Circuit Cutting and Scheduling in a Multi-Node Quantum System with Dynamic EPR Pairs,2412.18709,http://arxiv.org/abs/2412.18709v1,2024-12-24 23:59:54+00:00
+22,Dissipation alters modes of information encoding in small quantum reservoirs near criticality,2412.18290,http://arxiv.org/abs/2412.18290v1,2024-12-24 08:53:30+00:00
+23,Scheme to Detect the Strong-to-weak Symmetry Breaking via Randomized Measurements,2412.18397,http://arxiv.org/abs/2412.18397v1,2024-12-24 12:41:38+00:00
+24,The $S=\frac{1}{2}$ XY and XYZ models on the two or higher dimensional hypercubic lattice do not possess nontrivial local conserved quantities,2412.18504,http://arxiv.org/abs/2412.18504v1,2024-12-24 15:42:23+00:00
+25,"Pilot-Quantum: A Quantum-HPC Middleware for Resource, Workload and Task Management",2412.18519,http://arxiv.org/abs/2412.18519v2,2024-12-24 15:55:46+00:00
+26,Weyl-Heisenberg covariant quantization for the discrete torus,2412.18521,http://arxiv.org/abs/2412.18521v1,2024-12-24 16:03:20+00:00
+27,A Time Optimization Framework for the Implementation of Robust and Low-latency Quantum Circuits,2412.18533,http://arxiv.org/abs/2412.18533v1,2024-12-24 16:26:05+00:00
+28,Extendible quantum measurements and limitations on classical communication,2412.18556,http://arxiv.org/abs/2412.18556v1,2024-12-24 17:12:45+00:00
+29,Scalable Quantum-Inspired Optimization through Dynamic Qubit Compression,2412.18571,http://arxiv.org/abs/2412.18571v1,2024-12-24 17:51:42+00:00
+30,Lattice T-duality from non-invertible symmetries in quantum spin chains,2412.18606,http://arxiv.org/abs/2412.18606v1,2024-12-24 18:59:36+00:00
+31,Crosscap Quenches and Entanglement Evolution,2412.18610,http://arxiv.org/abs/2412.18610v1,2024-12-24 18:59:58+00:00
+32,Von Neumann Entropy and Quantum Algorithmic Randomness,2412.18646,http://arxiv.org/abs/2412.18646v1,2024-12-24 18:09:45+00:00
+33,Free the Design Space of Equivariant Graph Neural Networks: High-Rank Irreducible Cartesian Tensor Decomposition and Bases of Equivariant Spaces,2412.18263,http://arxiv.org/abs/2412.18263v1,2024-12-24 08:25:38+00:00
+34,Spectral Property of Magnetic Quantum Walk on Hypercube,2412.18401,http://arxiv.org/abs/2412.18401v1,2024-12-24 12:47:29+00:00
