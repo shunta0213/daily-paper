@@ -1,0 +1,46 @@
+,title,id,arxiv_url,published
+0,Data clustering: an essential technique in data science,2412.18760,http://arxiv.org/abs/2412.18760v1,2024-12-25 03:14:18+00:00
+1,GAI: Generative Agents for Innovation,2412.18899,http://arxiv.org/abs/2412.18899v1,2024-12-25 13:20:10+00:00
+2,Long-Range Tasks Using Short-Context LLMs: Incremental Reasoning With Structured Memories,2412.18914,http://arxiv.org/abs/2412.18914v1,2024-12-25 14:14:31+00:00
+3,Enhanced Recommendation Combining Collaborative Filtering and Large Language Models,2412.18713,http://arxiv.org/abs/2412.18713v1,2024-12-25 00:23:53+00:00
+4,Optimization and Scalability of Collaborative Filtering Algorithms in Large Language Models,2412.18715,http://arxiv.org/abs/2412.18715v1,2024-12-25 00:26:51+00:00
+5,Predicting Time Series of Networked Dynamical Systems without Knowing Topology,2412.18734,http://arxiv.org/abs/2412.18734v1,2024-12-25 01:39:04+00:00
+6,Torque-Aware Momentum,2412.18790,http://arxiv.org/abs/2412.18790v1,2024-12-25 05:58:07+00:00
+7,Ister: Inverted Seasonal-Trend Decomposition Transformer for Explainable Multivariate Time Series Forecasting,2412.18798,http://arxiv.org/abs/2412.18798v1,2024-12-25 06:37:19+00:00
+8,PhyloGen: Language Model-Enhanced Phylogenetic Inference via Graph Structure Generation,2412.18827,http://arxiv.org/abs/2412.18827v1,2024-12-25 08:33:05+00:00
+9,Implicit factorized transformer approach to fast prediction of turbulent channel flows,2412.18840,http://arxiv.org/abs/2412.18840v1,2024-12-25 09:05:14+00:00
+10,Computing Approximate Graph Edit Distance via Optimal Transport,2412.18857,http://arxiv.org/abs/2412.18857v1,2024-12-25 09:55:14+00:00
+11,WeatherGS: 3D Scene Reconstruction in Adverse Weather Conditions via Gaussian Splatting,2412.18862,http://arxiv.org/abs/2412.18862v2,2024-12-25 10:16:57+00:00
+12,Whose Morality Do They Speak? Unraveling Cultural Bias in Multilingual Language Models,2412.18863,http://arxiv.org/abs/2412.18863v1,2024-12-25 10:17:15+00:00
+13,IUST_PersonReId: A New Domain in Person Re-Identification Datasets,2412.18874,http://arxiv.org/abs/2412.18874v1,2024-12-25 11:17:43+00:00
+14,AdaEAGLE: Optimizing Speculative Decoding via Explicit Modeling of Adaptive Draft Structures,2412.18910,http://arxiv.org/abs/2412.18910v1,2024-12-25 13:57:33+00:00
+15,Exemplar-condensed Federated Class-incremental Learning,2412.18926,http://arxiv.org/abs/2412.18926v1,2024-12-25 15:13:40+00:00
+16,Constraint-Adaptive Policy Switching for Offline Safe Reinforcement Learning,2412.18946,http://arxiv.org/abs/2412.18946v1,2024-12-25 16:42:27+00:00
+17,MedHallBench: A New Benchmark for Assessing Hallucination in Medical Large Language Models,2412.18947,http://arxiv.org/abs/2412.18947v1,2024-12-25 16:51:29+00:00
+18,Bridging Interpretability and Robustness Using LIME-Guided Model Refinement,2412.18952,http://arxiv.org/abs/2412.18952v1,2024-12-25 17:32:45+00:00
+19,Injecting Bias into Text Classification Models using Backdoor Attacks,2412.18975,http://arxiv.org/abs/2412.18975v1,2024-12-25 19:32:02+00:00
+20,TravelAgent: Generative Agents in the Built Environment,2412.18985,http://arxiv.org/abs/2412.18985v1,2024-12-25 21:27:51+00:00
+21,How Propense Are Large Language Models at Producing Code Smells? A Benchmarking Study,2412.18989,http://arxiv.org/abs/2412.18989v1,2024-12-25 21:56:35+00:00
+22,Tempus Core: Area-Power Efficient Temporal-Unary Convolution Core for Low-Precision Edge DLAs,2412.19002,http://arxiv.org/abs/2412.19002v1,2024-12-25 23:20:02+00:00
+23,Unveiling Secrets of Brain Function With Generative Modeling: Motion Perception in Primates & Cortical Network Organization in Mice,2412.19845,http://arxiv.org/abs/2412.19845v1,2024-12-25 03:39:18+00:00
+24,SAFLITE: Fuzzing Autonomous Systems via Large Language Models,2412.18727,http://arxiv.org/abs/2412.18727v1,2024-12-25 01:00:05+00:00
+25,Successes and Limitations of Object-centric Models at Compositional Generalisation,2412.18743,http://arxiv.org/abs/2412.18743v1,2024-12-25 02:25:12+00:00
+26,The Impact of Input Order Bias on Large Language Models for Software Fault Localization,2412.18750,http://arxiv.org/abs/2412.18750v1,2024-12-25 02:48:53+00:00
+27,ObitoNet: Multimodal High-Resolution Point Cloud Reconstruction,2412.18775,http://arxiv.org/abs/2412.18775v1,2024-12-25 04:34:22+00:00
+28,Unified Local and Global Attention Interaction Modeling for Vision Transformers,2412.18778,http://arxiv.org/abs/2412.18778v1,2024-12-25 04:53:19+00:00
+29,Skeleton-based Action Recognition with Non-linear Dependency Modeling and Hilbert-Schmidt Independence Criterion,2412.18780,http://arxiv.org/abs/2412.18780v1,2024-12-25 05:02:11+00:00
+30,GSAVS: Gaussian Splatting-based Autonomous Vehicle Simulator,2412.18816,http://arxiv.org/abs/2412.18816v1,2024-12-25 07:52:09+00:00
+31,LLM-assisted Vector Similarity Search,2412.18819,http://arxiv.org/abs/2412.18819v2,2024-12-25 08:17:37+00:00
+32,MRI2Speech: Speech Synthesis from Articulatory Movements Recorded by Real-time MRI,2412.18836,http://arxiv.org/abs/2412.18836v1,2024-12-25 08:49:43+00:00
+33,Advancing NAM-to-Speech Conversion with Novel Methods and the MultiNAM Dataset,2412.18839,http://arxiv.org/abs/2412.18839v1,2024-12-25 08:57:24+00:00
+34,CoEvo: Continual Evolution of Symbolic Solutions Using Large Language Models,2412.18890,http://arxiv.org/abs/2412.18890v1,2024-12-25 12:27:27+00:00
+35,Comprehensive Study on Lumbar Disc Segmentation Techniques Using MRI Data,2412.18894,http://arxiv.org/abs/2412.18894v1,2024-12-25 12:54:52+00:00
+36,EC-Diffuser: Multi-Object Manipulation via Entity-Centric Behavior Generation,2412.18907,http://arxiv.org/abs/2412.18907v1,2024-12-25 13:50:15+00:00
+37,Accelerating Diffusion Transformers with Dual Feature Caching,2412.18911,http://arxiv.org/abs/2412.18911v1,2024-12-25 14:00:14+00:00
+38,Open-Vocabulary Panoptic Segmentation Using BERT Pre-Training of Vision-Language Multiway Transformer Model,2412.18917,http://arxiv.org/abs/2412.18917v1,2024-12-25 14:31:00+00:00
+39,"HuatuoGPT-o1, Towards Medical Complex Reasoning with LLMs",2412.18925,http://arxiv.org/abs/2412.18925v1,2024-12-25 15:12:34+00:00
+40,ModelGrow: Continual Text-to-Video Pre-training with Model Expansion and Language Understanding Enhancement,2412.18966,http://arxiv.org/abs/2412.18966v1,2024-12-25 18:58:07+00:00
+41,Recommending Pre-Trained Models for IoT Devices,2412.18972,http://arxiv.org/abs/2412.18972v1,2024-12-25 19:19:55+00:00
+42,"Geospatial Data Fusion: Combining Lidar, SAR, and Optical Imagery with AI for Enhanced Urban Mapping",2412.18994,http://arxiv.org/abs/2412.18994v1,2024-12-25 22:17:31+00:00
+43,Symbolic Disentangled Representations for Images,2412.19847,http://arxiv.org/abs/2412.19847v1,2024-12-25 09:20:13+00:00
+44,Fusion of Deep Learning and GIS for Advanced Remote Sensing Image Analysis,2412.19856,http://arxiv.org/abs/2412.19856v1,2024-12-25 22:10:35+00:00
