@@ -1,0 +1,76 @@
+,title,id,arxiv_url,published
+0,ASKCOS: an open source software suite for synthesis planning,2501.01835,http://arxiv.org/abs/2501.01835v1,2025-01-03 14:38:03+00:00
+1,"(WhyPHI) Fine-Tuning PHI-3 for Multiple-Choice Question Answering: Methodology, Results, and Challenges",2501.01588,http://arxiv.org/abs/2501.01588v1,2025-01-03 00:56:46+00:00
+2,Prism: Mining Task-aware Domains in Non-i.i.d. IMU Data for Flexible User Perception,2501.01598,http://arxiv.org/abs/2501.01598v1,2025-01-03 02:07:42+00:00
+3,Few-shot Implicit Function Generation via Equivariance,2501.01601,http://arxiv.org/abs/2501.01601v1,2025-01-03 02:23:55+00:00
+4,Google is all you need: Semi-Supervised Transfer Learning Strategy For Light Multimodal Multi-Task Classification Model,2501.01611,http://arxiv.org/abs/2501.01611v1,2025-01-03 03:11:17+00:00
+5,Merging Context Clustering with Visual State Space Models for Medical Image Segmentation,2501.01618,http://arxiv.org/abs/2501.01618v1,2025-01-03 03:25:30+00:00
+6,ICPC: In-context Prompt Compression with Faster Inference,2501.01625,http://arxiv.org/abs/2501.01625v1,2025-01-03 03:46:51+00:00
+7,Implications of Artificial Intelligence on Health Data Privacy and Confidentiality,2501.01639,http://arxiv.org/abs/2501.01639v2,2025-01-03 05:17:23+00:00
+8,HLV-1K: A Large-scale Hour-Long Video Benchmark for Time-Specific Long Video Understanding,2501.01645,http://arxiv.org/abs/2501.01645v1,2025-01-03 05:32:37+00:00
+9,AVATAR: Adversarial Autoencoders with Autoregressive Refinement for Time Series Generation,2501.01649,http://arxiv.org/abs/2501.01649v1,2025-01-03 05:44:13+00:00
+10,EAUWSeg: Eliminating annotation uncertainty in weakly-supervised medical image segmentation,2501.01658,http://arxiv.org/abs/2501.01658v1,2025-01-03 06:21:02+00:00
+11,BARTPredict: Empowering IoT Security with LLM-Driven Cyber Threat Prediction,2501.01664,http://arxiv.org/abs/2501.01664v1,2025-01-03 06:37:39+00:00
+12,Adaptive Few-shot Prompting for Machine Translation with Pre-trained Language Models,2501.01679,http://arxiv.org/abs/2501.01679v1,2025-01-03 07:47:59+00:00
+13,VidFormer: A novel end-to-end framework fused by 3DCNN and Transformer for Video-based Remote Physiological Measurement,2501.01691,http://arxiv.org/abs/2501.01691v2,2025-01-03 08:18:08+00:00
+14,The Essence of Contextual Understanding in Theory of Mind: A Study on Question Answering with Story Characters,2501.01705,http://arxiv.org/abs/2501.01705v1,2025-01-03 09:04:45+00:00
+15,MoVE-KD: Knowledge Distillation for VLMs with Mixture of Visual Encoders,2501.01709,http://arxiv.org/abs/2501.01709v1,2025-01-03 09:10:34+00:00
+16,LLMs & Legal Aid: Understanding Legal Needs Exhibited Through User Queries,2501.01711,http://arxiv.org/abs/2501.01711v1,2025-01-03 09:12:35+00:00
+17,Proposing Hierarchical Goal-Conditioned Policy Planning in Multi-Goal Reinforcement Learning,2501.01727,http://arxiv.org/abs/2501.01727v1,2025-01-03 09:37:54+00:00
+18,Augmentation Matters: A Mix-Paste Method for X-Ray Prohibited Item Detection under Noisy Annotations,2501.01733,http://arxiv.org/abs/2501.01733v1,2025-01-03 09:51:51+00:00
+19,"Automating Legal Concept Interpretation with LLMs: Retrieval, Generation, and Evaluation",2501.01743,http://arxiv.org/abs/2501.01743v1,2025-01-03 10:11:38+00:00
+20,Creating Artificial Students that Never Existed: Leveraging Large Language Models and CTGANs for Synthetic Data Generation,2501.01793,http://arxiv.org/abs/2501.01793v1,2025-01-03 12:52:51+00:00
+21,End-to-End Long Document Summarization using Gradient Caching,2501.01805,http://arxiv.org/abs/2501.01805v1,2025-01-03 13:32:57+00:00
+22,SDPO: Segment-Level Direct Preference Optimization for Social Agents,2501.01821,http://arxiv.org/abs/2501.01821v1,2025-01-03 14:09:46+00:00
+23,The Proof is in the Almond Cookies,2501.01827,http://arxiv.org/abs/2501.01827v1,2025-01-03 14:25:35+00:00
+24,MoColl: Agent-Based Specific and General Model Collaboration for Image Captioning,2501.01834,http://arxiv.org/abs/2501.01834v1,2025-01-03 14:38:01+00:00
+25,Practical machine learning is learning on small samples,2501.01836,http://arxiv.org/abs/2501.01836v1,2025-01-03 14:38:07+00:00
+26,Multi-Agent Conversational Online Learning for Adaptive LLM Response Identification,2501.01849,http://arxiv.org/abs/2501.01849v1,2025-01-03 14:59:38+00:00
+27,Accuracy Can Lie: On the Impact of Surrogate Model in Configuration Tuning,2501.01876,http://arxiv.org/abs/2501.01876v1,2025-01-03 15:57:20+00:00
+28,Virgo: A Preliminary Exploration on Reproducing o1-like MLLM,2501.01904,http://arxiv.org/abs/2501.01904v1,2025-01-03 17:14:16+00:00
+29,Mitigating Hallucination for Large Vision Language Model by Inter-Modality Correlation Calibration Decoding,2501.01926,http://arxiv.org/abs/2501.01926v1,2025-01-03 17:56:28+00:00
+30,Abstractive Text Summarization for Contemporary Sanskrit Prose: Issues and Challenges,2501.01933,http://arxiv.org/abs/2501.01933v1,2025-01-03 18:12:13+00:00
+31,Cold-Start Recommendation towards the Era of Large Language Models (LLMs): A Comprehensive Survey and Roadmap,2501.01945,http://arxiv.org/abs/2501.01945v1,2025-01-03 18:51:18+00:00
+32,MADGEN -- Mass-Spec attends to De Novo Molecular generation,2501.01950,http://arxiv.org/abs/2501.01950v1,2025-01-03 18:54:26+00:00
+33,MixGCN: Scalable GCN Training by Mixture of Parallelism and Mixture of Accelerators,2501.01951,http://arxiv.org/abs/2501.01951v2,2025-01-03 18:54:46+00:00
+34,CarbonChat: Large Language Model-Based Corporate Carbon Emission Analysis and Climate Knowledge Q&A System,2501.02031,http://arxiv.org/abs/2501.02031v1,2025-01-03 08:45:38+00:00
+35,3D Cloud reconstruction through geospatially-aware Masked Autoencoders,2501.02035,http://arxiv.org/abs/2501.02035v1,2025-01-03 12:26:04+00:00
+36,Architecture for Trajectory-Based Fishing Ship Classification with AIS Data,2501.02038,http://arxiv.org/abs/2501.02038v1,2025-01-03 14:12:40+00:00
+37,An Investigation into Value Misalignment in LLM-Generated Texts for Cultural Heritage,2501.02039,http://arxiv.org/abs/2501.02039v1,2025-01-03 14:35:32+00:00
+38,A Separable Self-attention Inspired by the State Space Model for Computer Vision,2501.02040,http://arxiv.org/abs/2501.02040v1,2025-01-03 15:23:36+00:00
+39,MRG: A Multi-Robot Manufacturing Digital Scene Generation Method Using Multi-Instance Point Cloud Registration,2501.02041,http://arxiv.org/abs/2501.02041v1,2025-01-03 16:23:13+00:00
+40,Advancing Pancreatic Cancer Prediction with a Next Visit Token Prediction Head on top of Med-BERT,2501.02044,http://arxiv.org/abs/2501.02044v1,2025-01-03 18:32:05+00:00
+41,ArtCrafter: Text-Image Aligning Style Transfer via Embedding Reframing,2501.02064,http://arxiv.org/abs/2501.02064v1,2025-01-03 19:17:27+00:00
+42,The interplay between domain specialization and model size: a case study in the legal domain,2501.02068,http://arxiv.org/abs/2501.02068v1,2025-01-03 19:28:53+00:00
+43,On the Statistical Complexity for Offline and Low-Adaptive Reinforcement Learning with Structures,2501.02089,http://arxiv.org/abs/2501.02089v1,2025-01-03 20:27:53+00:00
+44,Online Detection of Water Contamination Under Concept Drift,2501.02107,http://arxiv.org/abs/2501.02107v1,2025-01-03 21:29:09+00:00
+45,Siamese Networks for Cat Re-Identification: Exploring Neural Models for Cat Instance Recognition,2501.02112,http://arxiv.org/abs/2501.02112v1,2025-01-03 21:37:49+00:00
+46,AVTrustBench: Assessing and Enhancing Reliability and Robustness in Audio-Visual LLMs,2501.02135,http://arxiv.org/abs/2501.02135v1,2025-01-03 23:03:24+00:00
+47,Boosting Explainability through Selective Rationalization in Pre-trained Language Models,2501.03182,http://arxiv.org/abs/2501.03182v1,2025-01-03 07:52:40+00:00
+48,BLAST: A Stealthy Backdoor Leverage Attack against Cooperative Multi-Agent Deep Reinforcement Learning based Systems,2501.01593,http://arxiv.org/abs/2501.01593v1,2025-01-03 01:33:29+00:00
+49,PSYCHE: A Multi-faceted Patient Simulation Framework for Evaluation of Psychiatric Assessment Conversational Agents,2501.01594,http://arxiv.org/abs/2501.01594v1,2025-01-03 01:38:46+00:00
+50,A non-ergodic framework for understanding emergent capabilities in Large Language Models,2501.01638,http://arxiv.org/abs/2501.01638v1,2025-01-03 05:11:41+00:00
+51,AgentRefine: Enhancing Agent Generalization through Refinement Tuning,2501.01702,http://arxiv.org/abs/2501.01702v1,2025-01-03 08:55:19+00:00
+52,Combined Hyper-Extensible Extremely-Secured Zero-Trust CIAM-PAM architecture,2501.01732,http://arxiv.org/abs/2501.01732v1,2025-01-03 09:49:25+00:00
+53,How Toxic Can You Get? Search-based Toxicity Testing for Large Language Models,2501.01741,http://arxiv.org/abs/2501.01741v1,2025-01-03 10:08:49+00:00
+54,Can Synthetic Data be Fair and Private? A Comparative Study of Synthetic Data Generation and Fairness Algorithms,2501.01785,http://arxiv.org/abs/2501.01785v1,2025-01-03 12:35:58+00:00
+55,BERT4MIMO: A Foundation Model using BERT Architecture for Massive MIMO Channel State Information Prediction,2501.01802,http://arxiv.org/abs/2501.01802v1,2025-01-03 13:22:19+00:00
+56,Auto-RT: Automatic Jailbreak Strategy Exploration for Red-Teaming Large Language Models,2501.01830,http://arxiv.org/abs/2501.01830v1,2025-01-03 14:30:14+00:00
+57,LCFed: An Efficient Clustered Federated Learning Framework for Heterogeneous Data,2501.01850,http://arxiv.org/abs/2501.01850v1,2025-01-03 14:59:48+00:00
+58,Evaluating Scenario-based Decision-making for Interactive Autonomous Driving Using Rational Criteria: A Survey,2501.01886,http://arxiv.org/abs/2501.01886v1,2025-01-03 16:37:52+00:00
+59,QuArch: A Question-Answering Dataset for AI Agents in Computer Architecture,2501.01892,http://arxiv.org/abs/2501.01892v2,2025-01-03 16:55:53+00:00
+60,Mingling with the Good to Backdoor Federated Learning,2501.01913,http://arxiv.org/abs/2501.01913v1,2025-01-03 17:30:59+00:00
+61,Recursive Decomposition of Logical Thoughts: Framework for Superior Reasoning and Knowledge Propagation in Large Language Models,2501.02026,http://arxiv.org/abs/2501.02026v1,2025-01-03 02:55:44+00:00
+62,Spot Risks Before Speaking! Unraveling Safety Attention Heads in Large Vision-Language Models,2501.02029,http://arxiv.org/abs/2501.02029v1,2025-01-03 07:01:15+00:00
+63,Detecting Music Performance Errors with Transformers,2501.02030,http://arxiv.org/abs/2501.02030v1,2025-01-03 07:04:20+00:00
+64,Dynamic Feature Fusion: Combining Global Graph Structures and Local Semantics for Blockchain Fraud Detection,2501.02032,http://arxiv.org/abs/2501.02032v1,2025-01-03 09:04:43+00:00
+65,Deep Clustering via Community Detection,2501.02036,http://arxiv.org/abs/2501.02036v1,2025-01-03 12:56:12+00:00
+66,METAGENE-1: Metagenomic Foundation Model for Pandemic Monitoring,2501.02045,http://arxiv.org/abs/2501.02045v1,2025-01-03 18:44:43+00:00
+67,Relaxation-assisted reverse annealing on nonnegative/binary matrix factorization,2501.02114,http://arxiv.org/abs/2501.02114v1,2025-01-03 21:48:35+00:00
+68,A hybrid marketplace of ideas,2501.02132,http://arxiv.org/abs/2501.02132v1,2025-01-03 22:53:43+00:00
+69,Effective LLM-Driven Code Generation with Pythoness,2501.02138,http://arxiv.org/abs/2501.02138v1,2025-01-03 23:14:46+00:00
+70,Classifier-Guided Captioning Across Modalities,2501.03183,http://arxiv.org/abs/2501.03183v1,2025-01-03 18:09:26+00:00
+71,Navigation Variable-based Multi-objective Particle Swarm Optimization for UAV Path Planning with Kinematic Constraints,2501.03261,http://arxiv.org/abs/2501.03261v1,2025-01-03 16:07:37+00:00
+72,Listening and Seeing Again: Generative Error Correction for Audio-Visual Speech Recognition,2501.04038,http://arxiv.org/abs/2501.04038v1,2025-01-03 10:51:14+00:00
+73,A Survey on Large Language Models with some Insights on their Capabilities and Limitations,2501.04040,http://arxiv.org/abs/2501.04040v1,2025-01-03 21:04:49+00:00
+74,"Quantifying A Firm's AI Engagement: Constructing Objective, Data-Driven, AI Stock Indices Using 10-K Filings",2501.01763,http://arxiv.org/abs/2501.01763v1,2025-01-03 11:27:49+00:00
