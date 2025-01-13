@@ -1,0 +1,80 @@
+,title,id,arxiv_url,published
+0,Artificial Intelligence in Creative Industries: Advances Prior to 2025,2501.02725,http://arxiv.org/abs/2501.02725v1,2025-01-06 02:46:33+00:00
+1,EAGLE: Enhanced Visual Grounding Minimizes Hallucinations in Instructional Multimodal Models,2501.02699,http://arxiv.org/abs/2501.02699v1,2025-01-06 00:39:31+00:00
+2,Horizon Generalization in Reinforcement Learning,2501.02709,http://arxiv.org/abs/2501.02709v1,2025-01-06 01:42:46+00:00
+3,KG-CF: Knowledge Graph Completion with Context Filtering under the Guidance of Large Language Models,2501.02711,http://arxiv.org/abs/2501.02711v1,2025-01-06 01:52:15+00:00
+4,Tree-based RAG-Agent Recommendation System: A Case Study in Medical Test Data,2501.02727,http://arxiv.org/abs/2501.02727v1,2025-01-06 02:50:51+00:00
+5,OpenGU: A Comprehensive Benchmark for Graph Unlearning,2501.02728,http://arxiv.org/abs/2501.02728v1,2025-01-06 02:57:32+00:00
+6,AFed: Algorithmic Fair Federated Learning,2501.02732,http://arxiv.org/abs/2501.02732v1,2025-01-06 03:05:49+00:00
+7,Interpretable Recognition of Fused Magnesium Furnace Working Conditions with Deep Convolutional Stochastic Configuration Networks,2501.02740,http://arxiv.org/abs/2501.02740v1,2025-01-06 03:17:41+00:00
+8,Enhancing Robot Route Optimization in Smart Logistics with Transformer and GNN Integration,2501.02749,http://arxiv.org/abs/2501.02749v1,2025-01-06 03:53:02+00:00
+9,Visual Large Language Models for Generalized and Specialized Applications,2501.02765,http://arxiv.org/abs/2501.02765v1,2025-01-06 05:15:59+00:00
+10,Are GNNs Effective for Multimodal Fault Diagnosis in Microservice Systems?,2501.02766,http://arxiv.org/abs/2501.02766v1,2025-01-06 05:18:13+00:00
+11,Enhancing Trustworthiness of Graph Neural Networks with Rank-Based Conformal Training,2501.02767,http://arxiv.org/abs/2501.02767v1,2025-01-06 05:19:24+00:00
+12,Segmenting Text and Learning Their Rewards for Improved RLHF in Language Model,2501.02790,http://arxiv.org/abs/2501.02790v1,2025-01-06 06:17:56+00:00
+13,Enhancing Lifelong Multi-Agent Path Finding with Cache Mechanism,2501.02803,http://arxiv.org/abs/2501.02803v1,2025-01-06 06:44:13+00:00
+14,InpDiffusion: Image Inpainting Localization via Conditional Diffusion Models,2501.02816,http://arxiv.org/abs/2501.02816v1,2025-01-06 07:32:12+00:00
+15,IIMedGPT: Promoting Large Language Model Capabilities of Medical Tasks by Efficient Human Preference Alignment,2501.02869,http://arxiv.org/abs/2501.02869v1,2025-01-06 09:22:36+00:00
+16,Explaining Humour Style Classifications: An XAI Approach to Understanding Computational Humour Analysis,2501.02891,http://arxiv.org/abs/2501.02891v1,2025-01-06 10:08:56+00:00
+17,Skillful High-Resolution Ensemble Precipitation Forecasting with an Integrated Deep Learning Framework,2501.02905,http://arxiv.org/abs/2501.02905v1,2025-01-06 10:29:38+00:00
+18,Unsupervised Tomato Split Anomaly Detection using Hyperspectral Imaging and Variational Autoencoders,2501.02921,http://arxiv.org/abs/2501.02921v1,2025-01-06 11:02:52+00:00
+19,Label-free Concept Based Multiple Instance Learning for Gigapixel Histopathology,2501.02922,http://arxiv.org/abs/2501.02922v1,2025-01-06 11:03:04+00:00
+20,Socratic Questioning: Learn to Self-guide Multimodal Reasoning in the Wild,2501.02964,http://arxiv.org/abs/2501.02964v2,2025-01-06 12:16:56+00:00
+21,Proof-of-Data: A Consensus Protocol for Collaborative Intelligence,2501.02971,http://arxiv.org/abs/2501.02971v1,2025-01-06 12:27:59+00:00
+22,Fuzzy Granule Density-Based Outlier Detection with Multi-Scale Granular Balls,2501.02975,http://arxiv.org/abs/2501.02975v1,2025-01-06 12:35:51+00:00
+23,CAMP: Collaborative Attention Model with Profiles for Vehicle Routing Problems,2501.02977,http://arxiv.org/abs/2501.02977v1,2025-01-06 12:37:56+00:00
+24,CALM: Curiosity-Driven Auditing for Large Language Models,2501.02997,http://arxiv.org/abs/2501.02997v1,2025-01-06 13:14:34+00:00
+25,Quality Estimation based Feedback Training for Improving Pronoun Translation,2501.03008,http://arxiv.org/abs/2501.03008v1,2025-01-06 13:34:51+00:00
+26,Quantization Meets Reasoning: Exploring LLM Low-Bit Quantization Degradation for Mathematical Reasoning,2501.03035,http://arxiv.org/abs/2501.03035v1,2025-01-06 14:23:02+00:00
+27,Single-Channel Distance-Based Source Separation for Mobile GPU in Outdoor and Indoor Environments,2501.03045,http://arxiv.org/abs/2501.03045v1,2025-01-06 14:32:24+00:00
+28,To Analyze and Regulate Human-in-the-loop Learning for Congestion Games,2501.03055,http://arxiv.org/abs/2501.03055v1,2025-01-06 14:41:45+00:00
+29,"Survival Analysis Revisited: Understanding and Unifying Poisson, Exponential, and Cox Models in Fall Risk Analysis",2501.03058,http://arxiv.org/abs/2501.03058v1,2025-01-06 14:48:30+00:00
+30,Personalized Fashion Recommendation with Image Attributes and Aesthetics Assessment,2501.03085,http://arxiv.org/abs/2501.03085v1,2025-01-06 15:31:10+00:00
+31,From Models to Network Topologies: A Topology Inference Attack in Decentralized Federated Learning,2501.03119,http://arxiv.org/abs/2501.03119v1,2025-01-06 16:27:53+00:00
+32,Co-Activation Graph Analysis of Safety-Verified and Explainable Deep Reinforcement Learning Policies,2501.03142,http://arxiv.org/abs/2501.03142v1,2025-01-06 17:07:44+00:00
+33,The Scaling Law for LoRA Base on Mutual Information Upper Bound,2501.03152,http://arxiv.org/abs/2501.03152v1,2025-01-06 17:19:19+00:00
+34,Gaussian Masked Autoencoders,2501.03229,http://arxiv.org/abs/2501.03229v1,2025-01-06 18:59:57+00:00
+35,CodeVision: Detecting LLM-Generated Code Using 2D Token Probability Maps and Vision Models,2501.03288,http://arxiv.org/abs/2501.03288v1,2025-01-06 06:15:10+00:00
+36,Multi-Modal One-Shot Federated Ensemble Learning for Medical Data with Vision Large Language Model,2501.03292,http://arxiv.org/abs/2501.03292v1,2025-01-06 08:36:28+00:00
+37,Analyzing Bias in Swiss Federal Supreme Court Judgments Using Facebook's Holistic Bias Dataset: Implications for Language Model Training,2501.03324,http://arxiv.org/abs/2501.03324v1,2025-01-06 19:00:09+00:00
+38,Over-the-Air Fair Federated Learning via Multi-Objective Optimization,2501.03392,http://arxiv.org/abs/2501.03392v1,2025-01-06 21:16:51+00:00
+39,BoundingDocs: a Unified Dataset for Document Question Answering with Spatial Annotations,2501.03403,http://arxiv.org/abs/2501.03403v1,2025-01-06 21:46:22+00:00
+40,QuIM-RAG: Advancing Retrieval-Augmented Generation with Inverted Question Matching for Enhanced QA Performance,2501.02702,http://arxiv.org/abs/2501.02702v1,2025-01-06 01:07:59+00:00
+41,Improved Data Encoding for Emerging Computing Paradigms: From Stochastic to Hyperdimensional Computing,2501.02715,http://arxiv.org/abs/2501.02715v1,2025-01-06 02:07:49+00:00
+42,TARDiS : Text Augmentation for Refining Diversity and Separability,2501.02739,http://arxiv.org/abs/2501.02739v1,2025-01-06 03:17:35+00:00
+43,Multi-Agent Path Finding under Limited Communication Range Constraint via Dynamic Leading,2501.02770,http://arxiv.org/abs/2501.02770v1,2025-01-06 05:21:18+00:00
+44,ICFNet: Integrated Cross-modal Fusion Network for Survival Prediction,2501.02778,http://arxiv.org/abs/2501.02778v1,2025-01-06 05:49:08+00:00
+45,Hybrid deep convolution model for lung cancer detection with transfer learning,2501.02785,http://arxiv.org/abs/2501.02785v1,2025-01-06 06:01:01+00:00
+46,GLoG-CSUnet: Enhancing Vision Transformers with Adaptable Radiomic Features for Medical Image Segmentation,2501.02788,http://arxiv.org/abs/2501.02788v2,2025-01-06 06:07:40+00:00
+47,Fairness Through Matching,2501.02793,http://arxiv.org/abs/2501.02793v1,2025-01-06 06:27:38+00:00
+48,RDD4D: 4D Attention-Guided Road Damage Detection And Classification,2501.02822,http://arxiv.org/abs/2501.02822v1,2025-01-06 07:48:04+00:00
+49,Samba-ASR: State-Of-The-Art Speech Recognition Leveraging Structured State-Space Models,2501.02832,http://arxiv.org/abs/2501.02832v3,2025-01-06 08:16:06+00:00
+50,Forward Once for All: Structural Parameterized Adaptation for Efficient Cloud-coordinated On-device Recommendation,2501.02837,http://arxiv.org/abs/2501.02837v1,2025-01-06 08:32:16+00:00
+51,Enhanced Rooftop Solar Panel Detection by Efficiently Aggregating Local Features,2501.02840,http://arxiv.org/abs/2501.02840v1,2025-01-06 08:36:44+00:00
+52,Key-value memory in the brain,2501.02950,http://arxiv.org/abs/2501.02950v1,2025-01-06 11:46:40+00:00
+53,CONTINUUM: Detecting APT Attacks through Spatial-Temporal Graph Neural Networks,2501.02981,http://arxiv.org/abs/2501.02981v2,2025-01-06 12:43:59+00:00
+54,A Bio-Inspired Research Paradigm of Collision Perception Neurons Enabling Neuro-Robotic Integration: The LGMD Case,2501.02982,http://arxiv.org/abs/2501.02982v1,2025-01-06 12:44:48+00:00
+55,GLFC: Unified Global-Local Feature and Contrast Learning with Mamba-Enhanced UNet for Synthetic CT Generation from CBCT,2501.02992,http://arxiv.org/abs/2501.02992v1,2025-01-06 13:11:47+00:00
+56,Analyzing Fine-tuning Representation Shift for Multimodal LLMs Steering alignment,2501.03012,http://arxiv.org/abs/2501.03012v1,2025-01-06 13:37:13+00:00
+57,Putnam's Critical and Explanatory Tendencies Interpreted from a Machine Learning Perspective,2501.03026,http://arxiv.org/abs/2501.03026v1,2025-01-06 14:09:35+00:00
+58,Piano Transcription by Hierarchical Language Modeling with Pretrained Roll-based Encoders,2501.03038,http://arxiv.org/abs/2501.03038v2,2025-01-06 14:26:00+00:00
+59,Through-The-Mask: Mask-based Motion Trajectories for Image-to-Video Generation,2501.03059,http://arxiv.org/abs/2501.03059v1,2025-01-06 14:49:26+00:00
+60,LangFair: A Python Package for Assessing Bias and Fairness in Large Language Model Use Cases,2501.03112,http://arxiv.org/abs/2501.03112v1,2025-01-06 16:20:44+00:00
+61,PRMBench: A Fine-grained and Challenging Benchmark for Process-Level Reward Models,2501.03124,http://arxiv.org/abs/2501.03124v2,2025-01-06 16:31:45+00:00
+62,Geometry Restoration and Dewarping of Camera-Captured Document Images,2501.03145,http://arxiv.org/abs/2501.03145v2,2025-01-06 17:12:19+00:00
+63,Large language models for artificial general intelligence (AGI): A survey of foundational principles and approaches,2501.03151,http://arxiv.org/abs/2501.03151v1,2025-01-06 17:18:47+00:00
+64,GLiREL -- Generalist Model for Zero-Shot Relation Extraction,2501.03172,http://arxiv.org/abs/2501.03172v1,2025-01-06 17:42:29+00:00
+65,Turn-based Multi-Agent Reinforcement Learning Model Checking,2501.03187,http://arxiv.org/abs/2501.03187v1,2025-01-06 18:04:20+00:00
+66,Detecting AI-Generated Text in Educational Content: Leveraging Machine Learning and Explainable AI for Academic Integrity,2501.03203,http://arxiv.org/abs/2501.03203v1,2025-01-06 18:34:20+00:00
+67,BoostStep: Boosting mathematical capability of Large Language Models via improved single-step reasoning,2501.03226,http://arxiv.org/abs/2501.03226v1,2025-01-06 18:59:13+00:00
+68,LightGNN: Simple Graph Neural Network for Recommendation,2501.03228,http://arxiv.org/abs/2501.03228v2,2025-01-06 18:59:55+00:00
+69,A Decision-Based Heterogenous Graph Attention Network for Multi-Class Fake News Detection,2501.03290,http://arxiv.org/abs/2501.03290v1,2025-01-06 07:18:31+00:00
+70,A Soft Sensor Method with Uncertainty-Awareness and Self-Explanation Based on Large Language Models Enhanced by Domain Knowledge Retrieval,2501.03295,http://arxiv.org/abs/2501.03295v2,2025-01-06 11:43:29+00:00
+71,Rethinking Byzantine Robustness in Federated Recommendation from Sparse Aggregation Perspective,2501.03301,http://arxiv.org/abs/2501.03301v2,2025-01-06 15:19:26+00:00
+72,FTA-FTL: A Fine-Tuned Aggregation Federated Transfer Learning Scheme for Lithology Microscopic Image Classification,2501.03349,http://arxiv.org/abs/2501.03349v1,2025-01-06 19:32:14+00:00
+73,Advanced Machine Learning Techniques for Social Support Detection on Social Media,2501.03370,http://arxiv.org/abs/2501.03370v1,2025-01-06 20:14:09+00:00
+74,License Plate Images Generation with Diffusion Models,2501.03374,http://arxiv.org/abs/2501.03374v1,2025-01-06 20:22:18+00:00
+75,Existential Crisis: A Social Robot's Reason for Being,2501.03376,http://arxiv.org/abs/2501.03376v1,2025-01-06 20:30:15+00:00
+76,Enhanced Importance Sampling through Latent Space Exploration in Normalizing Flows,2501.03394,http://arxiv.org/abs/2501.03394v1,2025-01-06 21:18:02+00:00
+77,SALT: Sales Autocompletion Linked Business Tables Dataset,2501.03413,http://arxiv.org/abs/2501.03413v1,2025-01-06 22:20:02+00:00
+78,Automated Generation of Challenging Multiple-Choice Questions for Vision Language Model Evaluation,2501.03225,http://arxiv.org/abs/2501.03225v1,2025-01-06 18:57:31+00:00
