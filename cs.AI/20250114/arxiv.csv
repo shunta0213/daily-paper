@@ -1,0 +1,74 @@
+,title,id,arxiv_url,published
+0,Online Reinforcement Learning-Based Dynamic Adaptive Evaluation Function for Real-Time Strategy Tasks,2501.03824,http://arxiv.org/abs/2501.03824v1,2025-01-07 14:36:33+00:00
+1,Optimization Learning,2501.03443,http://arxiv.org/abs/2501.03443v1,2025-01-07 00:09:52+00:00
+2,MTRAG: A Multi-Turn Conversational Benchmark for Evaluating Retrieval-Augmented Generation Systems,2501.03468,http://arxiv.org/abs/2501.03468v1,2025-01-07 01:52:56+00:00
+3,Align-Pro: A Principled Approach to Prompt Optimization for LLM Alignment,2501.03486,http://arxiv.org/abs/2501.03486v1,2025-01-07 03:14:39+00:00
+4,Can LLMs Design Good Questions Based on Context?,2501.03491,http://arxiv.org/abs/2501.03491v1,2025-01-07 03:21:17+00:00
+5,Can Deep Learning Trigger Alerts from Mobile-Captured Images?,2501.03499,http://arxiv.org/abs/2501.03499v1,2025-01-07 03:39:43+00:00
+6,SenseRAG: Constructing Environmental Knowledge Bases with Proactive Querying for LLM-Based Autonomous Driving,2501.03535,http://arxiv.org/abs/2501.03535v2,2025-01-07 05:15:46+00:00
+7,"Deep Learning within Tabular Data: Foundations, Challenges, Advances and Future Directions",2501.03540,http://arxiv.org/abs/2501.03540v1,2025-01-07 05:23:36+00:00
+8,Rethinking Adversarial Attacks in Reinforcement Learning from Policy Distribution Perspective,2501.03562,http://arxiv.org/abs/2501.03562v2,2025-01-07 06:22:55+00:00
+9,STContext: A Multifaceted Dataset for Developing Context-aware Spatio-temporal Crowd Mobility Prediction Models,2501.03583,http://arxiv.org/abs/2501.03583v1,2025-01-07 07:16:56+00:00
+10,RecKG: Knowledge Graph for Recommender Systems,2501.03598,http://arxiv.org/abs/2501.03598v1,2025-01-07 07:55:35+00:00
+11,MHGNet: Multi-Heterogeneous Graph Neural Network for Traffic Prediction,2501.03635,http://arxiv.org/abs/2501.03635v1,2025-01-07 09:10:09+00:00
+12,A Diversity-Enhanced Knowledge Distillation Model for Practical Math Word Problem Solving,2501.03670,http://arxiv.org/abs/2501.03670v1,2025-01-07 10:18:22+00:00
+13,Action Quality Assessment via Hierarchical Pose-guided Multi-stage Contrastive Regression,2501.03674,http://arxiv.org/abs/2501.03674v1,2025-01-07 10:20:16+00:00
+14,SALE-Based Offline Reinforcement Learning with Ensemble Q-Networks,2501.03676,http://arxiv.org/abs/2501.03676v1,2025-01-07 10:22:30+00:00
+15,SLAM: Towards Efficient Multilingual Reasoning via Selective Language Alignment,2501.03681,http://arxiv.org/abs/2501.03681v1,2025-01-07 10:29:43+00:00
+16,Exploring Molecule Generation Using Latent Space Graph Diffusion,2501.03696,http://arxiv.org/abs/2501.03696v1,2025-01-07 10:54:44+00:00
+17,AuxDepthNet: Real-Time Monocular 3D Object Detection with Depth-Sensitive Features,2501.03700,http://arxiv.org/abs/2501.03700v1,2025-01-07 11:07:32+00:00
+18,Neural Deconstruction Search for Vehicle Routing Problems,2501.03715,http://arxiv.org/abs/2501.03715v1,2025-01-07 11:44:25+00:00
+19,Self-adaptive vision-language model for 3D segmentation of pulmonary artery and vein,2501.03722,http://arxiv.org/abs/2501.03722v1,2025-01-07 12:03:02+00:00
+20,SelectiveFinetuning: Enhancing Transfer Learning in Sleep Staging through Selective Domain Alignment,2501.03764,http://arxiv.org/abs/2501.03764v1,2025-01-07 13:08:54+00:00
+21,Self-Adaptive ERP: Embedding NLP into Petri-Net creation and Model Matching,2501.03795,http://arxiv.org/abs/2501.03795v1,2025-01-07 14:01:59+00:00
+22,Three-dimensional attention Transformer for state evaluation in real-time strategy games,2501.03832,http://arxiv.org/abs/2501.03832v1,2025-01-07 14:42:38+00:00
+23,CL3DOR: Contrastive Learning for 3D Large Multimodal Models via Odds Ratio on High-Resolution Point Clouds,2501.03879,http://arxiv.org/abs/2501.03879v1,2025-01-07 15:42:32+00:00
+24,Explainable Reinforcement Learning via Temporal Policy Decomposition,2501.03902,http://arxiv.org/abs/2501.03902v1,2025-01-07 16:10:09+00:00
+25,PPTAgent: Generating and Evaluating Presentations Beyond Text-to-Slides,2501.03936,http://arxiv.org/abs/2501.03936v1,2025-01-07 16:53:01+00:00
+26,Not all tokens are created equal: Perplexity Attention Weighted Networks for AI generated text detection,2501.03940,http://arxiv.org/abs/2501.03940v1,2025-01-07 17:00:49+00:00
+27,Synthetic Data Privacy Metrics,2501.03941,http://arxiv.org/abs/2501.03941v1,2025-01-07 17:02:33+00:00
+28,Localizing AI: Evaluating Open-Weight Language Models for Languages of Baltic States,2501.03952,http://arxiv.org/abs/2501.03952v1,2025-01-07 17:24:17+00:00
+29,Explainable Time Series Prediction of Tyre Energy in Formula One Race Strategy,2501.04067,http://arxiv.org/abs/2501.04067v1,2025-01-07 12:38:48+00:00
+30,Explainable Reinforcement Learning for Formula One Race Strategy,2501.04068,http://arxiv.org/abs/2501.04068v1,2025-01-07 13:54:19+00:00
+31,Multi-armed Bandit and Backbone boost Lin-Kernighan-Helsgaun Algorithm for the Traveling Salesman Problems,2501.04072,http://arxiv.org/abs/2501.04072v1,2025-01-07 16:45:41+00:00
+32,Enhancing Distribution and Label Consistency for Graph Out-of-Distribution Generalization,2501.04102,http://arxiv.org/abs/2501.04102v1,2025-01-07 19:19:22+00:00
+33,TrojanDec: Data-free Detection of Trojan Inputs in Self-supervised Learning,2501.04108,http://arxiv.org/abs/2501.04108v1,2025-01-07 19:35:19+00:00
+34,Implementing Systemic Thinking for Automatic Schema Matching: An Agent-Based Modeling Approach,2501.04136,http://arxiv.org/abs/2501.04136v1,2025-01-07 20:52:08+00:00
+35,Multimodal Multihop Source Retrieval for Web Question Answering,2501.04173,http://arxiv.org/abs/2501.04173v1,2025-01-07 22:53:56+00:00
+36,IntegrityAI at GenAI Detection Task 2: Detecting Machine-Generated Academic Essays in English and Arabic Using ELECTRA and Stylometry,2501.05476,http://arxiv.org/abs/2501.05476v1,2025-01-07 10:19:56+00:00
+37,Activating Associative Disease-Aware Vision Token Memory for LLM-Based X-ray Report Generation,2501.03458,http://arxiv.org/abs/2501.03458v1,2025-01-07 01:19:48+00:00
+38,Radar Signal Recognition through Self-Supervised Learning and Domain Adaptation,2501.03461,http://arxiv.org/abs/2501.03461v1,2025-01-07 01:35:56+00:00
+39,LHGNN: Local-Higher Order Graph Neural Networks For Audio Classification and Tagging,2501.03464,http://arxiv.org/abs/2501.03464v1,2025-01-07 01:45:39+00:00
+40,Reading with Intent -- Neutralizing Intent,2501.03475,http://arxiv.org/abs/2501.03475v1,2025-01-07 02:33:25+00:00
+41,Vocal Tract Length Warped Features for Spoken Keyword Spotting,2501.03523,http://arxiv.org/abs/2501.03523v1,2025-01-07 04:38:28+00:00
+42,PromptGuard: Soft Prompt-Guided Unsafe Content Moderation for Text-to-Image Models,2501.03544,http://arxiv.org/abs/2501.03544v1,2025-01-07 05:39:21+00:00
+43,KG-TRICK: Unifying Textual and Relational Information Completion of Knowledge for Multilingual Knowledge Graphs,2501.03560,http://arxiv.org/abs/2501.03560v1,2025-01-07 06:21:40+00:00
+44,Applying Large Language Models in Knowledge Graph-based Enterprise Modeling: Challenges and Opportunities,2501.03566,http://arxiv.org/abs/2501.03566v1,2025-01-07 06:34:17+00:00
+45,From Code to Compliance: Assessing ChatGPT's Utility in Designing an Accessible Webpage -- A Case Study,2501.03572,http://arxiv.org/abs/2501.03572v1,2025-01-07 06:51:46+00:00
+46,Cosmos World Foundation Model Platform for Physical AI,2501.03575,http://arxiv.org/abs/2501.03575v1,2025-01-07 06:55:50+00:00
+47,Effective and Efficient Mixed Precision Quantization of Speech Foundation Models,2501.03643,http://arxiv.org/abs/2501.03643v1,2025-01-07 09:21:52+00:00
+48,MAJL: A Model-Agnostic Joint Learning Framework for Music Source Separation and Pitch Estimation,2501.03689,http://arxiv.org/abs/2501.03689v1,2025-01-07 10:38:51+00:00
+49,Materialist: Physically Based Editing Using Single-Image Inverse Rendering,2501.03717,http://arxiv.org/abs/2501.03717v1,2025-01-07 11:52:01+00:00
+50,Deep Sylvester Posterior Inference for Adaptive Compressed Sensing in Ultrasound Imaging,2501.03825,http://arxiv.org/abs/2501.03825v1,2025-01-07 14:37:14+00:00
+51,TACLR: A Scalable and Efficient Retrieval-based Method for Industrial Product Attribute Value Identification,2501.03835,http://arxiv.org/abs/2501.03835v1,2025-01-07 14:45:30+00:00
+52,SCC-YOLO: An Improved Object Detector for Assisting in Brain Tumor Diagnosis,2501.03836,http://arxiv.org/abs/2501.03836v1,2025-01-07 14:45:39+00:00
+53,Diffusion as Shader: 3D-aware Video Diffusion for Versatile Video Generation Control,2501.03847,http://arxiv.org/abs/2501.03847v2,2025-01-07 15:01:58+00:00
+54,Neural DNF-MT: A Neuro-symbolic Approach for Learning Interpretable and Editable Policies,2501.03888,http://arxiv.org/abs/2501.03888v1,2025-01-07 15:51:49+00:00
+55,LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token,2501.03895,http://arxiv.org/abs/2501.03895v1,2025-01-07 16:03:14+00:00
+56,Exploring the Potential of Large Language Models in Public Transportation: San Antonio Case Study,2501.03904,http://arxiv.org/abs/2501.03904v1,2025-01-07 16:18:55+00:00
+57,"Dolphin: Closed-loop Open-ended Auto-research through Thinking, Practice, and Feedback",2501.03916,http://arxiv.org/abs/2501.03916v2,2025-01-07 16:31:10+00:00
+58,VLM-driven Behavior Tree for Context-aware Task Planning,2501.03968,http://arxiv.org/abs/2501.03968v2,2025-01-07 18:06:27+00:00
+59,ChronoLLM: A Framework for Customizing Large Language Model for Digital Twins generalization based on PyChrono,2501.04062,http://arxiv.org/abs/2501.04062v1,2025-01-07 10:39:14+00:00
+60,More is not always better? Enhancing Many-Shot In-Context Learning with Differentiated and Reweighting Objectives,2501.04070,http://arxiv.org/abs/2501.04070v2,2025-01-07 14:57:08+00:00
+61,BiasGuard: Guardrailing Fairness in Machine Learning Production Systems,2501.04142,http://arxiv.org/abs/2501.04142v1,2025-01-07 21:10:16+00:00
+62,Reasoning-Enhanced Self-Training for Long-Form Personalized Text Generation,2501.04167,http://arxiv.org/abs/2501.04167v1,2025-01-07 22:29:08+00:00
+63,Learning to Transfer Human Hand Skills for Robot Manipulations,2501.04169,http://arxiv.org/abs/2501.04169v1,2025-01-07 22:33:47+00:00
+64,HIVEX: A High-Impact Environment Suite for Multi-Agent Research (extended version),2501.04180,http://arxiv.org/abs/2501.04180v1,2025-01-07 23:16:31+00:00
+65,"Fixed Points of Deep Neural Networks: Emergence, Stability, and Applications",2501.04182,http://arxiv.org/abs/2501.04182v1,2025-01-07 23:23:26+00:00
+66,SNR-EQ-JSCC: Joint Source-Channel Coding with SNR-Based Embedding and Query,2501.04732,http://arxiv.org/abs/2501.04732v1,2025-01-07 02:31:04+00:00
+67,AI-Driven Reinvention of Hydrological Modeling for Accurate Predictions and Interpretation to Transform Earth System Modeling,2501.04733,http://arxiv.org/abs/2501.04733v1,2025-01-07 18:59:53+00:00
+68,Generative Style Transfer for MRI Image Segmentation: A Case of Glioma Segmentation in Sub-Saharan Africa,2501.04734,http://arxiv.org/abs/2501.04734v1,2025-01-07 19:48:30+00:00
+69,Retrieval-Augmented Generation by Evidence Retroactivity in LLMs,2501.05475,http://arxiv.org/abs/2501.05475v1,2025-01-07 08:57:42+00:00
+70,Unsupervised Speech Segmentation: A General Approach Using Speech Language Models,2501.03711,http://arxiv.org/abs/2501.03711v1,2025-01-07 11:32:13+00:00
+71,Modality-Invariant Bidirectional Temporal Representation Distillation Network for Missing Multimodal Sentiment Analysis,2501.05474,http://arxiv.org/abs/2501.05474v1,2025-01-07 07:57:16+00:00
+72,Language and Planning in Robotic Navigation: A Multilingual Evaluation of State-of-the-Art Models,2501.05478,http://arxiv.org/abs/2501.05478v1,2025-01-07 16:01:25+00:00
