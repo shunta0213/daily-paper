@@ -1,0 +1,74 @@
+,title,id,arxiv_url,published
+0,Multi-Agent Collaboration Mechanisms: A Survey of LLMs,2501.06322,http://arxiv.org/abs/2501.06322v1,2025-01-10 19:56:50+00:00
+1,The Impact of Model Scaling on Seen and Unseen Language Performance,2501.05629,http://arxiv.org/abs/2501.05629v1,2025-01-10 00:10:21+00:00
+2,Iconicity in Large Language Models,2501.05643,http://arxiv.org/abs/2501.05643v1,2025-01-10 01:00:05+00:00
+3,Efficient Representations for High-Cardinality Categorical Variables in Machine Learning,2501.05646,http://arxiv.org/abs/2501.05646v1,2025-01-10 01:25:01+00:00
+4,Cascaded Self-Evaluation Augmented Training for Efficient Multimodal Large Language Models,2501.05662,http://arxiv.org/abs/2501.05662v1,2025-01-10 02:28:04+00:00
+5,Network Diffuser for Placing-Scheduling Service Function Chains with Inverse Demonstration,2501.05673,http://arxiv.org/abs/2501.05673v1,2025-01-10 02:51:58+00:00
+6,Facilitate Collaboration between Large Language Model and Task-specific Model for Time Series Anomaly Detection,2501.05675,http://arxiv.org/abs/2501.05675v1,2025-01-10 02:57:08+00:00
+7,Element-wise Attention Is All You Need,2501.05730,http://arxiv.org/abs/2501.05730v1,2025-01-10 05:54:04+00:00
+8,Semantic Exploration with Adaptive Gating for Efficient Problem Solving with Language Models,2501.05752,http://arxiv.org/abs/2501.05752v1,2025-01-10 07:02:43+00:00
+9,Deontic Temporal Logic for Formal Verification of AI Ethics,2501.05765,http://arxiv.org/abs/2501.05765v1,2025-01-10 07:48:40+00:00
+10,Halal or Not: Knowledge Graph Completion for Predicting Cultural Appropriateness of Daily Products,2501.05768,http://arxiv.org/abs/2501.05768v1,2025-01-10 07:56:30+00:00
+11,UV-Attack: Physical-World Adversarial Attacks for Person Detection via Dynamic-NeRF-based UV Mapping,2501.05783,http://arxiv.org/abs/2501.05783v1,2025-01-10 08:33:31+00:00
+12,Robust Counterfactual Explanations under Model Multiplicity Using Multi-Objective Optimization,2501.05795,http://arxiv.org/abs/2501.05795v1,2025-01-10 08:57:50+00:00
+13,Diffusion Models for Smarter UAVs: Decision-Making and Modeling,2501.05819,http://arxiv.org/abs/2501.05819v1,2025-01-10 09:59:16+00:00
+14,Annealing Machine-assisted Learning of Graph Neural Network for Combinatorial Optimization,2501.05845,http://arxiv.org/abs/2501.05845v1,2025-01-10 10:36:46+00:00
+15,Solving nonograms using Neural Networks,2501.05882,http://arxiv.org/abs/2501.05882v1,2025-01-10 11:34:22+00:00
+16,Affordably Fine-tuned LLMs Provide Better Answers to Course-specific MCQs,2501.05891,http://arxiv.org/abs/2501.05891v1,2025-01-10 11:44:35+00:00
+17,"The New Anticipatory Governance Culture for Innovation: Regulatory Foresight, Regulatory Experimentation and Regulatory Learning",2501.05921,http://arxiv.org/abs/2501.05921v1,2025-01-10 12:26:38+00:00
+18,Towards Backdoor Stealthiness in Model Parameter Space,2501.05928,http://arxiv.org/abs/2501.05928v1,2025-01-10 12:49:12+00:00
+19,DiffuSETS: 12-lead ECG Generation Conditioned on Clinical Text Reports and Patient-Specific Information,2501.05932,http://arxiv.org/abs/2501.05932v1,2025-01-10 12:55:34+00:00
+20,Effective faking of verbal deception detection with target-aligned adversarial attacks,2501.05962,http://arxiv.org/abs/2501.05962v1,2025-01-10 13:42:40+00:00
+21,Addressing speaker gender bias in large scale speech translation systems,2501.05989,http://arxiv.org/abs/2501.05989v1,2025-01-10 14:20:46+00:00
+22,"How to Tune a Multilingual Encoder Model for Germanic Languages: A Study of PEFT, Full Fine-Tuning, and Language Adapters",2501.06025,http://arxiv.org/abs/2501.06025v1,2025-01-10 15:01:51+00:00
+23,Explaining k-Nearest Neighbors: Abductive and Counterfactual Explanations,2501.06078,http://arxiv.org/abs/2501.06078v1,2025-01-10 16:14:35+00:00
+24,"All AI Models are Wrong, but Some are Optimal",2501.06086,http://arxiv.org/abs/2501.06086v1,2025-01-10 16:34:19+00:00
+25,Explaining Deep Learning-based Anomaly Detection in Energy Consumption Data by Focusing on Contextually Relevant Data,2501.06099,http://arxiv.org/abs/2501.06099v1,2025-01-10 16:53:48+00:00
+26,Fleurs-SLU: A Massively Multilingual Benchmark for Spoken Language Understanding,2501.06117,http://arxiv.org/abs/2501.06117v1,2025-01-10 17:15:38+00:00
+27,Contextual ASR Error Handling with LLMs Augmentation for Goal-Oriented Conversational AI,2501.06129,http://arxiv.org/abs/2501.06129v1,2025-01-10 17:35:06+00:00
+28,Multilingual Performance of a Multimodal Artificial Intelligence System on Multisubject Physics Concept Inventories,2501.06143,http://arxiv.org/abs/2501.06143v1,2025-01-10 18:08:07+00:00
+29,Model Alignment Search,2501.06164,http://arxiv.org/abs/2501.06164v1,2025-01-10 18:39:29+00:00
+30,Bactrainus: Optimizing Large Language Models for Multi-hop Complex Question Answering Tasks,2501.06286,http://arxiv.org/abs/2501.06286v1,2025-01-10 18:44:06+00:00
+31,BioAgents: Democratizing Bioinformatics Analysis with Multi-Agent Systems,2501.06314,http://arxiv.org/abs/2501.06314v1,2025-01-10 19:30:59+00:00
+32,Aggregating Low Rank Adapters in Federated Fine-tuning,2501.06332,http://arxiv.org/abs/2501.06332v1,2025-01-10 20:24:33+00:00
+33,Towards a Probabilistic Framework for Analyzing and Improving LLM-Enabled Software,2501.06370,http://arxiv.org/abs/2501.06370v1,2025-01-10 22:42:06+00:00
+34,Collaboration of Large Language Models and Small Recommendation Models for Device-Cloud Recommendation,2501.05647,http://arxiv.org/abs/2501.05647v1,2025-01-10 01:27:12+00:00
+35,TransPlace: Transferable Circuit Global Placement via Graph Neural Network,2501.05667,http://arxiv.org/abs/2501.05667v1,2025-01-10 02:33:15+00:00
+36,EXION: Exploiting Inter- and Intra-Iteration Output Sparsity for Diffusion Models,2501.05680,http://arxiv.org/abs/2501.05680v1,2025-01-10 03:07:28+00:00
+37,Multiagent Finetuning: Self Improvement with Diverse Reasoning Chains,2501.05707,http://arxiv.org/abs/2501.05707v1,2025-01-10 04:35:46+00:00
+38,"How to Enable Effective Cooperation Between Humans and NLP Models: A Survey of Principles, Formalizations, and Beyond",2501.05714,http://arxiv.org/abs/2501.05714v1,2025-01-10 05:15:14+00:00
+39,Zero-shot Shark Tracking and Biometrics from Aerial Imagery,2501.05717,http://arxiv.org/abs/2501.05717v1,2025-01-10 05:29:09+00:00
+40,Enabling Scalable Oversight via Self-Evolving Critic,2501.05727,http://arxiv.org/abs/2501.05727v1,2025-01-10 05:51:52+00:00
+41,ExPO: Explainable Phonetic Trait-Oriented Network for Speaker Verification,2501.05729,http://arxiv.org/abs/2501.05729v2,2025-01-10 05:53:37+00:00
+42,Migician: Revealing the Magic of Free-Form Multi-Image Grounding in Multimodal Large Language Models,2501.05767,http://arxiv.org/abs/2501.05767v2,2025-01-10 07:56:23+00:00
+43,Understanding Impact of Human Feedback via Influence Functions,2501.05790,http://arxiv.org/abs/2501.05790v1,2025-01-10 08:50:38+00:00
+44,Real-Time Integrated Dispatching and Idle Fleet Steering with Deep Reinforcement Learning for A Meal Delivery Platform,2501.05808,http://arxiv.org/abs/2501.05808v1,2025-01-10 09:15:40+00:00
+45,AI-Driven Diabetic Retinopathy Screening: Multicentric Validation of AIDRSS in India,2501.05826,http://arxiv.org/abs/2501.05826v2,2025-01-10 10:03:56+00:00
+46,"EDNet: Edge-Optimized Small Target Detection in UAV Imagery -- Faster Context Attention, Better Feature Fusion, and Hardware Acceleration",2501.05885,http://arxiv.org/abs/2501.05885v1,2025-01-10 11:37:50+00:00
+47,BRIGHT: A globally distributed multimodal building damage assessment dataset with very-high-resolution for all-weather disaster response,2501.06019,http://arxiv.org/abs/2501.06019v1,2025-01-10 14:57:18+00:00
+48,AI-powered virtual tissues from spatial proteomics for clinical diagnostics and biomedical discovery,2501.06039,http://arxiv.org/abs/2501.06039v1,2025-01-10 15:17:27+00:00
+49,Benchmarking Rotary Position Embeddings for Automatic Speech Recognition,2501.06051,http://arxiv.org/abs/2501.06051v1,2025-01-10 15:30:46+00:00
+50,Distilling Calibration via Conformalized Credal Inference,2501.06066,http://arxiv.org/abs/2501.06066v1,2025-01-10 15:57:23+00:00
+51,Scale-up Unlearnable Examples Learning with High-Performance Computing,2501.06080,http://arxiv.org/abs/2501.06080v1,2025-01-10 16:15:23+00:00
+52,CoDriveVLM: VLM-Enhanced Urban Cooperative Dispatching and Motion Planning for Future Autonomous Mobility on Demand Systems,2501.06132,http://arxiv.org/abs/2501.06132v1,2025-01-10 17:44:57+00:00
+53,Supervision policies can shape long-term risk management in general-purpose AI models,2501.06137,http://arxiv.org/abs/2501.06137v1,2025-01-10 17:52:34+00:00
+54,Emergent Symbol-like Number Variables in Artificial Neural Networks,2501.06141,http://arxiv.org/abs/2501.06141v1,2025-01-10 18:03:46+00:00
+55,xLSTM-SENet: xLSTM for Single-Channel Speech Enhancement,2501.06146,http://arxiv.org/abs/2501.06146v1,2025-01-10 18:10:06+00:00
+56,Large Language Models for Bioinformatics,2501.06271,http://arxiv.org/abs/2501.06271v1,2025-01-10 01:43:05+00:00
+57,Polarized Patterns of Language Toxicity and Sentiment of Debunking Posts on Social Media,2501.06274,http://arxiv.org/abs/2501.06274v1,2025-01-10 08:00:58+00:00
+58,LensNet: Enhancing Real-time Microlensing Event Discovery with Recurrent Neural Networks in the Korea Microlensing Telescope Network,2501.06293,http://arxiv.org/abs/2501.06293v1,2025-01-10 19:00:01+00:00
+59,Understanding How Paper Writers Use AI-Generated Captions in Figure Caption Writing,2501.06317,http://arxiv.org/abs/2501.06317v1,2025-01-10 19:39:06+00:00
+60,TTS-Transducer: End-to-End Speech Synthesis with Neural Transducer,2501.06320,http://arxiv.org/abs/2501.06320v1,2025-01-10 19:50:32+00:00
+61,On The Statistical Complexity of Offline Decision-Making,2501.06339,http://arxiv.org/abs/2501.06339v1,2025-01-10 20:45:23+00:00
+62,Ultrasound Image Synthesis Using Generative AI for Lung Ultrasound Detection,2501.06356,http://arxiv.org/abs/2501.06356v1,2025-01-10 21:32:50+00:00
+63,Gender-Neutral Large Language Models for Medical Applications: Reducing Bias in PubMed Abstracts,2501.06365,http://arxiv.org/abs/2501.06365v1,2025-01-10 22:07:56+00:00
+64,"Dynamics of ""Spontaneous"" Topic Changes in Next Token Prediction with Self-Attention",2501.06382,http://arxiv.org/abs/2501.06382v1,2025-01-10 23:18:23+00:00
+65,Kolmogorov-Arnold networks for metal surface defect classification,2501.06389,http://arxiv.org/abs/2501.06389v1,2025-01-10 23:58:30+00:00
+66,Real-Time Decision-Making for Digital Twin in Additive Manufacturing with Model Predictive Control using Time-Series Deep Neural Networks,2501.07601,http://arxiv.org/abs/2501.07601v1,2025-01-10 22:31:53+00:00
+67,Learning to Measure Quantum Neural Networks,2501.05663,http://arxiv.org/abs/2501.05663v1,2025-01-10 02:28:19+00:00
+68,Alignment without Over-optimization: Training-Free Solution for Diffusion Models,2501.05803,http://arxiv.org/abs/2501.05803v1,2025-01-10 09:10:30+00:00
+69,VideoRAG: Retrieval-Augmented Generation over Video Corpus,2501.05874,http://arxiv.org/abs/2501.05874v1,2025-01-10 11:17:15+00:00
+70,MinMo: A Multimodal Large Language Model for Seamless Voice Interaction,2501.06282,http://arxiv.org/abs/2501.06282v1,2025-01-10 15:55:27+00:00
+71,Dafny as Verification-Aware Intermediate Language for Code Generation,2501.06283,http://arxiv.org/abs/2501.06283v1,2025-01-10 17:23:14+00:00
+72,"Towards Developing Socially Compliant Automated Vehicles: State of the Art, Experts Expectations, and A Conceptual Framework",2501.06089,http://arxiv.org/abs/2501.06089v1,2025-01-10 16:39:01+00:00
