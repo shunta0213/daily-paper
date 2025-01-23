@@ -1,0 +1,71 @@
+,title,id,arxiv_url,published
+0,AI-based Identity Fraud Detection: A Systematic Review,2501.09239,http://arxiv.org/abs/2501.09239v1,2025-01-16 01:52:30+00:00
+1,Text Semantics to Flexible Design: A Residential Layout Generation Method Based on Stable Diffusion Model,2501.09279,http://arxiv.org/abs/2501.09279v1,2025-01-16 03:57:38+00:00
+2,SOP-Agent: Empower General Purpose AI Agent with Domain-Specific SOPs,2501.09316,http://arxiv.org/abs/2501.09316v1,2025-01-16 06:14:58+00:00
+3,Aligning Instruction Tuning with Pre-training,2501.09368,http://arxiv.org/abs/2501.09368v3,2025-01-16 08:27:40+00:00
+4,AI in Support of Diversity and Inclusion,2501.09534,http://arxiv.org/abs/2501.09534v1,2025-01-16 13:36:24+00:00
+5,Artificial Intelligence-Driven Clinical Decision Support Systems,2501.09628,http://arxiv.org/abs/2501.09628v1,2025-01-16 16:17:39+00:00
+6,Platform-Aware Mission Planning,2501.09632,http://arxiv.org/abs/2501.09632v1,2025-01-16 16:20:37+00:00
+7,Electronic Health Records: Towards Digital Twins in Healthcare,2501.09640,http://arxiv.org/abs/2501.09640v1,2025-01-16 16:30:02+00:00
+8,NS-Gym: Open-Source Simulation Environments and Benchmarks for Non-Stationary Markov Decision Processes,2501.09646,http://arxiv.org/abs/2501.09646v1,2025-01-16 16:38:33+00:00
+9,The Goofus & Gallant Story Corpus for Practical Value Alignment,2501.09707,http://arxiv.org/abs/2501.09707v1,2025-01-16 17:58:58+00:00
+10,KU AIGEN ICL EDI@BC8 Track 3: Advancing Phenotype Named Entity Recognition and Normalization for Dysmorphology Physical Examination Reports,2501.09744,http://arxiv.org/abs/2501.09744v1,2025-01-16 18:53:32+00:00
+11,Interpretable Droplet Digital PCR Assay for Trustworthy Molecular Diagnostics,2501.09218,http://arxiv.org/abs/2501.09218v1,2025-01-16 00:33:17+00:00
+12,Perspective Transition of Large Language Models for Solving Subjective Tasks,2501.09265,http://arxiv.org/abs/2501.09265v1,2025-01-16 03:30:47+00:00
+13,SEAL: Entangled White-box Watermarks on Low-Rank Adaptation,2501.09284,http://arxiv.org/abs/2501.09284v2,2025-01-16 04:17:56+00:00
+14,"On Learning Informative Trajectory Embeddings for Imitation, Classification and Regression",2501.09327,http://arxiv.org/abs/2501.09327v2,2025-01-16 06:52:58+00:00
+15,Neural Honeytrace: A Robust Plug-and-Play Watermarking Framework against Model Extraction Attacks,2501.09328,http://arxiv.org/abs/2501.09328v2,2025-01-16 06:59:20+00:00
+16,Prompt-CAM: A Simpler Interpretable Transformer for Fine-Grained Analysis,2501.09333,http://arxiv.org/abs/2501.09333v1,2025-01-16 07:07:41+00:00
+17,Style4Rec: Enhancing Transformer-based E-commerce Recommendation Systems with Style and Shopping Cart Information,2501.09354,http://arxiv.org/abs/2501.09354v1,2025-01-16 08:05:39+00:00
+18,Predicting Air Temperature from Volumetric Urban Morphology with Machine Learning,2501.09469,http://arxiv.org/abs/2501.09469v1,2025-01-16 11:10:38+00:00
+19,Class Incremental Fault Diagnosis under Limited Fault Data via Supervised Contrastive Knowledge Distillation,2501.09525,http://arxiv.org/abs/2501.09525v2,2025-01-16 13:20:29+00:00
+20,Text-driven Adaptation of Foundation Models for Few-shot Surgical Workflow Analysis,2501.09555,http://arxiv.org/abs/2501.09555v1,2025-01-16 14:18:06+00:00
+21,IFRA: a machine learning-based Instrumented Fall Risk Assessment Scale derived from Instrumented Timed Up and Go test in stroke patients,2501.09595,http://arxiv.org/abs/2501.09595v1,2025-01-16 15:20:22+00:00
+22,Reducing the Sensitivity of Neural Physics Simulators to Mesh Topology via Pretraining,2501.09597,http://arxiv.org/abs/2501.09597v1,2025-01-16 15:21:18+00:00
+23,Beyond Reward Hacking: Causal Rewards for Large Language Model Alignment,2501.09620,http://arxiv.org/abs/2501.09620v1,2025-01-16 16:00:37+00:00
+24,Monte Carlo Tree Search with Velocity Obstacles for safe and efficient motion planning in dynamic environments,2501.09649,http://arxiv.org/abs/2501.09649v1,2025-01-16 16:45:08+00:00
+25,The Heap: A Contamination-Free Multilingual Code Dataset for Evaluating Large Language Models,2501.09653,http://arxiv.org/abs/2501.09653v1,2025-01-16 16:48:41+00:00
+26,Robin: a Suite of Multi-Scale Vision-Language Models and the CHIRP Evaluation Benchmark,2501.09672,http://arxiv.org/abs/2501.09672v2,2025-01-16 17:08:12+00:00
+27,Towards Large Reasoning Models: A Survey on Scaling LLM Reasoning Capabilities,2501.09686,http://arxiv.org/abs/2501.09686v2,2025-01-16 17:37:58+00:00
+28,Cueless EEG imagined speech for subject identification: dataset and benchmarks,2501.09700,http://arxiv.org/abs/2501.09700v1,2025-01-16 17:54:56+00:00
+29,CyberMentor: AI Powered Learning Tool Platform to Address Diverse Student Needs in Cybersecurity Education,2501.09709,http://arxiv.org/abs/2501.09709v1,2025-01-16 18:00:06+00:00
+30,A Simple Aerial Detection Baseline of Multimodal Language Models,2501.09720,http://arxiv.org/abs/2501.09720v1,2025-01-16 18:09:22+00:00
+31,Learnings from Scaling Visual Tokenizers for Reconstruction and Generation,2501.09755,http://arxiv.org/abs/2501.09755v1,2025-01-16 18:59:04+00:00
+32,Multiple Choice Questions: Reasoning Makes Large Language Models (LLMs) More Self-Confident Even When They Are Wrong,2501.09775,http://arxiv.org/abs/2501.09775v1,2025-01-16 10:27:51+00:00
+33,Generalized Single-Image-Based Morphing Attack Detection Using Deep Representations from Vision Transformer,2501.09817,http://arxiv.org/abs/2501.09817v1,2025-01-16 20:09:19+00:00
+34,Bridging Language Barriers in Healthcare: A Study on Arabic LLMs,2501.09825,http://arxiv.org/abs/2501.09825v1,2025-01-16 20:24:56+00:00
+35,ASTRA: A Scene-aware TRAnsformer-based model for trajectory prediction,2501.09878,http://arxiv.org/abs/2501.09878v1,2025-01-16 23:28:30+00:00
+36,Revisiting Rogers' Paradox in the Context of Human-AI Interaction,2501.10476,http://arxiv.org/abs/2501.10476v1,2025-01-16 17:09:57+00:00
+37,Adaptive Law-Based Transformation (ALT): A Lightweight Feature Representation for Time Series Classification,2501.09217,http://arxiv.org/abs/2501.09217v1,2025-01-16 00:33:01+00:00
+38,Foundations of Large Language Models,2501.09223,http://arxiv.org/abs/2501.09223v1,2025-01-16 01:03:56+00:00
+39,Clone-Robust AI Alignment,2501.09254,http://arxiv.org/abs/2501.09254v1,2025-01-16 02:43:44+00:00
+40,Large Language Model is Secretly a Protein Sequence Optimizer,2501.09274,http://arxiv.org/abs/2501.09274v2,2025-01-16 03:44:16+00:00
+41,LAVCap: LLM-based Audio-Visual Captioning using Optimal Transport,2501.09291,http://arxiv.org/abs/2501.09291v1,2025-01-16 04:53:29+00:00
+42,To Retrieve or Not to Retrieve? Uncertainty Detection for Dynamic Retrieval Augmented Generation,2501.09292,http://arxiv.org/abs/2501.09292v1,2025-01-16 04:56:33+00:00
+43,Understanding Mental Health Content on Social Media and Its Effect Towards Suicidal Ideation,2501.09309,http://arxiv.org/abs/2501.09309v1,2025-01-16 05:46:27+00:00
+44,A Study of In-Context-Learning-Based Text-to-SQL Errors,2501.09310,http://arxiv.org/abs/2501.09310v1,2025-01-16 05:54:59+00:00
+45,Shape-Based Single Object Classification Using Ensemble Method Classifiers,2501.09311,http://arxiv.org/abs/2501.09311v1,2025-01-16 05:58:32+00:00
+46,Rational Tuning of LLM Cascades via Probabilistic Modeling,2501.09345,http://arxiv.org/abs/2501.09345v1,2025-01-16 07:58:33+00:00
+47,YETI (YET to Intervene) Proactive Interventions by Multimodal AI Agents in Augmented Reality Tasks,2501.09355,http://arxiv.org/abs/2501.09355v1,2025-01-16 08:06:02+00:00
+48,ELM-DeepONets: Backpropagation-Free Training of Deep Operator Networks via Extreme Learning Machines,2501.09395,http://arxiv.org/abs/2501.09395v1,2025-01-16 09:06:43+00:00
+49,MoE$^2$: Optimizing Collaborative Inference for Edge Large Language Models,2501.09410,http://arxiv.org/abs/2501.09410v1,2025-01-16 09:36:32+00:00
+50,Dynamic Neural Style Transfer for Artistic Image Generation using VGG19,2501.09420,http://arxiv.org/abs/2501.09420v1,2025-01-16 09:47:18+00:00
+51,"A Survey on Responsible LLMs: Inherent Risk, Malicious Use, and Mitigation Strategy",2501.09431,http://arxiv.org/abs/2501.09431v1,2025-01-16 09:59:45+00:00
+52,Solving the Unsolvable: Translating Case Law in Hong Kong,2501.09444,http://arxiv.org/abs/2501.09444v2,2025-01-16 10:17:58+00:00
+53,RE-POSE: Synergizing Reinforcement Learning-Based Partitioning and Offloading for Edge Object Detection,2501.09465,http://arxiv.org/abs/2501.09465v1,2025-01-16 10:56:45+00:00
+54,MonoSOWA: Scalable monocular 3D Object detector Without human Annotations,2501.09481,http://arxiv.org/abs/2501.09481v1,2025-01-16 11:35:22+00:00
+55,MatrixNet: Learning over symmetry groups using learned group representations,2501.09571,http://arxiv.org/abs/2501.09571v1,2025-01-16 14:45:12+00:00
+56,Managed-Retention Memory: A New Class of Memory for the AI Era,2501.09605,http://arxiv.org/abs/2501.09605v1,2025-01-16 15:25:44+00:00
+57,CarMem: Enhancing Long-Term Memory in LLM Voice Assistants through Category-Bounding,2501.09645,http://arxiv.org/abs/2501.09645v1,2025-01-16 16:37:33+00:00
+58,Authenticated Delegation and Authorized AI Agents,2501.09674,http://arxiv.org/abs/2501.09674v1,2025-01-16 17:11:21+00:00
+59,Incorporating Quantum Advantage in Quantum Circuit Generation through Genetic Programming,2501.09682,http://arxiv.org/abs/2501.09682v1,2025-01-16 17:34:34+00:00
+60,Inference-Time Alignment in Diffusion Models with Reward-Guided Generation: Tutorial and Review,2501.09685,http://arxiv.org/abs/2501.09685v2,2025-01-16 17:37:35+00:00
+61,Practical Continual Forgetting for Pre-trained Vision Models,2501.09705,http://arxiv.org/abs/2501.09705v1,2025-01-16 17:57:53+00:00
+62,Parallel multi-objective metaheuristics for smart communications in vehicular networks,2501.09725,http://arxiv.org/abs/2501.09725v1,2025-01-16 18:16:34+00:00
+63,Enhancing Generalization in Chain of Thought Reasoning for Smaller Models,2501.09804,http://arxiv.org/abs/2501.09804v1,2025-01-16 19:23:11+00:00
+64,CrossModalityDiffusion: Multi-Modal Novel View Synthesis with Unified Intermediate Representation,2501.09838,http://arxiv.org/abs/2501.09838v1,2025-01-16 20:56:32+00:00
+65,From Explainability to Interpretability: Interpretable Policies in Reinforcement Learning Via Model Explanation,2501.09858,http://arxiv.org/abs/2501.09858v1,2025-01-16 22:11:03+00:00
+66,Quantum-Enhanced Transformers for Robust Acoustic Scene Classification in IoT Environments,2501.09394,http://arxiv.org/abs/2501.09394v1,2025-01-16 09:06:10+00:00
+67,OmniThink: Expanding Knowledge Boundaries in Machine Writing through Thinking,2501.09751,http://arxiv.org/abs/2501.09751v1,2025-01-16 18:58:06+00:00
+68,ADAGE: A generic two-layer framework for adaptive agent based modelling,2501.09429,http://arxiv.org/abs/2501.09429v1,2025-01-16 09:58:24+00:00
+69,Metric Learning with Progressive Self-Distillation for Audio-Visual Embedding Learning,2501.09608,http://arxiv.org/abs/2501.09608v1,2025-01-16 15:32:41+00:00
