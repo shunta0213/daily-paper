@@ -1,0 +1,33 @@
+,title,id,arxiv_url,published
+0,Fine-Grained Appropriate Reliance: Human-AI Collaboration with a Multi-Step Transparent Decision Workflow for Complex Task Decomposition,2501.10909,http://arxiv.org/abs/2501.10909v1,2025-01-19 01:03:09+00:00
+1,Generative Physical AI in Vision: A Survey,2501.10928,http://arxiv.org/abs/2501.10928v1,2025-01-19 03:19:47+00:00
+2,TSVC:Tripartite Learning with Semantic Variation Consistency for Robust Image-Text Retrieval,2501.10935,http://arxiv.org/abs/2501.10935v1,2025-01-19 04:05:08+00:00
+3,Blockchain-assisted Demonstration Cloning for Multi-Agent Deep Reinforcement Learning,2501.10938,http://arxiv.org/abs/2501.10938v1,2025-01-19 04:20:24+00:00
+4,InsQABench: Benchmarking Chinese Insurance Domain Question Answering with Large Language Models,2501.10943,http://arxiv.org/abs/2501.10943v1,2025-01-19 04:53:20+00:00
+5,MARIO: A Mixed Annotation Framework For Polyp Segmentation,2501.10957,http://arxiv.org/abs/2501.10957v1,2025-01-19 06:11:02+00:00
+6,DC-PCN: Point Cloud Completion Network with Dual-Codebook Guided Quantization,2501.10966,http://arxiv.org/abs/2501.10966v1,2025-01-19 06:57:45+00:00
+7,BF-STVSR: B-Splines and Fourier-Best Friends for High Fidelity Spatial-Temporal Video Super-Resolution,2501.11043,http://arxiv.org/abs/2501.11043v1,2025-01-19 13:29:41+00:00
+8,Can LLM Generate Regression Tests for Software Commits?,2501.11086,http://arxiv.org/abs/2501.11086v1,2025-01-19 15:46:26+00:00
+9,Leveraging counterfactual concepts for debugging and improving CNN model performance,2501.11087,http://arxiv.org/abs/2501.11087v1,2025-01-19 15:50:33+00:00
+10,Clinical trial cohort selection using Large Language Models on n2c2 Challenges,2501.11114,http://arxiv.org/abs/2501.11114v1,2025-01-19 17:07:02+00:00
+11,A Collection of Question Answering Datasets for Norwegian,2501.11128,http://arxiv.org/abs/2501.11128v1,2025-01-19 17:42:48+00:00
+12,Playing the Lottery With Concave Regularizers for Sparse Trainable Neural Networks,2501.11135,http://arxiv.org/abs/2501.11135v1,2025-01-19 18:05:13+00:00
+13,CLOFAI: A Dataset of Real And Fake Image Classification Tasks for Continual Learning,2501.11140,http://arxiv.org/abs/2501.11140v1,2025-01-19 18:53:30+00:00
+14,Decomposing and Fusing Intra- and Inter-Sensor Spatio-Temporal Signal for Multi-Sensor Wearable Human Activity Recognition,2501.10917,http://arxiv.org/abs/2501.10917v1,2025-01-19 01:52:28+00:00
+15,Adaptive Target Localization under Uncertainty using Multi-Agent Deep Reinforcement Learning with Knowledge Transfer,2501.10924,http://arxiv.org/abs/2501.10924v1,2025-01-19 02:58:22+00:00
+16,Advancing General Multimodal Capability of Vision-language Models with Pyramid-descent Visual Position Encoding,2501.10967,http://arxiv.org/abs/2501.10967v1,2025-01-19 07:00:46+00:00
+17,The Alternative Annotator Test for LLM-as-a-Judge: How to Statistically Justify Replacing Human Annotators with LLMs,2501.10970,http://arxiv.org/abs/2501.10970v1,2025-01-19 07:09:11+00:00
+18,GREEN-CODE: Optimizing Energy Efficiency in Large Language Models for Code Generation,2501.11006,http://arxiv.org/abs/2501.11006v1,2025-01-19 10:44:03+00:00
+19,AdaptiveLog: An Adaptive Log Analysis Framework with the Collaboration of Large and Small Language Model,2501.11031,http://arxiv.org/abs/2501.11031v1,2025-01-19 12:46:01+00:00
+20,Enhancing Neural Spoken Language Recognition: An Exploration with Multilingual Datasets,2501.11065,http://arxiv.org/abs/2501.11065v1,2025-01-19 14:49:43+00:00
+21,IntellAgent: A Multi-Agent Framework for Evaluating Conversational AI Systems,2501.11067,http://arxiv.org/abs/2501.11067v1,2025-01-19 14:58:35+00:00
+22,Federated Deep Reinforcement Learning for Energy Efficient Multi-Functional RIS-Assisted Low-Earth Orbit Networks,2501.11079,http://arxiv.org/abs/2501.11079v1,2025-01-19 15:31:05+00:00
+23,Enhanced Suicidal Ideation Detection from Social Media Using a CNN-BiLSTM Hybrid Model,2501.11094,http://arxiv.org/abs/2501.11094v1,2025-01-19 16:08:50+00:00
+24,Tell me about yourself: LLMs are aware of their learned behaviors,2501.11120,http://arxiv.org/abs/2501.11120v1,2025-01-19 17:28:12+00:00
+25,AIMA at SemEval-2024 Task 10: History-Based Emotion Recognition in Hindi-English Code-Mixed Conversations,2501.11166,http://arxiv.org/abs/2501.11166v1,2025-01-19 20:56:45+00:00
+26,AIMA at SemEval-2024 Task 3: Simple Yet Powerful Emotion Cause Pair Analysis,2501.11170,http://arxiv.org/abs/2501.11170v1,2025-01-19 21:16:31+00:00
+27,ProKeR: A Kernel Perspective on Few-Shot Adaptation of Large Vision-Language Models,2501.11175,http://arxiv.org/abs/2501.11175v1,2025-01-19 21:25:53+00:00
+28,Can Safety Fine-Tuning Be More Principled? Lessons Learned from Cybersecurity,2501.11183,http://arxiv.org/abs/2501.11183v1,2025-01-19 21:49:42+00:00
+29,Dagger Behind Smile: Fool LLMs with a Happy Ending Story,2501.13115,http://arxiv.org/abs/2501.13115v1,2025-01-19 13:39:51+00:00
+30,ChaosEater: Fully Automating Chaos Engineering with Large Language Models,2501.11107,http://arxiv.org/abs/2501.11107v1,2025-01-19 16:35:09+00:00
+31,Counteracting temporal attacks in Video Copy Detection,2501.11171,http://arxiv.org/abs/2501.11171v1,2025-01-19 21:16:39+00:00
