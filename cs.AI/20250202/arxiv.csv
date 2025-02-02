@@ -1,0 +1,58 @@
+,title,id,arxiv_url,published
+0,Large Language Models as Theory of Mind Aware Generative Agents with Counterfactual Reflection,2501.15355,http://arxiv.org/abs/2501.15355v1,2025-01-26 00:32:38+00:00
+1,iFormer: Integrating ConvNet and Transformer for Mobile Application,2501.15369,http://arxiv.org/abs/2501.15369v1,2025-01-26 02:34:58+00:00
+2,Scaling Large Vision-Language Models for Enhanced Multimodal Comprehension In Biomedical Image Analysis,2501.15370,http://arxiv.org/abs/2501.15370v1,2025-01-26 02:48:01+00:00
+3,Evaluating the Effectiveness of XAI Techniques for Encoder-Based Language Models,2501.15374,http://arxiv.org/abs/2501.15374v1,2025-01-26 03:08:34+00:00
+4,How to Mitigate Information Loss in Knowledge Graphs for GraphRAG: Leveraging Triple Context Restoration and Query-Driven Feedback,2501.15378,http://arxiv.org/abs/2501.15378v1,2025-01-26 03:27:11+00:00
+5,MetaOcc: Surround-View 4D Radar and Camera Fusion Framework for 3D Occupancy Prediction with Dual Training Strategies,2501.15384,http://arxiv.org/abs/2501.15384v1,2025-01-26 03:51:56+00:00
+6,Diffusion-based Hierarchical Negative Sampling for Multimodal Knowledge Graph Completion,2501.15393,http://arxiv.org/abs/2501.15393v1,2025-01-26 04:20:34+00:00
+7,A Neurosymbolic Framework for Geometric Reduction of Binary Forms,2501.15404,http://arxiv.org/abs/2501.15404v1,2025-01-26 05:15:08+00:00
+8,Semantic Layered Embedding Diffusion in Large Language Models for Multi-Contextual Consistency,2501.15405,http://arxiv.org/abs/2501.15405v1,2025-01-26 05:17:04+00:00
+9,TdAttenMix: Top-Down Attention Guided Mixup,2501.15409,http://arxiv.org/abs/2501.15409v1,2025-01-26 05:32:37+00:00
+10,Episodic Novelty Through Temporal Distance,2501.15418,http://arxiv.org/abs/2501.15418v1,2025-01-26 06:43:45+00:00
+11,StochSync: Stochastic Diffusion Synchronization for Image Generation in Arbitrary Spaces,2501.15445,http://arxiv.org/abs/2501.15445v1,2025-01-26 08:22:44+00:00
+12,Token Democracy: The Architectural Limits of Alignment in Transformer-Based Language Models,2501.15446,http://arxiv.org/abs/2501.15446v1,2025-01-26 08:26:06+00:00
+13,Identifying Critical Tokens for Accurate Predictions in Transformer-based Medical Imaging Models,2501.15452,http://arxiv.org/abs/2501.15452v1,2025-01-26 08:49:13+00:00
+14,TractoGPT: A GPT architecture for White Matter Segmentation,2501.15464,http://arxiv.org/abs/2501.15464v1,2025-01-26 09:54:10+00:00
+15,Color Flow Imaging Microscopy Improves Identification of Stress Sources of Protein Aggregates in Biopharmaceuticals,2501.15492,http://arxiv.org/abs/2501.15492v1,2025-01-26 11:48:28+00:00
+16,Advancing Generative Artificial Intelligence and Large Language Models for Demand Side Management with Electric Vehicles,2501.15544,http://arxiv.org/abs/2501.15544v1,2025-01-26 14:31:03+00:00
+17,CE-SDWV: Effective and Efficient Concept Erasure for Text-to-Image Diffusion Models via a Semantic-Driven Word Vocabulary,2501.15562,http://arxiv.org/abs/2501.15562v1,2025-01-26 15:39:47+00:00
+18,Twin Transition or Competing Interests? Validation of the Artificial Intelligence and Sustainability Perceptions Inventory (AISPI),2501.15585,http://arxiv.org/abs/2501.15585v1,2025-01-26 16:21:27+00:00
+19,Rethinking External Slow-Thinking: From Snowball Errors to Probability of Correct Reasoning,2501.15602,http://arxiv.org/abs/2501.15602v2,2025-01-26 17:05:16+00:00
+20,GaussianToken: An Effective Image Tokenizer with 2D Gaussian Splatting,2501.15619,http://arxiv.org/abs/2501.15619v1,2025-01-26 17:56:11+00:00
+21,HardML: A Benchmark For Evaluating Data Science And Machine Learning knowledge and reasoning in AI,2501.15627,http://arxiv.org/abs/2501.15627v1,2025-01-26 18:25:26+00:00
+22,A Comprehensive Survey on Self-Interpretable Neural Networks,2501.15638,http://arxiv.org/abs/2501.15638v1,2025-01-26 18:50:16+00:00
+23,People who frequently use ChatGPT for writing tasks are accurate and robust detectors of AI-generated text,2501.15654,http://arxiv.org/abs/2501.15654v1,2025-01-26 19:31:34+00:00
+24,Constrained Hybrid Metaheuristic Algorithm for Probabilistic Neural Networks Learning,2501.15661,http://arxiv.org/abs/2501.15661v1,2025-01-26 19:49:16+00:00
+25,StagFormer: Time Staggering Transformer Decoding for RunningLayers In Parallel,2501.15665,http://arxiv.org/abs/2501.15665v1,2025-01-26 20:09:11+00:00
+26,Contextual Knowledge Sharing in Multi-Agent Reinforcement Learning with Decentralized Communication and Coordination,2501.15695,http://arxiv.org/abs/2501.15695v1,2025-01-26 22:49:50+00:00
+27,"Letters, Colors, and Words: Constructing the Ideal Building Blocks Set",2501.17188,http://arxiv.org/abs/2501.17188v1,2025-01-26 17:54:03+00:00
+28,Zero-Shot Interactive Text-to-Image Retrieval via Diffusion-Augmented Representations,2501.15379,http://arxiv.org/abs/2501.15379v1,2025-01-26 03:29:18+00:00
+29,Turn That Frown Upside Down: FaceID Customization via Cross-Training Data,2501.15407,http://arxiv.org/abs/2501.15407v1,2025-01-26 05:27:38+00:00
+30,AnyEnhance: A Unified Generative Model with Prompt-Guidance and Self-Critic for Voice Enhancement,2501.15417,http://arxiv.org/abs/2501.15417v1,2025-01-26 06:40:30+00:00
+31,Visual Generation Without Guidance,2501.15420,http://arxiv.org/abs/2501.15420v1,2025-01-26 06:48:05+00:00
+32,Self-supervised Benchmark Lottery on ImageNet: Do Marginal Improvements Translate to Improvements on Similar Datasets?,2501.15431,http://arxiv.org/abs/2501.15431v1,2025-01-26 07:19:12+00:00
+33,Overview of the Amphion Toolkit (v0.2),2501.15442,http://arxiv.org/abs/2501.15442v1,2025-01-26 08:10:13+00:00
+34,SQ-DM: Accelerating Diffusion Models with Aggressive Quantization and Temporal Sparsity,2501.15448,http://arxiv.org/abs/2501.15448v1,2025-01-26 08:34:26+00:00
+35,Mind the Value-Action Gap: Do LLMs Act in Alignment with Their Values?,2501.15463,http://arxiv.org/abs/2501.15463v1,2025-01-26 09:33:51+00:00
+36,FedAlign: Federated Domain Generalization with Cross-Client Feature Alignment,2501.15486,http://arxiv.org/abs/2501.15486v1,2025-01-26 11:17:32+00:00
+37,AI in Oncology: Transforming Cancer Detection through Machine Learning and Deep Learning Applications,2501.15489,http://arxiv.org/abs/2501.15489v1,2025-01-26 11:32:43+00:00
+38,Expert-Free Online Transfer Learning in Multi-Agent Reinforcement Learning,2501.15495,http://arxiv.org/abs/2501.15495v1,2025-01-26 11:53:18+00:00
+39,FIT-Print: Towards False-claim-resistant Model Ownership Verification via Targeted Fingerprint,2501.15509,http://arxiv.org/abs/2501.15509v1,2025-01-26 13:00:58+00:00
+40,UNIDOOR: A Universal Framework for Action-Level Backdoor Attacks in Deep Reinforcement Learning,2501.15529,http://arxiv.org/abs/2501.15529v1,2025-01-26 13:43:39+00:00
+41,Building Efficient Lightweight CNN Models,2501.15547,http://arxiv.org/abs/2501.15547v1,2025-01-26 14:39:01+00:00
+42,Distributionally Robust Graph Out-of-Distribution Recommendation via Diffusion Model,2501.15555,http://arxiv.org/abs/2501.15555v1,2025-01-26 15:07:52+00:00
+43,Diffusion-Based Planning for Autonomous Driving with Flexible Guidance,2501.15564,http://arxiv.org/abs/2501.15564v1,2025-01-26 15:49:50+00:00
+44,"Comparative clinical evaluation of ""memory-efficient"" synthetic 3d generative adversarial networks (gan) head-to-head to state of art: results on computed tomography of the chest",2501.15572,http://arxiv.org/abs/2501.15572v1,2025-01-26 15:57:44+00:00
+45,SCP-116K: A High-Quality Problem-Solution Dataset and a Generalized Pipeline for Automated Extraction in the Higher Education Science Domain,2501.15587,http://arxiv.org/abs/2501.15587v1,2025-01-26 16:26:38+00:00
+46,Your Learned Constraint is Secretly a Backward Reachable Tube,2501.15618,http://arxiv.org/abs/2501.15618v1,2025-01-26 17:54:43+00:00
+47,Can Pose Transfer Models Generate Realistic Human Motion?,2501.15648,http://arxiv.org/abs/2501.15648v1,2025-01-26 19:17:05+00:00
+48,Marker Track: Accurate Fiducial Marker Tracking for Evaluation of Residual Motions During Breath-Hold Radiotherapy,2501.15660,http://arxiv.org/abs/2501.15660v1,2025-01-26 19:46:49+00:00
+49,"Blissful (A)Ignorance: People form overly positive impressions of others based on their written messages, despite wide-scale adoption of Generative AI",2501.15678,http://arxiv.org/abs/2501.15678v1,2025-01-26 21:38:12+00:00
+50,Transformer-Based Multimodal Knowledge Graph Completion with Link-Aware Contexts,2501.15688,http://arxiv.org/abs/2501.15688v1,2025-01-26 22:23:14+00:00
+51,Beyond Benchmarks: On The False Promise of AI Regulation,2501.15693,http://arxiv.org/abs/2501.15693v1,2025-01-26 22:43:07+00:00
+52,Leveraging Induced Transferable Binding Principles for Associative Prediction of Novel Drug-Target Interactions,2501.16391,http://arxiv.org/abs/2501.16391v1,2025-01-26 08:22:22+00:00
+53,Complete Chess Games Enable LLM Become A Chess Master,2501.17186,http://arxiv.org/abs/2501.17186v2,2025-01-26 09:43:39+00:00
+54,Visualizing Uncertainty in Translation Tasks: An Evaluation of LLM Performance and Confidence Metrics,2501.17187,http://arxiv.org/abs/2501.17187v1,2025-01-26 17:14:51+00:00
+55,Diffusion Generative Modeling for Spatially Resolved Gene Expression Inference from Histology Images,2501.15598,http://arxiv.org/abs/2501.15598v1,2025-01-26 16:52:27+00:00
+56,Learning-Enhanced Safeguard Control for High-Relative-Degree Systems: Robust Optimization under Disturbances and Faults,2501.15373,http://arxiv.org/abs/2501.15373v1,2025-01-26 03:03:02+00:00
