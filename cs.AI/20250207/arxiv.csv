@@ -1,0 +1,101 @@
+,title,id,arxiv_url,published
+0,Ontological analysis of proactive life event services,2501.19308,http://arxiv.org/abs/2501.19308v1,2025-01-31 17:09:53+00:00
+1,MINDSTORES: Memory-Informed Neural Decision Synthesis for Task-Oriented Reinforcement in Embodied Systems,2501.19318,http://arxiv.org/abs/2501.19318v1,2025-01-31 17:15:33+00:00
+2,Counting and Reasoning with Plans,2502.00145,http://arxiv.org/abs/2502.00145v1,2025-01-31 20:03:51+00:00
+3,Bridging the Reasoning Gap: Small LLMs Can Plan with Generalised Strategies,2501.18817,http://arxiv.org/abs/2501.18817v1,2025-01-31 00:28:29+00:00
+4,UP-VLA: A Unified Understanding and Prediction Model for Embodied Agent,2501.18867,http://arxiv.org/abs/2501.18867v2,2025-01-31 03:20:09+00:00
+5,"Building Bridges, Not Walls -- Advancing Interpretability by Unifying Feature, Data, and Model Component Attribution",2501.18887,http://arxiv.org/abs/2501.18887v1,2025-01-31 04:42:45+00:00
+6,Deep Learning based Quasi-consciousness Training for Robot Intelligent Model,2501.18955,http://arxiv.org/abs/2501.18955v1,2025-01-31 08:27:32+00:00
+7,Enhancing Neural Function Approximation: The XNet Outperforming KAN,2501.18959,http://arxiv.org/abs/2501.18959v1,2025-01-31 08:33:10+00:00
+8,GPO-VAE: Modeling Explainable Gene Perturbation Responses utilizing GRN-Aligned Parameter Optimization,2501.18973,http://arxiv.org/abs/2501.18973v1,2025-01-31 09:08:52+00:00
+9,Symmetric Pruning of Large Language Models,2501.18980,http://arxiv.org/abs/2501.18980v1,2025-01-31 09:23:06+00:00
+10,VKFPos: A Learning-Based Monocular Positioning with Variational Bayesian Extended Kalman Filter Integration,2501.18994,http://arxiv.org/abs/2501.18994v1,2025-01-31 09:54:11+00:00
+11,Virtual airways heatmaps to optimize point of entry location in lung biopsy planning systems,2501.19003,http://arxiv.org/abs/2501.19003v1,2025-01-31 10:14:47+00:00
+12,Swarm-Gen: Fast Generation of Diverse Feasible Swarm Behaviors,2501.19042,http://arxiv.org/abs/2501.19042v1,2025-01-31 11:13:09+00:00
+13,Towards Physiologically Sensible Predictions via the Rule-based Reinforcement Learning Layer,2501.19055,http://arxiv.org/abs/2501.19055v1,2025-01-31 11:29:26+00:00
+14,BEAT: Balanced Frequency Adaptive Tuning for Long-Term Time-Series Forecasting,2501.19065,http://arxiv.org/abs/2501.19065v1,2025-01-31 11:52:35+00:00
+15,Improving vision-language alignment with graph spiking hybrid Networks,2501.19069,http://arxiv.org/abs/2501.19069v1,2025-01-31 11:55:17+00:00
+16,Fairness Analysis of CLIP-Based Foundation Models for X-Ray Image Classification,2501.19086,http://arxiv.org/abs/2501.19086v1,2025-01-31 12:23:50+00:00
+17,PathE: Leveraging Entity-Agnostic Paths for Parameter-Efficient Knowledge Graph Embeddings,2501.19095,http://arxiv.org/abs/2501.19095v1,2025-01-31 12:41:02+00:00
+18,A Benchmark for Incremental Micro-expression Recognition,2501.19111,http://arxiv.org/abs/2501.19111v2,2025-01-31 13:14:16+00:00
+19,Principal Components for Neural Network Initialization,2501.19114,http://arxiv.org/abs/2501.19114v1,2025-01-31 13:18:10+00:00
+20,FedRTS: Federated Robust Pruning via Combinatorial Thompson Sampling,2501.19122,http://arxiv.org/abs/2501.19122v1,2025-01-31 13:26:22+00:00
+21,Shaping Sparse Rewards in Reinforcement Learning: A Semi-supervised Approach,2501.19128,http://arxiv.org/abs/2501.19128v1,2025-01-31 13:35:19+00:00
+22,Decorrelated Soft Actor-Critic for Efficient Deep Reinforcement Learning,2501.19133,http://arxiv.org/abs/2501.19133v1,2025-01-31 13:38:57+00:00
+23,A Metric for the Balance of Information in Graph Learning,2501.19137,http://arxiv.org/abs/2501.19137v1,2025-01-31 13:46:42+00:00
+24,SWAT: Sliding Window Adversarial Training for Gradual Domain Adaptation,2501.19155,http://arxiv.org/abs/2501.19155v1,2025-01-31 14:16:22+00:00
+25,Enhancing Model Defense Against Jailbreaks with Proactive Safety Reasoning,2501.19180,http://arxiv.org/abs/2501.19180v1,2025-01-31 14:45:23+00:00
+26,Secured Communication Schemes for UAVs in 5G: CRYSTALS-Kyber and IDS,2501.19191,http://arxiv.org/abs/2501.19191v1,2025-01-31 15:00:27+00:00
+27,"Rethinking Early Stopping: Refine, Then Calibrate",2501.19195,http://arxiv.org/abs/2501.19195v1,2025-01-31 15:03:54+00:00
+28,Strassen Attention: Unlocking Compositional Abilities in Transformers Based on a New Lower Bound Method,2501.19215,http://arxiv.org/abs/2501.19215v1,2025-01-31 15:21:54+00:00
+29,Integrating Semi-Supervised and Active Learning for Semantic Segmentation,2501.19227,http://arxiv.org/abs/2501.19227v1,2025-01-31 15:37:19+00:00
+30,A Zero-Shot Generalization Framework for LLM-Driven Cross-Domain Sequential Recommendation,2501.19232,http://arxiv.org/abs/2501.19232v1,2025-01-31 15:43:21+00:00
+31,SHARPIE: A Modular Framework for Reinforcement Learning and Human-AI Interaction Experiments,2501.19245,http://arxiv.org/abs/2501.19245v2,2025-01-31 15:59:50+00:00
+32,Concept-Based Explainable Artificial Intelligence: Metrics and Benchmarks,2501.19271,http://arxiv.org/abs/2501.19271v1,2025-01-31 16:32:36+00:00
+33,Analysis of LLMs vs Human Experts in Requirements Engineering,2501.19297,http://arxiv.org/abs/2501.19297v2,2025-01-31 16:55:17+00:00
+34,Beyond checkmate: exploring the creative chokepoints in AI text,2501.19301,http://arxiv.org/abs/2501.19301v1,2025-01-31 16:57:01+00:00
+35,SETS: Leveraging Self-Verification and Self-Correction for Improved Test-Time Scaling,2501.19306,http://arxiv.org/abs/2501.19306v2,2025-01-31 17:03:16+00:00
+36,Reward-Guided Speculative Decoding for Efficient LLM Reasoning,2501.19324,http://arxiv.org/abs/2501.19324v1,2025-01-31 17:19:57+00:00
+37,CoSTI: Consistency Models for (a faster) Spatio-Temporal Imputation,2501.19364,http://arxiv.org/abs/2501.19364v1,2025-01-31 18:14:28+00:00
+38,Redefining Machine Unlearning: A Conformal Prediction-Motivated Approach,2501.19403,http://arxiv.org/abs/2501.19403v1,2025-01-31 18:58:43+00:00
+39,Privacy Preserving Charge Location Prediction for Electric Vehicles,2502.00068,http://arxiv.org/abs/2502.00068v1,2025-01-31 03:14:36+00:00
+40,Exploring Transfer Learning for Deep Learning Polyp Detection in Colonoscopy Images Using YOLOv8,2502.00133,http://arxiv.org/abs/2502.00133v1,2025-01-31 19:33:45+00:00
+41,A Three-Branch Checks-and-Balances Frameworkfor Context-Aware Ethical Alignment of Large Language Models,2502.00136,http://arxiv.org/abs/2502.00136v1,2025-01-31 19:41:28+00:00
+42,The role of positional encodings in the ARC benchmark,2502.00174,http://arxiv.org/abs/2502.00174v1,2025-01-31 21:34:54+00:00
+43,EcoWeedNet: A Lightweight and Automated Weed Detection Method for Sustainable Next-Generation Agricultural Consumer Electronics,2502.00205,http://arxiv.org/abs/2502.00205v1,2025-01-31 22:46:20+00:00
+44,Improving Rule-based Reasoning in LLMs via Neurosymbolic Representations,2502.01657,http://arxiv.org/abs/2502.01657v1,2025-01-31 20:29:51+00:00
+45,Employee Turnover Prediction: A Cross-component Attention Transformer with Consideration of Competitor Influence and Contagious Effect,2502.01660,http://arxiv.org/abs/2502.01660v1,2025-01-31 22:25:39+00:00
+46,An Adversarial Approach to Register Extreme Resolution Tissue Cleared 3D Brain Images,2501.18815,http://arxiv.org/abs/2501.18815v1,2025-01-31 00:19:45+00:00
+47,Large Language Models as Common-Sense Heuristics,2501.18816,http://arxiv.org/abs/2501.18816v1,2025-01-31 00:26:38+00:00
+48,An Optimal Cascade Feature-Level Spatiotemporal Fusion Strategy for Anomaly Detection in CAN Bus,2501.18821,http://arxiv.org/abs/2501.18821v1,2025-01-31 00:36:08+00:00
+49,Pitfalls of defacing whole-head MRI: re-identification risk with diffusion models and compromised research potential,2501.18834,http://arxiv.org/abs/2501.18834v1,2025-01-31 00:58:12+00:00
+50,Constitutional Classifiers: Defending against Universal Jailbreaks across Thousands of Hours of Red Teaming,2501.18837,http://arxiv.org/abs/2501.18837v1,2025-01-31 01:09:32+00:00
+51,BRiTE: Bootstrapping Reinforced Thinking Process to Enhance Language Model Reasoning,2501.18858,http://arxiv.org/abs/2501.18858v1,2025-01-31 02:39:07+00:00
+52,REG: Rectified Gradient Guidance for Conditional Diffusion Models,2501.18865,http://arxiv.org/abs/2501.18865v1,2025-01-31 03:16:18+00:00
+53,Deepfake Detection of Singing Voices With Whisper Encodings,2501.18919,http://arxiv.org/abs/2501.18919v1,2025-01-31 06:43:50+00:00
+54,KBQA-o1: Agentic Knowledge Base Question Answering with Monte Carlo Tree Search,2501.18922,http://arxiv.org/abs/2501.18922v1,2025-01-31 06:59:49+00:00
+55,Language Games as the Pathway to Artificial Superhuman Intelligence,2501.18924,http://arxiv.org/abs/2501.18924v1,2025-01-31 07:10:40+00:00
+56,Fantastic Targets for Concept Erasure in Diffusion Models and Where To Find Them,2501.18950,http://arxiv.org/abs/2501.18950v1,2025-01-31 08:17:23+00:00
+57,Adversarial Attacks on AI-Generated Text Detection Models: A Token Probability-Based Approach Using Embeddings,2501.18998,http://arxiv.org/abs/2501.18998v1,2025-01-31 10:06:27+00:00
+58,Enabling Autonomic Microservice Management through Self-Learning Agents,2501.19056,http://arxiv.org/abs/2501.19056v1,2025-01-31 11:32:05+00:00
+59,Logical Modalities within the European AI Act: An Analysis,2501.19112,http://arxiv.org/abs/2501.19112v1,2025-01-31 13:15:33+00:00
+60,Imitation Game for Adversarial Disillusion with Multimodal Generative Chain-of-Thought Role-Play,2501.19143,http://arxiv.org/abs/2501.19143v1,2025-01-31 13:57:34+00:00
+61,Improving Multi-Label Contrastive Learning by Leveraging Label Distribution,2501.19145,http://arxiv.org/abs/2501.19145v1,2025-01-31 14:00:02+00:00
+62,On the inductive bias of infinite-depth ResNets and the bottleneck rank,2501.19149,http://arxiv.org/abs/2501.19149v1,2025-01-31 14:06:13+00:00
+63,Augmented Intelligence for Multimodal Virtual Biopsy in Breast Cancer Using Generative Artificial Intelligence,2501.19176,http://arxiv.org/abs/2501.19176v1,2025-01-31 14:41:17+00:00
+64,Efficient Reasoning with Hidden Thinking,2501.19201,http://arxiv.org/abs/2501.19201v1,2025-01-31 15:10:29+00:00
+65,An Empirical Game-Theoretic Analysis of Autonomous Cyber-Defence Agents,2501.19206,http://arxiv.org/abs/2501.19206v1,2025-01-31 15:15:02+00:00
+66,Linear $Q$-Learning Does Not Diverge: Convergence Rates to a Bounded Set,2501.19254,http://arxiv.org/abs/2501.19254v1,2025-01-31 16:10:50+00:00
+67,Objective Metrics for Human-Subjects Evaluation in Explainable Reinforcement Learning,2501.19256,http://arxiv.org/abs/2501.19256v1,2025-01-31 16:12:23+00:00
+68,Jackpot! Alignment as a Maximal Lottery,2501.19266,http://arxiv.org/abs/2501.19266v1,2025-01-31 16:26:28+00:00
+69,Synthetic User Behavior Sequence Generation with Large Language Models for Smart Homes,2501.19298,http://arxiv.org/abs/2501.19298v1,2025-01-31 16:55:43+00:00
+70,Capturing Temporal Dynamics in Large-Scale Canopy Tree Height Estimation,2501.19328,http://arxiv.org/abs/2501.19328v1,2025-01-31 17:26:06+00:00
+71,Pathological MRI Segmentation by Synthetic Pathological Data Generation in Fetuses and Neonates,2501.19338,http://arxiv.org/abs/2501.19338v1,2025-01-31 17:36:24+00:00
+72,Do Large Multimodal Models Solve Caption Generation for Scientific Figures? Lessons Learned from SCICAP Challenge 2023,2501.19353,http://arxiv.org/abs/2501.19353v1,2025-01-31 18:02:19+00:00
+73,"We're Different, We're the Same: Creative Homogeneity Across LLMs",2501.19361,http://arxiv.org/abs/2501.19361v1,2025-01-31 18:12:41+00:00
+74,Decoding-based Regression,2501.19383,http://arxiv.org/abs/2501.19383v1,2025-01-31 18:37:42+00:00
+75,s1: Simple test-time scaling,2501.19393,http://arxiv.org/abs/2501.19393v2,2025-01-31 18:48:08+00:00
+76,"Do LLMs Strategically Reveal, Conceal, and Infer Information? A Theoretical and Empirical Analysis in The Chameleon Game",2501.19398,http://arxiv.org/abs/2501.19398v1,2025-01-31 18:53:43+00:00
+77,Scalable-Softmax Is Superior for Attention,2501.19399,http://arxiv.org/abs/2501.19399v1,2025-01-31 18:55:35+00:00
+78,Vintix: Action Model via In-Context Reinforcement Learning,2501.19400,http://arxiv.org/abs/2501.19400v1,2025-01-31 18:57:08+00:00
+79,Can AI Solve the Peer Review Crisis? A Large Scale Experiment on LLM's Performance and Biases in Evaluating Economics Papers,2502.00070,http://arxiv.org/abs/2502.00070v1,2025-01-31 04:04:02+00:00
+80,LLM Cyber Evaluations Don't Capture Real-World Risk,2502.00072,http://arxiv.org/abs/2502.00072v1,2025-01-31 05:33:48+00:00
+81,SpikingRTNH: Spiking Neural Network for 4D Radar Object Detection,2502.00074,http://arxiv.org/abs/2502.00074v1,2025-01-31 07:33:30+00:00
+82,Influence of color correction on pathology detection in Capsule Endoscopy,2502.00076,http://arxiv.org/abs/2502.00076v1,2025-01-31 10:05:44+00:00
+83,Ensembles of Low-Rank Expert Adapters,2502.00089,http://arxiv.org/abs/2502.00089v1,2025-01-31 18:07:21+00:00
+84,Demystifying MPNNs: Message Passing as Merely Efficient Matrix Multiplication,2502.00140,http://arxiv.org/abs/2502.00140v1,2025-01-31 19:48:03+00:00
+85,Multimodal MRI-Ultrasound AI for Prostate Cancer Detection Outperforms Radiologist MRI Interpretation: A Multi-Center Study,2502.00146,http://arxiv.org/abs/2502.00146v1,2025-01-31 20:04:20+00:00
+86,A Comprehensive Review: Applicability of Deep Neural Networks in Business Decision Making and Market Prediction Investment,2502.00151,http://arxiv.org/abs/2502.00151v1,2025-01-31 20:24:21+00:00
+87,Understanding Federated Learning from IID to Non-IID dataset: An Experimental Study,2502.00182,http://arxiv.org/abs/2502.00182v1,2025-01-31 21:58:15+00:00
+88,Physics-Informed Neural Network based Damage Identification for Truss Railroad Bridges,2502.00194,http://arxiv.org/abs/2502.00194v1,2025-01-31 22:22:35+00:00
+89,DermaSynth: Rich Synthetic Image-Text Pairs Using Open Access Dermatology Datasets,2502.00196,http://arxiv.org/abs/2502.00196v1,2025-01-31 22:26:33+00:00
+90,Year-over-Year Developments in Financial Fraud Detection via Deep Learning: A Systematic Literature Review,2502.00201,http://arxiv.org/abs/2502.00201v1,2025-01-31 22:31:50+00:00
+91,STP: Self-play LLM Theorem Provers with Iterative Conjecturing and Proving,2502.00212,http://arxiv.org/abs/2502.00212v2,2025-01-31 23:01:48+00:00
+92,Understanding Why Adam Outperforms SGD: Gradient Heterogeneity in Transformers,2502.00213,http://arxiv.org/abs/2502.00213v1,2025-01-31 23:05:52+00:00
+93,Fantastic Multi-Task Gradient Updates and How to Find Them In a Cone,2502.00217,http://arxiv.org/abs/2502.00217v1,2025-01-31 23:11:12+00:00
+94,Should You Use Your Large Language Model to Explore or Exploit?,2502.00225,http://arxiv.org/abs/2502.00225v1,2025-01-31 23:42:53+00:00
+95,A binary PSO based ensemble under-sampling model for rebalancing imbalanced training data,2502.01655,http://arxiv.org/abs/2502.01655v1,2025-01-31 01:45:20+00:00
+96,Longer Attention Span: Increasing Transformer Context Length with Sparse Graph Processing Techniques,2502.01659,http://arxiv.org/abs/2502.01659v1,2025-01-31 22:05:00+00:00
+97,Lightspeed Geometric Dataset Distance via Sliced Optimal Transport,2501.18901,http://arxiv.org/abs/2501.18901v1,2025-01-31 05:42:58+00:00
+98,Understanding Model Calibration -- A gentle introduction and visual exploration of calibration and the expected calibration error (ECE),2501.19047,http://arxiv.org/abs/2501.19047v2,2025-01-31 11:18:45+00:00
+99,Single cell resolution 3D imaging and segmentation within intact live tissues,2501.19203,http://arxiv.org/abs/2501.19203v1,2025-01-31 15:13:04+00:00
