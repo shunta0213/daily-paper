@@ -1,0 +1,101 @@
+,title,id,arxiv_url,published
+0,Estimating Probabilities of Causation with Machine Learning Models,2502.08858,http://arxiv.org/abs/2502.08858v1,2025-02-13 00:18:08+00:00
+1,Off-Switching Not Guaranteed,2502.08864,http://arxiv.org/abs/2502.08864v1,2025-02-13 00:31:21+00:00
+2,MIH-TCCT: Mitigating Inconsistent Hallucinations in LLMs via Event-Driven Text-Code Cyclic Training,2502.08904,http://arxiv.org/abs/2502.08904v1,2025-02-13 02:40:33+00:00
+3,Reinforced Large Language Model is a formal theorem prover,2502.08908,http://arxiv.org/abs/2502.08908v1,2025-02-13 02:49:58+00:00
+4,Self-Consistency of the Internal Reward Models Improves Self-Rewarding Language Models,2502.08922,http://arxiv.org/abs/2502.08922v1,2025-02-13 03:15:31+00:00
+5,Mechanistic Unveiling of Transformer Circuits: Self-Influence as a Key to Model Reasoning,2502.09022,http://arxiv.org/abs/2502.09022v2,2025-02-13 07:19:05+00:00
+6,AoI-Sensitive Data Forwarding with Distributed Beamforming in UAV-Assisted IoT,2502.09038,http://arxiv.org/abs/2502.09038v1,2025-02-13 07:48:36+00:00
+7,Cost-Saving LLM Cascades with Early Abstention,2502.09054,http://arxiv.org/abs/2502.09054v1,2025-02-13 08:08:39+00:00
+8,On LLM-generated Logic Programs and their Inference Execution Methods,2502.09209,http://arxiv.org/abs/2502.09209v1,2025-02-13 11:47:44+00:00
+9,Generating Causally Compliant Counterfactual Explanations using ASP,2502.09226,http://arxiv.org/abs/2502.09226v1,2025-02-13 11:51:53+00:00
+10,Commonsense Reasoning-Aided Autonomous Vehicle Systems,2502.09233,http://arxiv.org/abs/2502.09233v1,2025-02-13 11:53:25+00:00
+11,From large language models to multimodal AI: A scoping review on the potential of generative AI in medicine,2502.09242,http://arxiv.org/abs/2502.09242v1,2025-02-13 11:57:51+00:00
+12,Indeterminacy in Affective Computing: Considering Meaning and Context in Data Collection Practices,2502.09294,http://arxiv.org/abs/2502.09294v1,2025-02-13 13:08:42+00:00
+13,EnigmaEval: A Benchmark of Long Multimodal Reasoning Challenges,2502.08859,http://arxiv.org/abs/2502.08859v2,2025-02-13 00:18:34+00:00
+14,Generative AI for Internet of Things Security: Challenges and Opportunities,2502.08886,http://arxiv.org/abs/2502.08886v1,2025-02-13 01:55:43+00:00
+15,Communication is All You Need: Persuasion Dataset Construction via Multi-LLM Communication,2502.08896,http://arxiv.org/abs/2502.08896v1,2025-02-13 02:22:48+00:00
+16,3D-Grounded Vision-Language Framework for Robotic Task Planning: Automated Prompt Synthesis and Supervised Reasoning,2502.08903,http://arxiv.org/abs/2502.08903v1,2025-02-13 02:40:19+00:00
+17,Towards Automated Fact-Checking of Real-World Claims: Exploring Task Formulation and Assessment with LLMs,2502.08909,http://arxiv.org/abs/2502.08909v1,2025-02-13 02:51:17+00:00
+18,Diffusion Models Through a Global Lens: Are They Culturally Inclusive?,2502.08914,http://arxiv.org/abs/2502.08914v1,2025-02-13 03:05:42+00:00
+19,Exploring Emotion-Sensitive LLM-Based Conversational AI,2502.08920,http://arxiv.org/abs/2502.08920v1,2025-02-13 03:13:38+00:00
+20,On the Promise for Assurance of Differentiable Neurosymbolic Reasoning Paradigms,2502.08932,http://arxiv.org/abs/2502.08932v1,2025-02-13 03:29:42+00:00
+21,TokenSynth: A Token-based Neural Synthesizer for Instrument Cloning and Text-to-Instrument,2502.08939,http://arxiv.org/abs/2502.08939v1,2025-02-13 03:40:30+00:00
+22,Analysis of Off-Policy $n$-Step TD-Learning with Linear Function Approximation,2502.08941,http://arxiv.org/abs/2502.08941v2,2025-02-13 03:43:13+00:00
+23,Language in the Flow of Time: Time-Series-Paired Texts Weaved into a Unified Temporal Narrative,2502.08942,http://arxiv.org/abs/2502.08942v1,2025-02-13 03:43:27+00:00
+24,Biologically Plausible Brain Graph Transformer,2502.08958,http://arxiv.org/abs/2502.08958v1,2025-02-13 04:51:18+00:00
+25,RTBAS: Defending LLM Agents Against Prompt Injection and Privacy Leakage,2502.08966,http://arxiv.org/abs/2502.08966v2,2025-02-13 05:06:22+00:00
+26,Tuning-Free Personalized Alignment via Trial-Error-Explain In-Context Learning,2502.08972,http://arxiv.org/abs/2502.08972v1,2025-02-13 05:20:21+00:00
+27,Neural Force Field: Learning Generalized Physical Representation from a Few Examples,2502.08987,http://arxiv.org/abs/2502.08987v2,2025-02-13 05:50:13+00:00
+28,RLSA-PFL: Robust Lightweight Secure Aggregation with Model Inconsistency Detection in Privacy-Preserving Federated Learning,2502.08989,http://arxiv.org/abs/2502.08989v1,2025-02-13 06:01:09+00:00
+29,PixLift: Accelerating Web Browsing via AI Upscaling,2502.08995,http://arxiv.org/abs/2502.08995v1,2025-02-13 06:14:59+00:00
+30,RoSTE: An Efficient Quantization-Aware Supervised Fine-Tuning Approach for Large Language Models,2502.09003,http://arxiv.org/abs/2502.09003v1,2025-02-13 06:44:33+00:00
+31,EventSTR: A Benchmark Dataset and Baselines for Event Stream based Scene Text Recognition,2502.09020,http://arxiv.org/abs/2502.09020v1,2025-02-13 07:16:16+00:00
+32,Large Images are Gaussians: High-Quality Large Image Representation with Levels of 2D Gaussian Splatting,2502.09039,http://arxiv.org/abs/2502.09039v1,2025-02-13 07:48:56+00:00
+33,Typhoon T1: An Open Thai Reasoning Model,2502.09042,http://arxiv.org/abs/2502.09042v1,2025-02-13 07:55:54+00:00
+34,Exploring the Needs of Practising Musicians in Co-Creative AI Through Co-Design,2502.09055,http://arxiv.org/abs/2502.09055v1,2025-02-13 08:10:07+00:00
+35,Adapting Language-Specific LLMs to a Reasoning Model in One Day via Model Merging - An Open Recipe,2502.09056,http://arxiv.org/abs/2502.09056v2,2025-02-13 08:10:45+00:00
+36,CoSER: Coordinating LLM-Based Persona Simulation of Established Roles,2502.09082,http://arxiv.org/abs/2502.09082v1,2025-02-13 08:55:24+00:00
+37,Logical Reasoning in Large Language Models: A Survey,2502.09100,http://arxiv.org/abs/2502.09100v1,2025-02-13 09:19:14+00:00
+38,One-shot Federated Learning Methods: A Practical Guide,2502.09104,http://arxiv.org/abs/2502.09104v1,2025-02-13 09:26:44+00:00
+39,Automatic Pruning via Structured Lasso with Class-wise Information,2502.09125,http://arxiv.org/abs/2502.09125v1,2025-02-13 10:03:29+00:00
+40,Two-Stage Representation Learning for Analyzing Movement Behavior Dynamics in People Living with Dementia,2502.09173,http://arxiv.org/abs/2502.09173v1,2025-02-13 10:57:25+00:00
+41,RefineCoder: Iterative Improving of Large Language Models via Adaptive Critique Refinement for Code Generation,2502.09183,http://arxiv.org/abs/2502.09183v1,2025-02-13 11:17:53+00:00
+42,Matina: A Large-Scale 73B Token Persian Text Corpus,2502.09188,http://arxiv.org/abs/2502.09188v1,2025-02-13 11:22:19+00:00
+43,Logical Lease Litigation: Prolog and LLMs for Rental Law Compliance in New York,2502.09204,http://arxiv.org/abs/2502.09204v1,2025-02-13 11:45:38+00:00
+44,Counterfactual Explanations as Plans,2502.09205,http://arxiv.org/abs/2502.09205v1,2025-02-13 11:45:54+00:00
+45,LP-LM: No Hallucinations in Question Answering with Logic Programming,2502.09212,http://arxiv.org/abs/2502.09212v1,2025-02-13 11:48:31+00:00
+46,Architecture for Simulating Behavior Mode Changes in Norm-Aware Autonomous Agents,2502.09215,http://arxiv.org/abs/2502.09215v1,2025-02-13 11:49:02+00:00
+47,Data2Concept2Text: An Explainable Multilingual Framework for Data Analysis Narration,2502.09218,http://arxiv.org/abs/2502.09218v1,2025-02-13 11:49:48+00:00
+48,Order-Sorted Intensional Logic: Expressing Subtyping Polymorphism with Typing Assertions and Quantification over Concepts,2502.09224,http://arxiv.org/abs/2502.09224v1,2025-02-13 11:51:22+00:00
+49,Logical foundations of Smart Contracts,2502.09232,http://arxiv.org/abs/2502.09232v1,2025-02-13 11:53:10+00:00
+50,Hybrid Answer Set Programming: Foundations and Applications,2502.09235,http://arxiv.org/abs/2502.09235v1,2025-02-13 11:53:57+00:00
+51,The Joint Entity-Relation Extraction Model Based on Span and Interactive Fusion Representation for Chinese Medical Texts with Complex Semantics,2502.09247,http://arxiv.org/abs/2502.09247v1,2025-02-13 12:03:36+00:00
+52,AnomalyGFM: Graph Foundation Model for Zero/Few-shot Anomaly Detection,2502.09254,http://arxiv.org/abs/2502.09254v1,2025-02-13 12:10:05+00:00
+53,DynSegNet:Dynamic Architecture Adjustment for Adversarial Learning in Segmenting Hemorrhagic Lesions from Fundus Images,2502.09256,http://arxiv.org/abs/2502.09256v1,2025-02-13 12:11:58+00:00
+54,LiSA: Leveraging Link Recommender to Attack Graph Neural Networks via Subgraph Injection,2502.09271,http://arxiv.org/abs/2502.09271v2,2025-02-13 12:33:39+00:00
+55,SparQLe: Speech Queries to Text Translation Through LLMs,2502.09284,http://arxiv.org/abs/2502.09284v1,2025-02-13 12:57:15+00:00
+56,When the LM misunderstood the human chuckled: Analyzing garden path effects in humans and language models,2502.09307,http://arxiv.org/abs/2502.09307v1,2025-02-13 13:19:33+00:00
+57,Graph Diffusion Network for Drug-Gene Prediction,2502.09335,http://arxiv.org/abs/2502.09335v1,2025-02-13 13:54:58+00:00
+58,Neural Spatiotemporal Point Processes: Trends and Challenges,2502.09341,http://arxiv.org/abs/2502.09341v1,2025-02-13 14:01:15+00:00
+59,Simple Path Structural Encoding for Graph Transformers,2502.09365,http://arxiv.org/abs/2502.09365v1,2025-02-13 14:33:02+00:00
+60,A Deep Inverse-Mapping Model for a Flapping Robotic Wing,2502.09378,http://arxiv.org/abs/2502.09378v1,2025-02-13 14:46:04+00:00
+61,TRIFFID: Autonomous Robotic Aid For Increasing First Responders Efficiency,2502.09379,http://arxiv.org/abs/2502.09379v1,2025-02-13 14:46:40+00:00
+62,S$^2$-Diffusion: Generalizing from Instance-level to Category-level Skills in Robot Manipulation,2502.09389,http://arxiv.org/abs/2502.09389v2,2025-02-13 15:06:42+00:00
+63,Transformer-Enhanced Variational Autoencoder for Crystal Structure Prediction,2502.09423,http://arxiv.org/abs/2502.09423v1,2025-02-13 15:45:36+00:00
+64,Dual Formulation for Non-Rectangular Lp Robust Markov Decision Processes,2502.09432,http://arxiv.org/abs/2502.09432v1,2025-02-13 15:55:00+00:00
+65,Variable Stiffness for Robust Locomotion through Reinforcement Learning,2502.09436,http://arxiv.org/abs/2502.09436v1,2025-02-13 16:00:46+00:00
+66,Relational Conformal Prediction for Correlated Time Series,2502.09443,http://arxiv.org/abs/2502.09443v1,2025-02-13 16:12:17+00:00
+67,Wholly-WOOD: Wholly Leveraging Diversified-quality Labels for Weakly-supervised Oriented Object Detection,2502.09471,http://arxiv.org/abs/2502.09471v1,2025-02-13 16:34:59+00:00
+68,PenTest++: Elevating Ethical Hacking with AI and Automation,2502.09484,http://arxiv.org/abs/2502.09484v1,2025-02-13 16:46:23+00:00
+69,Improve LLM-based Automatic Essay Scoring with Linguistic Features,2502.09497,http://arxiv.org/abs/2502.09497v1,2025-02-13 17:09:52+00:00
+70,AttentionSmithy: A Modular Framework for Rapid Transformer Development and Customization,2502.09503,http://arxiv.org/abs/2502.09503v2,2025-02-13 17:15:26+00:00
+71,MDCrow: Automating Molecular Dynamics Workflows with Large Language Models,2502.09565,http://arxiv.org/abs/2502.09565v1,2025-02-13 18:19:20+00:00
+72,MorphNLI: A Stepwise Approach to Natural Language Inference Using Text Morphing,2502.09567,http://arxiv.org/abs/2502.09567v1,2025-02-13 18:22:31+00:00
+73,KIMAs: A Configurable Knowledge Integrated Multi-Agent System,2502.09596,http://arxiv.org/abs/2502.09596v1,2025-02-13 18:51:12+00:00
+74,CoT-Valve: Length-Compressible Chain-of-Thought Tuning,2502.09601,http://arxiv.org/abs/2502.09601v1,2025-02-13 18:52:36+00:00
+75,Are Smarter LLMs Safer? Exploring Safety-Reasoning Trade-offs in Prompting and Fine-Tuning,2502.09673,http://arxiv.org/abs/2502.09673v1,2025-02-13 06:37:28+00:00
+76,The Hidden Dimensions of LLM Alignment: A Multi-Dimensional Safety Analysis,2502.09674,http://arxiv.org/abs/2502.09674v2,2025-02-13 06:39:22+00:00
+77,Object-Centric Latent Action Learning,2502.09680,http://arxiv.org/abs/2502.09680v1,2025-02-13 11:27:05+00:00
+78,Trust at Your Own Peril: A Mixed Methods Exploration of the Ability of Large Language Models to Generate Expert-Like Systems Engineering Artifacts and a Characterization of Failure Modes,2502.09690,http://arxiv.org/abs/2502.09690v1,2025-02-13 17:05:18+00:00
+79,NeuralCFD: Deep Learning on High-Fidelity Automotive Aerodynamics Simulations,2502.09692,http://arxiv.org/abs/2502.09692v1,2025-02-13 17:58:07+00:00
+80,A CNN Approach to Automated Detection and Classification of Brain Tumors,2502.09731,http://arxiv.org/abs/2502.09731v1,2025-02-13 19:33:26+00:00
+81,Vote-Tree-Planner: Optimizing Execution Order in LLM-based Task Planning Pipeline via Voting,2502.09749,http://arxiv.org/abs/2502.09749v1,2025-02-13 20:08:06+00:00
+82,The AI-Therapist Duo: Exploring the Potential of Human-AI Collaboration in Personalized Art Therapy for PICS Intervention,2502.09757,http://arxiv.org/abs/2502.09757v1,2025-02-13 20:31:28+00:00
+83,"Adaptive Teaming in Multi-Drone Pursuit: Simulation, Training, and Deployment",2502.09762,http://arxiv.org/abs/2502.09762v1,2025-02-13 20:45:48+00:00
+84,Differential Adjusted Parity for Learning Fair Representations,2502.09765,http://arxiv.org/abs/2502.09765v1,2025-02-13 20:48:26+00:00
+85,On the existence of EFX allocations in multigraphs,2502.09777,http://arxiv.org/abs/2502.09777v1,2025-02-13 21:16:27+00:00
+86,A Survey on LLM-based News Recommender Systems,2502.09797,http://arxiv.org/abs/2502.09797v1,2025-02-13 22:13:59+00:00
+87,AgentGuard: Repurposing Agentic Orchestrator for Safety Evaluation of Tool Orchestration,2502.09809,http://arxiv.org/abs/2502.09809v1,2025-02-13 23:00:33+00:00
+88,MetaDE: Evolving Differential Evolution by Differential Evolution,2502.10470,http://arxiv.org/abs/2502.10470v1,2025-02-13 09:24:47+00:00
+89,Diverse Transformer Decoding for Offline Reinforcement Learning Using Financial Algorithmic Approaches,2502.10473,http://arxiv.org/abs/2502.10473v1,2025-02-13 15:51:46+00:00
+90,Knowledge Integration Strategies in Autonomous Vehicle Prediction and Planning: A Comprehensive Survey,2502.10477,http://arxiv.org/abs/2502.10477v1,2025-02-13 19:32:41+00:00
+91,"TastepepAI, An artificial intelligence platform for taste peptide de novo design",2502.12167,http://arxiv.org/abs/2502.12167v1,2025-02-13 03:09:14+00:00
+92,nanoML for Human Activity Recognition,2502.12173,http://arxiv.org/abs/2502.12173v1,2025-02-13 19:40:03+00:00
+93,Harnessing Vision Models for Time Series Analysis: A Survey,2502.08869,http://arxiv.org/abs/2502.08869v1,2025-02-13 00:42:11+00:00
+94,Data Sensor Fusion In Digital Twin Technology For Enhanced Capabilities In A Home Environment,2502.08874,http://arxiv.org/abs/2502.08874v1,2025-02-13 01:14:30+00:00
+95,ShapeLib: designing a library of procedural 3D shape abstractions with Large Language Models,2502.08884,http://arxiv.org/abs/2502.08884v1,2025-02-13 01:52:02+00:00
+96,Learning in Strategic Queuing Systems with Small Buffers,2502.08898,http://arxiv.org/abs/2502.08898v1,2025-02-13 02:23:23+00:00
+97,PathFinder: A Multi-Modal Multi-Agent System for Medical Diagnostic Decision-Making Applied to Histopathology,2502.08916,http://arxiv.org/abs/2502.08916v1,2025-02-13 03:08:02+00:00
+98,CopySpec: Accelerating LLMs with Speculative Copy-and-Paste Without Compromising Quality,2502.08923,http://arxiv.org/abs/2502.08923v1,2025-02-13 03:19:50+00:00
+99,Escaping Collapse: The Strength of Weak Data for Large Language Model Training,2502.08924,http://arxiv.org/abs/2502.08924v1,2025-02-13 03:20:37+00:00
