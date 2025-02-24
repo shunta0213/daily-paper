@@ -1,0 +1,101 @@
+,title,id,arxiv_url,published
+0,Planning of Heuristics: Strategic Planning on Large Language Models with Monte Carlo Tree Search for Automating Heuristic Optimization,2502.11422,http://arxiv.org/abs/2502.11422v1,2025-02-17 04:35:01+00:00
+1,AGrail: A Lifelong Agent Guardrail with Effective and Adaptive Safety Detection,2502.11448,http://arxiv.org/abs/2502.11448v2,2025-02-17 05:12:33+00:00
+2,A Survey of Personalized Large Language Models: Progress and Future Directions,2502.11528,http://arxiv.org/abs/2502.11528v1,2025-02-17 07:58:31+00:00
+3,Equilibrate RLHF: Towards Balancing Helpfulness-Safety Trade-off in Large Language Models,2502.11555,http://arxiv.org/abs/2502.11555v1,2025-02-17 08:40:30+00:00
+4,Large Language Models and Mathematical Reasoning Failures,2502.11574,http://arxiv.org/abs/2502.11574v1,2025-02-17 09:07:32+00:00
+5,Calibration of Vehicular Traffic Simulation Models by Local Optimization,2502.11585,http://arxiv.org/abs/2502.11585v1,2025-02-17 09:17:01+00:00
+6,VRoPE: Rotary Position Embedding for Video Large Language Models,2502.11664,http://arxiv.org/abs/2502.11664v1,2025-02-17 10:53:57+00:00
+7,Energy-Conscious LLM Decoding: Impact of Text Generation Strategies on GPU Energy Consumption,2502.11723,http://arxiv.org/abs/2502.11723v1,2025-02-17 12:10:25+00:00
+8,HintsOfTruth: A Multimodal Checkworthiness Detection Dataset with Real and Synthetic Claims,2502.11753,http://arxiv.org/abs/2502.11753v1,2025-02-17 12:49:55+00:00
+9,Cognitive-Aligned Document Selection for Retrieval-augmented Generation,2502.11770,http://arxiv.org/abs/2502.11770v1,2025-02-17 13:00:15+00:00
+10,STRIVE: Structured Reasoning for Self-Improvement in Claim Verification,2502.11959,http://arxiv.org/abs/2502.11959v1,2025-02-17 16:07:07+00:00
+11,KnowPath: Knowledge-enhanced Reasoning via LLM-generated Inference Paths over Knowledge Graphs,2502.12029,http://arxiv.org/abs/2502.12029v1,2025-02-17 17:02:01+00:00
+12,PhysReason: A Comprehensive Benchmark towards Physics-Based Reasoning,2502.12054,http://arxiv.org/abs/2502.12054v1,2025-02-17 17:24:14+00:00
+13,Scaling Autonomous Agents via Automatic Reward Modeling And Planning,2502.12130,http://arxiv.org/abs/2502.12130v1,2025-02-17 18:49:25+00:00
+14,Transformer Dynamics: A neuroscientific approach to interpretability of large language models,2502.12131,http://arxiv.org/abs/2502.12131v1,2025-02-17 18:49:40+00:00
+15,Small Models Struggle to Learn from Strong Reasoners,2502.12143,http://arxiv.org/abs/2502.12143v1,2025-02-17 18:56:15+00:00
+16,System Message Generation for User Preferences using Open-Source Models,2502.11330,http://arxiv.org/abs/2502.11330v1,2025-02-17 01:05:31+00:00
+17,Inverse Flow and Consistency Models,2502.11333,http://arxiv.org/abs/2502.11333v1,2025-02-17 01:11:42+00:00
+18,Explorer: Scaling Exploration-driven Web Trajectory Synthesis for Multimodal Web Agents,2502.11357,http://arxiv.org/abs/2502.11357v2,2025-02-17 02:13:48+00:00
+19,Mimicking the Familiar: Dynamic Command Generation for Information Theft Attacks in LLM Tool-Learning System,2502.11358,http://arxiv.org/abs/2502.11358v1,2025-02-17 02:15:46+00:00
+20,LLMs can Perform Multi-Dimensional Analytic Writing Assessments: A Case Study of L2 Graduate-Level Academic English Writing,2502.11368,http://arxiv.org/abs/2502.11368v1,2025-02-17 02:31:56+00:00
+21,Without Paired Labeled Data: An End-to-End Self-Supervised Paradigm for UAV-View Geo-Localization,2502.11381,http://arxiv.org/abs/2502.11381v1,2025-02-17 02:53:08+00:00
+22,"TimeCAP: Learning to Contextualize, Augment, and Predict Time Series Events with Large Language Model Agents",2502.11418,http://arxiv.org/abs/2502.11418v1,2025-02-17 04:17:27+00:00
+23,Counterfactual-Consistency Prompting for Relative Temporal Understanding in Large Language Models,2502.11425,http://arxiv.org/abs/2502.11425v1,2025-02-17 04:37:07+00:00
+24,Learning Dexterous Bimanual Catch Skills through Adversarial-Cooperative Heterogeneous-Agent Reinforcement Learning,2502.11437,http://arxiv.org/abs/2502.11437v1,2025-02-17 04:50:45+00:00
+25,Does Editing Provide Evidence for Localization?,2502.11447,http://arxiv.org/abs/2502.11447v2,2025-02-17 05:09:46+00:00
+26,Fishing For Cheap And Efficient Pruners At Initialization,2502.11450,http://arxiv.org/abs/2502.11450v1,2025-02-17 05:22:23+00:00
+27,Connector-S: A Survey of Connectors in Multi-modal Large Language Models,2502.11453,http://arxiv.org/abs/2502.11453v1,2025-02-17 05:28:04+00:00
+28,Leveraging Labelled Data Knowledge: A Cooperative Rectification Learning Network for Semi-supervised 3D Medical Image Segmentation,2502.11456,http://arxiv.org/abs/2502.11456v1,2025-02-17 05:29:50+00:00
+29,Aligning Sentence Simplification with ESL Learner's Proficiency for Language Acquisition,2502.11457,http://arxiv.org/abs/2502.11457v1,2025-02-17 05:32:56+00:00
+30,Towards Efficient Pre-training: Exploring FP4 Precision in Large Language Models,2502.11458,http://arxiv.org/abs/2502.11458v1,2025-02-17 05:33:11+00:00
+31,Optimized detection of cyber-attacks on IoT networks via hybrid deep learning models,2502.11470,http://arxiv.org/abs/2502.11470v1,2025-02-17 06:01:06+00:00
+32,Variable-frame CNNLSTM for Breast Nodule Classification using Ultrasound Videos,2502.11481,http://arxiv.org/abs/2502.11481v1,2025-02-17 06:35:37+00:00
+33,Ontology-Guided Reverse Thinking Makes Large Language Models Stronger on Knowledge Graph Question Answering,2502.11491,http://arxiv.org/abs/2502.11491v1,2025-02-17 06:53:15+00:00
+34,"Chinese Spelling Correction: A Comprehensive Survey of Progress, Challenges, and Opportunities",2502.11508,http://arxiv.org/abs/2502.11508v1,2025-02-17 07:17:27+00:00
+35,DifCluE: Generating Counterfactual Explanations with Diffusion Autoencoders and modal clustering,2502.11509,http://arxiv.org/abs/2502.11509v1,2025-02-17 07:17:37+00:00
+36,MaZO: Masked Zeroth-Order Optimization for Multi-Task Fine-Tuning of Large Language Models,2502.11513,http://arxiv.org/abs/2502.11513v1,2025-02-17 07:28:52+00:00
+37,UniGO: A Unified Graph Neural Network for Modeling Opinion Dynamics on Graphs,2502.11519,http://arxiv.org/abs/2502.11519v1,2025-02-17 07:40:32+00:00
+38,DeFiScope: Detecting Various DeFi Price Manipulations with LLM Reasoning,2502.11521,http://arxiv.org/abs/2502.11521v1,2025-02-17 07:45:03+00:00
+39,$\text{M}^{\text{3}}$: A Modular World Model over Streams of Tokens,2502.11537,http://arxiv.org/abs/2502.11537v2,2025-02-17 08:06:10+00:00
+40,MuSC: Improving Complex Instruction Following with Multi-granularity Self-Contrastive Training,2502.11541,http://arxiv.org/abs/2502.11541v1,2025-02-17 08:12:49+00:00
+41,Auto-Search and Refinement: An Automated Framework for Gender Bias Mitigation in Large Language Models,2502.11559,http://arxiv.org/abs/2502.11559v1,2025-02-17 08:44:04+00:00
+42,A Survey of Automatic Prompt Engineering: An Optimization Perspective,2502.11560,http://arxiv.org/abs/2502.11560v1,2025-02-17 08:48:07+00:00
+43,Leader and Follower: Interactive Motion Generation under Trajectory Constraints,2502.11563,http://arxiv.org/abs/2502.11563v1,2025-02-17 08:52:45+00:00
+44,InfiR : Crafting Effective Small Language Models and Multimodal Small Language Models in Reasoning,2502.11573,http://arxiv.org/abs/2502.11573v1,2025-02-17 09:07:32+00:00
+45,Language Complexity Measurement as a Noisy Zero-Shot Proxy for Evaluating LLM Performance,2502.11578,http://arxiv.org/abs/2502.11578v1,2025-02-17 09:09:58+00:00
+46,A Unified Modeling Framework for Automated Penetration Testing,2502.11588,http://arxiv.org/abs/2502.11588v1,2025-02-17 09:21:53+00:00
+47,LLM Embeddings for Deep Learning on Tabular Data,2502.11596,http://arxiv.org/abs/2502.11596v1,2025-02-17 09:28:51+00:00
+48,DR.GAP: Mitigating Bias in Large Language Models using Gender-Aware Prompting with Demonstration and Reasoning,2502.11603,http://arxiv.org/abs/2502.11603v1,2025-02-17 09:43:36+00:00
+49,Identifying Gender Stereotypes and Biases in Automated Translation from English to Italian using Similarity Networks,2502.11611,http://arxiv.org/abs/2502.11611v1,2025-02-17 09:55:32+00:00
+50,Maximum Entropy Reinforcement Learning with Diffusion Policy,2502.11612,http://arxiv.org/abs/2502.11612v2,2025-02-17 09:55:58+00:00
+51,Is Human-Like Text Liked by Humans? Multilingual Human Detection and Preference Against AI,2502.11614,http://arxiv.org/abs/2502.11614v1,2025-02-17 09:56:46+00:00
+52,InTec: integrated things-edge computing: a framework for distributing machine learning pipelines in edge AI systems,2502.11644,http://arxiv.org/abs/2502.11644v1,2025-02-17 10:38:00+00:00
+53,DELMAN: Dynamic Defense Against Large Language Model Jailbreaking with Model Editing,2502.11647,http://arxiv.org/abs/2502.11647v1,2025-02-17 10:39:21+00:00
+54,Competing LLM Agents in a Non-Cooperative Game of Opinion Polarisation,2502.11649,http://arxiv.org/abs/2502.11649v1,2025-02-17 10:41:55+00:00
+55,MMXU: A Multi-Modal and Multi-X-ray Understanding Dataset for Disease Progression,2502.11651,http://arxiv.org/abs/2502.11651v1,2025-02-17 10:43:38+00:00
+56,RIDE: Enhancing Large Language Model Alignment through Restyled In-Context Learning Demonstration Exemplars,2502.11681,http://arxiv.org/abs/2502.11681v2,2025-02-17 11:16:19+00:00
+57,MathFimer: Enhancing Mathematical Reasoning by Expanding Reasoning Steps through Fill-in-the-Middle Task,2502.11684,http://arxiv.org/abs/2502.11684v1,2025-02-17 11:22:24+00:00
+58,Knowledge-aware contrastive heterogeneous molecular graph learning,2502.11711,http://arxiv.org/abs/2502.11711v1,2025-02-17 11:53:58+00:00
+59,Proactive Depot Discovery: A Generative Framework for Flexible Location-Routing,2502.11715,http://arxiv.org/abs/2502.11715v1,2025-02-17 12:00:28+00:00
+60,ReviewEval: An Evaluation Framework for AI-Generated Reviews,2502.11736,http://arxiv.org/abs/2502.11736v1,2025-02-17 12:22:11+00:00
+61,SQL-o1: A Self-Reward Heuristic Dynamic Search Method for Text-to-SQL,2502.11741,http://arxiv.org/abs/2502.11741v1,2025-02-17 12:28:11+00:00
+62,JotlasNet: Joint Tensor Low-Rank and Attention-based Sparse Unrolling Network for Accelerating Dynamic MRI,2502.11749,http://arxiv.org/abs/2502.11749v1,2025-02-17 12:43:04+00:00
+63,Language Models Can See Better: Visual Contrastive Decoding For LLM Multimodal Reasoning,2502.11751,http://arxiv.org/abs/2502.11751v1,2025-02-17 12:47:00+00:00
+64,Lightweight Deepfake Detection Based on Multi-Feature Fusion,2502.11763,http://arxiv.org/abs/2502.11763v1,2025-02-17 12:55:41+00:00
+65,The Validation Gap: A Mechanistic Analysis of How Language Models Compute Arithmetic but Fail to Validate It,2502.11771,http://arxiv.org/abs/2502.11771v1,2025-02-17 13:00:44+00:00
+66,Deep Neural Networks for Accurate Depth Estimation with Latent Space Features,2502.11777,http://arxiv.org/abs/2502.11777v1,2025-02-17 13:11:35+00:00
+67,Table-Critic: A Multi-Agent Framework for Collaborative Criticism and Refinement in Table Reasoning,2502.11799,http://arxiv.org/abs/2502.11799v1,2025-02-17 13:42:12+00:00
+68,Revealing Bias Formation in Deep Neural Networks Through the Geometric Mechanisms of Human Visual Decoupling,2502.11809,http://arxiv.org/abs/2502.11809v1,2025-02-17 13:54:02+00:00
+69,Intuitive physics understanding emerges from self-supervised pretraining on natural videos,2502.11831,http://arxiv.org/abs/2502.11831v1,2025-02-17 14:27:14+00:00
+70,FedEAT: A Robustness Optimization Framework for Federated LLMs,2502.11863,http://arxiv.org/abs/2502.11863v1,2025-02-17 14:55:46+00:00
+71,Hypothesis-Driven Theory-of-Mind Reasoning for Large Language Models,2502.11881,http://arxiv.org/abs/2502.11881v1,2025-02-17 15:08:50+00:00
+72,Continual Quantization-Aware Pre-Training: When to transition from 16-bit to 1.58-bit pre-training for BitNet language models?,2502.11895,http://arxiv.org/abs/2502.11895v1,2025-02-17 15:21:11+00:00
+73,CAMEL: Continuous Action Masking Enabled by Large Language Models for Reinforcement Learning,2502.11896,http://arxiv.org/abs/2502.11896v1,2025-02-17 15:22:19+00:00
+74,DLFR-VAE: Dynamic Latent Frame Rate VAE for Video Generation,2502.11897,http://arxiv.org/abs/2502.11897v1,2025-02-17 15:22:31+00:00
+75,On the robustness of ChatGPT in teaching Korean Mathematics,2502.11915,http://arxiv.org/abs/2502.11915v1,2025-02-17 15:31:27+00:00
+76,EssayJudge: A Multi-Granular Benchmark for Assessing Automated Essay Scoring Capabilities of Multimodal Large Language Models,2502.11916,http://arxiv.org/abs/2502.11916v1,2025-02-17 15:31:59+00:00
+77,FitLight: Federated Imitation Learning for Plug-and-Play Autonomous Traffic Signal Control,2502.11937,http://arxiv.org/abs/2502.11937v1,2025-02-17 15:48:46+00:00
+78,Deep Spatio-Temporal Neural Network for Air Quality Reanalysis,2502.11941,http://arxiv.org/abs/2502.11941v1,2025-02-17 15:52:22+00:00
+79,Massively Scaling Explicit Policy-conditioned Value Functions,2502.11949,http://arxiv.org/abs/2502.11949v1,2025-02-17 16:02:54+00:00
+80,Navigating the Helpfulness-Truthfulness Trade-Off with Uncertainty-Aware Instruction Fine-Tuning,2502.11962,http://arxiv.org/abs/2502.11962v1,2025-02-17 16:10:30+00:00
+81,A MIMO Wireless Channel Foundation Model via CIR-CSI Consistency,2502.11965,http://arxiv.org/abs/2502.11965v1,2025-02-17 16:13:40+00:00
+82,Theoretical Barriers in Bellman-Based Reinforcement Learning,2502.11968,http://arxiv.org/abs/2502.11968v1,2025-02-17 16:18:00+00:00
+83,Presumed Cultural Identity: How Names Shape LLM Responses,2502.11995,http://arxiv.org/abs/2502.11995v1,2025-02-17 16:35:15+00:00
+84,Demographic Attributes Prediction from Speech Using WavLM Embeddings,2502.12007,http://arxiv.org/abs/2502.12007v1,2025-02-17 16:43:47+00:00
+85,Teaching LLMs According to Their Aptitude: Adaptive Reasoning for Mathematical Problem Solving,2502.12022,http://arxiv.org/abs/2502.12022v1,2025-02-17 16:56:23+00:00
+86,SafeChain: Safety of Language Models with Long Chain-of-Thought Reasoning Capabilities,2502.12025,http://arxiv.org/abs/2502.12025v1,2025-02-17 16:57:56+00:00
+87,Masked Latent Prediction and Classification for Self-Supervised Audio Representation Learning,2502.12031,http://arxiv.org/abs/2502.12031v1,2025-02-17 17:02:26+00:00
+88,AI-generated Text Detection with a GLTR-based Approach,2502.12064,http://arxiv.org/abs/2502.12064v1,2025-02-17 17:32:55+00:00
+89,TokenSkip: Controllable Chain-of-Thought Compression in LLMs,2502.12067,http://arxiv.org/abs/2502.12067v1,2025-02-17 17:37:26+00:00
+90,Meta-Statistical Learning: Supervised Learning of Statistical Inference,2502.12088,http://arxiv.org/abs/2502.12088v2,2025-02-17 18:04:39+00:00
+91,A Study on Leveraging Search and Self-Feedback for Agent Reasoning,2502.12094,http://arxiv.org/abs/2502.12094v1,2025-02-17 18:12:36+00:00
+92,Relational Norms for Human-AI Cooperation,2502.12102,http://arxiv.org/abs/2502.12102v1,2025-02-17 18:23:29+00:00
+93,Personality Structured Interview for Large Language Model Simulation in Personality Research,2502.12109,http://arxiv.org/abs/2502.12109v1,2025-02-17 18:31:57+00:00
+94,Hypernym Bias: Unraveling Deep Classifier Training Dynamics through the Lens of Class Hierarchy,2502.12125,http://arxiv.org/abs/2502.12125v1,2025-02-17 18:47:01+00:00
+95,LaM-SLidE: Latent Space Modeling of Spatial Dynamical Systems via Linked Entities,2502.12128,http://arxiv.org/abs/2502.12128v1,2025-02-17 18:49:13+00:00
+96,Fast or Better? Balancing Accuracy and Cost in Retrieval-Augmented Generation with Flexible User Control,2502.12145,http://arxiv.org/abs/2502.12145v1,2025-02-17 18:56:20+00:00
+97,Spatiotemporal-aware Trend-Seasonality Decomposition Network for Traffic Flow Forecasting,2502.12213,http://arxiv.org/abs/2502.12213v1,2025-02-17 03:29:02+00:00
+98,Zero Token-Driven Deep Thinking in LLMs: Unlocking the Full Potential of Existing Parameters via Cyclic Refinement,2502.12214,http://arxiv.org/abs/2502.12214v1,2025-02-17 04:37:22+00:00
+99,IMPACTX: Improving Model Performance by Appropriately predicting CorrecT eXplanations,2502.12222,http://arxiv.org/abs/2502.12222v1,2025-02-17 14:15:20+00:00
