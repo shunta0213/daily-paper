@@ -1,0 +1,62 @@
+,title,id,arxiv_url,published
+0,"A Law Reasoning Benchmark for LLM with Tree-Organized Structures including Factum Probandum, Evidence and Experiences",2503.00841,http://arxiv.org/abs/2503.00841v1,2025-03-02 10:26:54+00:00
+1,NeSyC: A Neuro-symbolic Continual Learner For Complex Embodied Tasks In Open Domains,2503.00870,http://arxiv.org/abs/2503.00870v1,2025-03-02 12:16:20+00:00
+2,OrdRankBen: A Novel Ranking Benchmark for Ordinal Relevance in NLP,2503.00674,http://arxiv.org/abs/2503.00674v1,2025-03-02 00:28:55+00:00
+3,GPIoT: Tailoring Small Language Models for IoT Program Synthesis and Development,2503.00686,http://arxiv.org/abs/2503.00686v1,2025-03-02 01:55:40+00:00
+4,OpenECG: Benchmarking ECG Foundation Models with Public 1.2 Million Records,2503.00711,http://arxiv.org/abs/2503.00711v1,2025-03-02 03:26:14+00:00
+5,LLMDR: LLM-Driven Deadlock Detection and Resolution in Multi-Agent Pathfinding,2503.00717,http://arxiv.org/abs/2503.00717v1,2025-03-02 03:49:15+00:00
+6,CLEA: Closed-Loop Embodied Agent for Enhancing Task Execution in Dynamic Environments,2503.00729,http://arxiv.org/abs/2503.00729v1,2025-03-02 04:50:59+00:00
+7,LADDER: Self-Improving LLMs Through Recursive Problem Decomposition,2503.00735,http://arxiv.org/abs/2503.00735v3,2025-03-02 05:16:43+00:00
+8,Confounder-Aware Medical Data Selection for Fine-Tuning Pretrained Vision Models,2503.00744,http://arxiv.org/abs/2503.00744v1,2025-03-02 05:50:25+00:00
+9,Edge Prompt Tuning for Graph Neural Networks,2503.00750,http://arxiv.org/abs/2503.00750v1,2025-03-02 06:07:54+00:00
+10,RAPID: Efficient Retrieval-Augmented Long Text Generation with Writing Planning and Information Discovery,2503.00751,http://arxiv.org/abs/2503.00751v1,2025-03-02 06:11:29+00:00
+11,Rethinking Light Decoder-based Solvers for Vehicle Routing Problems,2503.00753,http://arxiv.org/abs/2503.00753v1,2025-03-02 06:13:00+00:00
+12,LLMs are everywhere: Ubiquitous Utilization of AI Models through Air Computing,2503.00767,http://arxiv.org/abs/2503.00767v1,2025-03-02 07:24:34+00:00
+13,Enhanced Multi-Class Classification of Gastrointestinal Endoscopic Images with Interpretable Deep Learning Model,2503.00780,http://arxiv.org/abs/2503.00780v1,2025-03-02 08:07:50+00:00
+14,Towards Efficient Educational Chatbots: Benchmarking RAG Frameworks,2503.00781,http://arxiv.org/abs/2503.00781v1,2025-03-02 08:11:07+00:00
+15,FLOAT Drone: A Fully-actuated Coaxial Aerial Robot for Close-Proximity Operations,2503.00785,http://arxiv.org/abs/2503.00785v1,2025-03-02 08:30:30+00:00
+16,Graph Attention Networks Unleashed: A Fast and Explainable Vulnerability Assessment Framework for Microgrids,2503.00786,http://arxiv.org/abs/2503.00786v1,2025-03-02 08:31:27+00:00
+17,Towards Reliable LLM-Driven Fuzz Testing: Vision and Road Ahead,2503.00795,http://arxiv.org/abs/2503.00795v1,2025-03-02 08:46:39+00:00
+18,DELST: Dual Entailment Learning for Hyperbolic Image-Gene Pretraining in Spatial Transcriptomics,2503.00804,http://arxiv.org/abs/2503.00804v1,2025-03-02 09:00:09+00:00
+19,AI Agents for Ground-Based Gamma Astronomy,2503.00821,http://arxiv.org/abs/2503.00821v1,2025-03-02 09:55:54+00:00
+20,MTReD: 3D Reconstruction Dataset for Fly-over Videos of Maritime Domain,2503.00853,http://arxiv.org/abs/2503.00853v1,2025-03-02 11:10:34+00:00
+21,Babel: Open Multilingual Large Language Models Serving Over 90% of Global Speakers,2503.00865,http://arxiv.org/abs/2503.00865v1,2025-03-02 11:53:55+00:00
+22,Evolving High-Quality Rendering and Reconstruction in a Unified Framework with Contribution-Adaptive Regularization,2503.00881,http://arxiv.org/abs/2503.00881v1,2025-03-02 12:51:38+00:00
+23,Estimating Blood Pressure with a Camera: An Exploratory Study of Ambulatory Patients with Cardiovascular Disease,2503.00890,http://arxiv.org/abs/2503.00890v1,2025-03-02 13:24:50+00:00
+24,S4M: S4 for multivariate time series forecasting with Missing values,2503.00900,http://arxiv.org/abs/2503.00900v1,2025-03-02 13:59:59+00:00
+25,HiBench: Benchmarking LLMs Capability on Hierarchical Structure Reasoning,2503.00912,http://arxiv.org/abs/2503.00912v1,2025-03-02 14:25:37+00:00
+26,Multimodal Distillation-Driven Ensemble Learning for Long-Tailed Histopathology Whole Slide Images Analysis,2503.00915,http://arxiv.org/abs/2503.00915v1,2025-03-02 14:31:45+00:00
+27,Behavior Preference Regression for Offline Reinforcement Learning,2503.00930,http://arxiv.org/abs/2503.00930v1,2025-03-02 15:13:02+00:00
+28,SemViQA: A Semantic Question Answering System for Vietnamese Information Fact-Checking,2503.00955,http://arxiv.org/abs/2503.00955v1,2025-03-02 16:22:46+00:00
+29,An Exact Solver for Satisfiability Modulo Counting with Probabilistic Circuits,2503.01009,http://arxiv.org/abs/2503.01009v1,2025-03-02 20:28:20+00:00
+30,MedUnifier: Unifying Vision-and-Language Pre-training on Medical Data with Vision Generation Task using Discrete Visual Representations,2503.01019,http://arxiv.org/abs/2503.01019v2,2025-03-02 21:09:32+00:00
+31,Language Models Predict Empathy Gaps Between Social In-groups and Out-groups,2503.01030,http://arxiv.org/abs/2503.01030v1,2025-03-02 21:31:14+00:00
+32,SFO: Piloting VLM Feedback for Offline RL,2503.01062,http://arxiv.org/abs/2503.01062v1,2025-03-02 23:52:46+00:00
+33,NCL-UoR at SemEval-2025 Task 3: Detecting Multilingual Hallucination and Related Observable Overgeneration Text Spans with Modified RefChecker and Modified SeflCheckGPT,2503.01921,http://arxiv.org/abs/2503.01921v1,2025-03-02 04:21:33+00:00
+34,Output Length Effect on DeepSeek-R1's Safety in Forced Thinking,2503.01923,http://arxiv.org/abs/2503.01923v1,2025-03-02 06:29:22+00:00
+35,Unnatural Languages Are Not Bugs but Features for LLMs,2503.01926,http://arxiv.org/abs/2503.01926v1,2025-03-02 12:10:17+00:00
+36,Factorized Deep Q-Network for Cooperative Multi-Agent Reinforcement Learning in Victim Tagging,2503.00684,http://arxiv.org/abs/2503.00684v1,2025-03-02 01:32:09+00:00
+37,How Diversely Can Language Models Solve Problems? Exploring the Algorithmic Diversity of Model-Generated Code,2503.00691,http://arxiv.org/abs/2503.00691v1,2025-03-02 02:04:58+00:00
+38,CREATE-FFPE: Cross-Resolution Compensated and Multi-Frequency Enhanced FS-to-FFPE Stain Transfer for Intraoperative IHC Images,2503.00697,http://arxiv.org/abs/2503.00697v1,2025-03-02 02:38:11+00:00
+39,Parameter Expanded Stochastic Gradient Markov Chain Monte Carlo,2503.00699,http://arxiv.org/abs/2503.00699v1,2025-03-02 02:42:50+00:00
+40,Enhancing Monocular 3D Scene Completion with Diffusion Model,2503.00726,http://arxiv.org/abs/2503.00726v1,2025-03-02 04:36:57+00:00
+41,From Understanding the World to Intervening in It: A Unified Multi-Scale Framework for Embodied Cognition,2503.00727,http://arxiv.org/abs/2503.00727v1,2025-03-02 04:43:08+00:00
+42,MR-EIT: Multi-Resolution Reconstruction for Electrical Impedance Tomography via Data-Driven and Unsupervised Dual-Mode Neural Networks,2503.00762,http://arxiv.org/abs/2503.00762v1,2025-03-02 07:06:42+00:00
+43,Bridging Spectral-wise and Multi-spectral Depth Estimation via Geometry-guided Contrastive Learning,2503.00793,http://arxiv.org/abs/2503.00793v1,2025-03-02 08:45:58+00:00
+44,Rewarding Graph Reasoning Process makes LLMs more Generalized Reasoners,2503.00845,http://arxiv.org/abs/2503.00845v1,2025-03-02 10:39:40+00:00
+45,CyberCScope: Mining Skewed Tensor Streams and Online Anomaly Detection in Cybersecurity Systems,2503.00871,http://arxiv.org/abs/2503.00871v1,2025-03-02 12:17:24+00:00
+46,A Simple and Effective Reinforcement Learning Method for Text-to-Image Diffusion Fine-tuning,2503.00897,http://arxiv.org/abs/2503.00897v3,2025-03-02 13:43:53+00:00
+47,Improving the Transferability of Adversarial Attacks by an Input Transpose,2503.00932,http://arxiv.org/abs/2503.00932v1,2025-03-02 15:13:41+00:00
+48,Can AI Model the Complexities of Human Moral Decision-Making? A Qualitative Study of Kidney Allocation Decisions,2503.00940,http://arxiv.org/abs/2503.00940v1,2025-03-02 15:42:17+00:00
+49,Cross Modality Medical Image Synthesis for Improving Liver Segmentation,2503.00945,http://arxiv.org/abs/2503.00945v1,2025-03-02 15:54:12+00:00
+50,Exploiting Vulnerabilities in Speech Translation Systems through Targeted Adversarial Attacks,2503.00957,http://arxiv.org/abs/2503.00957v2,2025-03-02 16:38:16+00:00
+51,Using Synthetic Images to Augment Small Medical Image Datasets,2503.00962,http://arxiv.org/abs/2503.00962v1,2025-03-02 17:02:11+00:00
+52,Dialogue Without Limits: Constant-Sized KV Caches for Extended Responses in LLMs,2503.00979,http://arxiv.org/abs/2503.00979v1,2025-03-02 18:12:50+00:00
+53,Evidence of conceptual mastery in the application of rules by Large Language Models,2503.00992,http://arxiv.org/abs/2503.00992v1,2025-03-02 19:23:46+00:00
+54,A Semantic Search Pipeline for Causality-driven Adhoc Information Retrieval,2503.01003,http://arxiv.org/abs/2503.01003v1,2025-03-02 19:59:41+00:00
+55,LLM-Fusion: A Novel Multimodal Fusion Model for Accelerated Material Discovery,2503.01022,http://arxiv.org/abs/2503.01022v1,2025-03-02 21:13:04+00:00
+56,MAPS: Multi-Fidelity AI-Augmented Photonic Simulation and Inverse Design Infrastructure,2503.01046,http://arxiv.org/abs/2503.01046v1,2025-03-02 22:30:18+00:00
+57,TAET: Two-Stage Adversarial Equalization Training on Long-Tailed Distributions,2503.01924,http://arxiv.org/abs/2503.01924v1,2025-03-02 12:07:00+00:00
+58,QCS-ADME: Quantum Circuit Search for Drug Property Prediction with Imbalanced Data and Regression Adaptation,2503.01927,http://arxiv.org/abs/2503.01927v1,2025-03-02 19:29:04+00:00
+59,Speculative Ad-hoc Querying,2503.00714,http://arxiv.org/abs/2503.00714v1,2025-03-02 03:44:31+00:00
+60,Taming Infinity one Chunk at a Time: Concisely Represented Strategies in One-Counter MDPs,2503.00788,http://arxiv.org/abs/2503.00788v1,2025-03-02 08:32:17+00:00
