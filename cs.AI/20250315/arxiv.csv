@@ -1,0 +1,68 @@
+,title,id,arxiv_url,published
+0,"LapSum -- One Method to Differentiate Them All: Ranking, Sorting and Top-k Selection",2503.06242,http://arxiv.org/abs/2503.06242v1,2025-03-08 14:53:36+00:00
+1,Towards Improving Reward Design in RL: A Reward Alignment Metric for RL Practitioners,2503.05996,http://arxiv.org/abs/2503.05996v1,2025-03-08 00:38:17+00:00
+2,Intent-Aware Self-Correction for Mitigating Social Biases in Large Language Models,2503.06011,http://arxiv.org/abs/2503.06011v1,2025-03-08 02:20:43+00:00
+3,Towards Universal Text-driven CT Image Segmentation,2503.06030,http://arxiv.org/abs/2503.06030v1,2025-03-08 03:02:57+00:00
+4,Vairiational Stochastic Games,2503.06037,http://arxiv.org/abs/2503.06037v1,2025-03-08 03:21:23+00:00
+5,DSGBench: A Diverse Strategic Game Benchmark for Evaluating LLM-based Agents in Complex Decision-Making Environments,2503.06047,http://arxiv.org/abs/2503.06047v1,2025-03-08 04:17:23+00:00
+6,DropletVideo: A Dataset and Approach to Explore Integral Spatio-Temporal Consistent Video Generation,2503.06053,http://arxiv.org/abs/2503.06053v1,2025-03-08 04:37:38+00:00
+7,Fine-Grained Bias Detection in LLM: Enhancing detection mechanisms for nuanced biases,2503.06054,http://arxiv.org/abs/2503.06054v1,2025-03-08 04:43:01+00:00
+8,MANDARIN: Mixture-of-Experts Framework for Dynamic Delirium and Coma Prediction in ICU Patients: Development and Validation of an Acute Brain Dysfunction Prediction Model,2503.06059,http://arxiv.org/abs/2503.06059v1,2025-03-08 04:56:41+00:00
+9,A Survey on Post-training of Large Language Models,2503.06072,http://arxiv.org/abs/2503.06072v1,2025-03-08 05:41:42+00:00
+10,T-CBF: Traversability-based Control Barrier Function to Navigate Vertically Challenging Terrain,2503.06083,http://arxiv.org/abs/2503.06083v1,2025-03-08 06:12:38+00:00
+11,ULTHO: Ultra-Lightweight yet Efficient Hyperparameter Optimization in Deep Reinforcement Learning,2503.06101,http://arxiv.org/abs/2503.06101v1,2025-03-08 07:03:43+00:00
+12,"Feature Fusion Attention Network with CycleGAN for Image Dehazing, De-Snowing and De-Raining",2503.06107,http://arxiv.org/abs/2503.06107v1,2025-03-08 07:18:42+00:00
+13,Multi-modal expressive personality recognition in data non-ideal audiovisual based on multi-scale feature enhancement and modal augment,2503.06108,http://arxiv.org/abs/2503.06108v1,2025-03-08 07:20:44+00:00
+14,GSV3D: Gaussian Splatting-based Geometric Distillation with Stable Video Diffusion for Single-Image 3D Object Generation,2503.06136,http://arxiv.org/abs/2503.06136v1,2025-03-08 09:10:31+00:00
+15,Exploring the usage of Probabilistic Neural Networks for Ionospheric electron density estimation,2503.06144,http://arxiv.org/abs/2503.06144v1,2025-03-08 10:06:15+00:00
+16,UrbanVideo-Bench: Benchmarking Vision-Language Models on Embodied Intelligence with Video Data in Urban Spaces,2503.06157,http://arxiv.org/abs/2503.06157v1,2025-03-08 10:47:05+00:00
+17,Feature-EndoGaussian: Feature Distilled Gaussian Splatting in Surgical Deformable Scene Reconstruction,2503.06161,http://arxiv.org/abs/2503.06161v1,2025-03-08 10:50:19+00:00
+18,Secure On-Device Video OOD Detection Without Backpropagation,2503.06166,http://arxiv.org/abs/2503.06166v1,2025-03-08 11:03:21+00:00
+19,Treble Counterfactual VLMs: A Causal Approach to Hallucination,2503.06169,http://arxiv.org/abs/2503.06169v1,2025-03-08 11:13:05+00:00
+20,ROCM: RLHF on consistency models,2503.06171,http://arxiv.org/abs/2503.06171v1,2025-03-08 11:19:48+00:00
+21,Minion Gated Recurrent Unit for Continual Learning,2503.06175,http://arxiv.org/abs/2503.06175v1,2025-03-08 11:28:40+00:00
+22,MSConv: Multiplicative and Subtractive Convolution for Face Recognition,2503.06187,http://arxiv.org/abs/2503.06187v1,2025-03-08 12:18:29+00:00
+23,Breaking Free from MMI: A New Frontier in Rationalization by Probing Input Utilization,2503.06202,http://arxiv.org/abs/2503.06202v1,2025-03-08 13:08:46+00:00
+24,Image is All You Need: Towards Efficient and Effective Large Language Model-Based Recommender Systems,2503.06238,http://arxiv.org/abs/2503.06238v1,2025-03-08 14:51:16+00:00
+25,Infant Cry Detection Using Causal Temporal Representation,2503.06247,http://arxiv.org/abs/2503.06247v1,2025-03-08 15:15:23+00:00
+26,Can Atomic Step Decomposition Enhance the Self-structured Reasoning of Multimodal Large Models?,2503.06252,http://arxiv.org/abs/2503.06252v1,2025-03-08 15:23:47+00:00
+27,From Captions to Rewards (CAREVL): Leveraging Large Language Model Experts for Enhanced Reward Modeling in Large Vision-Language Models,2503.06260,http://arxiv.org/abs/2503.06260v1,2025-03-08 16:13:18+00:00
+28,Using Mechanistic Interpretability to Craft Adversarial Attacks against Large Language Models,2503.06269,http://arxiv.org/abs/2503.06269v1,2025-03-08 16:29:45+00:00
+29,Applied Machine Learning Methods with Long-Short Term Memory Based Recurrent Neural Networks for Multivariate Temperature Prediction,2503.06278,http://arxiv.org/abs/2503.06278v1,2025-03-08 16:52:27+00:00
+30,Your Large Vision-Language Model Only Needs A Few Attention Heads For Visual Grounding,2503.06287,http://arxiv.org/abs/2503.06287v1,2025-03-08 17:24:42+00:00
+31,Single Domain Generalization with Adversarial Memory,2503.06288,http://arxiv.org/abs/2503.06288v1,2025-03-08 17:27:42+00:00
+32,Higher-Order Belief in Incomplete Information MAIDs,2503.06323,http://arxiv.org/abs/2503.06323v1,2025-03-08 19:35:55+00:00
+33,Studying the Interplay Between the Actor and Critic Representations in Reinforcement Learning,2503.06343,http://arxiv.org/abs/2503.06343v1,2025-03-08 21:29:20+00:00
+34,"The AI Pentad, the CHARME$^{2}$D Model, and an Assessment of Current-State AI Regulation",2503.06353,http://arxiv.org/abs/2503.06353v1,2025-03-08 22:58:41+00:00
+35,Merge then Realign: Simple and Effective Modality-Incremental Continual Learning for Multimodal LLMs,2503.07663,http://arxiv.org/abs/2503.07663v1,2025-03-08 20:29:40+00:00
+36,Exploiting Edited Large Language Models as General Scientific Optimizers,2503.09620,http://arxiv.org/abs/2503.09620v1,2025-03-08 18:01:11+00:00
+37,"GrInAdapt: Scaling Retinal Vessel Structural Map Segmentation Through Grounding, Integrating and Adapting Multi-device, Multi-site, and Multi-modal Fundus Domains",2503.05991,http://arxiv.org/abs/2503.05991v1,2025-03-08 00:15:21+00:00
+38,Learning to Drive by Imitating Surrounding Vehicles,2503.05997,http://arxiv.org/abs/2503.05997v1,2025-03-08 00:40:47+00:00
+39,Towards Ambiguity-Free Spatial Foundation Model: Rethinking and Decoupling Depth Ambiguity,2503.06014,http://arxiv.org/abs/2503.06014v1,2025-03-08 02:33:54+00:00
+40,Zero-Shot Peg Insertion: Identifying Mating Holes and Estimating SE(2) Poses with Vision-Language Models,2503.06026,http://arxiv.org/abs/2503.06026v1,2025-03-08 02:59:21+00:00
+41,Empowering Edge Intelligence: A Comprehensive Survey on On-Device AI Models,2503.06027,http://arxiv.org/abs/2503.06027v1,2025-03-08 02:59:51+00:00
+42,STAR: A Foundation Model-driven Framework for Robust Task Planning and Failure Recovery in Robotic Systems,2503.06060,http://arxiv.org/abs/2503.06060v1,2025-03-08 05:05:21+00:00
+43,A Novel Trustworthy Video Summarization Algorithm Through a Mixture of LoRA Experts,2503.06064,http://arxiv.org/abs/2503.06064v1,2025-03-08 05:20:52+00:00
+44,GEM: Empowering MLLM for Grounded ECG Understanding with Time Series and Images,2503.06073,http://arxiv.org/abs/2503.06073v1,2025-03-08 05:48:53+00:00
+45,Towards Conversational AI for Disease Management,2503.06074,http://arxiv.org/abs/2503.06074v1,2025-03-08 05:48:58+00:00
+46,ZO-DARTS++: An Efficient and Size-Variable Zeroth-Order Neural Architecture Search Algorithm,2503.06092,http://arxiv.org/abs/2503.06092v1,2025-03-08 06:43:33+00:00
+47,System 0/1/2/3: Quad-process theory for multi-timescale embodied collective cognitive systems,2503.06138,http://arxiv.org/abs/2503.06138v1,2025-03-08 09:31:53+00:00
+48,VACT: A Video Automatic Causal Testing System and a Benchmark,2503.06163,http://arxiv.org/abs/2503.06163v1,2025-03-08 10:54:42+00:00
+49,Object-Centric World Model for Language-Guided Manipulation,2503.06170,http://arxiv.org/abs/2503.06170v2,2025-03-08 11:17:37+00:00
+50,Lightweight Software Kernels and Hardware Extensions for Efficient Sparse Deep Neural Networks on Microcontrollers,2503.06183,http://arxiv.org/abs/2503.06183v1,2025-03-08 11:59:12+00:00
+51,Sample-aware Adaptive Structured Pruning for Large Language Models,2503.06184,http://arxiv.org/abs/2503.06184v1,2025-03-08 12:00:21+00:00
+52,Human-AI Experience in Integrated Development Environments: A Systematic Literature Review,2503.06195,http://arxiv.org/abs/2503.06195v1,2025-03-08 12:40:18+00:00
+53,Explainable Synthetic Image Detection through Diffusion Timestep Ensembling,2503.06201,http://arxiv.org/abs/2503.06201v1,2025-03-08 13:04:20+00:00
+54,CUPCase: Clinically Uncommon Patient Cases and Diagnoses Dataset,2503.06204,http://arxiv.org/abs/2503.06204v1,2025-03-08 13:21:44+00:00
+55,Distributed Graph Neural Network Inference With Just-In-Time Compilation For Industry-Scale Graphs,2503.06208,http://arxiv.org/abs/2503.06208v1,2025-03-08 13:26:59+00:00
+56,Text-Speech Language Models with Improved Cross-Modal Transfer by Aligning Abstraction Levels,2503.06211,http://arxiv.org/abs/2503.06211v1,2025-03-08 13:28:50+00:00
+57,GraphGen+: Advancing Distributed Subgraph Generation and Graph Learning On Industrial Graphs,2503.06212,http://arxiv.org/abs/2503.06212v1,2025-03-08 13:29:42+00:00
+58,A Frank System for Co-Evolutionary Hybrid Decision-Making,2503.06229,http://arxiv.org/abs/2503.06229v1,2025-03-08 14:06:16+00:00
+59,Critical Foreign Policy Decisions (CFPD)-Benchmark: Measuring Diplomatic Preferences in Large Language Models,2503.06263,http://arxiv.org/abs/2503.06263v1,2025-03-08 16:19:13+00:00
+60,"Synergizing AI and Digital Twins for Next-Generation Network Optimization, Forecasting, and Security",2503.06302,http://arxiv.org/abs/2503.06302v1,2025-03-08 18:30:54+00:00
+61,States of LLM-generated Texts and Phase Transitions between them,2503.06330,http://arxiv.org/abs/2503.06330v1,2025-03-08 20:06:50+00:00
+62,Research on Superalignment Should Advance Now with Parallel Optimization of Competence and Conformity,2503.07660,http://arxiv.org/abs/2503.07660v1,2025-03-08 04:10:11+00:00
+63,Disrupting Model Merging: A Parameter-Level Defense Without Sacrificing Accuracy,2503.07661,http://arxiv.org/abs/2503.07661v1,2025-03-08 06:08:47+00:00
+64,Bimodal Connection Attention Fusion for Speech Emotion Recognition,2503.05858,http://arxiv.org/abs/2503.05858v2,2025-03-08 10:20:57+00:00
+65,Optimal Output Feedback Learning Control for Discrete-Time Linear Quadratic Regulation,2503.06226,http://arxiv.org/abs/2503.06226v2,2025-03-08 14:02:16+00:00
+66,Advancing Autonomous Vehicle Intelligence: Deep Learning and Multimodal LLM for Traffic Sign Recognition and Robust Lane Detection,2503.06313,http://arxiv.org/abs/2503.06313v1,2025-03-08 19:12:36+00:00
