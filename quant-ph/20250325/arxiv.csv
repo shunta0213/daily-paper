@@ -1,0 +1,65 @@
+,title,id,arxiv_url,published
+0,Efficient Classical Simulation of the Quantum Random Access Memory,2503.13832,http://arxiv.org/abs/2503.13832v1,2025-03-18 02:14:17+00:00
+1,Contextuality and Chaos,2503.13886,http://arxiv.org/abs/2503.13886v1,2025-03-18 04:32:09+00:00
+2,A metropolitan-scale trapped-ion quantum network node with hybrid multiplexing enhancements,2503.13898,http://arxiv.org/abs/2503.13898v1,2025-03-18 04:51:05+00:00
+3,A Cascaded Random Access Quantum Memory,2503.13953,http://arxiv.org/abs/2503.13953v1,2025-03-18 06:42:51+00:00
+4,Geometrical constructions of purity testing protocols and their applications to quantum communication,2503.14003,http://arxiv.org/abs/2503.14003v1,2025-03-18 08:09:33+00:00
+5,Automatic Event Recognition Employing Optically Excited Electro-Nuclear Spin Coherence,2503.14026,http://arxiv.org/abs/2503.14026v1,2025-03-18 08:37:05+00:00
+6,Quantum Pulse Gate Attack on IM/DD Optical Key Distribution Exploiting Symbol Shape Distortion,2503.14105,http://arxiv.org/abs/2503.14105v1,2025-03-18 10:19:35+00:00
+7,A variational formulation of the governing equations of ideal quantum fluids,2503.14137,http://arxiv.org/abs/2503.14137v1,2025-03-18 11:04:51+00:00
+8,Optimal Moment-based Characterization of a Gaussian State,2503.14188,http://arxiv.org/abs/2503.14188v1,2025-03-18 12:02:01+00:00
+9,Scalable Linear-Cavity Enhanced Quantum Memory,2503.14212,http://arxiv.org/abs/2503.14212v1,2025-03-18 12:45:56+00:00
+10,Parameterized bipartite entanglement measures and entanglement constraints,2503.14245,http://arxiv.org/abs/2503.14245v1,2025-03-18 13:32:21+00:00
+11,Revisit on quantum parameter estimation approach for Mach-Zehnder interferometry,2503.14306,http://arxiv.org/abs/2503.14306v1,2025-03-18 14:45:42+00:00
+12,QuGStep: Refining Step Size Selection in Gradient Estimation for Variational Quantum Algorithms,2503.14366,http://arxiv.org/abs/2503.14366v1,2025-03-18 15:48:09+00:00
+13,Quantum simulation of superdiffusion breakdown in Heisenberg chains via 2D interactions,2503.14371,http://arxiv.org/abs/2503.14371v1,2025-03-18 16:02:33+00:00
+14,Device-independent secure correlations in sequential quantum scenarios,2503.14404,http://arxiv.org/abs/2503.14404v1,2025-03-18 16:45:20+00:00
+15,QSTToolkit: A Python Library for Deep Learning Powered Quantum State Tomography,2503.14422,http://arxiv.org/abs/2503.14422v1,2025-03-18 16:55:45+00:00
+16,Measurement-Induced Multimode Squeezed Light Interferometers with Scalable Architectures,2503.14449,http://arxiv.org/abs/2503.14449v1,2025-03-18 17:28:16+00:00
+17,Demonstration of High-Fidelity Entangled Logical Qubits using Transmons,2503.14472,http://arxiv.org/abs/2503.14472v1,2025-03-18 17:47:08+00:00
+18,TEPID-ADAPT: Adaptive variational method for simultaneous preparation of low-temperature Gibbs and low-lying eigenstates,2503.14490,http://arxiv.org/abs/2503.14490v1,2025-03-18 17:57:25+00:00
+19,Partial Quantum Shadow Tomography for Structured Operators and its Experimental Demonstration using NMR,2503.14491,http://arxiv.org/abs/2503.14491v1,2025-03-18 17:57:54+00:00
+20,Scalable and fault-tolerant preparation of encoded k-uniform states,2503.14506,http://arxiv.org/abs/2503.14506v1,2025-03-18 17:59:59+00:00
+21,Optimal and efficient qubit routing for quantum simulation,2503.14592,http://arxiv.org/abs/2503.14592v1,2025-03-18 18:00:04+00:00
+22,Protected phase gate for the $0$-$π$ qubit using its internal modes,2503.14634,http://arxiv.org/abs/2503.14634v1,2025-03-18 18:35:38+00:00
+23,Heuristic and Optimal Synthesis of CNOT and Clifford Circuits,2503.14660,http://arxiv.org/abs/2503.14660v1,2025-03-18 19:09:58+00:00
+24,Scalability Challenges in Variational Quantum Optimization under Stochastic Noise,2503.14696,http://arxiv.org/abs/2503.14696v1,2025-03-18 20:00:19+00:00
+25,Scalable low loss cryogenic packaging of quantum memories in CMOS-foundry processed photonic chips,2503.14704,http://arxiv.org/abs/2503.14704v1,2025-03-18 20:08:28+00:00
+26,Active Leakage Cancellation in Single Qubit Gates,2503.14731,http://arxiv.org/abs/2503.14731v1,2025-03-18 21:00:57+00:00
+27,Polarization-dependent topology in quantum emitter chains,2503.14770,http://arxiv.org/abs/2503.14770v1,2025-03-18 22:45:17+00:00
+28,Solovay Kitaev and Randomized Compilation,2503.14788,http://arxiv.org/abs/2503.14788v1,2025-03-18 23:35:29+00:00
+29,Consensus About Classical Reality in a Quantum Universe,2503.14791,http://arxiv.org/abs/2503.14791v1,2025-03-18 23:44:42+00:00
+30,Tracking time-varying signals with quantum-enhanced atomic magnetometers,2503.14793,http://arxiv.org/abs/2503.14793v1,2025-03-18 23:56:43+00:00
+31,Ten-channel Hong-Ou-Mandel interference between independent optical combs,2503.13826,http://arxiv.org/abs/2503.13826v1,2025-03-18 02:08:20+00:00
+32,Ehrenfest dynamics accelerated with SPEED,2503.13905,http://arxiv.org/abs/2503.13905v1,2025-03-18 05:06:26+00:00
+33,Error correction of a logical qubit encoded in a single atomic ion,2503.13908,http://arxiv.org/abs/2503.13908v1,2025-03-18 05:10:21+00:00
+34,Engineering anisotropic Dicke model with dipole-dipole interaction for Rydberg atom arrays in cavity,2503.13949,http://arxiv.org/abs/2503.13949v1,2025-03-18 06:35:52+00:00
+35,Complexity of Bose-Einstein condensates at finite temperature,2503.13979,http://arxiv.org/abs/2503.13979v1,2025-03-18 07:28:16+00:00
+36,Quantum correlations in a cluster spin model with three-spin interactions,2503.14060,http://arxiv.org/abs/2503.14060v1,2025-03-18 09:32:00+00:00
+37,"Data Encoding for VQC in Qiskit, A Comparison With Novel Hybrid Encoding",2503.14062,http://arxiv.org/abs/2503.14062v1,2025-03-18 09:36:09+00:00
+38,Toward Large-Scale Distributed Quantum Long Short-Term Memory with Modular Quantum Computers,2503.14088,http://arxiv.org/abs/2503.14088v1,2025-03-18 10:07:34+00:00
+39,Harnessing of temporal dispersion for integrated pump filtering in spontaneous heralded single-photon generation processes,2503.14169,http://arxiv.org/abs/2503.14169v1,2025-03-18 11:39:33+00:00
+40,Localization and entanglement entropy in the Discrete Non-Linear Schrödinger Equation,2503.14364,http://arxiv.org/abs/2503.14364v1,2025-03-18 15:47:50+00:00
+41,Pauli Network Circuit Synthesis with Reinforcement Learning,2503.14448,http://arxiv.org/abs/2503.14448v1,2025-03-18 17:27:50+00:00
+42,Approximation of diffeomorphisms for quantum state transfers,2503.14450,http://arxiv.org/abs/2503.14450v1,2025-03-18 17:28:59+00:00
+43,Blockchain with proof of quantum work,2503.14462,http://arxiv.org/abs/2503.14462v1,2025-03-18 17:37:22+00:00
+44,Signal amplification in a solid-state quantum sensor via asymmetric time-reversal of many-body dynamics,2503.14598,http://arxiv.org/abs/2503.14598v1,2025-03-18 18:01:25+00:00
+45,Discrete-to-Continuum Approach for the Analytic Continuation of One-Particle Propagator on the Circle,2503.14600,http://arxiv.org/abs/2503.14600v1,2025-03-18 18:01:48+00:00
+46,Optimal control over the full counting statistics in a non-adiabatic pump,2503.14614,http://arxiv.org/abs/2503.14614v1,2025-03-18 18:10:31+00:00
+47,Quantifying Trapped Magnetic Vortex Losses in Niobium Resonators at mK Temperatures,2503.14616,http://arxiv.org/abs/2503.14616v2,2025-03-18 18:12:36+00:00
+48,"Energy-time and time-bin entanglement: past, present and future",2503.14675,http://arxiv.org/abs/2503.14675v1,2025-03-18 19:30:33+00:00
+49,Degenerate mirrorless lasing in thermal alkali vapors,2503.14705,http://arxiv.org/abs/2503.14705v1,2025-03-18 20:09:43+00:00
+50,Distribution and Purification of Entanglement States in Quantum Networks,2503.14712,http://arxiv.org/abs/2503.14712v1,2025-03-18 20:19:44+00:00
+51,Nonresonant Casimir-Polder repulsion with a monolayer topological insulator,2503.13955,http://arxiv.org/abs/2503.13955v1,2025-03-18 06:47:48+00:00
+52,Quantum Strong-to-Weak Spontaneous Symmetry Breaking in Decohered Critical Spin Chain,2503.14221,http://arxiv.org/abs/2503.14221v2,2025-03-18 12:59:17+00:00
+53,Frustration-free free fermions,2503.14312,http://arxiv.org/abs/2503.14312v1,2025-03-18 14:48:46+00:00
+54,Quantum thermal machines in BTZ black hole spacetime,2503.14370,http://arxiv.org/abs/2503.14370v1,2025-03-18 16:00:11+00:00
+55,Identifying Materials-Level Sources of Performance Variation in Superconducting Transmon Qubits,2503.14424,http://arxiv.org/abs/2503.14424v1,2025-03-18 16:58:02+00:00
+56,EnQode: Fast Amplitude Embedding for Quantum Machine Learning Using Classical Data,2503.14473,http://arxiv.org/abs/2503.14473v1,2025-03-18 17:48:03+00:00
+57,Precise Quantum Chemistry calculations with few Slater Determinants,2503.14502,http://arxiv.org/abs/2503.14502v1,2025-03-18 17:59:51+00:00
+58,Spin squeezing in an ensemble of nitrogen-vacancy centers in diamond,2503.14585,http://arxiv.org/abs/2503.14585v1,2025-03-18 18:00:01+00:00
+59,Quantum contextuality of spin-1 massive particles,2503.14587,http://arxiv.org/abs/2503.14587v1,2025-03-18 18:00:01+00:00
+60,Interacting non-Hermitian edge and cluster bursts on a digital quantum processor,2503.14595,http://arxiv.org/abs/2503.14595v1,2025-03-18 18:00:52+00:00
+61,Dynamics in the presence of local symmetry-breaking impurities,2503.14608,http://arxiv.org/abs/2503.14608v1,2025-03-18 18:05:43+00:00
+62,State preparation with parallel-sequential circuits,2503.14645,http://arxiv.org/abs/2503.14645v1,2025-03-18 18:44:35+00:00
+63,Beyond holography: the entropic quantum gravity foundations of image processing,2503.14048,http://arxiv.org/abs/2503.14048v1,2025-03-18 09:06:33+00:00
