@@ -1,0 +1,66 @@
+,title,id,arxiv_url,published
+0,A Study on Neuro-Symbolic Artificial Intelligence: Healthcare Perspectives,2503.18213,http://arxiv.org/abs/2503.18213v1,2025-03-23 21:33:38+00:00
+1,GLADMamba: Unsupervised Graph-Level Anomaly Detection Powered by Selective State Space Model,2503.17903,http://arxiv.org/abs/2503.17903v1,2025-03-23 02:40:17+00:00
+2,An Empirical Study of the Role of Incompleteness and Ambiguity in Interactions with Large Language Models,2503.17936,http://arxiv.org/abs/2503.17936v1,2025-03-23 04:34:30+00:00
+3,Physics-Guided Multi-Fidelity DeepONet for Data-Efficient Flow Field Prediction,2503.17941,http://arxiv.org/abs/2503.17941v1,2025-03-23 04:48:18+00:00
+4,Dynamic Gradient Sparse Update for Edge Training,2503.17959,http://arxiv.org/abs/2503.17959v1,2025-03-23 06:32:12+00:00
+5,Understanding the Effects of RLHF on the Quality and Detectability of LLM-Generated Texts,2503.17965,http://arxiv.org/abs/2503.17965v1,2025-03-23 07:03:10+00:00
+6,"Shot Sequence Ordering for Video Editing: Benchmarks, Metrics, and Cinematology-Inspired Computing Methods",2503.17975,http://arxiv.org/abs/2503.17975v2,2025-03-23 08:04:45+00:00
+7,PIM: Physics-Informed Multi-task Pre-training for Improving Inertial Sensor-Based Human Activity Recognition,2503.17978,http://arxiv.org/abs/2503.17978v1,2025-03-23 08:16:01+00:00
+8,Trade-offs in Large Reasoning Models: An Empirical Analysis of Deliberative and Adaptive Reasoning over Foundational Capabilities,2503.17979,http://arxiv.org/abs/2503.17979v1,2025-03-23 08:18:51+00:00
+9,Co-SemDepth: Fast Joint Semantic Segmentation and Depth Estimation on Aerial Images,2503.17982,http://arxiv.org/abs/2503.17982v1,2025-03-23 08:25:07+00:00
+10,"Taste More, Taste Better: Diverse Data and Strong Model Boost Semi-Supervised Crowd Counting",2503.17984,http://arxiv.org/abs/2503.17984v1,2025-03-23 08:38:01+00:00
+11,Optimizing Navigation And Chemical Application in Precision Agriculture With Deep Reinforcement Learning And Conditional Action Tree,2503.17985,http://arxiv.org/abs/2503.17985v1,2025-03-23 08:38:13+00:00
+12,Instructing the Architecture Search for Spatial-temporal Sequence Forecasting with LLM,2503.17994,http://arxiv.org/abs/2503.17994v1,2025-03-23 08:59:04+00:00
+13,Vision-R1: Evolving Human-Free Alignment in Large Vision-Language Models via Vision-Guided Reinforcement Learning,2503.18013,http://arxiv.org/abs/2503.18013v1,2025-03-23 10:21:14+00:00
+14,Lost in Cultural Translation: Do LLMs Struggle with Math Across Cultural Contexts?,2503.18018,http://arxiv.org/abs/2503.18018v1,2025-03-23 10:35:39+00:00
+15,Dynamic Task Vector Grouping for Efficient Multi-Task Prompt Tuning,2503.18063,http://arxiv.org/abs/2503.18063v1,2025-03-23 13:09:04+00:00
+16,On the effectiveness of LLMs for automatic grading of open-ended questions in Spanish,2503.18072,http://arxiv.org/abs/2503.18072v1,2025-03-23 13:43:27+00:00
+17,GeoBenchX: Benchmarking LLMs for Multistep Geospatial Tasks,2503.18129,http://arxiv.org/abs/2503.18129v1,2025-03-23 16:20:14+00:00
+18,Mitigating Reward Over-Optimization in RLHF via Behavior-Supported Regularization,2503.18130,http://arxiv.org/abs/2503.18130v1,2025-03-23 16:20:59+00:00
+19,LocDiffusion: Identifying Locations on Earth by Diffusing in the Hilbert Space,2503.18142,http://arxiv.org/abs/2503.18142v1,2025-03-23 17:15:26+00:00
+20,Adoption of Watermarking for Generative AI Systems in Practice and Implications under the new EU AI Act,2503.18156,http://arxiv.org/abs/2503.18156v1,2025-03-23 17:55:33+00:00
+21,Strategic Prompt Pricing for AIGC Services: A User-Centric Approach,2503.18168,http://arxiv.org/abs/2503.18168v1,2025-03-23 18:41:06+00:00
+22,Self-Attention Diffusion Models for Zero-Shot Biomedical Image Segmentation: Unlocking New Frontiers in Medical Imaging,2503.18170,http://arxiv.org/abs/2503.18170v1,2025-03-23 18:47:12+00:00
+23,Unmasking Deceptive Visuals: Benchmarking Multimodal Large Language Models on Misleading Chart Question Answering,2503.18172,http://arxiv.org/abs/2503.18172v1,2025-03-23 18:56:33+00:00
+24,Adaptive Physics-informed Neural Networks: A Survey,2503.18181,http://arxiv.org/abs/2503.18181v1,2025-03-23 19:33:05+00:00
+25,Exploring Energy Landscapes for Minimal Counterfactual Explanations: Applications in Cybersecurity and Beyond,2503.18185,http://arxiv.org/abs/2503.18185v1,2025-03-23 19:48:37+00:00
+26,FROG: Fair Removal on Graphs,2503.18197,http://arxiv.org/abs/2503.18197v1,2025-03-23 20:39:53+00:00
+27,ViVa: Video-Trained Value Functions for Guiding Online RL from Diverse Data,2503.18210,http://arxiv.org/abs/2503.18210v1,2025-03-23 21:24:33+00:00
+28,PG-SAM: Prior-Guided SAM with Medical for Multi-organ Segmentation,2503.18227,http://arxiv.org/abs/2503.18227v3,2025-03-23 22:06:07+00:00
+29,Adaptive Multi-Fidelity Reinforcement Learning for Variance Reduction in Engineering Design Optimization,2503.18229,http://arxiv.org/abs/2503.18229v1,2025-03-23 22:29:08+00:00
+30,"Collaborating with AI Agents: Field Experiments on Teamwork, Productivity, and Performance",2503.18238,http://arxiv.org/abs/2503.18238v1,2025-03-23 23:20:32+00:00
+31,ShED-HD: A Shannon Entropy Distribution Framework for Lightweight Hallucination Detection on Edge Devices,2503.18242,http://arxiv.org/abs/2503.18242v1,2025-03-23 23:47:26+00:00
+32,Threshold Crossings as Tail Events for Catastrophic AI Risk,2503.18979,http://arxiv.org/abs/2503.18979v2,2025-03-23 02:01:09+00:00
+33,FedSKD: Aggregation-free Model-heterogeneous Federated Learning using Multi-dimensional Similarity Knowledge Distillation,2503.18981,http://arxiv.org/abs/2503.18981v1,2025-03-23 05:33:10+00:00
+34,Generative Data Imputation for Sparse Learner Performance Data Using Generative Adversarial Imputation Networks,2503.18982,http://arxiv.org/abs/2503.18982v1,2025-03-23 06:11:53+00:00
+35,Confronting Catastrophic Risk: The International Obligation to Regulate Artificial Intelligence,2503.18983,http://arxiv.org/abs/2503.18983v1,2025-03-23 06:24:45+00:00
+36,The Misinterpretable Evidence Conveyed by Arbitrary Codes,2503.18984,http://arxiv.org/abs/2503.18984v1,2025-03-23 07:31:26+00:00
+37,SplitFrozen: Split Learning with Device-side Model Frozen for Fine-Tuning LLM on Heterogeneous Resource-Constrained Devices,2503.18986,http://arxiv.org/abs/2503.18986v1,2025-03-23 08:03:44+00:00
+38,LLMs in the Classroom: Outcomes and Perceptions of Questions Written with the Aid of AI,2503.18995,http://arxiv.org/abs/2503.18995v1,2025-03-23 22:01:49+00:00
+39,Enhanced prediction of spine surgery outcomes using advanced machine learning techniques and oversampling methods,2503.18996,http://arxiv.org/abs/2503.18996v1,2025-03-23 22:39:19+00:00
+40,Payload-Aware Intrusion Detection with CMAE and Large Language Models,2503.20798,http://arxiv.org/abs/2503.20798v1,2025-03-23 02:56:32+00:00
+41,Generative AI for Validating Physics Laws,2503.17894,http://arxiv.org/abs/2503.17894v2,2025-03-23 00:57:26+00:00
+42,Cat-AIR: Content and Task-Aware All-in-One Image Restoration,2503.17915,http://arxiv.org/abs/2503.17915v1,2025-03-23 03:25:52+00:00
+43,WLB-LLM: Workload-Balanced 4D Parallelism for Large Language Model Training,2503.17924,http://arxiv.org/abs/2503.17924v1,2025-03-23 03:40:45+00:00
+44,STShield: Single-Token Sentinel for Real-Time Jailbreak Detection in Large Language Models,2503.17932,http://arxiv.org/abs/2503.17932v1,2025-03-23 04:23:07+00:00
+45,Experience Retrieval-Augmentation with Electronic Health Records Enables Accurate Discharge QA,2503.17933,http://arxiv.org/abs/2503.17933v1,2025-03-23 04:26:06+00:00
+46,Human-AI Interaction and User Satisfaction: Empirical Evidence from Online Reviews of AI Products,2503.17955,http://arxiv.org/abs/2503.17955v2,2025-03-23 06:16:49+00:00
+47,PhysTwin: Physics-Informed Reconstruction and Simulation of Deformable Objects from Videos,2503.17973,http://arxiv.org/abs/2503.17973v1,2025-03-23 07:49:19+00:00
+48,Metaphor-based Jailbreaking Attacks on Text-to-Image Models,2503.17987,http://arxiv.org/abs/2503.17987v1,2025-03-23 08:40:39+00:00
+49,Predicting Multitasking in Manual and Automated Driving with Optimal Supervisory Control,2503.17993,http://arxiv.org/abs/2503.17993v1,2025-03-23 08:56:53+00:00
+50,Decision from Suboptimal Classifiers: Excess Risk Pre- and Post-Calibration,2503.18025,http://arxiv.org/abs/2503.18025v1,2025-03-23 10:52:36+00:00
+51,Unseen from Seen: Rewriting Observation-Instruction Using Foundation Models for Augmenting Vision-Language Navigation,2503.18065,http://arxiv.org/abs/2503.18065v1,2025-03-23 13:18:17+00:00
+52,Temporal Relation Extraction in Clinical Texts: A Span-based Graph Transformer Approach,2503.18085,http://arxiv.org/abs/2503.18085v1,2025-03-23 14:34:49+00:00
+53,AgentRxiv: Towards Collaborative Autonomous Research,2503.18102,http://arxiv.org/abs/2503.18102v1,2025-03-23 15:16:42+00:00
+54,Efficient Deep Learning Approaches for Processing Ultra-Widefield Retinal Imaging,2503.18151,http://arxiv.org/abs/2503.18151v1,2025-03-23 17:43:24+00:00
+55,DiffusionTalker: Efficient and Compact Speech-Driven 3D Talking Head via Personalizer-Guided Distillation,2503.18159,http://arxiv.org/abs/2503.18159v1,2025-03-23 17:55:54+00:00
+56,Active Inference for Energy Control and Planning in Smart Buildings and Communities,2503.18161,http://arxiv.org/abs/2503.18161v1,2025-03-23 18:03:01+00:00
+57,SNRAware: Improved Deep Learning MRI Denoising with SNR Unit Training and G-factor Map Augmentation,2503.18162,http://arxiv.org/abs/2503.18162v1,2025-03-23 18:16:36+00:00
+58,Evaluating Negative Sampling Approaches for Neural Topic Models,2503.18167,http://arxiv.org/abs/2503.18167v2,2025-03-23 18:39:01+00:00
+59,CAE: Repurposing the Critic as an Explorer in Deep Reinforcement Learning,2503.18980,http://arxiv.org/abs/2503.18980v1,2025-03-23 04:59:24+00:00
+60,LoRA Subtraction for Drift-Resistant Space in Exemplar-Free Continual Learning,2503.18985,http://arxiv.org/abs/2503.18985v1,2025-03-23 07:38:53+00:00
+61,Balanced Direction from Multifarious Choices: Arithmetic Meta-Learning for Domain Generalization,2503.18987,http://arxiv.org/abs/2503.18987v1,2025-03-23 08:24:28+00:00
+62,SG-Tailor: Inter-Object Commonsense Relationship Reasoning for Scene Graph Manipulation,2503.18988,http://arxiv.org/abs/2503.18988v1,2025-03-23 09:11:04+00:00
+63,SRMIR: Shadow Reward Models Based on Introspective Reasoning for LLM Alignment,2503.18991,http://arxiv.org/abs/2503.18991v1,2025-03-23 16:40:29+00:00
+64,HH4AI: A methodological Framework for AI Human Rights impact assessment under the EUAI ACT,2503.18994,http://arxiv.org/abs/2503.18994v1,2025-03-23 19:10:14+00:00
