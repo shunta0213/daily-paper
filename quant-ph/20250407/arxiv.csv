@@ -1,0 +1,70 @@
+,title,id,arxiv_url,published
+0,Predicting the von Neumann Entanglement Entropy Using a Graph Neural Network,2503.23635,http://arxiv.org/abs/2503.23635v1,2025-03-31 00:38:42+00:00
+1,Quantum Features of the Thermal Two-Qubit Quantum Rabi Model in Ultra- and Deep-Strong Regimes,2503.23654,http://arxiv.org/abs/2503.23654v1,2025-03-31 01:38:16+00:00
+2,Undecidable problems associated with variational quantum algorithms,2503.23723,http://arxiv.org/abs/2503.23723v1,2025-03-31 04:52:43+00:00
+3,Coherent manipulation of interacting electron qubits on solid neon,2503.23738,http://arxiv.org/abs/2503.23738v1,2025-03-31 05:27:23+00:00
+4,Float Lattice Gas Automata: A connection between Molecular Dynamics and Lattice Boltzmann Method for quantum computers,2503.23750,http://arxiv.org/abs/2503.23750v1,2025-03-31 06:02:16+00:00
+5,The Kossakowski Matrix and Strict Positivity of Markovian Quantum Dynamics,2503.23860,http://arxiv.org/abs/2503.23860v1,2025-03-31 09:07:26+00:00
+6,Kernel-based dequantization of variational QML without Random Fourier Features,2503.23931,http://arxiv.org/abs/2503.23931v1,2025-03-31 10:26:16+00:00
+7,Simulation of Shor algorithm for discrete logarithm problems with comprehensive pairs of modulo p and order q,2503.23939,http://arxiv.org/abs/2503.23939v1,2025-03-31 10:39:10+00:00
+8,Choco-Q: Commute Hamiltonian-based QAOA for Constrained Binary Optimization,2503.23941,http://arxiv.org/abs/2503.23941v1,2025-03-31 10:47:20+00:00
+9,Quantum-computing within a bosonic context: Assessing finite basis effects on prototypical vibrational Hamiltonian spectra,2503.23983,http://arxiv.org/abs/2503.23983v1,2025-03-31 11:52:04+00:00
+10,Coherent microwave control of coupled electron-muon centers,2503.24023,http://arxiv.org/abs/2503.24023v1,2025-03-31 12:50:05+00:00
+11,Giant counter-rotating oscillations on the attosecond timescale,2503.24038,http://arxiv.org/abs/2503.24038v1,2025-03-31 13:01:32+00:00
+12,Mechanical Squeezed Kerr Oscillator based on Tapered Ion Trap,2503.24058,http://arxiv.org/abs/2503.24058v1,2025-03-31 13:19:09+00:00
+13,Impact of Amplitude and Phase Damping Noise on Quantum Reinforcement Learning: Challenges and Opportunities,2503.24069,http://arxiv.org/abs/2503.24069v1,2025-03-31 13:27:30+00:00
+14,Resource reduction for variational quantum algorithms by non-demolition measurements,2503.24090,http://arxiv.org/abs/2503.24090v1,2025-03-31 13:42:21+00:00
+15,Hamiltonian Dynamics Learning: A Scalable Approach to Quantum Process Characterization,2503.24171,http://arxiv.org/abs/2503.24171v2,2025-03-31 14:50:00+00:00
+16,Closing the detection loophole in the triangle network with high-dimensional photonic states,2503.24213,http://arxiv.org/abs/2503.24213v1,2025-03-31 15:31:34+00:00
+17,Unitary and non-unitary operators leverage perfect and imperfect single qutrit teleportation,2503.24247,http://arxiv.org/abs/2503.24247v1,2025-03-31 15:58:23+00:00
+18,Implementation and readout of maximally entangled two-qubit gates quantum circuits in a superconducting quantum processor,2503.24274,http://arxiv.org/abs/2503.24274v1,2025-03-31 16:20:56+00:00
+19,Quantum Conference Key Agreement with Classical Advantage Distillation,2503.24318,http://arxiv.org/abs/2503.24318v1,2025-03-31 17:07:36+00:00
+20,Quantum algorithms for cooling: a simple case study,2503.24330,http://arxiv.org/abs/2503.24330v1,2025-03-31 17:19:12+00:00
+21,Spontaneous Emission from Electronic Metastable Resonance States,2503.24338,http://arxiv.org/abs/2503.24338v1,2025-03-31 17:24:32+00:00
+22,Entanglement Distribution in Lossy Quantum Networks,2503.24347,http://arxiv.org/abs/2503.24347v1,2025-03-31 17:32:18+00:00
+23,Variational Perturbation Theory in Open Quantum Systems for Efficient Steady State Computation,2504.00085,http://arxiv.org/abs/2504.00085v1,2025-03-31 18:00:01+00:00
+24,Relieving the post-selection problem by quantum singular value transformation,2504.00108,http://arxiv.org/abs/2504.00108v1,2025-03-31 18:00:31+00:00
+25,Multiphoton Quantum Interference at Ultracompact Inverse-Designed Multiport Beam Splitter,2504.00114,http://arxiv.org/abs/2504.00114v1,2025-03-31 18:04:07+00:00
+26,Quantum inputs in the prepare-and-measure scenario and stochastic teleportation,2504.00162,http://arxiv.org/abs/2504.00162v1,2025-03-31 19:17:32+00:00
+27,From Quantum-Mechanical Acceleration Limits to Upper Bounds on Fluctuation Growth of Observables in Unitary Dynamics,2504.00261,http://arxiv.org/abs/2504.00261v1,2025-03-31 22:14:16+00:00
+28,Noise-aware Time-optimal Quantum Control,2504.00279,http://arxiv.org/abs/2504.00279v1,2025-03-31 22:59:22+00:00
+29,Large-scale quantum-dot-lithium-niobate hybrid integrated photonic circuits enabling on-chip quantum networking,2503.23755,http://arxiv.org/abs/2503.23755v1,2025-03-31 06:10:44+00:00
+30,Experimental Measurement of Non-Hermitian Left Eigenvectors,2503.23867,http://arxiv.org/abs/2503.23867v1,2025-03-31 09:17:30+00:00
+31,Contrasting exchange-field and spin-transfer torque driving mechanisms in all-electric electron spin resonance,2503.24046,http://arxiv.org/abs/2503.24046v1,2025-03-31 13:10:22+00:00
+32,Practical Quantum Advantage for Boosting Citations,2503.24051,http://arxiv.org/abs/2503.24051v1,2025-03-31 13:13:48+00:00
+33,Efficient Construction of Feasible Solutions in Column Generation using Quantum Annealing,2503.24107,http://arxiv.org/abs/2503.24107v1,2025-03-31 14:00:12+00:00
+34,Inductive Graph Representation Learning with Quantum Graph Neural Networks,2503.24111,http://arxiv.org/abs/2503.24111v1,2025-03-31 14:04:08+00:00
+35,Position-Momenta Uncertainties in Classical Systems,2503.24122,http://arxiv.org/abs/2503.24122v1,2025-03-31 14:08:41+00:00
+36,Berry Phase in Non-Perturbative QED,2503.24194,http://arxiv.org/abs/2503.24194v1,2025-03-31 15:13:08+00:00
+37,A Quantum Walk Inspired Qubit Lattice Algorithm for Simulating Electromagnetic Wave Propagation and Scattering in Conservative and Dissipative Magnetized Plasmas,2503.24211,http://arxiv.org/abs/2503.24211v1,2025-03-31 15:28:41+00:00
+38,Mitigation of correlated readout errors without randomized measurements,2503.24276,http://arxiv.org/abs/2503.24276v1,2025-03-31 16:21:45+00:00
+39,Non-classical optimization through complex media,2503.24283,http://arxiv.org/abs/2503.24283v1,2025-03-31 16:31:18+00:00
+40,Advanced Quantum Annealing Approach to Vehicle Routing Problems with Time Windows,2503.24285,http://arxiv.org/abs/2503.24285v1,2025-03-31 16:32:40+00:00
+41,Critical quantum metrology using non-Hermitian spin model with RT-symmetry,2503.24331,http://arxiv.org/abs/2503.24331v1,2025-03-31 17:19:31+00:00
+42,Chemically Tuning Room Temperature Pulsed Optically Detected Magnetic Resonance,2503.24341,http://arxiv.org/abs/2503.24341v1,2025-03-31 17:25:46+00:00
+43,Quench dynamics via recursion method and dynamical quantum phase transitions,2503.24362,http://arxiv.org/abs/2503.24362v1,2025-03-31 17:43:09+00:00
+44,Harvesting Information Across the Horizon,2504.00083,http://arxiv.org/abs/2504.00083v1,2025-03-31 18:00:01+00:00
+45,Quantum cryptography integrating an optical quantum memory,2504.00094,http://arxiv.org/abs/2504.00094v1,2025-03-31 18:00:04+00:00
+46,Multiphoton quantum simulation of the generalized Hopfield memory model,2504.00111,http://arxiv.org/abs/2504.00111v1,2025-03-31 18:01:07+00:00
+47,Digital Quantum Simulation of the Nonlinear Lindblad Master Equation Based on Quantum Trajectory Averaging,2504.00121,http://arxiv.org/abs/2504.00121v1,2025-03-31 18:11:48+00:00
+48,Spin-Phonon Relaxation of Boron-Vacancy Centers in Two-Dimensional Boron Nitride Polytypes,2504.00154,http://arxiv.org/abs/2504.00154v1,2025-03-31 19:06:47+00:00
+49,Deterministic quantum trajectory via imaginary time evolution,2504.00210,http://arxiv.org/abs/2504.00210v1,2025-03-31 20:33:55+00:00
+50,Microring resonator-based photonic circuit for faithfully heralding NOON states,2504.00237,http://arxiv.org/abs/2504.00237v1,2025-03-31 21:19:08+00:00
+51,Double commutator method for a two band Bose-Einstein condensate: superfluid density of a flat band superfluid,2503.23656,http://arxiv.org/abs/2503.23656v2,2025-03-31 01:39:25+00:00
+52,Measurement-induced phase transitions for free fermions in a quasiperiodic potential,2503.23807,http://arxiv.org/abs/2503.23807v1,2025-03-31 07:42:24+00:00
+53,Creation of a black hole bomb instability in an electromagnetic system,2503.24034,http://arxiv.org/abs/2503.24034v1,2025-03-31 13:00:10+00:00
+54,Strain effects in a directly bonded diamond-on-insulator substrate,2503.24042,http://arxiv.org/abs/2503.24042v1,2025-03-31 13:06:35+00:00
+55,Evaluating Variational Quantum Eigensolver and Quantum Dynamics Algorithms on the Advection-Diffusion Equation,2503.24045,http://arxiv.org/abs/2503.24045v1,2025-03-31 13:09:59+00:00
+56,Jordanian deformation of the non-compact and $\mathfrak{sl}_2 $-invariant $XXX_{-1/2}$ spin-chain,2503.24223,http://arxiv.org/abs/2503.24223v1,2025-03-31 15:38:04+00:00
+57,On Speedups for Convex Optimization via Quantum Dynamics,2503.24332,http://arxiv.org/abs/2503.24332v1,2025-03-31 17:21:12+00:00
+58,Universality of Rényi Entropy in Conformal Field Theory,2503.24353,http://arxiv.org/abs/2503.24353v1,2025-03-31 17:34:59+00:00
+59,The fundamental localization phases in quasiperiodic systems: A unified framework and exact results,2503.24380,http://arxiv.org/abs/2503.24380v1,2025-03-31 17:59:02+00:00
+60,How interacting Bose gases scatter light,2503.24386,http://arxiv.org/abs/2503.24386v1,2025-03-31 17:59:48+00:00
+61,Quantum Information meets High-Energy Physics: Input to the update of the European Strategy for Particle Physics,2504.00086,http://arxiv.org/abs/2504.00086v1,2025-03-31 18:00:01+00:00
+62,"On Infinite Tensor Networks, Complementary Recovery and Type II Factors",2504.00096,http://arxiv.org/abs/2504.00096v1,2025-03-31 18:00:09+00:00
+63,Enhancing the Performances of Autonomous Quantum Refrigerators via Two-Photon Transitions,2504.00102,http://arxiv.org/abs/2504.00102v1,2025-03-31 18:00:16+00:00
+64,Fermions in $(1+2)$-dimensions modified by nonminimal coupling and its applications to condensed matter physics,2504.00193,http://arxiv.org/abs/2504.00193v1,2025-03-31 20:03:40+00:00
+65,A Clue on Small-Capacitance Josephson Junction: What to Expect from Cooper Pair Ideal Conductor and Ohmic Resistor in Parallel?,2504.00258,http://arxiv.org/abs/2504.00258v1,2025-03-31 22:08:39+00:00
+66,Preparing graph states forbidding a vertex-minor,2504.00291,http://arxiv.org/abs/2504.00291v1,2025-03-31 23:25:35+00:00
+67,Dynamics of Spinning Test Body in quadratic Einstein-Cartan Theory and its Free-fall Test,2503.24087,http://arxiv.org/abs/2503.24087v1,2025-03-31 13:41:00+00:00
+68,Beijing Normal University 12-meter Interferometric kHz GW Detector Prototype: Design and Scientific Prospects,2503.24178,http://arxiv.org/abs/2503.24178v2,2025-03-31 14:54:53+00:00
