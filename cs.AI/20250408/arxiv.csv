@@ -1,0 +1,101 @@
+,title,id,arxiv_url,published
+0,Collaborative LLM Numerical Reasoning with Local Data Protection,2504.00299,http://arxiv.org/abs/2504.00299v1,2025-04-01 00:02:25+00:00
+1,CyberBOT: Towards Reliable Cybersecurity Education via Ontology-Grounded Retrieval Augmented Generation,2504.00389,http://arxiv.org/abs/2504.00389v1,2025-04-01 03:19:22+00:00
+2,Hawkeye:Efficient Reasoning with Model Collaboration,2504.00424,http://arxiv.org/abs/2504.00424v1,2025-04-01 05:09:04+00:00
+3,"Towards Responsible and Trustworthy Educational Data Mining: Comparing Symbolic, Sub-Symbolic, and Neural-Symbolic AI Methods",2504.00615,http://arxiv.org/abs/2504.00615v1,2025-04-01 10:14:11+00:00
+4,Do We Truly Need So Many Samples? Multi-LLM Repeated Sampling Efficiently Scales Test-Time Compute,2504.00762,http://arxiv.org/abs/2504.00762v2,2025-04-01 13:13:43+00:00
+5,Grounding Multimodal LLMs to Embodied Agents that Ask for Help with Reinforcement Learning,2504.00907,http://arxiv.org/abs/2504.00907v2,2025-04-01 15:41:50+00:00
+6,FedPaI: Achieving Extreme Sparsity in Federated Learning via Pruning at Initialization,2504.00308,http://arxiv.org/abs/2504.00308v1,2025-04-01 00:24:34+00:00
+7,Detecting and Mitigating Bias in LLMs through Knowledge Graph-Augmented Training,2504.00310,http://arxiv.org/abs/2504.00310v1,2025-04-01 00:27:50+00:00
+8,SeizureTransformer: Scaling U-Net with Transformer for Simultaneous Time-Step Level Seizure Detection from Long EEG Recordings,2504.00336,http://arxiv.org/abs/2504.00336v2,2025-04-01 01:33:42+00:00
+9,VNJPTranslate: A comprehensive pipeline for Vietnamese-Japanese translation,2504.00339,http://arxiv.org/abs/2504.00339v1,2025-04-01 01:38:25+00:00
+10,Hybrid Global-Local Representation with Augmented Spatial Guidance for Zero-Shot Referring Image Segmentation,2504.00356,http://arxiv.org/abs/2504.00356v1,2025-04-01 02:13:39+00:00
+11,When Persuasion Overrides Truth in Multi-Agent LLM Debates: Introducing a Confidence-Weighted Persuasion Override Rate (CW-POR),2504.00374,http://arxiv.org/abs/2504.00374v1,2025-04-01 02:45:02+00:00
+12,Beyond Wide-Angle Images: Unsupervised Video Portrait Correction via Spatiotemporal Diffusion Adaptation,2504.00401,http://arxiv.org/abs/2504.00401v1,2025-04-01 03:49:59+00:00
+13,VerifiAgent: a Unified Verification Agent in Language Model Reasoning,2504.00406,http://arxiv.org/abs/2504.00406v1,2025-04-01 04:05:03+00:00
+14,Semantic Mastery: Enhancing LLMs with Advanced Natural Language Understanding,2504.00409,http://arxiv.org/abs/2504.00409v1,2025-04-01 04:12:04+00:00
+15,LLM-Assisted Proactive Threat Intelligence for Automated Reasoning,2504.00428,http://arxiv.org/abs/2504.00428v1,2025-04-01 05:19:33+00:00
+16,Suite-IN++: A FlexiWear BodyNet Integrating Global and Local Motion Features from Apple Suite for Robust Inertial Navigation,2504.00438,http://arxiv.org/abs/2504.00438v1,2025-04-01 05:40:52+00:00
+17,No Free Lunch with Guardrails,2504.00441,http://arxiv.org/abs/2504.00441v2,2025-04-01 05:46:54+00:00
+18,Distilling Multi-view Diffusion Models into 3D Generators,2504.00457,http://arxiv.org/abs/2504.00457v3,2025-04-01 06:32:48+00:00
+19,MetaLoRA: Tensor-Enhanced Adaptive Low-Rank Fine-tuning,2504.00460,http://arxiv.org/abs/2504.00460v1,2025-04-01 06:34:26+00:00
+20,Memorizing is Not Enough: Deep Knowledge Injection Through Reasoning,2504.00472,http://arxiv.org/abs/2504.00472v1,2025-04-01 06:59:59+00:00
+21,Enhancing stroke disease classification through machine learning models via a novel voting system by feature selection techniques,2504.00485,http://arxiv.org/abs/2504.00485v1,2025-04-01 07:16:49+00:00
+22,Operator Learning with Domain Decomposition for Geometry Generalization in PDE Solving,2504.00510,http://arxiv.org/abs/2504.00510v1,2025-04-01 08:00:43+00:00
+23,Automated detection of atomicity violations in large-scale systems,2504.00521,http://arxiv.org/abs/2504.00521v1,2025-04-01 08:13:29+00:00
+24,High-Quality Pseudo-Label Generation Based on Visual Prompt Assisted Cloud Model Update,2504.00526,http://arxiv.org/abs/2504.00526v1,2025-04-01 08:20:16+00:00
+25,Enhancing Negation Awareness in Universal Text Embeddings: A Data-efficient and Computational-efficient Approach,2504.00584,http://arxiv.org/abs/2504.00584v1,2025-04-01 09:39:57+00:00
+26,On the Consistency of Multilingual Context Utilization in Retrieval-Augmented Generation,2504.00597,http://arxiv.org/abs/2504.00597v1,2025-04-01 09:55:23+00:00
+27,PLM4NDV: Minimizing Data Access for Number of Distinct Values Estimation with Pre-trained Language Models,2504.00608,http://arxiv.org/abs/2504.00608v1,2025-04-01 10:06:20+00:00
+28,Feature Subset Weighting for Distance-based Supervised Learning through Choquet Integration,2504.00624,http://arxiv.org/abs/2504.00624v1,2025-04-01 10:23:01+00:00
+29,CNOT-Optimal Clifford Synthesis as SAT,2504.00634,http://arxiv.org/abs/2504.00634v1,2025-04-01 10:35:58+00:00
+30,DynMoLE: Boosting Mixture of LoRA Experts Fine-Tuning with a Hybrid Routing Mechanism,2504.00661,http://arxiv.org/abs/2504.00661v1,2025-04-01 11:14:19+00:00
+31,The HCI GenAI CO2ST Calculator: A Tool for Calculating the Carbon Footprint of Generative AI Use in Human-Computer Interaction Research,2504.00692,http://arxiv.org/abs/2504.00692v1,2025-04-01 12:02:45+00:00
+32,Advancements in Multimodal Differential Evolution: A Comprehensive Review and Future Perspectives,2504.00717,http://arxiv.org/abs/2504.00717v1,2025-04-01 12:30:07+00:00
+33,Personality-Driven Decision-Making in LLM-Based Autonomous Agents,2504.00727,http://arxiv.org/abs/2504.00727v1,2025-04-01 12:36:28+00:00
+34,Digitally Supported Analysis of Spontaneous Speech (DigiSpon): Benchmarking NLP-Supported Language Sample Analysis of Swiss Children's Speech,2504.00780,http://arxiv.org/abs/2504.00780v1,2025-04-01 13:32:38+00:00
+35,Conditional Temporal Neural Processes with Covariance Loss,2504.00794,http://arxiv.org/abs/2504.00794v1,2025-04-01 13:51:44+00:00
+36,Explainable AI-Based Interface System for Weather Forecasting Model,2504.00795,http://arxiv.org/abs/2504.00795v1,2025-04-01 13:52:34+00:00
+37,Example-Based Concept Analysis Framework for Deep Weather Forecast Models,2504.00831,http://arxiv.org/abs/2504.00831v1,2025-04-01 14:22:41+00:00
+38,Context-Aware Human Behavior Prediction Using Multimodal Large Language Models: Challenges and Insights,2504.00839,http://arxiv.org/abs/2504.00839v1,2025-04-01 14:28:19+00:00
+39,Investigating Large Language Models in Diagnosing Students' Cognitive Skills in Math Problem-solving,2504.00843,http://arxiv.org/abs/2504.00843v1,2025-04-01 14:29:41+00:00
+40,Global Intervention and Distillation for Federated Out-of-Distribution Generalization,2504.00850,http://arxiv.org/abs/2504.00850v1,2025-04-01 14:36:24+00:00
+41,ReaLitE: Enrichment of Relation Embeddings in Knowledge Graphs using Numeric Literals,2504.00852,http://arxiv.org/abs/2504.00852v1,2025-04-01 14:38:22+00:00
+42,Exploring Personalized Federated Learning Architectures for Violence Detection in Surveillance Videos,2504.00857,http://arxiv.org/abs/2504.00857v1,2025-04-01 14:47:14+00:00
+43,m1: Unleash the Potential of Test-Time Scaling for Medical Reasoning with Large Language Models,2504.00869,http://arxiv.org/abs/2504.00869v1,2025-04-01 14:57:43+00:00
+44,Improved Visual-Spatial Reasoning via R1-Zero-Like Training,2504.00883,http://arxiv.org/abs/2504.00883v1,2025-04-01 15:11:11+00:00
+45,AI Judges in Design: Statistical Perspectives on Achieving Human Expert Equivalence With Vision-Language Models,2504.00938,http://arxiv.org/abs/2504.00938v1,2025-04-01 16:20:29+00:00
+46,Graph Classification and Radiomics Signature for Identification of Tuberculous Meningitis,2504.00943,http://arxiv.org/abs/2504.00943v1,2025-04-01 16:28:39+00:00
+47,IDMR: Towards Instance-Driven Precise Visual Correspondence in Multimodal Retrieval,2504.00954,http://arxiv.org/abs/2504.00954v1,2025-04-01 16:47:20+00:00
+48,Unfair Learning: GenAI Exceptionalism and Copyright Law,2504.00955,http://arxiv.org/abs/2504.00955v1,2025-04-01 16:49:39+00:00
+49,HDVIO2.0: Wind and Disturbance Estimation with Hybrid Dynamics VIO,2504.00969,http://arxiv.org/abs/2504.00969v1,2025-04-01 17:08:27+00:00
+50,Resource Allocation for RIS-Assisted CoMP-NOMA Networks using Reinforcement Learning,2504.00975,http://arxiv.org/abs/2504.00975v1,2025-04-01 17:14:01+00:00
+51,Accelerating drug discovery with Artificial: a whole-lab orchestration and scheduling system for self-driving labs,2504.00986,http://arxiv.org/abs/2504.00986v1,2025-04-01 17:22:50+00:00
+52,MedReason: Eliciting Factual Medical Reasoning Steps in LLMs via Knowledge Graphs,2504.00993,http://arxiv.org/abs/2504.00993v2,2025-04-01 17:31:44+00:00
+53,MergeVQ: A Unified Framework for Visual Generation and Representation with Disentangled Token Merging and Quantization,2504.00999,http://arxiv.org/abs/2504.00999v1,2025-04-01 17:39:19+00:00
+54,Zero-shot Benchmarking: A Framework for Flexible and Scalable Automatic Evaluation of Language Models,2504.01001,http://arxiv.org/abs/2504.01001v1,2025-04-01 17:40:08+00:00
+55,Token embeddings violate the manifold hypothesis,2504.01002,http://arxiv.org/abs/2504.01002v1,2025-04-01 17:40:12+00:00
+56,IntrinsiX: High-Quality PBR Generation using Image Priors,2504.01008,http://arxiv.org/abs/2504.01008v1,2025-04-01 17:47:48+00:00
+57,Knowledge-Base based Semantic Image Transmission Using CLIP,2504.01053,http://arxiv.org/abs/2504.01053v1,2025-04-01 12:53:54+00:00
+58,HomeEmergency -- Using Audio to Find and Respond to Emergencies in the Home,2504.01089,http://arxiv.org/abs/2504.01089v1,2025-04-01 18:07:25+00:00
+59,RipVIS: Rip Currents Video Instance Segmentation Benchmark for Beach Monitoring and Safety,2504.01128,http://arxiv.org/abs/2504.01128v2,2025-04-01 18:57:15+00:00
+60,Is the Top Still Spinning? Evaluating Subjectivity in Narrative Understanding,2504.01132,http://arxiv.org/abs/2504.01132v1,2025-04-01 19:08:24+00:00
+61,Neural Approaches to SAT Solving: Design Choices and Interpretability,2504.01173,http://arxiv.org/abs/2504.01173v1,2025-04-01 20:31:01+00:00
+62,$μ$KE: Matryoshka Unstructured Knowledge Editing of Large Language Models,2504.01196,http://arxiv.org/abs/2504.01196v1,2025-04-01 21:24:44+00:00
+63,TenAd: A Tensor-based Low-rank Black Box Adversarial Attack for Video Classification,2504.01228,http://arxiv.org/abs/2504.01228v1,2025-04-01 22:35:28+00:00
+64,Dynamic Graph Structure Estimation for Learning Multivariate Point Process using Spiking Neural Networks,2504.01246,http://arxiv.org/abs/2504.01246v1,2025-04-01 23:23:10+00:00
+65,Plan-and-Act using Large Language Models for Interactive Agreement,2504.01252,http://arxiv.org/abs/2504.01252v1,2025-04-01 23:41:05+00:00
+66,Brains vs. Bytes: Evaluating LLM Proficiency in Olympiad Mathematics,2504.01995,http://arxiv.org/abs/2504.01995v1,2025-04-01 00:10:10+00:00
+67,Multi-Agent LLM Judge: automatic personalized LLM judge design for evaluating natural language generation applications,2504.02867,http://arxiv.org/abs/2504.02867v1,2025-04-01 09:36:56+00:00
+68,AI Hiring with LLMs: A Context-Aware and Explainable Multi-Agent Framework for Resume Screening,2504.02870,http://arxiv.org/abs/2504.02870v1,2025-04-01 12:56:39+00:00
+69,Agentic Multimodal AI for Hyperpersonalized B2B and B2C Advertising in Competitive Markets: An AI-Driven Competitive Advertising Framework,2504.00338,http://arxiv.org/abs/2504.00338v1,2025-04-01 01:37:02+00:00
+70,Integrated LLM-Based Intrusion Detection with Secure Slicing xApp for Securing O-RAN-Enabled Wireless Network Deployments,2504.00341,http://arxiv.org/abs/2504.00341v1,2025-04-01 01:45:07+00:00
+71,From Intuition to Understanding: Using AI Peers to Overcome Physics Misconceptions,2504.00408,http://arxiv.org/abs/2504.00408v1,2025-04-01 04:09:13+00:00
+72,"Multimodal LLMs for OCR, OCR Post-Correction, and Named Entity Recognition in Historical Documents",2504.00414,http://arxiv.org/abs/2504.00414v1,2025-04-01 04:21:34+00:00
+73,Learning-Based Approximate Nonlinear Model Predictive Control Motion Cueing,2504.00469,http://arxiv.org/abs/2504.00469v1,2025-04-01 06:52:30+00:00
+74,Recitation over Reasoning: How Cutting-Edge Language Models Can Fail on Elementary School-Level Reasoning Problems?,2504.00509,http://arxiv.org/abs/2504.00509v1,2025-04-01 07:57:58+00:00
+75,Training Frozen Feature Pyramid DINOv2 for Eyelid Measurements with Infinite Encoding and Orthogonal Regularization,2504.00515,http://arxiv.org/abs/2504.00515v1,2025-04-01 08:06:08+00:00
+76,Data Cleansing for GANs,2504.00603,http://arxiv.org/abs/2504.00603v1,2025-04-01 10:02:37+00:00
+77,LLM-Guided Search for Deletion-Correcting Codes,2504.00613,http://arxiv.org/abs/2504.00613v1,2025-04-01 10:11:32+00:00
+78,Impact of Data Duplication on Deep Neural Network-Based Image Classifiers: Robust vs. Standard Models,2504.00638,http://arxiv.org/abs/2504.00638v1,2025-04-01 10:48:00+00:00
+79,"Towards Adaptive AI Governance: Comparative Insights from the U.S., EU, and Asia",2504.00652,http://arxiv.org/abs/2504.00652v1,2025-04-01 11:05:47+00:00
+80,Command A: An Enterprise-Ready Large Language Model,2504.00698,http://arxiv.org/abs/2504.00698v1,2025-04-01 12:08:07+00:00
+81,Energy Weighted Learning Progress Guided Interleaved Multi-Task Learning,2504.00707,http://arxiv.org/abs/2504.00707v1,2025-04-01 12:15:27+00:00
+82,Science Autonomy using Machine Learning for Astrobiology,2504.00709,http://arxiv.org/abs/2504.00709v1,2025-04-01 12:20:18+00:00
+83,LLMs4SchemaDiscovery: A Human-in-the-Loop Workflow for Scientific Schema Mining with Large Language Models,2504.00752,http://arxiv.org/abs/2504.00752v1,2025-04-01 13:03:33+00:00
+84,"A Survey on Music Generation from Single-Modal, Cross-Modal, and Multi-Modal Perspectives: Data, Methods, and Challenges",2504.00837,http://arxiv.org/abs/2504.00837v1,2025-04-01 14:26:25+00:00
+85,Spectral Architecture Search for Neural Networks,2504.00885,http://arxiv.org/abs/2504.00885v1,2025-04-01 15:14:30+00:00
+86,Role and Use of Race in AI/ML Models Related to Health,2504.00899,http://arxiv.org/abs/2504.00899v1,2025-04-01 15:27:31+00:00
+87,Agent S2: A Compositional Generalist-Specialist Framework for Computer Use Agents,2504.00906,http://arxiv.org/abs/2504.00906v1,2025-04-01 15:40:27+00:00
+88,QSViT: A Methodology for Quantizing Spiking Vision Transformers,2504.00948,http://arxiv.org/abs/2504.00948v1,2025-04-01 16:34:46+00:00
+89,Personalized Federated Training of Diffusion Models with Privacy Guarantees,2504.00952,http://arxiv.org/abs/2504.00952v1,2025-04-01 16:45:26+00:00
+90,Enabling Efficient Processing of Spiking Neural Networks with On-Chip Learning on Commodity Neuromorphic Processors for Edge AI Systems,2504.00957,http://arxiv.org/abs/2504.00957v1,2025-04-01 16:52:03+00:00
+91,SentenceKV: Efficient LLM Inference via Sentence-Level Semantic KV Caching,2504.00970,http://arxiv.org/abs/2504.00970v1,2025-04-01 17:08:57+00:00
+92,WorldScore: A Unified Evaluation Benchmark for World Generation,2504.00983,http://arxiv.org/abs/2504.00983v1,2025-04-01 17:20:23+00:00
+93,"When To Solve, When To Verify: Compute-Optimal Problem Solving and Generative Verification for LLM Reasoning",2504.01005,http://arxiv.org/abs/2504.01005v1,2025-04-01 17:41:57+00:00
+94,GeometryCrafter: Consistent Geometry Estimation for Open-world Videos with Diffusion Priors,2504.01016,http://arxiv.org/abs/2504.01016v1,2025-04-01 17:58:03+00:00
+95,Predicting Movie Production Years through Facial Recognition of Actors with Machine Learning,2504.01047,http://arxiv.org/abs/2504.01047v1,2025-04-01 04:46:05+00:00
+96,Hard-constraining Neumann boundary conditions in physics-informed neural networks via Fourier feature embeddings,2504.01093,http://arxiv.org/abs/2504.01093v1,2025-04-01 18:10:46+00:00
+97,"ffstruc2vec: Flat, Flexible and Scalable Learning of Node Representations from Structural Identities",2504.01122,http://arxiv.org/abs/2504.01122v1,2025-04-01 18:47:16+00:00
+98,Catch Me if You Search: When Contextual Web Search Results Affect the Detection of Hallucinations,2504.01153,http://arxiv.org/abs/2504.01153v1,2025-04-01 19:36:14+00:00
+99,"Remember, but also, Forget: Bridging Myopic and Perfect Recall Fairness with Past-Discounting",2504.01154,http://arxiv.org/abs/2504.01154v1,2025-04-01 19:42:17+00:00
