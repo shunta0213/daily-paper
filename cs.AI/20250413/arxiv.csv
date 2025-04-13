@@ -1,0 +1,65 @@
+,title,id,arxiv_url,published
+0,Solving Sokoban using Hierarchical Reinforcement Learning with Landmarks,2504.04366,http://arxiv.org/abs/2504.04366v1,2025-04-06 05:30:21+00:00
+1,AGITB: A Signal-Level Benchmark for Evaluating Artificial General Intelligence,2504.04430,http://arxiv.org/abs/2504.04430v1,2025-04-06 10:01:15+00:00
+2,CO-Bench: Benchmarking Language Model Agents in Algorithm Search for Combinatorial Optimization,2504.04310,http://arxiv.org/abs/2504.04310v1,2025-04-06 00:47:43+00:00
+3,Geo-OLM: Enabling Sustainable Earth Observation Studies with Cost-Efficient Open Language Models & State-Driven Workflows,2504.04319,http://arxiv.org/abs/2504.04319v1,2025-04-06 01:31:04+00:00
+4,IMPersona: Evaluating Individual Level LM Impersonation,2504.04332,http://arxiv.org/abs/2504.04332v2,2025-04-06 02:57:58+00:00
+5,Generative Large Language Models Trained for Detecting Errors in Radiology Reports,2504.04336,http://arxiv.org/abs/2504.04336v1,2025-04-06 03:02:36+00:00
+6,Crowdsourcing-Based Knowledge Graph Construction for Drug Side Effects Using Large Language Models with an Application on Semaglutide,2504.04346,http://arxiv.org/abs/2504.04346v2,2025-04-06 03:47:44+00:00
+7,REFORMER: A ChatGPT-Driven Data Synthesis Framework Elevating Text-to-SQL Models,2504.04363,http://arxiv.org/abs/2504.04363v1,2025-04-06 05:27:37+00:00
+8,WeiDetect: Weibull Distribution-Based Defense against Poisoning Attacks in Federated Learning for Network Intrusion Detection Systems,2504.04367,http://arxiv.org/abs/2504.04367v1,2025-04-06 05:31:24+00:00
+9,iADCPS: Time Series Anomaly Detection for Evolving Cyber-physical Systems via Incremental Meta-learning,2504.04374,http://arxiv.org/abs/2504.04374v1,2025-04-06 06:02:31+00:00
+10,Pre-training Generative Recommender with Multi-Identifier Item Tokenization,2504.04400,http://arxiv.org/abs/2504.04400v1,2025-04-06 08:03:03+00:00
+11,Universal Item Tokenization for Transferable Generative Recommendation,2504.04405,http://arxiv.org/abs/2504.04405v1,2025-04-06 08:07:49+00:00
+12,"Driving-RAG: Driving Scenarios Embedding, Search, and RAG Applications",2504.04419,http://arxiv.org/abs/2504.04419v1,2025-04-06 09:05:33+00:00
+13,UniToken: Harmonizing Multimodal Understanding and Generation through Unified Visual Encoding,2504.04423,http://arxiv.org/abs/2504.04423v1,2025-04-06 09:20:49+00:00
+14,Formula-Supervised Sound Event Detection: Pre-Training Without Real Data,2504.04428,http://arxiv.org/abs/2504.04428v1,2025-04-06 09:47:26+00:00
+15,Do We Need Responsible XR? Drawing on Responsible AI to Inform Ethical Research and Practice into XRAI / the Metaverse,2504.04440,http://arxiv.org/abs/2504.04440v1,2025-04-06 10:37:09+00:00
+16,"An overview of model uncertainty and variability in LLM-based sentiment analysis. Challenges, mitigation strategies and the role of explainability",2504.04462,http://arxiv.org/abs/2504.04462v1,2025-04-06 12:20:39+00:00
+17,LoopGen: Training-Free Loopable Music Generation,2504.04466,http://arxiv.org/abs/2504.04466v2,2025-04-06 12:34:23+00:00
+18,Directed Graph-alignment Approach for Identification of Gaps in Short Answers,2504.04473,http://arxiv.org/abs/2504.04473v1,2025-04-06 13:04:28+00:00
+19,Statistical Guarantees Of False Discovery Rate In Medical Instance Segmentation Tasks Based on Conformal Risk Control,2504.04482,http://arxiv.org/abs/2504.04482v1,2025-04-06 13:31:19+00:00
+20,Saliency-driven Dynamic Token Pruning for Large Language Models,2504.04514,http://arxiv.org/abs/2504.04514v2,2025-04-06 15:15:07+00:00
+21,Enhance Then Search: An Augmentation-Search Strategy with Foundation Models for Cross-Domain Few-Shot Object Detection,2504.04517,http://arxiv.org/abs/2504.04517v1,2025-04-06 15:30:35+00:00
+22,Trust Region Preference Approximation: A simple and stable reinforcement learning algorithm for LLM reasoning,2504.04524,http://arxiv.org/abs/2504.04524v1,2025-04-06 15:48:26+00:00
+23,SnapPix: Efficient-Coding--Inspired In-Sensor Compression for Edge Vision,2504.04535,http://arxiv.org/abs/2504.04535v1,2025-04-06 16:24:45+00:00
+24,"The Point, the Vision and the Text: Does Point Cloud Boost Spatial Reasoning of Large Language Models?",2504.04540,http://arxiv.org/abs/2504.04540v1,2025-04-06 16:38:48+00:00
+25,"Planning Safety Trajectories with Dual-Phase, Physics-Informed, and Transportation Knowledge-Driven Large Language Models",2504.04562,http://arxiv.org/abs/2504.04562v1,2025-04-06 17:34:33+00:00
+26,"""You just can't go around killing people"" Explaining Agent Behavior to a Human Terminator",2504.04592,http://arxiv.org/abs/2504.04592v1,2025-04-06 19:29:45+00:00
+27,M2IV: Towards Efficient and Fine-grained Multimodal In-Context Learning in Large Vision-Language Models,2504.04633,http://arxiv.org/abs/2504.04633v1,2025-04-06 22:02:21+00:00
+28,Splits! A Flexible Dataset for Evaluating a Model's Demographic Social Inference,2504.04640,http://arxiv.org/abs/2504.04640v1,2025-04-06 23:17:07+00:00
+29,AROMA: Autonomous Rank-one Matrix Adaptation,2504.05343,http://arxiv.org/abs/2504.05343v1,2025-04-06 09:14:43+00:00
+30,Divergent Paths: Separating Homophilic and Heterophilic Learning for Enhanced Graph-level Representations,2504.05344,http://arxiv.org/abs/2504.05344v1,2025-04-06 09:31:10+00:00
+31,Embedding Reliability Verification Constraints into Generation Expansion Planning,2504.07131,http://arxiv.org/abs/2504.07131v1,2025-04-06 04:58:45+00:00
+32,Gating is Weighting: Understanding Gated Linear Attention through In-context Learning,2504.04308,http://arxiv.org/abs/2504.04308v1,2025-04-06 00:37:36+00:00
+33,Balancing Complexity and Informativeness in LLM-Based Clustering: Finding the Goldilocks Zone,2504.04314,http://arxiv.org/abs/2504.04314v1,2025-04-06 01:16:22+00:00
+34,Hallucination Detection using Multi-View Attention Features,2504.04335,http://arxiv.org/abs/2504.04335v1,2025-04-06 03:00:58+00:00
+35,DDPT: Diffusion-Driven Prompt Tuning for Large Language Model Code Generation,2504.04351,http://arxiv.org/abs/2504.04351v1,2025-04-06 04:19:19+00:00
+36,AutoPDL: Automatic Prompt Optimization for LLM Agents,2504.04365,http://arxiv.org/abs/2504.04365v1,2025-04-06 05:30:10+00:00
+37,How Accurately Do Large Language Models Understand Code?,2504.04372,http://arxiv.org/abs/2504.04372v2,2025-04-06 05:59:29+00:00
+38,StyleRec: A Benchmark Dataset for Prompt Recovery in Writing Style Transformation,2504.04373,http://arxiv.org/abs/2504.04373v1,2025-04-06 06:02:28+00:00
+39,Future-Proof Yourself: An AI Era Survival Guide,2504.04378,http://arxiv.org/abs/2504.04378v1,2025-04-06 06:11:29+00:00
+40,Retro-Search: Exploring Untaken Paths for Deeper and Efficient Reasoning,2504.04383,http://arxiv.org/abs/2504.04383v1,2025-04-06 06:23:27+00:00
+41,FluentLip: A Phonemes-Based Two-stage Approach for Audio-Driven Lip Synthesis with Optical Flow Consistency,2504.04427,http://arxiv.org/abs/2504.04427v1,2025-04-06 09:44:30+00:00
+42,On the Spatial Structure of Mixture-of-Experts in Transformers,2504.04444,http://arxiv.org/abs/2504.04444v1,2025-04-06 11:31:55+00:00
+43,Prot42: a Novel Family of Protein Language Models for Target-aware Protein Binder Generation,2504.04453,http://arxiv.org/abs/2504.04453v1,2025-04-06 11:43:12+00:00
+44,EclipseNETs: Learning Irregular Small Celestial Body Silhouettes,2504.04455,http://arxiv.org/abs/2504.04455v1,2025-04-06 11:51:44+00:00
+45,AI2STOW: End-to-End Deep Reinforcement Learning to Construct Master Stowage Plans under Demand Uncertainty,2504.04469,http://arxiv.org/abs/2504.04469v1,2025-04-06 12:45:25+00:00
+46,Hessian of Perplexity for Large Language Models by PyTorch autograd (Open Source),2504.04520,http://arxiv.org/abs/2504.04520v1,2025-04-06 15:37:04+00:00
+47,A Consequentialist Critique of Binary Classification Evaluation Practices,2504.04528,http://arxiv.org/abs/2504.04528v1,2025-04-06 15:58:01+00:00
+48,An Empirical Comparison of Text Summarization: A Multi-Dimensional Evaluation of Large Language Models,2504.04534,http://arxiv.org/abs/2504.04534v1,2025-04-06 16:24:22+00:00
+49,Advancing Egocentric Video Question Answering with Multimodal Large Language Models,2504.04550,http://arxiv.org/abs/2504.04550v1,2025-04-06 16:58:23+00:00
+50,Hierarchical Planning for Complex Tasks with Knowledge Graph-RAG and Symbolic Verification,2504.04578,http://arxiv.org/abs/2504.04578v1,2025-04-06 18:36:30+00:00
+51,Your Image Generator Is Your New Private Dataset,2504.04582,http://arxiv.org/abs/2504.04582v2,2025-04-06 18:46:08+00:00
+52,SECQUE: A Benchmark for Evaluating Real-World Financial Analysis Capabilities,2504.04596,http://arxiv.org/abs/2504.04596v1,2025-04-06 19:59:41+00:00
+53,AI in a vat: Fundamental limits of efficient world modelling for agent sandboxing and interpretability,2504.04608,http://arxiv.org/abs/2504.04608v1,2025-04-06 20:35:44+00:00
+54,Tool-as-Interface: Learning Robot Policies from Human Tool Usage through Imitation Learning,2504.04612,http://arxiv.org/abs/2504.04612v1,2025-04-06 20:40:19+00:00
+55,DanceMosaic: High-Fidelity Dance Generation with Multimodal Editability,2504.04634,http://arxiv.org/abs/2504.04634v1,2025-04-06 22:05:37+00:00
+56,Here Comes the Explanation: A Shapley Perspective on Multi-contrast Medical Image Segmentation,2504.04645,http://arxiv.org/abs/2504.04645v1,2025-04-06 23:52:07+00:00
+57,Three-Factor Learning in Spiking Neural Networks: An Overview of Methods and Trends from a Machine Learning Perspective,2504.05341,http://arxiv.org/abs/2504.05341v1,2025-04-06 08:10:16+00:00
+58,MASS: MoErging through Adaptive Subspace Selection,2504.05342,http://arxiv.org/abs/2504.05342v1,2025-04-06 08:49:52+00:00
+59,Thanos: A Block-wise Pruning Algorithm for Efficient Large Language Model Compression,2504.05346,http://arxiv.org/abs/2504.05346v1,2025-04-06 11:38:44+00:00
+60,Hyperflows: Pruning Reveals the Importance of Weights,2504.05349,http://arxiv.org/abs/2504.05349v1,2025-04-06 16:09:18+00:00
+61,Non-linear Phillips Curve for India: Evidence from Explainable Machine Learning,2504.05350,http://arxiv.org/abs/2504.05350v1,2025-04-06 16:17:36+00:00
+62,"A Survey of Social Cybersecurity: Techniques for Attack Detection, Evaluations, Challenges, and Future Prospects",2504.04311,http://arxiv.org/abs/2504.04311v1,2025-04-06 00:53:09+00:00
+63,"Capturing AI's Attention: Physics of Repetition, Hallucination, Bias and Beyond",2504.04600,http://arxiv.org/abs/2504.04600v1,2025-04-06 20:10:05+00:00
