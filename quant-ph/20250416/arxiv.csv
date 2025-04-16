@@ -1,0 +1,56 @@
+,title,id,arxiv_url,published
+0,Experimental Implementation of a Qubit-Efficient Variational Quantum Eigensolver with Analog Error Mitigation on a Superconducting Quantum Processor,2504.06554,http://arxiv.org/abs/2504.06554v1,2025-04-09 03:23:26+00:00
+1,Geometric Quantum Gates of Non-closed Paths Under Counterdiabatic Driving,2504.06678,http://arxiv.org/abs/2504.06678v1,2025-04-09 08:35:43+00:00
+2,Kerr enhanced optomechanical entanglement via reservoir design,2504.06696,http://arxiv.org/abs/2504.06696v1,2025-04-09 08:55:12+00:00
+3,Exact QSP angles for odd monomials,2504.06703,http://arxiv.org/abs/2504.06703v1,2025-04-09 09:07:51+00:00
+4,Variational Quantum Machine Learning with Quantum Error Detection,2504.06775,http://arxiv.org/abs/2504.06775v1,2025-04-09 10:56:21+00:00
+5,A few remarks concerning application of the Lifshitz theory to calculation of the Casimir-Polder interaction,2504.06804,http://arxiv.org/abs/2504.06804v1,2025-04-09 11:51:13+00:00
+6,Dissipation and noise in strongly driven Josephson junctions,2504.06877,http://arxiv.org/abs/2504.06877v1,2025-04-09 13:31:18+00:00
+7,"A Practical Cross-Platform, Multi-Algorithm Study of Quantum Optimisation for Configurational Analysis of Materials",2504.06885,http://arxiv.org/abs/2504.06885v1,2025-04-09 13:38:44+00:00
+8,Applications of Hybrid Machine Learning Methods to Large Datasets: A Case Study,2504.06892,http://arxiv.org/abs/2504.06892v1,2025-04-09 13:53:27+00:00
+9,SVTest: general purpose software for testing weakly random sources with exemplary application to seismic data analysis enabling quantum amplification,2504.06899,http://arxiv.org/abs/2504.06899v1,2025-04-09 13:58:34+00:00
+10,A Measurement Device Independent Quantum Key Distribution protocol in the service of three users,2504.06902,http://arxiv.org/abs/2504.06902v1,2025-04-09 14:01:49+00:00
+11,An improved quantum algorithm for linear autonomous differential equations via Padé approximation,2504.06948,http://arxiv.org/abs/2504.06948v1,2025-04-09 14:54:27+00:00
+12,Machine Learning Approach towards Quantum Error Mitigation for Accurate Molecular Energetics,2504.07077,http://arxiv.org/abs/2504.07077v1,2025-04-09 17:49:09+00:00
+13,Ergotropy-Based Quantum Thermodynamics,2504.07200,http://arxiv.org/abs/2504.07200v2,2025-04-09 18:26:51+00:00
+14,Many-body quantum dimerization in 2D atomic arrays,2504.07207,http://arxiv.org/abs/2504.07207v2,2025-04-09 18:35:24+00:00
+15,Kernpiler: Compiler Optimization for Quantum Hamiltonian Simulation with Partial Trotterization,2504.07214,http://arxiv.org/abs/2504.07214v1,2025-04-09 18:41:31+00:00
+16,Characterising the failure mechanisms of error-corrected quantum logic gates,2504.07258,http://arxiv.org/abs/2504.07258v1,2025-04-09 20:29:47+00:00
+17,Optimizing Multi-Hop Quantum Communication using Bidirectional Quantum Teleportation Protocol,2504.07320,http://arxiv.org/abs/2504.07320v1,2025-04-09 22:38:53+00:00
+18,Continuous-Variable Quantum Encoding Techniques: A Comparative Study of Embedding Techniques and Their Impact on Machine Learning Performance,2504.06497,http://arxiv.org/abs/2504.06497v1,2025-04-09 00:00:45+00:00
+19,Quantum Magnetic J-Oscillators,2504.06498,http://arxiv.org/abs/2504.06498v1,2025-04-09 00:02:56+00:00
+20,Low-latency control system for feedback experiments with optical tweezer arrays,2504.06528,http://arxiv.org/abs/2504.06528v1,2025-04-09 02:09:35+00:00
+21,Coherence-decoherence interplay in quantum systems due to projective stochastic pulses: The case of Rabi oscillations,2504.06579,http://arxiv.org/abs/2504.06579v1,2025-04-09 05:02:08+00:00
+22,Quantum neural networks facilitating quantum state classification,2504.06622,http://arxiv.org/abs/2504.06622v1,2025-04-09 06:42:32+00:00
+23,Decoupling spin relaxation and chemical kinetics in radical pair magnetism: A master equation study,2504.06625,http://arxiv.org/abs/2504.06625v1,2025-04-09 06:52:41+00:00
+24,Defects in Silicon Carbide as Quantum Qubits: Recent Advances in Defect Engineering,2504.06671,http://arxiv.org/abs/2504.06671v1,2025-04-09 08:13:58+00:00
+25,Are Molecules Magical? Non-Stabilizerness in Molecular Bonding,2504.06673,http://arxiv.org/abs/2504.06673v1,2025-04-09 08:14:27+00:00
+26,Emergent metric from wavelet-transformed quantum field theory,2504.06698,http://arxiv.org/abs/2504.06698v2,2025-04-09 09:04:54+00:00
+27,Consensus-based qubit configuration optimization for variational algorithms on neutral atom quantum systems,2504.06702,http://arxiv.org/abs/2504.06702v1,2025-04-09 09:07:49+00:00
+28,Identifying and mitigating errors in hole spin qubit readout,2504.06898,http://arxiv.org/abs/2504.06898v1,2025-04-09 13:57:26+00:00
+29,Higher-order exceptional points in composite non-Hermitan systems,2504.06906,http://arxiv.org/abs/2504.06906v1,2025-04-09 14:07:42+00:00
+30,More-efficient Quantum Multivariate Mean Value Estimator from Generalized Grover Gate,2504.06940,http://arxiv.org/abs/2504.06940v2,2025-04-09 14:48:23+00:00
+31,Probing dipolar interactions between Rydberg atoms and ultracold polar molecules,2504.06977,http://arxiv.org/abs/2504.06977v1,2025-04-09 15:31:02+00:00
+32,Non-Hermitian Numerical Renormalization Group: Solution of the non-Hermitian Kondo model,2504.07019,http://arxiv.org/abs/2504.07019v1,2025-04-09 16:34:49+00:00
+33,Swinging small quantum systems out of available values of control parameters,2504.07023,http://arxiv.org/abs/2504.07023v1,2025-04-09 16:37:49+00:00
+34,Computing Canonical Averages with Quantum and Classical Optimizers: Thermodynamic Reweighting for QUBO Models of Physical Systems,2504.07094,http://arxiv.org/abs/2504.07094v1,2025-04-09 17:59:32+00:00
+35,Bose-Einstein Condensation and the Lambda Transition for Interacting Lennard-Jones Helium-4,2504.07147,http://arxiv.org/abs/2504.07147v1,2025-04-09 01:18:01+00:00
+36,"Crystal fields, exchange, and dipolar interactions and noncollinear magnons of erbium oxide",2504.07234,http://arxiv.org/abs/2504.07234v1,2025-04-09 19:20:13+00:00
+37,Noise-Aware Entanglement Generation Protocols for Superconducting Qubits with Impedance-Matched FBAR Transducers,2504.07253,http://arxiv.org/abs/2504.07253v2,2025-04-09 20:10:04+00:00
+38,Atomic Regional Superfluids in two-dimensional Moiré Time Crystals,2504.07782,http://arxiv.org/abs/2504.07782v1,2025-04-09 05:31:31+00:00
+39,"The curious case of operators with spectral density increasing as $Ω(E)\sim e^{\,\mathrm{Const.}\, E^2}$",2504.06623,http://arxiv.org/abs/2504.06623v1,2025-04-09 06:44:28+00:00
+40,Semi-classical geometric tensor in multiparameter quantum information,2504.06812,http://arxiv.org/abs/2504.06812v1,2025-04-09 12:06:57+00:00
+41,"The Dirac Equation, Mass and Arithmetic by Permutations of Automaton States",2504.06883,http://arxiv.org/abs/2504.06883v1,2025-04-09 13:37:12+00:00
+42,Harvesting Fermionic Field Entanglement in Schwarzschild Spacetime,2504.06887,http://arxiv.org/abs/2504.06887v1,2025-04-09 13:49:39+00:00
+43,GLT hidden structures in mean-field quantum spin systems,2504.06951,http://arxiv.org/abs/2504.06951v2,2025-04-09 14:58:31+00:00
+44,Assumption-free fidelity bounds for hardware noise characterization,2504.07010,http://arxiv.org/abs/2504.07010v1,2025-04-09 16:27:52+00:00
+45,"Fermi surface as a quantum critical manifold: gaplessness, order parameter, and scaling in $d$-dimensions",2504.07014,http://arxiv.org/abs/2504.07014v1,2025-04-09 16:31:07+00:00
+46,Decoherence effects in entangled fermion pairs at colliders,2504.07030,http://arxiv.org/abs/2504.07030v1,2025-04-09 16:44:25+00:00
+47,VQE calculations on a NISQ era trapped ion quantum computer using a multireference unitary coupled cluster ansatz: application to the BeH$_2$ insertion problem,2504.07037,http://arxiv.org/abs/2504.07037v1,2025-04-09 16:52:37+00:00
+48,Quantum Reverse Shannon Theorem Revisited,2504.07068,http://arxiv.org/abs/2504.07068v1,2025-04-09 17:37:20+00:00
+49,Elementary atoms in spaces of constant curvature by the Nikiforov-Uvarov method,2504.07150,http://arxiv.org/abs/2504.07150v1,2025-04-09 07:18:20+00:00
+50,Efficient mutual magic and magic capacity with matrix product states,2504.07230,http://arxiv.org/abs/2504.07230v1,2025-04-09 19:12:26+00:00
+51,Evaluating Parameter-Based Training Performance of Neural Networks and Variational Quantum Circuits,2504.07273,http://arxiv.org/abs/2504.07273v1,2025-04-09 21:00:41+00:00
+52,Advanced measurement techniques in quantum Monte Carlo: The permutation matrix representation approach,2504.07295,http://arxiv.org/abs/2504.07295v1,2025-04-09 21:39:17+00:00
+53,Exact Current Fluctuations in a Tight-Binding Chain with Dephasing Noise,2504.06989,http://arxiv.org/abs/2504.06989v1,2025-04-09 15:56:31+00:00
+54,Learning to erase quantum states: thermodynamic implications of quantum learning theory,2504.07341,http://arxiv.org/abs/2504.07341v1,2025-04-09 23:51:01+00:00
