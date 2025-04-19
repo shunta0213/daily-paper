@@ -1,0 +1,45 @@
+,title,id,arxiv_url,published
+0,An Enhanced Iterative Deepening Search Algorithm for the Unrestricted Container Rehandling Problem,2504.09046,http://arxiv.org/abs/2504.09046v1,2025-04-12 01:58:30+00:00
+1,Graph Learning-Driven Multi-Vessel Association: Fusing Multimodal Data for Maritime Intelligence,2504.09197,http://arxiv.org/abs/2504.09197v1,2025-04-12 12:45:55+00:00
+2,Continuum-Interaction-Driven Intelligence: Human-Aligned Neural Architecture via Crystallized Reasoning and Fluid Generation,2504.09301,http://arxiv.org/abs/2504.09301v1,2025-04-12 18:15:49+00:00
+3,Application of Contrastive Learning on ECG Data: Evaluating Performance in Japanese and Classification with Around 100 Labels,2504.09302,http://arxiv.org/abs/2504.09302v1,2025-04-12 18:20:44+00:00
+4,Chest X-ray Classification using Deep Convolution Models on Low-resolution images with Uncertain Labels,2504.09033,http://arxiv.org/abs/2504.09033v1,2025-04-12 01:13:00+00:00
+5,"A Survey of Frontiers in LLM Reasoning: Inference Scaling, Learning to Reason, and Agentic Systems",2504.09037,http://arxiv.org/abs/2504.09037v1,2025-04-12 01:27:49+00:00
+6,Towards Stepwise Domain Knowledge-Driven Reasoning Optimization and Reflection Improvement,2504.09058,http://arxiv.org/abs/2504.09058v1,2025-04-12 03:25:01+00:00
+7,A Practical Approach to using Supervised Machine Learning Models to Classify Aviation Safety Occurrences,2504.09063,http://arxiv.org/abs/2504.09063v1,2025-04-12 03:46:33+00:00
+8,"PQS (Prune, Quantize, and Sort): Low-Bitwidth Accumulation of Dot Products in Neural Network Computations",2504.09064,http://arxiv.org/abs/2504.09064v1,2025-04-12 03:51:42+00:00
+9,Privacy Preservation in Gen AI Applications,2504.09095,http://arxiv.org/abs/2504.09095v1,2025-04-12 06:19:37+00:00
+10,"A Short Survey on Small Reasoning Models: Training, Inference, Applications and Research Directions",2504.09100,http://arxiv.org/abs/2504.09100v1,2025-04-12 06:45:57+00:00
+11,Synthetic Aircraft Trajectory Generation Using Time-Based VQ-VAE,2504.09101,http://arxiv.org/abs/2504.09101v1,2025-04-12 06:46:51+00:00
+12,Can postgraduate translation students identify machine-generated text?,2504.09164,http://arxiv.org/abs/2504.09164v1,2025-04-12 09:58:09+00:00
+13,A Confounding Factors-Inhibition Adversarial Learning Framework for Multi-site fMRI Mental Disorder Identification,2504.09179,http://arxiv.org/abs/2504.09179v1,2025-04-12 10:58:19+00:00
+14,Parameterized Synthetic Text Generation with SimpleStories,2504.09184,http://arxiv.org/abs/2504.09184v1,2025-04-12 11:44:47+00:00
+15,Repetitive Contrastive Learning Enhances Mamba's Selectivity in Time Series Prediction,2504.09185,http://arxiv.org/abs/2504.09185v1,2025-04-12 11:57:27+00:00
+16,ReferGPT: Towards Zero-Shot Referring Multi-Object Tracking,2504.09195,http://arxiv.org/abs/2504.09195v1,2025-04-12 12:33:15+00:00
+17,AerOSeg: Harnessing SAM for Open-Vocabulary Segmentation in Remote Sensing Images,2504.09203,http://arxiv.org/abs/2504.09203v1,2025-04-12 13:06:46+00:00
+18,Development of a PPO-Reinforcement Learned Walking Tripedal Soft-Legged Robot using SOFA,2504.09242,http://arxiv.org/abs/2504.09242v1,2025-04-12 14:46:51+00:00
+19,SynthTRIPs: A Knowledge-Grounded Framework for Benchmark Query Generation for Personalized Tourism Recommenders,2504.09277,http://arxiv.org/abs/2504.09277v1,2025-04-12 16:48:35+00:00
+20,Semantic Commit: Helping Users Update Intent Specifications for AI Memory at Scale,2504.09283,http://arxiv.org/abs/2504.09283v1,2025-04-12 17:07:08+00:00
+21,Lumos: Efficient Performance Modeling and Estimation for Large-scale LLM Training,2504.09307,http://arxiv.org/abs/2504.09307v1,2025-04-12 18:43:24+00:00
+22,"Confirmation Bias in Generative AI Chatbots: Mechanisms, Risks, Mitigation Strategies, and Future Research Directions",2504.09343,http://arxiv.org/abs/2504.09343v1,2025-04-12 21:08:36+00:00
+23,MoE-Lens: Towards the Hardware Limit of High-Throughput MoE LLM Serving Under Resource Constraints,2504.09345,http://arxiv.org/abs/2504.09345v1,2025-04-12 21:26:56+00:00
+24,Explainable Artificial Intelligence techniques for interpretation of food datasets: a review,2504.10527,http://arxiv.org/abs/2504.10527v1,2025-04-12 11:10:43+00:00
+25,HeteRAG: A Heterogeneous Retrieval-augmented Generation Framework with Decoupled Knowledge Representations,2504.10529,http://arxiv.org/abs/2504.10529v1,2025-04-12 13:12:54+00:00
+26,Visual moral inference and communication,2504.11473,http://arxiv.org/abs/2504.11473v1,2025-04-12 00:46:27+00:00
+27,SDIGLM: Leveraging Large Language Models and Multi-Modal Chain of Thought for Structural Damage Identification,2504.11477,http://arxiv.org/abs/2504.11477v1,2025-04-12 11:37:10+00:00
+28,Flux Already Knows - Activating Subject-Driven Image Generation without Training,2504.11478,http://arxiv.org/abs/2504.11478v1,2025-04-12 20:41:53+00:00
+29,"A Comprehensive Survey of Reward Models: Taxonomy, Applications, Challenges, and Future",2504.12328,http://arxiv.org/abs/2504.12328v1,2025-04-12 16:07:36+00:00
+30,Speculative Thinking: Enhancing Small-Model Reasoning with Large Model Guidance at Inference Time,2504.12329,http://arxiv.org/abs/2504.12329v1,2025-04-12 21:25:32+00:00
+31,Sculpting Memory: Multi-Concept Forgetting in Diffusion Models via Dynamic Mask and Concept-Aware Optimization,2504.09039,http://arxiv.org/abs/2504.09039v1,2025-04-12 01:38:58+00:00
+32,Multimodal 3D Genome Pre-training,2504.09060,http://arxiv.org/abs/2504.09060v1,2025-04-12 03:31:03+00:00
+33,SIFT-50M: A Large-Scale Multilingual Dataset for Speech Instruction Fine-Tuning,2504.09081,http://arxiv.org/abs/2504.09081v2,2025-04-12 04:45:48+00:00
+34,FairACE: Achieving Degree Fairness in Graph Neural Networks via Contrastive and Adversarial Group-Balanced Training,2504.09210,http://arxiv.org/abs/2504.09210v2,2025-04-12 13:32:11+00:00
+35,DL-QAT: Weight-Decomposed Low-Rank Quantization-Aware Training for Large Language Models,2504.09223,http://arxiv.org/abs/2504.09223v1,2025-04-12 13:57:02+00:00
+36,AMNet: An Acoustic Model Network for Enhanced Mandarin Speech Synthesis,2504.09225,http://arxiv.org/abs/2504.09225v1,2025-04-12 14:02:31+00:00
+37,MiMIC: Multi-Modal Indian Earnings Calls Dataset to Predict Stock Prices,2504.09257,http://arxiv.org/abs/2504.09257v1,2025-04-12 15:31:40+00:00
+38,Linguistic Comparison of AI- and Human-Written Responses to Online Mental Health Queries,2504.09271,http://arxiv.org/abs/2504.09271v1,2025-04-12 16:20:02+00:00
+39,"""It's not a representation of me"": Examining Accent Bias and Digital Exclusion in Synthetic AI Voice Services",2504.09346,http://arxiv.org/abs/2504.09346v1,2025-04-12 21:31:22+00:00
+40,Explorer: Robust Collection of Interactable GUI Elements,2504.09352,http://arxiv.org/abs/2504.09352v1,2025-04-12 22:02:29+00:00
+41,Local Temporal Feature Enhanced Transformer with ROI-rank Based Masking for Diagnosis of ADHD,2504.11474,http://arxiv.org/abs/2504.11474v1,2025-04-12 02:03:35+00:00
+42,Reconstructing Sepsis Trajectories from Clinical Case Reports using LLMs: the Textual Time Series Corpus for Sepsis,2504.12326,http://arxiv.org/abs/2504.12326v1,2025-04-12 03:07:44+00:00
+43,REMEMBER: Retrieval-based Explainable Multimodal Evidence-guided Modeling for Brain Evaluation and Reasoning in Zero- and Few-shot Neurodegenerative Diagnosis,2504.09354,http://arxiv.org/abs/2504.09354v1,2025-04-12 22:06:15+00:00
