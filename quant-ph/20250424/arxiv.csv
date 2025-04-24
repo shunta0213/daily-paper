@@ -1,0 +1,60 @@
+,title,id,arxiv_url,published
+0,Enhancing Quantum Dense Coding Robustness Using Information Entropy-Based Metrics,2504.12565,http://arxiv.org/abs/2504.12565v1,2025-04-17 01:29:40+00:00
+1,Solving Constrained Combinatorial Optimization Problems with Variational Quantum Imaginary Time Evolution,2504.12607,http://arxiv.org/abs/2504.12607v1,2025-04-17 03:09:37+00:00
+2,Implementing Slack-Free Custom Penalty Function for QUBO on Gate-Based Quantum Computers,2504.12611,http://arxiv.org/abs/2504.12611v1,2025-04-17 03:20:02+00:00
+3,Enhancing NDAR with Delay-Gate-Induced Amplitude Damping,2504.12628,http://arxiv.org/abs/2504.12628v1,2025-04-17 04:09:11+00:00
+4,Sampling-based Quantum Optimization Algorithm with Quantum Relaxation,2504.12629,http://arxiv.org/abs/2504.12629v1,2025-04-17 04:13:51+00:00
+5,Transferring linearly fixed QAOA angles: performance and real device results,2504.12632,http://arxiv.org/abs/2504.12632v1,2025-04-17 04:17:51+00:00
+6,Enantiospecific Two-Photon Electric-Dipole Selection Rules of Chiral Molecules,2504.12648,http://arxiv.org/abs/2504.12648v1,2025-04-17 05:19:03+00:00
+7,Excitation transfer and many-body dark states in WQED,2504.12677,http://arxiv.org/abs/2504.12677v1,2025-04-17 06:07:22+00:00
+8,A tight consecutive measurement theorem and its applications,2504.12754,http://arxiv.org/abs/2504.12754v1,2025-04-17 08:47:29+00:00
+9,Learning Time-Varying Quantum Lossy Channels,2504.12810,http://arxiv.org/abs/2504.12810v1,2025-04-17 10:15:47+00:00
+10,Unbiased Quantum Error Mitigation Without Reliance on an Accurate Error Model,2504.12864,http://arxiv.org/abs/2504.12864v1,2025-04-17 11:42:34+00:00
+11,Hardness of classically sampling quantum chemistry circuits,2504.12893,http://arxiv.org/abs/2504.12893v1,2025-04-17 12:34:33+00:00
+12,Performance guarantees of light-cone variational quantum algorithms for the maximum cut problem,2504.12896,http://arxiv.org/abs/2504.12896v1,2025-04-17 12:38:16+00:00
+13,Dressed Interference in Giant Superatoms: Entanglement Generation and Transfer,2504.12942,http://arxiv.org/abs/2504.12942v1,2025-04-17 13:42:47+00:00
+14,A resource theory of asynchronous quantum information processing,2504.12945,http://arxiv.org/abs/2504.12945v1,2025-04-17 13:46:02+00:00
+15,Computing $n$-time correlation functions without ancilla qubits,2504.12975,http://arxiv.org/abs/2504.12975v1,2025-04-17 14:27:23+00:00
+16,Three-dimensional canonical quantum plasmonics for finite media: exact solution in terms of the classical Green tensor,2504.13029,http://arxiv.org/abs/2504.13029v1,2025-04-17 15:39:29+00:00
+17,Machine Learning Decoding of Circuit-Level Noise for Bivariate Bicycle Codes,2504.13043,http://arxiv.org/abs/2504.13043v1,2025-04-17 15:57:16+00:00
+18,Observation of quantum entanglement between free electrons and photons,2504.13047,http://arxiv.org/abs/2504.13047v1,2025-04-17 16:03:05+00:00
+19,Comment on 'Product states and Schmidt rank of mutually unbiased bases in dimension six',2504.13067,http://arxiv.org/abs/2504.13067v1,2025-04-17 16:25:55+00:00
+20,Feedforward suppression of readout-induced faults in quantum error correction,2504.13083,http://arxiv.org/abs/2504.13083v2,2025-04-17 16:50:26+00:00
+21,"Energy Landscape Plummeting in Variational Quantum Eigensolver: Subspace Optimization, Non-iterative Corrections and Generator-informed Initialization for Improved Quantum Efficiency",2504.13097,http://arxiv.org/abs/2504.13097v1,2025-04-17 17:07:09+00:00
+22,Tunable Entangling and Steering of Ferrimagnetic Magnons via an OptoMagnoMechanical Ring,2504.13117,http://arxiv.org/abs/2504.13117v1,2025-04-17 17:36:37+00:00
+23,Experimental Verification of Electron-Photon Entanglement,2504.13163,http://arxiv.org/abs/2504.13163v1,2025-04-17 17:58:50+00:00
+24,Restoring Heisenberg scaling in time via autonomous quantum error correction,2504.13168,http://arxiv.org/abs/2504.13168v1,2025-04-17 17:59:10+00:00
+25,Quantum algorithm for solving nonlinear differential equations based on physics-informed effective Hamiltonians,2504.13174,http://arxiv.org/abs/2504.13174v1,2025-04-17 17:59:33+00:00
+26,Magnetic noise in macroscopic quantum spatial superposition,2504.13252,http://arxiv.org/abs/2504.13252v1,2025-04-17 18:00:02+00:00
+27,Quantum dynamics of a bosonic mode and a two-level system interacting with several reservoirs,2504.13303,http://arxiv.org/abs/2504.13303v1,2025-04-17 19:26:14+00:00
+28,"Optimized Clifford Noise Reduction: Theory, Simulations and Experiments",2504.13356,http://arxiv.org/abs/2504.13356v1,2025-04-17 21:47:38+00:00
+29,Non-invasive mid-circuit measurement and reset on atomic qubits,2504.12538,http://arxiv.org/abs/2504.12538v1,2025-04-17 00:02:04+00:00
+30,In-situ mid-circuit qubit measurement and reset in a single-species trapped-ion quantum computing system,2504.12544,http://arxiv.org/abs/2504.12544v2,2025-04-17 00:10:35+00:00
+31,Featuremetric benchmarking: Quantum computer benchmarks based on circuit features,2504.12575,http://arxiv.org/abs/2504.12575v1,2025-04-17 01:49:02+00:00
+32,Quantum Search on Bipartite Multigraphs,2504.12586,http://arxiv.org/abs/2504.12586v1,2025-04-17 02:05:16+00:00
+33,Quantum circuit synthesis with qudit phase gadget method,2504.12710,http://arxiv.org/abs/2504.12710v1,2025-04-17 07:26:33+00:00
+34,Cavity-enhanced spectroscopy of individual nuclear spins in a dense bath,2504.12957,http://arxiv.org/abs/2504.12957v1,2025-04-17 14:03:10+00:00
+35,QI-MPC: A Hybrid Quantum-Inspired Model Predictive Control for Learning Optimal Policies,2504.13041,http://arxiv.org/abs/2504.13041v1,2025-04-17 15:55:37+00:00
+36,High-Stability Single-Ion Clock with $5.5\times10^{-19}$ Systematic Uncertainty,2504.13071,http://arxiv.org/abs/2504.13071v1,2025-04-17 16:32:15+00:00
+37,Fieldoscopy at the Quantum Limit,2504.13121,http://arxiv.org/abs/2504.13121v1,2025-04-17 17:38:46+00:00
+38,Minute-long quantum coherence enabled by electrical depletion of magnetic noise,2504.13164,http://arxiv.org/abs/2504.13164v1,2025-04-17 17:58:52+00:00
+39,"Response to recent comments on Phys. Rev. B 107, 245423 (2023) and Subsection S4.3 of the Supp. Info. for Nature 638, 651-655 (2025)",2504.13240,http://arxiv.org/abs/2504.13240v1,2025-04-17 17:14:32+00:00
+40,Quantum precursors to Kolmogorov-Arnold-Moser theorem in Floquet spin-$J$ systems,2504.13257,http://arxiv.org/abs/2504.13257v1,2025-04-17 18:00:13+00:00
+41,Quantum Geometry of Finite XY Chains: A Comparison of Neveu-Schwarz and Ramond Sectors,2504.13346,http://arxiv.org/abs/2504.13346v1,2025-04-17 21:27:23+00:00
+42,Can spacetime fluctuations generate entanglement between co-moving accelerated detectors?,2504.12674,http://arxiv.org/abs/2504.12674v1,2025-04-17 06:05:41+00:00
+43,Combining the Maximum Overlap Method with Multiwavelets for Core-Ionisation Energy Calculations,2504.12726,http://arxiv.org/abs/2504.12726v1,2025-04-17 08:08:19+00:00
+44,Dead Gate Elimination,2504.12729,http://arxiv.org/abs/2504.12729v2,2025-04-17 08:10:59+00:00
+45,Macroscopic states and operations: a generalized resource theory of coherence,2504.12738,http://arxiv.org/abs/2504.12738v1,2025-04-17 08:28:09+00:00
+46,Long-wavelength optical lattices from optical beatnotes: theory and applications,2504.12831,http://arxiv.org/abs/2504.12831v1,2025-04-17 10:46:16+00:00
+47,Nonlinear wave dynamics on a chip,2504.13001,http://arxiv.org/abs/2504.13001v1,2025-04-17 15:11:21+00:00
+48,Hopf Exceptional Points,2504.13012,http://arxiv.org/abs/2504.13012v1,2025-04-17 15:19:05+00:00
+49,Competing Bosonic Reactions: Insight from Exactly Solvable Time-Dependent Models,2504.13027,http://arxiv.org/abs/2504.13027v1,2025-04-17 15:38:04+00:00
+50,Practical Application of the Quantum Carleman Lattice Boltzmann Method in Industrial CFD Simulations,2504.13033,http://arxiv.org/abs/2504.13033v1,2025-04-17 15:41:48+00:00
+51,Quantum-gas microscopy of the Bose-glass phase,2504.13040,http://arxiv.org/abs/2504.13040v1,2025-04-17 15:52:58+00:00
+52,"Many-body cages: disorder-free glassiness from flat bands in Fock space, and many-body Rabi oscillations",2504.13086,http://arxiv.org/abs/2504.13086v1,2025-04-17 16:54:38+00:00
+53,A Quantum of Learning: Using Quaternion Algebra to Model Learning on Quantum Devices,2504.13232,http://arxiv.org/abs/2504.13232v1,2025-04-17 14:51:21+00:00
+54,High-Precision Phase Control of an Optical Lattice with up to 50 dB Noise Suppression,2504.13264,http://arxiv.org/abs/2504.13264v1,2025-04-17 18:09:25+00:00
+55,Atomic-scale imaging and charge state manipulation of NV centers by scanning tunneling microscopy,2504.13280,http://arxiv.org/abs/2504.13280v1,2025-04-17 18:43:56+00:00
+56,Theory of quantum optics and optical coherence in high harmonic generation,2504.13287,http://arxiv.org/abs/2504.13287v1,2025-04-17 18:58:07+00:00
+57,Addressing the Minor-Embedding Problem in Quantum Annealing and Evaluating State-of-the-Art Algorithm Performance,2504.13376,http://arxiv.org/abs/2504.13376v1,2025-04-17 23:13:14+00:00
+58,Query Complexity of Classical and Quantum Channel Discrimination,2504.12989,http://arxiv.org/abs/2504.12989v1,2025-04-17 14:54:00+00:00
