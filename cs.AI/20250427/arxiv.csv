@@ -1,0 +1,54 @@
+,title,id,arxiv_url,published
+0,Learning from Reasoning Failures via Synthetic Data Generation,2504.14523,http://arxiv.org/abs/2504.14523v1,2025-04-20 07:45:53+00:00
+1,Consensus in Motion: A Case of Dynamic Rationality of Sequential Learning in Probability Aggregation,2504.14624,http://arxiv.org/abs/2504.14624v1,2025-04-20 14:04:39+00:00
+2,A Framework for Benchmarking and Aligning Task-Planning Safety in LLM-Based Embodied Agents,2504.14650,http://arxiv.org/abs/2504.14650v1,2025-04-20 15:12:14+00:00
+3,AI with Emotions: Exploring Emotional Expressions in Large Language Models,2504.14706,http://arxiv.org/abs/2504.14706v2,2025-04-20 18:49:25+00:00
+4,"Optimizing SIA Development: A Case Study in User-Centered Design for Estuary, a Multimodal Socially Interactive Agent Framework",2504.14427,http://arxiv.org/abs/2504.14427v1,2025-04-20 00:02:56+00:00
+5,ResNetVLLM-2: Addressing ResNetVLLM's Multi-Modal Hallucinations,2504.14429,http://arxiv.org/abs/2504.14429v1,2025-04-20 00:10:44+00:00
+6,ResNetVLLM -- Multi-modal Vision LLM for the Video Understanding Task,2504.14432,http://arxiv.org/abs/2504.14432v1,2025-04-20 00:20:18+00:00
+7,LBM-GNN: Graph Neural Network Enhanced Lattice Boltzmann Method,2504.14494,http://arxiv.org/abs/2504.14494v1,2025-04-20 05:09:10+00:00
+8,DreamID: High-Fidelity and Fast diffusion-based Face Swapping via Triplet ID Group Learning,2504.14509,http://arxiv.org/abs/2504.14509v2,2025-04-20 06:53:00+00:00
+9,SlimPipe: Memory-Thrifty and Efficient Pipeline Parallelism for Long-Context LLM Training,2504.14519,http://arxiv.org/abs/2504.14519v1,2025-04-20 07:33:33+00:00
+10,Meta-Thinking in LLMs via Multi-Agent Reinforcement Learning: A Survey,2504.14520,http://arxiv.org/abs/2504.14520v1,2025-04-20 07:34:26+00:00
+11,Biased by Design: Leveraging AI Biases to Enhance Critical Thinking of News Readers,2504.14522,http://arxiv.org/abs/2504.14522v1,2025-04-20 07:39:00+00:00
+12,VGNC: Reducing the Overfitting of Sparse-view 3DGS via Validation-guided Gaussian Number Control,2504.14548,http://arxiv.org/abs/2504.14548v1,2025-04-20 09:38:02+00:00
+13,ReasoningV: Efficient Verilog Code Generation with Adaptive Hybrid Reasoning Model,2504.14560,http://arxiv.org/abs/2504.14560v1,2025-04-20 10:16:59+00:00
+14,NoWag: A Unified Framework for Shape Preserving Compression of Large Language Models,2504.14569,http://arxiv.org/abs/2504.14569v1,2025-04-20 11:00:29+00:00
+15,Modality Selection and Skill Segmentation via Cross-Modality Attention,2504.14573,http://arxiv.org/abs/2504.14573v1,2025-04-20 11:32:43+00:00
+16,"Toward the Axiomatization of Intelligence: Structure, Time, and Existence",2504.14596,http://arxiv.org/abs/2504.14596v1,2025-04-20 12:55:37+00:00
+17,VM-BHINet:Vision Mamba Bimanual Hand Interaction Network for 3D Interacting Hand Mesh Recovery From a Single RGB Image,2504.14618,http://arxiv.org/abs/2504.14618v1,2025-04-20 13:54:22+00:00
+18,Towards Optimal Circuit Generation: Multi-Agent Collaboration Meets Collective Intelligence,2504.14625,http://arxiv.org/abs/2504.14625v1,2025-04-20 14:05:17+00:00
+19,AlphaZero-Edu: Making AlphaZero Accessible to Everyone,2504.14636,http://arxiv.org/abs/2504.14636v1,2025-04-20 14:29:39+00:00
+20,Surrogate Fitness Metrics for Interpretable Reinforcement Learning,2504.14645,http://arxiv.org/abs/2504.14645v1,2025-04-20 15:01:19+00:00
+21,Evaluating Temporal Plasticity in Foundation Time Series Models for Incremental Fine-tuning,2504.14677,http://arxiv.org/abs/2504.14677v1,2025-04-20 16:43:01+00:00
+22,An LLM-enabled Multi-Agent Autonomous Mechatronics Design Framework,2504.14681,http://arxiv.org/abs/2504.14681v1,2025-04-20 16:57:45+00:00
+23,FarsEval-PKBETS: A new diverse benchmark for evaluating Persian large language models,2504.14690,http://arxiv.org/abs/2504.14690v1,2025-04-20 17:43:47+00:00
+24,Video-MMLU: A Massive Multi-Discipline Lecture Understanding Benchmark,2504.14693,http://arxiv.org/abs/2504.14693v1,2025-04-20 17:58:46+00:00
+25,Learning Critically: Selective Self Distillation in Federated Learning on Non-IID Data,2504.14694,http://arxiv.org/abs/2504.14694v1,2025-04-20 18:06:55+00:00
+26,"IXGS-Intraoperative 3D Reconstruction from Sparse, Arbitrarily Posed Real X-rays",2504.14699,http://arxiv.org/abs/2504.14699v1,2025-04-20 18:28:13+00:00
+27,"Exposing the Copycat Problem of Imitation-based Planner: A Novel Closed-Loop Simulator, Causal Benchmark and Joint IL-RL Baseline",2504.14709,http://arxiv.org/abs/2504.14709v1,2025-04-20 18:51:26+00:00
+28,SuperCL: Superpixel Guided Contrastive Learning for Medical Image Segmentation Pre-training,2504.14737,http://arxiv.org/abs/2504.14737v1,2025-04-20 20:57:03+00:00
+29,A Modularized Design Approach for GelSight Family of Vision-based Tactile Sensors,2504.14739,http://arxiv.org/abs/2504.14739v1,2025-04-20 21:07:41+00:00
+30,AI for the Open-World: the Learning Principles,2504.14751,http://arxiv.org/abs/2504.14751v1,2025-04-20 22:22:00+00:00
+31,SWE-Synth: Synthesizing Verifiable Bug-Fix Data to Enable Large Language Models in Resolving Real-World Bugs,2504.14757,http://arxiv.org/abs/2504.14757v1,2025-04-20 22:37:43+00:00
+32,"A Combinatorial Theory of Dropout: Subnetworks, Graph Geometry, and Generalization",2504.14762,http://arxiv.org/abs/2504.14762v1,2025-04-20 23:09:20+00:00
+33,PolicyEvol-Agent: Evolving Policy via Environment Perception and Self-Awareness with Theory of Mind,2504.15313,http://arxiv.org/abs/2504.15313v1,2025-04-20 06:43:23+00:00
+34,Diffusion-Driven Inertial Generated Data for Smartphone Location Classification,2504.15315,http://arxiv.org/abs/2504.15315v1,2025-04-20 10:14:36+00:00
+35,LoRe: Personalizing LLMs via Low-Rank Reward Modeling,2504.14439,http://arxiv.org/abs/2504.14439v1,2025-04-20 01:16:24+00:00
+36,Seeing Through Risk: A Symbolic Approximation of Prospect Theory,2504.14448,http://arxiv.org/abs/2504.14448v1,2025-04-20 01:44:54+00:00
+37,ParaPO: Aligning Language Models to Reduce Verbatim Reproduction of Pre-training Data,2504.14452,http://arxiv.org/abs/2504.14452v1,2025-04-20 01:59:46+00:00
+38,FinSage: A Multi-aspect RAG System for Financial Filings Question Answering,2504.14493,http://arxiv.org/abs/2504.14493v1,2025-04-20 04:58:14+00:00
+39,On Dimension-Free Transformer: An Application of STP to AI,2504.14514,http://arxiv.org/abs/2504.14514v1,2025-04-20 07:19:54+00:00
+40,Causality for Natural Language Processing,2504.14530,http://arxiv.org/abs/2504.14530v1,2025-04-20 08:11:11+00:00
+41,LLM-Enabled In-Context Learning for Data Collection Scheduling in UAV-assisted Sensor Networks,2504.14556,http://arxiv.org/abs/2504.14556v1,2025-04-20 10:05:07+00:00
+42,Phoenix: A Motion-based Self-Reflection Framework for Fine-grained Robotic Action Correction,2504.14588,http://arxiv.org/abs/2504.14588v1,2025-04-20 12:30:43+00:00
+43,HealthGenie: Empowering Users with Healthy Dietary Guidance through Knowledge Graph and Large Language Models,2504.14594,http://arxiv.org/abs/2504.14594v1,2025-04-20 12:51:16+00:00
+44,K2MUSE: A human lower limb multimodal dataset under diverse conditions for facilitating rehabilitation robotics,2504.14602,http://arxiv.org/abs/2504.14602v1,2025-04-20 13:03:56+00:00
+45,UFO2: The Desktop AgentOS,2504.14603,http://arxiv.org/abs/2504.14603v1,2025-04-20 13:04:43+00:00
+46,Risk Assessment Framework for Code LLMs via Leveraging Internal States,2504.14640,http://arxiv.org/abs/2504.14640v1,2025-04-20 14:44:18+00:00
+47,A Case Study Exploring the Current Landscape of Synthetic Medical Record Generation with Commercial LLMs,2504.14657,http://arxiv.org/abs/2504.14657v1,2025-04-20 15:37:05+00:00
+48,Uncovering Issues in the Radio Access Network by Looking at the Neighbors,2504.14686,http://arxiv.org/abs/2504.14686v1,2025-04-20 17:36:52+00:00
+49,Can We Ignore Labels In Out of Distribution Detection?,2504.14704,http://arxiv.org/abs/2504.14704v1,2025-04-20 18:37:51+00:00
+50,Time Frequency Analysis of EMG Signal for Gesture Recognition using Fine grained Features,2504.14708,http://arxiv.org/abs/2504.14708v1,2025-04-20 18:51:10+00:00
+51,Semi-parametric Memory Consolidation: Towards Brain-like Deep Continual Learning,2504.14727,http://arxiv.org/abs/2504.14727v1,2025-04-20 19:53:13+00:00
+52,Enhancing DR Classification with Swin Transformer and Shifted Window Attention,2504.15317,http://arxiv.org/abs/2504.15317v1,2025-04-20 13:23:20+00:00
