@@ -1,0 +1,96 @@
+,title,id,arxiv_url,published
+0,A Survey of AI Agent Protocols,2504.16736,http://arxiv.org/abs/2504.16736v2,2025-04-23 14:07:26+00:00
+1,Lightweight Latent Verifiers for Efficient Meta-Generation Strategies,2504.16760,http://arxiv.org/abs/2504.16760v1,2025-04-23 14:33:20+00:00
+2,Leveraging LLMs as Meta-Judges: A Multi-Agent Framework for Evaluating LLM Judgments,2504.17087,http://arxiv.org/abs/2504.17087v1,2025-04-23 20:32:12+00:00
+3,Mining Software Repositories for Expert Recommendation,2504.16343,http://arxiv.org/abs/2504.16343v1,2025-04-23 01:41:08+00:00
+4,QAOA-GPT: Efficient Generation of Adaptive and Regular Quantum Approximate Optimization Algorithm Circuits,2504.16350,http://arxiv.org/abs/2504.16350v1,2025-04-23 02:00:36+00:00
+5,Disentangling and Generating Modalities for Recommendation in Missing Modality Scenarios,2504.16352,http://arxiv.org/abs/2504.16352v1,2025-04-23 02:04:14+00:00
+6,Transformer-Based Extraction of Statutory Definitions from the U.S. Code,2504.16353,http://arxiv.org/abs/2504.16353v1,2025-04-23 02:09:53+00:00
+7,Cyberoception: Finding a Painlessly-Measurable New Sense in the Cyberworld Towards Emotion-Awareness in Computing,2504.16378,http://arxiv.org/abs/2504.16378v1,2025-04-23 02:56:55+00:00
+8,ConTextual: Improving Clinical Text Summarization in LLMs with Context-preserving Token Filtering and Knowledge Graphs,2504.16394,http://arxiv.org/abs/2504.16394v1,2025-04-23 03:42:46+00:00
+9,"A Survey of Foundation Model-Powered Recommender Systems: From Feature-Based, Generative to Agentic Paradigms",2504.16420,http://arxiv.org/abs/2504.16420v1,2025-04-23 05:02:51+00:00
+10,iTFKAN: Interpretable Time Series Forecasting with Kolmogorov-Arnold Network,2504.16432,http://arxiv.org/abs/2504.16432v1,2025-04-23 05:34:49+00:00
+11,EMRModel: A Large Language Model for Extracting Medical Consultation Dialogues into Structured Medical Records,2504.16448,http://arxiv.org/abs/2504.16448v1,2025-04-23 06:17:55+00:00
+12,T-VEC: A Telecom-Specific Vectorization Model with Enhanced Semantic Understanding via Deep Triplet Loss Fine-Tuning,2504.16460,http://arxiv.org/abs/2504.16460v1,2025-04-23 07:10:37+00:00
+13,ManipDreamer: Boosting Robotic Manipulation World Model with Action Tree and Visual Guidance,2504.16464,http://arxiv.org/abs/2504.16464v1,2025-04-23 07:23:41+00:00
+14,Harden and Catch for Just-in-Time Assured LLM-Based Software Testing: Open Research Challenges,2504.16472,http://arxiv.org/abs/2504.16472v1,2025-04-23 07:32:43+00:00
+15,The Dance of Atoms-De Novo Protein Design with Diffusion Model,2504.16479,http://arxiv.org/abs/2504.16479v1,2025-04-23 07:45:00+00:00
+16,On Developers' Self-Declaration of AI-Generated Code: An Analysis of Practices,2504.16485,http://arxiv.org/abs/2504.16485v1,2025-04-23 07:52:39+00:00
+17,Amplified Vulnerabilities: Structured Jailbreak Attacks on LLM-based Multi-Agent Debate,2504.16489,http://arxiv.org/abs/2504.16489v1,2025-04-23 08:01:50+00:00
+18,Federated Learning of Low-Rank One-Shot Image Detection Models in Edge Devices with Scalable Accuracy and Compute Complexity,2504.16515,http://arxiv.org/abs/2504.16515v1,2025-04-23 08:40:44+00:00
+19,"Think Hierarchically, Act Dynamically: Hierarchical Multi-modal Fusion and Reasoning for Vision-and-Language Navigation",2504.16516,http://arxiv.org/abs/2504.16516v2,2025-04-23 08:41:27+00:00
+20,Transformers for Complex Query Answering over Knowledge Hypergraphs,2504.16537,http://arxiv.org/abs/2504.16537v1,2025-04-23 09:07:21+00:00
+21,A Vision for AI-Driven Adaptation of Dynamic AR Content to Users and Environments,2504.16562,http://arxiv.org/abs/2504.16562v1,2025-04-23 09:42:38+00:00
+22,PsyCounAssist: A Full-Cycle AI-Powered Psychological Counseling Assistant System,2504.16573,http://arxiv.org/abs/2504.16573v1,2025-04-23 09:49:05+00:00
+23,PIS: Linking Importance Sampling and Attention Mechanisms for Efficient Prompt Compression,2504.16574,http://arxiv.org/abs/2504.16574v1,2025-04-23 09:53:01+00:00
+24,MMHCL: Multi-Modal Hypergraph Contrastive Learning for Recommendation,2504.16576,http://arxiv.org/abs/2504.16576v1,2025-04-23 09:58:54+00:00
+25,Case Study: Fine-tuning Small Language Models for Accurate and Private CWE Detection in Python Code,2504.16584,http://arxiv.org/abs/2504.16584v1,2025-04-23 10:05:27+00:00
+26,Comparing Large Language Models and Traditional Machine Translation Tools for Translating Medical Consultation Summaries: A Pilot Study,2504.16601,http://arxiv.org/abs/2504.16601v1,2025-04-23 10:31:33+00:00
+27,Cognitive Silicon: An Architectural Blueprint for Post-Industrial Computing Systems,2504.16622,http://arxiv.org/abs/2504.16622v1,2025-04-23 11:24:30+00:00
+28,SSLR: A Semi-Supervised Learning Method for Isolated Sign Language Recognition,2504.16640,http://arxiv.org/abs/2504.16640v1,2025-04-23 11:59:52+00:00
+29,A Post-trainer's Guide to Multilingual Training Data: Uncovering Cross-lingual Transfer Dynamics,2504.16677,http://arxiv.org/abs/2504.16677v1,2025-04-23 12:52:49+00:00
+30,PMG: Progressive Motion Generation via Sparse Anchor Postures Curriculum Learning,2504.16722,http://arxiv.org/abs/2504.16722v1,2025-04-23 13:51:42+00:00
+31,Detecting and Understanding Hateful Contents in Memes Through Captioning and Visual Question-Answering,2504.16723,http://arxiv.org/abs/2504.16723v1,2025-04-23 13:52:14+00:00
+32,V$^2$R-Bench: Holistically Evaluating LVLM Robustness to Fundamental Visual Variations,2504.16727,http://arxiv.org/abs/2504.16727v2,2025-04-23 14:01:32+00:00
+33,IRIS: Interactive Research Ideation System for Accelerating Scientific Discovery,2504.16728,http://arxiv.org/abs/2504.16728v1,2025-04-23 14:01:36+00:00
+34,MOSAIC: A Skill-Centric Algorithmic Framework for Long-Horizon Manipulation Planning,2504.16738,http://arxiv.org/abs/2504.16738v1,2025-04-23 14:09:42+00:00
+35,HEMA : A Hippocampus-Inspired Extended Memory Architecture for Long-Context AI Conversations,2504.16754,http://arxiv.org/abs/2504.16754v1,2025-04-23 14:27:12+00:00
+36,Credible plan-driven RAG method for Multi-hop Question Answering,2504.16787,http://arxiv.org/abs/2504.16787v1,2025-04-23 15:03:17+00:00
+37,Towards Explainable AI: Multi-Modal Transformer for Video-based Image Description Generation,2504.16788,http://arxiv.org/abs/2504.16788v1,2025-04-23 15:03:37+00:00
+38,Random Long-Context Access for Mamba via Hardware-aligned Hierarchical Sparse Attention,2504.16795,http://arxiv.org/abs/2504.16795v1,2025-04-23 15:15:06+00:00
+39,Approximating Optimal Labelings for Temporal Connectivity,2504.16837,http://arxiv.org/abs/2504.16837v1,2025-04-23 16:00:33+00:00
+40,Building A Secure Agentic AI Application Leveraging A2A Protocol,2504.16902,http://arxiv.org/abs/2504.16902v1,2025-04-23 17:27:49+00:00
+41,BadVideo: Stealthy Backdoor Attack against Text-to-Video Generation,2504.16907,http://arxiv.org/abs/2504.16907v1,2025-04-23 17:34:48+00:00
+42,Tracing Thought: Using Chain-of-Thought Reasoning to Identify the LLM Behind AI-Generated Text,2504.16913,http://arxiv.org/abs/2504.16913v1,2025-04-23 17:39:49+00:00
+43,OptimAI: Optimization from Natural Language Using LLM-Powered AI Agents,2504.16918,http://arxiv.org/abs/2504.16918v1,2025-04-23 17:45:05+00:00
+44,Latent Diffusion Planning for Imitation Learning,2504.16925,http://arxiv.org/abs/2504.16925v1,2025-04-23 17:53:34+00:00
+45,BackSlash: Rate Constrained Optimized Training of Large Language Models,2504.16968,http://arxiv.org/abs/2504.16968v2,2025-04-23 12:28:27+00:00
+46,Tokenization Matters: Improving Zero-Shot NER for Indic Languages,2504.16977,http://arxiv.org/abs/2504.16977v1,2025-04-23 17:28:38+00:00
+47,Analyzing Value Functions of States in Parametric Markov Chains,2504.17020,http://arxiv.org/abs/2504.17020v2,2025-04-23 18:06:41+00:00
+48,What Makes for a Good Saliency Map? Comparing Strategies for Evaluating Saliency Maps in Explainable AI (XAI),2504.17023,http://arxiv.org/abs/2504.17023v1,2025-04-23 18:09:06+00:00
+49,Fried Parameter Estimation from Single Wavefront Sensor Image with Artificial Neural Networks,2504.17029,http://arxiv.org/abs/2504.17029v1,2025-04-23 18:16:07+00:00
+50,DyMU: Dynamic Merging and Virtual Unmerging for Efficient VLMs,2504.17040,http://arxiv.org/abs/2504.17040v1,2025-04-23 18:38:18+00:00
+51,Statistical Guarantees in Synthetic Data through Conformal Adversarial Generation,2504.17058,http://arxiv.org/abs/2504.17058v2,2025-04-23 19:07:44+00:00
+52,Distilling semantically aware orders for autoregressive image generation,2504.17069,http://arxiv.org/abs/2504.17069v1,2025-04-23 19:33:58+00:00
+53,Robo-Troj: Attacking LLM-based Task Planners,2504.17070,http://arxiv.org/abs/2504.17070v1,2025-04-23 19:39:16+00:00
+54,The Rise of Small Language Models in Healthcare: A Comprehensive Survey,2504.17119,http://arxiv.org/abs/2504.17119v2,2025-04-23 22:02:25+00:00
+55,MIRAGE: A Metric-Intensive Benchmark for Retrieval-Augmented Generation Evaluation,2504.17137,http://arxiv.org/abs/2504.17137v1,2025-04-23 23:05:46+00:00
+56,Scalable Permutation-Aware Modeling for Temporal Set Prediction,2504.17140,http://arxiv.org/abs/2504.17140v1,2025-04-23 23:14:35+00:00
+57,A multi-scale vision transformer-based multimodal GeoAI model for mapping Arctic permafrost thaw,2504.17822,http://arxiv.org/abs/2504.17822v1,2025-04-23 22:18:10+00:00
+58,EduBot -- Can LLMs Solve Personalized Learning and Programming Assignments?,2504.17824,http://arxiv.org/abs/2504.17824v1,2025-04-23 23:25:13+00:00
+59,DP2FL: Dual Prompt Personalized Federated Learning in Foundation Models,2504.16357,http://arxiv.org/abs/2504.16357v1,2025-04-23 02:13:56+00:00
+60,CLPSTNet: A Progressive Multi-Scale Convolutional Steganography Model Integrating Curriculum Learning,2504.16364,http://arxiv.org/abs/2504.16364v1,2025-04-23 02:34:25+00:00
+61,PINN-MEP: Continuous Neural Representations for Minimum-Energy Path Discovery in Molecular Systems,2504.16381,http://arxiv.org/abs/2504.16381v2,2025-04-23 03:02:29+00:00
+62,Assessing the Feasibility of Internet-Sourced Video for Automatic Cattle Lameness Detection,2504.16404,http://arxiv.org/abs/2504.16404v1,2025-04-23 04:17:41+00:00
+63,FeedQUAC: Quick Unobtrusive AI-Generated Commentary,2504.16416,http://arxiv.org/abs/2504.16416v1,2025-04-23 04:48:00+00:00
+64,PixelWeb: The First Web GUI Dataset with Pixel-Wise Labels,2504.16419,http://arxiv.org/abs/2504.16419v2,2025-04-23 05:01:25+00:00
+65,Can Large Language Models Help Multimodal Language Analysis? MMLA: A Comprehensive Benchmark,2504.16427,http://arxiv.org/abs/2504.16427v2,2025-04-23 05:25:13+00:00
+66,Private Federated Learning using Preference-Optimized Synthetic Data,2504.16438,http://arxiv.org/abs/2504.16438v1,2025-04-23 05:57:20+00:00
+67,Exploring human-SAV interaction using large language models: The impact of psychological ownership and anthropomorphism on user experience,2504.16548,http://arxiv.org/abs/2504.16548v1,2025-04-23 09:25:22+00:00
+68,Debunking with Dialogue? Exploring AI-Generated Counterspeech to Challenge Conspiracy Theories,2504.16604,http://arxiv.org/abs/2504.16604v1,2025-04-23 10:32:45+00:00
+69,Bridging Econometrics and AI: VaR Estimation via Reinforcement Learning and GARCH Models,2504.16635,http://arxiv.org/abs/2504.16635v1,2025-04-23 11:54:22+00:00
+70,MAYA: Addressing Inconsistencies in Generative Password Guessing through a Unified Benchmark,2504.16651,http://arxiv.org/abs/2504.16651v1,2025-04-23 12:16:59+00:00
+71,Representation Learning via Non-Contrastive Mutual Information,2504.16667,http://arxiv.org/abs/2504.16667v1,2025-04-23 12:35:27+00:00
+72,Offline Robotic World Model: Learning Robotic Policies without a Physics Simulator,2504.16680,http://arxiv.org/abs/2504.16680v1,2025-04-23 12:58:15+00:00
+73,Noise-Tolerant Coreset-Based Class Incremental Continual Learning,2504.16763,http://arxiv.org/abs/2504.16763v1,2025-04-23 14:34:20+00:00
+74,How Effective are Generative Large Language Models in Performing Requirements Classification?,2504.16768,http://arxiv.org/abs/2504.16768v1,2025-04-23 14:41:11+00:00
+75,"Evaluation Framework for AI Systems in ""the Wild""",2504.16778,http://arxiv.org/abs/2504.16778v2,2025-04-23 14:52:39+00:00
+76,Radiometer Calibration using Machine Learning,2504.16791,http://arxiv.org/abs/2504.16791v1,2025-04-23 15:10:25+00:00
+77,Process Reward Models That Think,2504.16828,http://arxiv.org/abs/2504.16828v1,2025-04-23 15:44:54+00:00
+78,Improving Significant Wave Height Prediction Using Chronos Models,2504.16834,http://arxiv.org/abs/2504.16834v2,2025-04-23 15:56:28+00:00
+79,AIMO-2 Winning Solution: Building State-of-the-Art Mathematical Reasoning Models with OpenMathReasoning dataset,2504.16891,http://arxiv.org/abs/2504.16891v1,2025-04-23 17:13:04+00:00
+80,Generalized Neighborhood Attention: Multi-dimensional Sparse Attention at the Speed of Light,2504.16922,http://arxiv.org/abs/2504.16922v1,2025-04-23 17:49:53+00:00
+81,Unsupervised Time-Series Signal Analysis with Autoencoders and Vision Transformers: A Review of Architectures and Applications,2504.16972,http://arxiv.org/abs/2504.16972v1,2025-04-23 15:19:12+00:00
+82,Automating tumor-infiltrating lymphocyte assessment in breast cancer histopathology images using QuPath: a transparent and accessible machine learning pipeline,2504.16979,http://arxiv.org/abs/2504.16979v1,2025-04-23 17:54:59+00:00
+83,(Im)possibility of Automated Hallucination Detection in Large Language Models,2504.17004,http://arxiv.org/abs/2504.17004v1,2025-04-23 18:00:07+00:00
+84,"A Systematic Approach to Design Real-World Human-in-the-Loop Deep Reinforcement Learning: Salient Features, Challenges and Trade-offs",2504.17006,http://arxiv.org/abs/2504.17006v1,2025-04-23 18:00:08+00:00
+85,Neural Theorem Proving: Generating and Structuring Proofs for Formal Verification,2504.17017,http://arxiv.org/abs/2504.17017v1,2025-04-23 18:04:38+00:00
+86,Democracy of AI Numerical Weather Models: An Example of Global Forecasting with FourCastNetv2 Made by a University Research Lab Using GPU,2504.17028,http://arxiv.org/abs/2504.17028v1,2025-04-23 18:15:31+00:00
+87,Approaches to Responsible Governance of GenAI in Organizations,2504.17044,http://arxiv.org/abs/2504.17044v1,2025-04-23 18:43:29+00:00
+88,Physics-guided and fabrication-aware inverse design of photonic devices using diffusion models,2504.17077,http://arxiv.org/abs/2504.17077v1,2025-04-23 19:54:33+00:00
+89,Anatomy-constrained modelling of image-derived input functions in dynamic PET using multi-organ segmentation,2504.17114,http://arxiv.org/abs/2504.17114v1,2025-04-23 21:47:05+00:00
+90,Physiological neural representation for personalised tracer kinetic parameter estimation from dynamic PET,2504.17122,http://arxiv.org/abs/2504.17122v1,2025-04-23 22:12:04+00:00
+91,The Cloud Weaving Model for AI development,2504.17823,http://arxiv.org/abs/2504.17823v1,2025-04-23 22:48:13+00:00
+92,I-Con: A Unifying Framework for Representation Learning,2504.16929,http://arxiv.org/abs/2504.16929v1,2025-04-23 17:59:01+00:00
+93,Demonstration of an AI-driven workflow for dynamic x-ray spectroscopy,2504.17124,http://arxiv.org/abs/2504.17124v1,2025-04-23 22:32:42+00:00
+94,Peer-Aware Cost Estimation in Nonlinear General-Sum Dynamic Games for Mutual Learning and Intent Inference,2504.17129,http://arxiv.org/abs/2504.17129v1,2025-04-23 22:47:20+00:00
