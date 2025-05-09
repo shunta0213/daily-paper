@@ -1,0 +1,101 @@
+,title,id,arxiv_url,published
+0,Improving Large Language Model Planning with Action Sequence Similarity,2505.01009,http://arxiv.org/abs/2505.01009v1,2025-05-02 05:16:17+00:00
+1,Retrieval Augmented Learning: A Retrial-based Large Language Model Self-Supervised Learning and Autonomous Knowledge Generation,2505.01073,http://arxiv.org/abs/2505.01073v1,2025-05-02 07:25:01+00:00
+2,MADIL: An MDL-based Framework for Efficient Program Synthesis in the ARC Benchmark,2505.01081,http://arxiv.org/abs/2505.01081v1,2025-05-02 07:39:08+00:00
+3,Explainable AI Based Diagnosis of Poisoning Attacks in Evolutionary Swarms,2505.01181,http://arxiv.org/abs/2505.01181v1,2025-05-02 10:48:40+00:00
+4,Early Detection of Patient Deterioration from Real-Time Wearable Monitoring System,2505.01305,http://arxiv.org/abs/2505.01305v1,2025-05-02 14:32:44+00:00
+5,BalancEdit: Dynamically Balancing the Generality-Locality Trade-off in Multi-modal Model Editing,2505.01343,http://arxiv.org/abs/2505.01343v1,2025-05-02 15:31:32+00:00
+6,One Search Fits All: Pareto-Optimal Eco-Friendly Model Selection,2505.01468,http://arxiv.org/abs/2505.01468v1,2025-05-02 05:59:21+00:00
+7,Understanding LLM Scientific Reasoning through Promptings and Model's Explanation on the Answers,2505.01482,http://arxiv.org/abs/2505.01482v1,2025-05-02 16:16:17+00:00
+8,TutorGym: A Testbed for Evaluating AI Agents as Tutors and Students,2505.01563,http://arxiv.org/abs/2505.01563v1,2025-05-02 20:03:21+00:00
+9,Large Language Model-Driven Dynamic Assessment of Grammatical Accuracy in English Language Learner Writing,2505.00931,http://arxiv.org/abs/2505.00931v1,2025-05-02 00:19:50+00:00
+10,CDFormer: Cross-Domain Few-Shot Object Detection Transformer Against Feature Confusion,2505.00938,http://arxiv.org/abs/2505.00938v1,2025-05-02 00:46:25+00:00
+11,Tree-Sliced Wasserstein Distance with Nonlinear Projection,2505.00968,http://arxiv.org/abs/2505.00968v1,2025-05-02 03:06:25+00:00
+12,Seeking to Collide: Online Safety-Critical Scenario Generation for Autonomous Driving with Retrieval Augmented Large Language Models,2505.00972,http://arxiv.org/abs/2505.00972v1,2025-05-02 03:22:00+00:00
+13,Synthesize-on-Graph: Knowledgeable Synthetic Data Generation for Continue Pre-training of Large Language Models,2505.00979,http://arxiv.org/abs/2505.00979v1,2025-05-02 03:40:39+00:00
+14,Value Portrait: Understanding Values of LLMs with Human-aligned Benchmark,2505.01015,http://arxiv.org/abs/2505.01015v1,2025-05-02 05:26:50+00:00
+15,Fine-Tuning Without Forgetting: Adaptation of YOLOv8 Preserves COCO Performance,2505.01016,http://arxiv.org/abs/2505.01016v1,2025-05-02 05:27:14+00:00
+16,Adaptive Wizard for Removing Cross-Tier Misconfigurations in Active Directory,2505.01028,http://arxiv.org/abs/2505.01028v1,2025-05-02 05:55:56+00:00
+17,Stagnation in Evolutionary Algorithms: Convergence $\neq$ Optimality,2505.01036,http://arxiv.org/abs/2505.01036v1,2025-05-02 06:19:09+00:00
+18,"Low-Precision Training of Large Language Models: Methods, Challenges, and Opportunities",2505.01043,http://arxiv.org/abs/2505.01043v1,2025-05-02 06:33:25+00:00
+19,Good News for Script Kiddies? Evaluating Large Language Models for Automated Exploit Generation,2505.01065,http://arxiv.org/abs/2505.01065v1,2025-05-02 07:15:22+00:00
+20,A Rusty Link in the AI Supply Chain: Detecting Evil Configurations in Model Repositories,2505.01067,http://arxiv.org/abs/2505.01067v1,2025-05-02 07:16:20+00:00
+21,Multimodal Transformers are Hierarchical Modal-wise Heterogeneous Graphs,2505.01068,http://arxiv.org/abs/2505.01068v1,2025-05-02 07:18:00+00:00
+22,Improving Group Fairness in Knowledge Distillation via Laplace Approximation of Early Exits,2505.01070,http://arxiv.org/abs/2505.01070v1,2025-05-02 07:18:52+00:00
+23,Artificial Intelligence in Government: Why People Feel They Lose Control,2505.01085,http://arxiv.org/abs/2505.01085v1,2025-05-02 07:46:41+00:00
+24,Any-to-Any Vision-Language Model for Multimodal X-ray Imaging and Radiological Report Generation,2505.01091,http://arxiv.org/abs/2505.01091v1,2025-05-02 08:07:24+00:00
+25,Multi-Objective Reinforcement Learning for Water Management,2505.01094,http://arxiv.org/abs/2505.01094v1,2025-05-02 08:14:01+00:00
+26,Self-Supervision Enhances Instance-based Multiple Instance Learning Methods in Digital Pathology: A Benchmark Study,2505.01109,http://arxiv.org/abs/2505.01109v1,2025-05-02 08:43:50+00:00
+27,On the Limitations of Steering in Language Model Alignment,2505.01162,http://arxiv.org/abs/2505.01162v1,2025-05-02 10:08:34+00:00
+28,Harmonizing Intra-coherence and Inter-divergence in Ensemble Attacks for Adversarial Transferability,2505.01168,http://arxiv.org/abs/2505.01168v1,2025-05-02 10:17:33+00:00
+29,Distilling Two-Timed Flow Models by Separately Matching Initial and Terminal Velocities,2505.01169,http://arxiv.org/abs/2505.01169v2,2025-05-02 10:17:49+00:00
+30,TSTMotion: Training-free Scene-aware Text-to-motion Generation,2505.01182,http://arxiv.org/abs/2505.01182v2,2025-05-02 10:50:04+00:00
+31,Exploring the Impact of Explainable AI and Cognitive Capabilities on Users' Decisions,2505.01192,http://arxiv.org/abs/2505.01192v1,2025-05-02 11:30:53+00:00
+32,Enhancing Obsolescence Forecasting with Deep Generative Data Augmentation: A Semi-Supervised Framework for Low-Data Industrial Applications,2505.01261,http://arxiv.org/abs/2505.01261v1,2025-05-02 13:28:50+00:00
+33,A Physics-preserved Transfer Learning Method for Differential Equations,2505.01281,http://arxiv.org/abs/2505.01281v1,2025-05-02 13:58:36+00:00
+34,2DXformer: Dual Transformers for Wind Power Forecasting with Dual Exogenous Variables,2505.01286,http://arxiv.org/abs/2505.01286v1,2025-05-02 14:00:48+00:00
+35,ViSA-Flow: Accelerating Robot Skill Learning via Large-Scale Video Semantic Action Flow,2505.01288,http://arxiv.org/abs/2505.01288v1,2025-05-02 14:03:06+00:00
+36,Document Retrieval Augmented Fine-Tuning (DRAFT) for safety-critical software assessments,2505.01307,http://arxiv.org/abs/2505.01307v1,2025-05-02 14:34:33+00:00
+37,Enhancing SPARQL Query Rewriting for Complex Ontology Alignments,2505.01309,http://arxiv.org/abs/2505.01309v1,2025-05-02 14:38:13+00:00
+38,Helping Large Language Models Protect Themselves: An Enhanced Filtering and Summarization System,2505.01315,http://arxiv.org/abs/2505.01315v2,2025-05-02 14:42:26+00:00
+39,FalconWing: An Open-Source Platform for Ultra-Light Fixed-Wing Aircraft Research,2505.01383,http://arxiv.org/abs/2505.01383v1,2025-05-02 16:47:05+00:00
+40,Watermark Overwriting Attack on StegaStamp algorithm,2505.01474,http://arxiv.org/abs/2505.01474v1,2025-05-02 14:07:43+00:00
+41,BiGSCoder: State Space Model for Code Understanding,2505.01475,http://arxiv.org/abs/2505.01475v1,2025-05-02 14:27:49+00:00
+42,CHORUS: Zero-shot Hierarchical Retrieval and Orchestration for Generating Linear Programming Code,2505.01485,http://arxiv.org/abs/2505.01485v1,2025-05-02 16:36:57+00:00
+43,Subset Selection for Fine-Tuning: A Utility-Diversity Balanced Approach for Mathematical Domain Adaptation,2505.01523,http://arxiv.org/abs/2505.01523v1,2025-05-02 18:20:44+00:00
+44,Automated Parsing of Engineering Drawings for Structured Information Extraction Using a Fine-tuned Document Understanding Transformer,2505.01530,http://arxiv.org/abs/2505.01530v1,2025-05-02 18:33:21+00:00
+45,An Adaptive Framework for Autoregressive Forecasting in CFD Using Hybrid Modal Decomposition and Deep Learning,2505.01531,http://arxiv.org/abs/2505.01531v1,2025-05-02 18:33:41+00:00
+46,Parameterized Argumentation-based Reasoning Tasks for Benchmarking Generative Language Models,2505.01539,http://arxiv.org/abs/2505.01539v1,2025-05-02 19:04:34+00:00
+47,Emotions in the Loop: A Survey of Affective Computing for Emotional Support,2505.01542,http://arxiv.org/abs/2505.01542v1,2025-05-02 19:06:05+00:00
+48,PipeSpec: Breaking Stage Dependencies in Hierarchical LLM Decoding,2505.01572,http://arxiv.org/abs/2505.01572v1,2025-05-02 20:29:31+00:00
+49,TEMPURA: Temporal Event Masked Prediction and Understanding for Reasoning in Action,2505.01583,http://arxiv.org/abs/2505.01583v1,2025-05-02 21:00:17+00:00
+50,Understanding and Exploiting Plasticity for Non-stationary Network Resource Adaptation,2505.01584,http://arxiv.org/abs/2505.01584v2,2025-05-02 21:03:03+00:00
+51,PIPA: A Unified Evaluation Protocol for Diagnosing Interactive Planning Agents,2505.01592,http://arxiv.org/abs/2505.01592v1,2025-05-02 21:27:10+00:00
+52,Multimodal and Multiview Deep Fusion for Autonomous Marine Navigation,2505.01615,http://arxiv.org/abs/2505.01615v1,2025-05-02 22:32:50+00:00
+53,Don't be lazy: CompleteP enables compute-efficient deep transformers,2505.01618,http://arxiv.org/abs/2505.01618v1,2025-05-02 22:45:14+00:00
+54,Skill-based Safe Reinforcement Learning with Risk Planning,2505.01619,http://arxiv.org/abs/2505.01619v1,2025-05-02 22:48:27+00:00
+55,Dendritic Computing with Multi-Gate Ferroelectric Field-Effect Transistors,2505.01635,http://arxiv.org/abs/2505.01635v1,2025-05-02 23:59:08+00:00
+56,Enhancing tutoring systems by leveraging tailored promptings and domain knowledge with Large Language Models,2505.02849,http://arxiv.org/abs/2505.02849v1,2025-05-02 02:30:39+00:00
+57,A Computational Model of Inclusive Pedagogy: From Understanding to Application,2505.02853,http://arxiv.org/abs/2505.02853v1,2025-05-02 12:26:31+00:00
+58,Ensuring Reproducibility in Generative AI Systems for General Use Cases: A Framework for Regression Testing and Open Datasets,2505.02854,http://arxiv.org/abs/2505.02854v1,2025-05-02 12:31:43+00:00
+59,AI Education in a Mirror: Challenges Faced by Academic and Industry Experts,2505.02856,http://arxiv.org/abs/2505.02856v1,2025-05-02 16:52:49+00:00
+60,Enhancing ML Model Interpretability: Leveraging Fine-Tuned Large Language Models for Better Understanding of AI,2505.02859,http://arxiv.org/abs/2505.02859v1,2025-05-02 20:57:55+00:00
+61,Design description of Wisdom Computing Persperctive,2505.03800,http://arxiv.org/abs/2505.03800v1,2025-05-02 07:12:10+00:00
+62,Large Language Model Compression with Global Rank and Sparsity Optimization,2505.03801,http://arxiv.org/abs/2505.03801v1,2025-05-02 08:00:48+00:00
+63,Efficient Fine-Tuning of Quantized Models via Adaptive Rank and Bitwidth,2505.03802,http://arxiv.org/abs/2505.03802v1,2025-05-02 08:46:01+00:00
+64,RWKVQuant: Quantizing the RWKV Family with Proxy Guided Hybrid of Scalar and Vector Quantization,2505.03803,http://arxiv.org/abs/2505.03803v1,2025-05-02 08:47:49+00:00
+65,MoEQuant: Enhancing Quantization for Mixture-of-Experts Large Language Models via Expert-Balanced Sampling and Affinity Guidance,2505.03804,http://arxiv.org/abs/2505.03804v1,2025-05-02 08:51:55+00:00
+66,Perception-Informed Neural Networks: Beyond Physics-Informed Neural Networks,2505.03806,http://arxiv.org/abs/2505.03806v1,2025-05-02 09:08:07+00:00
+67,ScarceGAN: Discriminative Classification Framework for Rare Class Identification for Longitudinal Data with Weak Prior,2505.03811,http://arxiv.org/abs/2505.03811v1,2025-05-02 12:17:37+00:00
+68,Geospatial and Temporal Trends in Urban Transportation: A Study of NYC Taxis and Pathao Food Deliveries,2505.03816,http://arxiv.org/abs/2505.03816v1,2025-05-02 17:41:17+00:00
+69,Program Semantic Inequivalence Game with Large Language Models,2505.03818,http://arxiv.org/abs/2505.03818v1,2025-05-02 20:03:35+00:00
+70,Focus on the Likely: Test-time Instance-based Uncertainty Removal,2505.03819,http://arxiv.org/abs/2505.03819v1,2025-05-02 21:06:53+00:00
+71,A Self-Supervised Transformer for Unusable Shared Bike Detection,2505.00932,http://arxiv.org/abs/2505.00932v1,2025-05-02 00:20:38+00:00
+72,Autonomous Embodied Agents: When Robotics Meets Deep Learning Reasoning,2505.00935,http://arxiv.org/abs/2505.00935v1,2025-05-02 00:43:28+00:00
+73,Llama-Nemotron: Efficient Reasoning Models,2505.00949,http://arxiv.org/abs/2505.00949v2,2025-05-02 01:35:35+00:00
+74,Attack and defense techniques in large language models: A survey and new perspectives,2505.00976,http://arxiv.org/abs/2505.00976v1,2025-05-02 03:37:52+00:00
+75,Toward Data-centric Directed Graph Learning: An Entropy-driven Approach,2505.00983,http://arxiv.org/abs/2505.00983v1,2025-05-02 04:06:00+00:00
+76,Towards the Resistance of Neural Network Watermarking to Fine-tuning,2505.01007,http://arxiv.org/abs/2505.01007v1,2025-05-02 05:11:17+00:00
+77,"LLM Security: Vulnerabilities, Attacks, Defenses, and Countermeasures",2505.01177,http://arxiv.org/abs/2505.01177v1,2025-05-02 10:35:26+00:00
+78,EnviKal-Loc: Sub-10m Indoor LoRaWAN Localization using an Environmental-Aware Path Loss and Adaptive RSSI Smoothing,2505.01185,http://arxiv.org/abs/2505.01185v1,2025-05-02 11:00:40+00:00
+79,Gender Bias in Explainability: Investigating Performance Disparity in Post-hoc Methods,2505.01198,http://arxiv.org/abs/2505.01198v1,2025-05-02 11:41:25+00:00
+80,EvalxNLP: A Framework for Benchmarking Post-Hoc Explainability Methods on NLP Models,2505.01238,http://arxiv.org/abs/2505.01238v1,2025-05-02 13:00:05+00:00
+81,Reduced-order structure-property linkages for stochastic metamaterials,2505.01283,http://arxiv.org/abs/2505.01283v1,2025-05-02 13:58:47+00:00
+82,"Constrained Network Adversarial Attacks: Validity, Robustness, and Transferability",2505.01328,http://arxiv.org/abs/2505.01328v1,2025-05-02 15:01:42+00:00
+83,Differentiable Nonlinear Model Predictive Control,2505.01353,http://arxiv.org/abs/2505.01353v1,2025-05-02 15:43:37+00:00
+84,Evaluating Explanations: An Explanatory Virtues Framework for Mechanistic Interpretability -- The Strange Science Part I.ii,2505.01372,http://arxiv.org/abs/2505.01372v1,2025-05-02 16:18:40+00:00
+85,Multimodal Doctor-in-the-Loop: A Clinically-Guided Explainable Framework for Predicting Pathological Response in Non-Small Cell Lung Cancer,2505.01390,http://arxiv.org/abs/2505.01390v1,2025-05-02 16:57:37+00:00
+86,SIME: Enhancing Policy Self-Improvement with Modal-level Exploration,2505.01396,http://arxiv.org/abs/2505.01396v1,2025-05-02 17:13:03+00:00
+87,CostFilter-AD: Enhancing Anomaly Detection through Matching Cost Filtering,2505.01476,http://arxiv.org/abs/2505.01476v1,2025-05-02 14:52:34+00:00
+88,"Securing the Future of IVR: AI-Driven Innovation with Agile Security, Data Regulation, and Ethical AI Integration",2505.01514,http://arxiv.org/abs/2505.01514v1,2025-05-02 18:03:02+00:00
+89,The DCR Delusion: Measuring the Privacy Risk of Synthetic Data,2505.01524,http://arxiv.org/abs/2505.01524v1,2025-05-02 18:21:14+00:00
+90,Contextures: Representations from Contexts,2505.01557,http://arxiv.org/abs/2505.01557v1,2025-05-02 19:50:56+00:00
+91,Always Tell Me The Odds: Fine-grained Conditional Probability Estimation,2505.01595,http://arxiv.org/abs/2505.01595v1,2025-05-02 21:33:18+00:00
+92,Transfer Learning-Based Deep Residual Learning for Speech Recognition in Clean and Noisy Environments,2505.01632,http://arxiv.org/abs/2505.01632v1,2025-05-02 23:42:27+00:00
+93,Aligning Large Language Models with Healthcare Stakeholders: A Pathway to Trustworthy AI Integration,2505.02848,http://arxiv.org/abs/2505.02848v1,2025-05-02 00:59:49+00:00
+94,Harnessing Structured Knowledge: A Concept Map-Based Approach for High-Quality Multiple Choice Question Generation with Effective Distractors,2505.02850,http://arxiv.org/abs/2505.02850v1,2025-05-02 06:36:06+00:00
+95,30DayGen: Leveraging LLMs to Create a Content Corpus for Habit Formation,2505.02851,http://arxiv.org/abs/2505.02851v1,2025-05-02 08:53:27+00:00
+96,Scalability Matters: Overcoming Challenges in InstructGLM with Similarity-Degree-Based Sampling,2505.03799,http://arxiv.org/abs/2505.03799v1,2025-05-02 06:08:21+00:00
+97,Facilitating Video Story Interaction with Multi-Agent Collaborative System,2505.03807,http://arxiv.org/abs/2505.03807v1,2025-05-02 09:08:13+00:00
+98,When Dynamic Data Selection Meets Data Augmentation,2505.03809,http://arxiv.org/abs/2505.03809v1,2025-05-02 11:38:48+00:00
+99,Grouped Sequency-arranged Rotation: Optimizing Rotation Transformation for Quantization for Free,2505.03810,http://arxiv.org/abs/2505.03810v1,2025-05-02 11:51:29+00:00
