@@ -1,0 +1,44 @@
+,title,id,arxiv_url,published
+0,Quantum data generation in a denoising model with multiscale entanglement renormalization network,2505.10796,http://arxiv.org/abs/2505.10796v1,2025-05-16 02:18:01+00:00
+1,High-efficient long-distance device-independent quantum secret sharing based on single-photon sources,2505.10797,http://arxiv.org/abs/2505.10797v1,2025-05-16 02:22:07+00:00
+2,Large-Scale Quantum Device Benchmarking via LXEB with Particle-Number-Conserving Random Quantum Circuits,2505.10820,http://arxiv.org/abs/2505.10820v1,2025-05-16 03:31:06+00:00
+3,Accelerating Parameter Initialization in Quantum Chemical Simulations via LSTM-FC-VQE,2505.10842,http://arxiv.org/abs/2505.10842v1,2025-05-16 04:19:00+00:00
+4,Security Analysis of Mode-Pairing Quantum Key Distribution with Flexible Pairing Strategy,2505.10868,http://arxiv.org/abs/2505.10868v1,2025-05-16 05:12:55+00:00
+5,Analytical Fidelity Calculations for Photonic Linear Cluster State Generation,2505.11078,http://arxiv.org/abs/2505.11078v1,2025-05-16 10:08:37+00:00
+6,Decentralized Framework for Teleportation in Quantum Core Interconnects,2505.11195,http://arxiv.org/abs/2505.11195v1,2025-05-16 12:53:44+00:00
+7,Harnessing Photon Indistinguishability in Quantum Extreme Learning Machines,2505.11238,http://arxiv.org/abs/2505.11238v1,2025-05-16 13:28:01+00:00
+8,Nitrogen-vacancy centre in lonsdaleite: a novel nanoscale sensor?,2505.11240,http://arxiv.org/abs/2505.11240v1,2025-05-16 13:30:36+00:00
+9,Quantum compressed sensing tomographic reconstruction algorithm,2505.11286,http://arxiv.org/abs/2505.11286v1,2025-05-16 14:23:10+00:00
+10,Quantum Correlations in Three-Beam Symmetric Gaussian States Accessed via Photon-Number-Resolving Detection and Quantum Universal Invariants,2505.11303,http://arxiv.org/abs/2505.11303v1,2025-05-16 14:31:22+00:00
+11,Path superposition as resource for perfect quantum teleportation with separable states,2505.11398,http://arxiv.org/abs/2505.11398v1,2025-05-16 16:03:38+00:00
+12,Solving Large-Scale QUBO with Transferred Parameters from Multilevel QAOA of low depth,2505.11464,http://arxiv.org/abs/2505.11464v1,2025-05-16 17:18:36+00:00
+13,Unbiased observable estimation via noisy channel mixtures for fault-tolerant quantum computation,2505.11486,http://arxiv.org/abs/2505.11486v1,2025-05-16 17:48:54+00:00
+14,Comparing GHZ-Based Strategies for Multipartite Entanglement Distribution in 2D Repeater Networks,2505.11632,http://arxiv.org/abs/2505.11632v1,2025-05-16 18:50:50+00:00
+15,Exact multiple anomalous mobility edges in a flat band geometry,2505.10766,http://arxiv.org/abs/2505.10766v1,2025-05-16 00:44:19+00:00
+16,Quantum Lattice Kinetic Scheme for Solving Two-dimensional and Three-dimensional Incompressible Flows,2505.10883,http://arxiv.org/abs/2505.10883v1,2025-05-16 05:41:46+00:00
+17,Digital quantum simulation of squeezed states via enhanced bosonic encoding in a superconducting quantum processor,2505.10895,http://arxiv.org/abs/2505.10895v1,2025-05-16 06:02:25+00:00
+18,Beyond real: Alternative unitary cluster Jastrow models for molecular electronic structure calculations on near-term quantum computers,2505.10963,http://arxiv.org/abs/2505.10963v1,2025-05-16 07:59:37+00:00
+19,Towards local and compositional measurements in quantum field theory,2505.10968,http://arxiv.org/abs/2505.10968v1,2025-05-16 08:08:42+00:00
+20,Local consistency and axioms of functional dependence,2505.11057,http://arxiv.org/abs/2505.11057v1,2025-05-16 09:55:34+00:00
+21,Purcell enhanced and tunable single-photon emission at telecom wavelengths from InAs quantum dots in circular photonic crystal resonators,2505.11069,http://arxiv.org/abs/2505.11069v1,2025-05-16 10:03:54+00:00
+22,Sonification of entanglement dynamics in many-qubit systems,2505.11159,http://arxiv.org/abs/2505.11159v1,2025-05-16 12:04:49+00:00
+23,Quantum computing with atomic qubit arrays: confronting the cost of connectivity,2505.11218,http://arxiv.org/abs/2505.11218v1,2025-05-16 13:14:56+00:00
+24,Compactifying linear optical unitaries using multiport beamsplitters,2505.11371,http://arxiv.org/abs/2505.11371v1,2025-05-16 15:34:37+00:00
+25,TensorMixedStates: a Julia library for simulating pure and mixed quantum states using matrix product states,2505.11377,http://arxiv.org/abs/2505.11377v1,2025-05-16 15:41:05+00:00
+26,Probing Quantum Structure in Gravitational Radiation,2505.11407,http://arxiv.org/abs/2505.11407v1,2025-05-16 16:16:44+00:00
+27,Quantum Coherence and Chaotic Dynamics: Guiding Molecular Machines Toward Low-Entropy States,2505.11571,http://arxiv.org/abs/2505.11571v1,2025-05-16 11:03:51+00:00
+28,Enhancing Network Anomaly Detection with Quantum GANs and Successive Data Injection for Multivariate Time Series,2505.11631,http://arxiv.org/abs/2505.11631v1,2025-05-16 18:47:42+00:00
+29,Photonic Networking of Quantum Memories in High-Dimensions,2505.11704,http://arxiv.org/abs/2505.11704v1,2025-05-16 21:21:33+00:00
+30,Generalization Bounds for Quantum Learning via Rényi Divergences,2505.11025,http://arxiv.org/abs/2505.11025v1,2025-05-16 09:21:31+00:00
+31,Walsh-Floquet Theory of Periodic Kick Drives,2505.11071,http://arxiv.org/abs/2505.11071v1,2025-05-16 10:05:31+00:00
+32,Emergent Thermalization Thresholds in Unitary Dynamics of Inhomogeneously Disordered Systems,2505.11253,http://arxiv.org/abs/2505.11253v1,2025-05-16 13:46:40+00:00
+33,Time-dependent Hole States in Multiconfigurational Time-Dependent Hartree-Fock Approaches: A Time-Domain Generalization of Extended Koopmans' Theorem,2505.11290,http://arxiv.org/abs/2505.11290v1,2025-05-16 14:24:34+00:00
+34,Time-dependent Hole States in Multiconfigurational Time-Dependent Hartree-Fock Approaches: Applications in Photoionization of Water Molecule,2505.11319,http://arxiv.org/abs/2505.11319v1,2025-05-16 14:42:37+00:00
+35,Distance-based measures and Epsilon-measures for measurement-based quantum resources,2505.11331,http://arxiv.org/abs/2505.11331v1,2025-05-16 14:56:28+00:00
+36,Channel coding against quantum jammers via minimax,2505.11362,http://arxiv.org/abs/2505.11362v1,2025-05-16 15:28:56+00:00
+37,Lattice models with subsystem/weak non-invertible symmetry-protected topological order,2505.11419,http://arxiv.org/abs/2505.11419v1,2025-05-16 16:32:35+00:00
+38,The fate of the Fermi surface coupled to a single-wave-vector cavity mode,2505.11452,http://arxiv.org/abs/2505.11452v1,2025-05-16 17:07:20+00:00
+39,A comprehensive exploration of interaction networks reveals a connection between entanglement and network structure,2505.11466,http://arxiv.org/abs/2505.11466v1,2025-05-16 17:21:46+00:00
+40,Area and volume from entangled qubits,2505.11487,http://arxiv.org/abs/2505.11487v1,2025-05-16 17:50:28+00:00
+41,Exactly solvable dissipative dynamics and one-form strong-to-weak spontaneous symmetry breaking in interacting two-dimensional spin systems,2505.11501,http://arxiv.org/abs/2505.11501v1,2025-05-16 17:59:59+00:00
+42,Exactly solvable many-body dynamics from space-time duality,2505.11489,http://arxiv.org/abs/2505.11489v1,2025-05-16 17:52:54+00:00
