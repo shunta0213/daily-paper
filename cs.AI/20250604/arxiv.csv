@@ -1,0 +1,101 @@
+,title,id,arxiv_url,published
+0,From Reasoning to Learning: A Survey on Hypothesis Discovery and Rule Learning with Large Language Models,2505.21935,http://arxiv.org/abs/2505.21935v1,2025-05-28 03:40:02+00:00
+1,Functional Matching of Logic Subgraphs: Beyond Structural Isomorphism,2505.21988,http://arxiv.org/abs/2505.21988v1,2025-05-28 05:31:49+00:00
+2,Cognitively-Inspired Emergent Communication via Knowledge Graphs for Assisting the Visually Impaired,2505.22087,http://arxiv.org/abs/2505.22087v1,2025-05-28 08:09:06+00:00
+3,VIRAL: Vision-grounded Integration for Reward design And Learning,2505.22092,http://arxiv.org/abs/2505.22092v2,2025-05-28 08:16:09+00:00
+4,Lifted Forward Planning in Relational Factored Markov Decision Processes with Concurrent Actions,2505.22147,http://arxiv.org/abs/2505.22147v1,2025-05-28 09:08:27+00:00
+5,What Makes a Good Reasoning Chain? Uncovering Structural Patterns in Long Chain-of-Thought Reasoning,2505.22148,http://arxiv.org/abs/2505.22148v1,2025-05-28 09:12:31+00:00
+6,A Preprocessing Framework for Efficient Approximate Bi-Objective Shortest-Path Computation in the Presence of Correlated Objectives,2505.22244,http://arxiv.org/abs/2505.22244v1,2025-05-28 11:26:14+00:00
+7,Compression versus Accuracy: A Hierarchy of Lifted Models,2505.22288,http://arxiv.org/abs/2505.22288v1,2025-05-28 12:27:32+00:00
+8,AgentDNS: A Root Domain Naming System for LLM Agents,2505.22368,http://arxiv.org/abs/2505.22368v1,2025-05-28 13:56:22+00:00
+9,AI Mathematician: Towards Fully Automated Frontier Mathematical Research,2505.22451,http://arxiv.org/abs/2505.22451v1,2025-05-28 15:10:37+00:00
+10,Design and testing of an agent chatbot supporting decision making with public transport data,2505.22698,http://arxiv.org/abs/2505.22698v1,2025-05-28 14:31:14+00:00
+11,Predicting Human Depression with Hybrid Data Acquisition utilizing Physical Activity Sensing and Social Media Feeds,2505.22779,http://arxiv.org/abs/2505.22779v1,2025-05-28 18:47:34+00:00
+12,The WHY in Business Processes: Unification of Causal Process Models,2505.22871,http://arxiv.org/abs/2505.22871v1,2025-05-28 21:12:30+00:00
+13,An Optimistic Algorithm for online CMDPS with Anytime Adversarial Constraints,2505.21841,http://arxiv.org/abs/2505.21841v1,2025-05-28 00:16:34+00:00
+14,RePaViT: Scalable Vision Transformer Acceleration via Structural Reparameterization on Feedforward Network Layers,2505.21847,http://arxiv.org/abs/2505.21847v2,2025-05-28 00:27:18+00:00
+15,Xinyu AI Search: Enhanced Relevance and Comprehensive Results with Rich Answer Presentations,2505.21849,http://arxiv.org/abs/2505.21849v1,2025-05-28 00:30:22+00:00
+16,Beyond Perception: Evaluating Abstract Visual Reasoning through Multi-Stage Task,2505.21850,http://arxiv.org/abs/2505.21850v2,2025-05-28 00:34:45+00:00
+17,Rethinking Gradient-based Adversarial Attacks on Point Cloud Classification,2505.21854,http://arxiv.org/abs/2505.21854v1,2025-05-28 00:55:36+00:00
+18,Extracting Research Instruments from Educational Literature Using LLMs,2505.21855,http://arxiv.org/abs/2505.21855v1,2025-05-28 01:00:32+00:00
+19,Evaluating the Retrieval Robustness of Large Language Models,2505.21870,http://arxiv.org/abs/2505.21870v1,2025-05-28 01:34:31+00:00
+20,EPiC: Efficient Video Camera Control Learning with Precise Anchor-Video Guidance,2505.21876,http://arxiv.org/abs/2505.21876v1,2025-05-28 01:45:26+00:00
+21,SDPO: Importance-Sampled Direct Preference Optimization for Stable Diffusion Training,2505.21893,http://arxiv.org/abs/2505.21893v1,2025-05-28 02:11:56+00:00
+22,Compressing Sine-Activated Low-Rank Adapters through Post-Training Quantization,2505.21895,http://arxiv.org/abs/2505.21895v1,2025-05-28 02:15:15+00:00
+23,CAST: Contrastive Adaptation and Distillation for Semi-Supervised Instance Segmentation,2505.21904,http://arxiv.org/abs/2505.21904v2,2025-05-28 02:45:42+00:00
+24,Reinforcement Learning for Out-of-Distribution Reasoning in LLMs: An Empirical Study on Diagnosis-Related Group Coding,2505.21908,http://arxiv.org/abs/2505.21908v1,2025-05-28 02:54:07+00:00
+25,Self-supervised Learning Method Using Transformer for Multi-dimensional Sensor Data Processing,2505.21918,http://arxiv.org/abs/2505.21918v1,2025-05-28 03:04:13+00:00
+26,Beyond Completion: A Foundation Model for General Knowledge Graph Reasoning,2505.21926,http://arxiv.org/abs/2505.21926v1,2025-05-28 03:21:28+00:00
+27,UniTalk: Towards Universal Active Speaker Detection in Real World Scenarios,2505.21954,http://arxiv.org/abs/2505.21954v1,2025-05-28 04:08:59+00:00
+28,Towards Comprehensive Scene Understanding: Integrating First and Third-Person Views for LVLMs,2505.21955,http://arxiv.org/abs/2505.21955v1,2025-05-28 04:09:42+00:00
+29,LaMDAgent: An Autonomous Framework for Post-Training Pipeline Optimization via LLM Agents,2505.21963,http://arxiv.org/abs/2505.21963v1,2025-05-28 04:30:51+00:00
+30,DORAEMON: Decentralized Ontology-aware Reliable Agent with Enhanced Memory Oriented Navigation,2505.21969,http://arxiv.org/abs/2505.21969v2,2025-05-28 04:46:13+00:00
+31,Learning World Models for Interactive Video Generation,2505.21996,http://arxiv.org/abs/2505.21996v1,2025-05-28 05:55:44+00:00
+32,Legal Assist AI: Leveraging Transformer-Based Model for Effective Legal Assistance,2505.22003,http://arxiv.org/abs/2505.22003v1,2025-05-28 06:06:53+00:00
+33,Efficiently Enhancing General Agents With Hierarchical-categorical Memory,2505.22006,http://arxiv.org/abs/2505.22006v1,2025-05-28 06:12:51+00:00
+34,GL-PGENet: A Parameterized Generation Framework for Robust Document Image Enhancement,2505.22021,http://arxiv.org/abs/2505.22021v1,2025-05-28 06:37:06+00:00
+35,Balanced Token Pruning: Accelerating Vision Language Models Beyond Local Optimization,2505.22038,http://arxiv.org/abs/2505.22038v1,2025-05-28 07:00:50+00:00
+36,Estimating the Effects of Sample Training Orders for Large Language Models without Retraining,2505.22042,http://arxiv.org/abs/2505.22042v1,2025-05-28 07:07:02+00:00
+37,Reinforced Reasoning for Embodied Planning,2505.22050,http://arxiv.org/abs/2505.22050v1,2025-05-28 07:21:37+00:00
+38,The Resurrection of the ReLU,2505.22074,http://arxiv.org/abs/2505.22074v1,2025-05-28 07:55:51+00:00
+39,iDSE: Navigating Design Space Exploration in High-Level Synthesis Using LLMs,2505.22086,http://arxiv.org/abs/2505.22086v2,2025-05-28 08:08:57+00:00
+40,The quest for the GRAph Level autoEncoder (GRALE),2505.22109,http://arxiv.org/abs/2505.22109v1,2025-05-28 08:37:33+00:00
+41,Visual Large Language Models Exhibit Human-Level Cognitive Flexibility in the Wisconsin Card Sorting Test,2505.22112,http://arxiv.org/abs/2505.22112v1,2025-05-28 08:40:55+00:00
+42,Multimodal Forecasting of Sparse Intraoperative Hypotension Events Powered by Language Model,2505.22116,http://arxiv.org/abs/2505.22116v2,2025-05-28 08:44:55+00:00
+43,SridBench: Benchmark of Scientific Research Illustration Drawing of Image Generation Model,2505.22126,http://arxiv.org/abs/2505.22126v1,2025-05-28 08:51:01+00:00
+44,Real-Time Blind Defocus Deblurring for Earth Observation: The IMAGIN-e Mission Approach,2505.22128,http://arxiv.org/abs/2505.22128v1,2025-05-28 08:52:38+00:00
+45,FaceEditTalker: Interactive Talking Head Generation with Facial Attribute Editing,2505.22141,http://arxiv.org/abs/2505.22141v1,2025-05-28 09:04:00+00:00
+46,Breaking the Cloak! Unveiling Chinese Cloaked Toxicity with Homophone Graph and Toxic Lexicon,2505.22184,http://arxiv.org/abs/2505.22184v1,2025-05-28 09:58:15+00:00
+47,Enhancing Uncertainty Estimation and Interpretability via Bayesian Non-negative Decision Layer,2505.22199,http://arxiv.org/abs/2505.22199v1,2025-05-28 10:23:34+00:00
+48,Investigating Mechanisms for In-Context Vision Language Binding,2505.22200,http://arxiv.org/abs/2505.22200v1,2025-05-28 10:25:43+00:00
+49,Let's Predict Sentence by Sentence,2505.22202,http://arxiv.org/abs/2505.22202v1,2025-05-28 10:28:35+00:00
+50,Solver-Free Decision-Focused Learning for Linear Optimization Problems,2505.22224,http://arxiv.org/abs/2505.22224v1,2025-05-28 10:55:16+00:00
+51,Natural Language Processing in Support of Evidence-based Medicine: A Scoping Review,2505.22280,http://arxiv.org/abs/2505.22280v1,2025-05-28 12:17:01+00:00
+52,New Tools are Needed for Tracking Adherence to AI Model Behavioral Use Clauses,2505.22287,http://arxiv.org/abs/2505.22287v1,2025-05-28 12:26:55+00:00
+53,Neural Restoration of Greening Defects in Historical Autochrome Photographs Based on Purely Synthetic Data,2505.22291,http://arxiv.org/abs/2505.22291v1,2025-05-28 12:28:35+00:00
+54,Versatile Cardiovascular Signal Generation with a Unified Diffusion Transformer,2505.22306,http://arxiv.org/abs/2505.22306v1,2025-05-28 12:45:39+00:00
+55,Text2Grad: Reinforcement Learning from Natural Language Feedback,2505.22338,http://arxiv.org/abs/2505.22338v1,2025-05-28 13:23:49+00:00
+56,Empowering Intelligent Low-altitude Economy with Large AI Model Deployment,2505.22343,http://arxiv.org/abs/2505.22343v1,2025-05-28 13:27:07+00:00
+57,VME: A Satellite Imagery Dataset and Benchmark for Detecting Vehicles in the Middle East and Beyond,2505.22353,http://arxiv.org/abs/2505.22353v1,2025-05-28 13:34:05+00:00
+58,Budget-Adaptive Adapter Tuning in Orthogonal Subspaces for Continual Learning in LLMs,2505.22358,http://arxiv.org/abs/2505.22358v1,2025-05-28 13:38:21+00:00
+59,SplitLoRA: Balancing Stability and Plasticity in Continual Learning Through Gradient Space Splitting,2505.22370,http://arxiv.org/abs/2505.22370v2,2025-05-28 13:57:56+00:00
+60,Exact Algorithms and Lower Bounds for Forming Coalitions of Constrained Maximum Size,2505.22384,http://arxiv.org/abs/2505.22384v1,2025-05-28 14:11:14+00:00
+61,"Train with Perturbation, Infer after Merging: A Two-Stage Framework for Continual Learning",2505.22389,http://arxiv.org/abs/2505.22389v2,2025-05-28 14:14:19+00:00
+62,Can NeRFs See without Cameras?,2505.22441,http://arxiv.org/abs/2505.22441v1,2025-05-28 15:04:46+00:00
+63,SOReL and TOReL: Two Methods for Fully Offline Reinforcement Learning,2505.22442,http://arxiv.org/abs/2505.22442v2,2025-05-28 15:07:24+00:00
+64,NFR: Neural Feature-Guided Non-Rigid Shape Registration,2505.22445,http://arxiv.org/abs/2505.22445v1,2025-05-28 15:08:49+00:00
+65,Strengthening Proportionality in Temporal Voting,2505.22513,http://arxiv.org/abs/2505.22513v1,2025-05-28 16:02:52+00:00
+66,Evaluating Supervised Learning Models for Fraud Detection: A Comparative Study of Classical and Deep Architectures on Imbalanced Transaction Data,2505.22521,http://arxiv.org/abs/2505.22521v1,2025-05-28 16:08:04+00:00
+67,Scaling-up Perceptual Video Quality Assessment,2505.22543,http://arxiv.org/abs/2505.22543v1,2025-05-28 16:24:52+00:00
+68,Universal Visuo-Tactile Video Understanding for Embodied Interaction,2505.22566,http://arxiv.org/abs/2505.22566v1,2025-05-28 16:43:01+00:00
+69,Fusion Steering: Prompt-Specific Activation Control,2505.22572,http://arxiv.org/abs/2505.22572v1,2025-05-28 16:46:55+00:00
+70,"Tell me Habibi, is it Real or Fake?",2505.22581,http://arxiv.org/abs/2505.22581v1,2025-05-28 16:54:36+00:00
+71,GitGoodBench: A Novel Benchmark For Evaluating Agentic Performance On Git,2505.22583,http://arxiv.org/abs/2505.22583v1,2025-05-28 16:56:11+00:00
+72,Machine Unlearning under Overparameterization,2505.22601,http://arxiv.org/abs/2505.22601v1,2025-05-28 17:14:57+00:00
+73,Learning Composable Chains-of-Thought,2505.22635,http://arxiv.org/abs/2505.22635v1,2025-05-28 17:51:10+00:00
+74,Maximizing Confidence Alone Improves Reasoning,2505.22660,http://arxiv.org/abs/2505.22660v2,2025-05-28 17:59:37+00:00
+75,Training Language Models to Generate Quality Code with Program Analysis Feedback,2505.22704,http://arxiv.org/abs/2505.22704v1,2025-05-28 17:57:47+00:00
+76,Pre-Training Curriculum for Multi-Token Prediction in Language Models,2505.22757,http://arxiv.org/abs/2505.22757v1,2025-05-28 18:19:18+00:00
+77,"A comprehensive analysis of PINNs: Variants, Applications, and Challenges",2505.22761,http://arxiv.org/abs/2505.22761v1,2025-05-28 18:25:17+00:00
+78,In Dialogue with Intelligence: Rethinking Large Language Models as Collective Knowledge,2505.22767,http://arxiv.org/abs/2505.22767v2,2025-05-28 18:36:00+00:00
+79,Automated Essay Scoring Incorporating Annotations from Automated Feedback Systems,2505.22771,http://arxiv.org/abs/2505.22771v1,2025-05-28 18:39:56+00:00
+80,CLUE: Neural Networks Calibration via Learning Uncertainty-Error alignment,2505.22803,http://arxiv.org/abs/2505.22803v1,2025-05-28 19:23:47+00:00
+81,A Large Language Model-Enabled Control Architecture for Dynamic Resource Capability Exploration in Multi-Agent Manufacturing Systems,2505.22814,http://arxiv.org/abs/2505.22814v1,2025-05-28 19:43:12+00:00
+82,A Tool for Generating Exceptional Behavior Tests With Large Language Models,2505.22818,http://arxiv.org/abs/2505.22818v1,2025-05-28 19:53:20+00:00
+83,Bridging Distribution Shift and AI Safety: Conceptual and Methodological Synergies,2505.22829,http://arxiv.org/abs/2505.22829v1,2025-05-28 20:11:30+00:00
+84,What Has Been Lost with Synthetic Evaluation?,2505.22830,http://arxiv.org/abs/2505.22830v2,2025-05-28 20:12:32+00:00
+85,Orca: Browsing at Scale Through User-Driven and AI-Facilitated Orchestration Across Malleable Webpages,2505.22831,http://arxiv.org/abs/2505.22831v1,2025-05-28 20:13:39+00:00
+86,How Do Diffusion Models Improve Adversarial Robustness?,2505.22839,http://arxiv.org/abs/2505.22839v1,2025-05-28 20:19:21+00:00
+87,Aurora: Are Android Malware Classifiers Reliable under Distribution Shift?,2505.22843,http://arxiv.org/abs/2505.22843v1,2025-05-28 20:22:43+00:00
+88,Operationalizing CaMeL: Strengthening LLM Defenses for Enterprise Deployment,2505.22852,http://arxiv.org/abs/2505.22852v1,2025-05-28 20:35:24+00:00
+89,Scaling Offline RL via Efficient and Expressive Shortcut Models,2505.22866,http://arxiv.org/abs/2505.22866v1,2025-05-28 20:59:22+00:00
+90,BugWhisperer: Fine-Tuning LLMs for SoC Hardware Vulnerability Detection,2505.22878,http://arxiv.org/abs/2505.22878v1,2025-05-28 21:25:06+00:00
+91,Semantic Exploration and Dense Mapping of Complex Environments using Ground Robots Equipped with LiDAR and Panoramic Camera,2505.22880,http://arxiv.org/abs/2505.22880v1,2025-05-28 21:27:32+00:00
+92,Scalable Parameter and Memory Efficient Pretraining for LLM: Recent Algorithmic Advances and Benchmarking,2505.22922,http://arxiv.org/abs/2505.22922v1,2025-05-28 22:51:43+00:00
+93,Enhancing Study-Level Inference from Clinical Trial Papers via RL-based Numeric Reasoning,2505.22928,http://arxiv.org/abs/2505.22928v1,2025-05-28 22:59:45+00:00
+94,WorkForceAgent-R1: Incentivizing Reasoning Capability in LLM-based Web Agents via Reinforcement Learning,2505.22942,http://arxiv.org/abs/2505.22942v1,2025-05-28 23:45:28+00:00
+95,ATI: Any Trajectory Instruction for Controllable Video Generation,2505.22944,http://arxiv.org/abs/2505.22944v1,2025-05-28 23:49:18+00:00
+96,OWL: Probing Cross-Lingual Recall of Memorized Texts via World Literature,2505.22945,http://arxiv.org/abs/2505.22945v1,2025-05-28 23:57:03+00:00
+97,Large Language Models Often Know When They Are Being Evaluated,2505.23836,http://arxiv.org/abs/2505.23836v1,2025-05-28 12:03:09+00:00
+98,Seven Security Challenges That Must be Solved in Cross-domain Multi-agent LLM Systems,2505.23847,http://arxiv.org/abs/2505.23847v1,2025-05-28 18:19:03+00:00
+99,Streaming Flow Policy: Simplifying diffusion$/$flow-matching policies by treating action trajectories as flow trajectories,2505.21851,http://arxiv.org/abs/2505.21851v1,2025-05-28 00:48:19+00:00
