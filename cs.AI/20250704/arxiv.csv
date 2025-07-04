@@ -1,0 +1,80 @@
+,title,id,arxiv_url,published
+0,AlphaBeta is not as good as you think: a new probabilistic model to better analyze deterministic game-solving algorithms,2506.21996,http://arxiv.org/abs/2506.21996v1,2025-06-27 08:07:17+00:00
+1,LeanConjecturer: Automatic Generation of Mathematical Conjectures for Theorem Proving,2506.22005,http://arxiv.org/abs/2506.22005v1,2025-06-27 08:17:18+00:00
+2,Universal Retrieval for Multimodal Trajectory Modeling,2506.22056,http://arxiv.org/abs/2506.22056v1,2025-06-27 09:50:38+00:00
+3,Query as Test: An Intelligent Driving Test and Data Storage Method for Integrated Cockpit-Vehicle-Road Scenarios,2506.22068,http://arxiv.org/abs/2506.22068v1,2025-06-27 09:59:58+00:00
+4,A Different Approach to AI Safety: Proceedings from the Columbia Convening on Openness in Artificial Intelligence and AI Safety,2506.22183,http://arxiv.org/abs/2506.22183v1,2025-06-27 12:45:44+00:00
+5,Artificial Intelligent Disobedience: Rethinking the Agency of Our Artificial Teammates,2506.22276,http://arxiv.org/abs/2506.22276v1,2025-06-27 14:45:27+00:00
+6,Embodied AI Agents: Modeling the World,2506.22355,http://arxiv.org/abs/2506.22355v2,2025-06-27 16:05:34+00:00
+7,AI Model Passport: Data and System Traceability Framework for Transparent AI in Health,2506.22358,http://arxiv.org/abs/2506.22358v1,2025-06-27 16:16:15+00:00
+8,Ludax: A GPU-Accelerated Domain Specific Language for Board Games,2506.22609,http://arxiv.org/abs/2506.22609v1,2025-06-27 20:15:53+00:00
+9,URSA: The Universal Research and Scientific Agent,2506.22653,http://arxiv.org/abs/2506.22653v1,2025-06-27 21:56:02+00:00
+10,PARSI: Persian Authorship Recognition via Stylometric Integration,2506.21840,http://arxiv.org/abs/2506.21840v1,2025-06-27 01:08:52+00:00
+11,DeepTalk: Towards Seamless and Smart Speech Interaction with Adaptive Modality-Specific MoE,2506.21864,http://arxiv.org/abs/2506.21864v1,2025-06-27 02:32:04+00:00
+12,A Survey of Continual Reinforcement Learning,2506.21872,http://arxiv.org/abs/2506.21872v1,2025-06-27 03:10:20+00:00
+13,Grounding-Aware Token Pruning: Recovering from Drastic Performance Drops in Visual Grounding Caused by Pruning,2506.21873,http://arxiv.org/abs/2506.21873v1,2025-06-27 03:11:22+00:00
+14,On the Feasibility of Poisoning Text-to-Image AI Models via Adversarial Mislabeling,2506.21874,http://arxiv.org/abs/2506.21874v1,2025-06-27 03:13:47+00:00
+15,Interactive Multi-Objective Probabilistic Preference Learning with Soft and Hard Bounds,2506.21887,http://arxiv.org/abs/2506.21887v1,2025-06-27 03:44:20+00:00
+16,SODA: Out-of-Distribution Detection in Domain-Shifted Point Clouds via Neighborhood Propagation,2506.21892,http://arxiv.org/abs/2506.21892v1,2025-06-27 04:05:55+00:00
+17,SDRNET: Stacked Deep Residual Network for Accurate Semantic Segmentation of Fine-Resolution Remotely Sensed Images,2506.21945,http://arxiv.org/abs/2506.21945v1,2025-06-27 06:40:30+00:00
+18,Binned semiparametric Bayesian networks,2506.21997,http://arxiv.org/abs/2506.21997v2,2025-06-27 08:07:34+00:00
+19,TROFI: Trajectory-Ranked Offline Inverse Reinforcement Learning,2506.22008,http://arxiv.org/abs/2506.22008v1,2025-06-27 08:22:41+00:00
+20,Literature-Grounded Novelty Assessment of Scientific Ideas,2506.22026,http://arxiv.org/abs/2506.22026v1,2025-06-27 08:47:28+00:00
+21,UniCA: Adapting Time Series Foundation Model to General Covariate-Aware Forecasting,2506.22039,http://arxiv.org/abs/2506.22039v1,2025-06-27 09:35:51+00:00
+22,Transformers are Graph Neural Networks,2506.22084,http://arxiv.org/abs/2506.22084v1,2025-06-27 10:15:33+00:00
+23,Learning to Solve Multi-Objective Routing Problems on Multigraphs,2506.22095,http://arxiv.org/abs/2506.22095v1,2025-06-27 10:25:58+00:00
+24,Frequency-Semantic Enhanced Variational Autoencoder for Zero-Shot Skeleton-based Action Recognition,2506.22179,http://arxiv.org/abs/2506.22179v1,2025-06-27 12:44:08+00:00
+25,EFRame: Deeper Reasoning via Exploration-Filter-Replay Reinforcement Learning Framework,2506.22200,http://arxiv.org/abs/2506.22200v2,2025-06-27 13:09:05+00:00
+26,Breaking Rank Bottlenecks in Knowledge Graph Completion,2506.22271,http://arxiv.org/abs/2506.22271v1,2025-06-27 14:41:22+00:00
+27,RoomCraft: Controllable and Complete 3D Indoor Scene Generation,2506.22291,http://arxiv.org/abs/2506.22291v1,2025-06-27 15:03:17+00:00
+28,CoATA: Effective Co-Augmentation of Topology and Attribute for Graph Neural Networks,2506.22299,http://arxiv.org/abs/2506.22299v1,2025-06-27 15:11:49+00:00
+29,A Deep Learning framework for building damage assessment using VHR SAR and geospatial data: demonstration on the 2023 Turkiye Earthquake,2506.22338,http://arxiv.org/abs/2506.22338v1,2025-06-27 15:49:58+00:00
+30,A Framework for Multi-source Privacy Preserving Epidemic Analysis,2506.22342,http://arxiv.org/abs/2506.22342v1,2025-06-27 15:52:12+00:00
+31,Concept-Level AI for Telecom: Moving Beyond Large Language Models,2506.22359,http://arxiv.org/abs/2506.22359v1,2025-06-27 16:20:18+00:00
+32,Sheaf-Based Decentralized Multimodal Learning for Next-Generation Wireless Communication Systems,2506.22374,http://arxiv.org/abs/2506.22374v1,2025-06-27 16:41:23+00:00
+33,Multi-View Contrastive Learning for Robust Domain Adaptation in Medical Time Series Analysis,2506.22393,http://arxiv.org/abs/2506.22393v1,2025-06-27 17:06:16+00:00
+34,"QuickSilver -- Speeding up LLM Inference through Dynamic Token Halting, KV Skipping, Contextual Token Fusion, and Adaptive Matryoshka Quantization",2506.22396,http://arxiv.org/abs/2506.22396v1,2025-06-27 17:10:32+00:00
+35,HyperCLOVA X THINK Technical Report,2506.22403,http://arxiv.org/abs/2506.22403v2,2025-06-27 17:23:12+00:00
+36,CLoVE: Personalized Federated Learning through Clustering of Loss Vector Embeddings,2506.22427,http://arxiv.org/abs/2506.22427v1,2025-06-27 17:52:16+00:00
+37,Seamless Interaction: Dyadic Audiovisual Motion Modeling and Large-Scale Dataset,2506.22554,http://arxiv.org/abs/2506.22554v2,2025-06-27 18:09:49+00:00
+38,Unifying Biomedical Vision-Language Expertise: Towards a Generalist Foundation Model via Multi-CLIP Knowledge Distillation,2506.22567,http://arxiv.org/abs/2506.22567v1,2025-06-27 18:28:57+00:00
+39,Temperature Matters: Enhancing Watermark Robustness Against Paraphrasing Attacks,2506.22623,http://arxiv.org/abs/2506.22623v1,2025-06-27 20:39:35+00:00
+40,Layer Importance for Mathematical Reasoning is Forged in Pre-Training and Invariant after Post-Training,2506.22638,http://arxiv.org/abs/2506.22638v1,2025-06-27 21:04:55+00:00
+41,Knowledge-Guided Multi-Agent Framework for Automated Requirements Development: A Vision,2506.22656,http://arxiv.org/abs/2506.22656v1,2025-06-27 21:57:53+00:00
+42,Can AI be Consentful?,2507.01051,http://arxiv.org/abs/2507.01051v1,2025-06-27 15:32:16+00:00
+43,Few-Shot Segmentation of Historical Maps via Linear Probing of Vision Foundation Models,2506.21826,http://arxiv.org/abs/2506.21826v1,2025-06-27 00:07:21+00:00
+44,3Description: An Intuitive Human-AI Collaborative 3D Modeling Approach,2506.21845,http://arxiv.org/abs/2506.21845v1,2025-06-27 01:33:46+00:00
+45,The Consistency Hypothesis in Uncertainty Quantification for Large Language Models,2506.21849,http://arxiv.org/abs/2506.21849v1,2025-06-27 01:53:15+00:00
+46,SPADE: Spatial Transcriptomics and Pathology Alignment Using a Mixture of Data Experts for an Expressive Latent Space,2506.21857,http://arxiv.org/abs/2506.21857v1,2025-06-27 02:20:51+00:00
+47,LLaVA-Scissor: Token Compression with Semantic Connected Components for Video LLMs,2506.21862,http://arxiv.org/abs/2506.21862v1,2025-06-27 02:29:58+00:00
+48,Do Vision-Language Models Have Internal World Models? Towards an Atomic Evaluation,2506.21876,http://arxiv.org/abs/2506.21876v1,2025-06-27 03:24:29+00:00
+49,ARAG: Agentic Retrieval Augmented Generation for Personalized Recommendation,2506.21931,http://arxiv.org/abs/2506.21931v1,2025-06-27 05:45:59+00:00
+50,Using Large Language Models to Suggest Informative Prior Distributions in Bayesian Statistics,2506.21964,http://arxiv.org/abs/2506.21964v1,2025-06-27 07:11:55+00:00
+51,Advancing Jailbreak Strategies: A Hybrid Approach to Exploiting LLM Vulnerabilities and Bypassing Modern Defenses,2506.21972,http://arxiv.org/abs/2506.21972v1,2025-06-27 07:26:33+00:00
+52,Analyzing and Fine-Tuning Whisper Models for Multilingual Pilot Speech Transcription in the Cockpit,2506.21990,http://arxiv.org/abs/2506.21990v1,2025-06-27 07:57:13+00:00
+53,Visual Structures Helps Visual Reasoning: Addressing the Binding Problem in VLMs,2506.22146,http://arxiv.org/abs/2506.22146v2,2025-06-27 11:44:40+00:00
+54,"Adapting University Policies for Generative AI: Opportunities, Challenges, and Policy Solutions in Higher Education",2506.22231,http://arxiv.org/abs/2506.22231v1,2025-06-27 13:49:02+00:00
+55,Projected Compression: Trainable Projection for Efficient Transformer Compression,2506.22255,http://arxiv.org/abs/2506.22255v1,2025-06-27 14:24:01+00:00
+56,Conceptual Topic Aggregation,2506.22309,http://arxiv.org/abs/2506.22309v1,2025-06-27 15:19:38+00:00
+57,A Practical Approach to Power Saving in Hearables Using Sub-Nyquist Sampling with Bandwidth Extension,2506.22321,http://arxiv.org/abs/2506.22321v1,2025-06-27 15:35:04+00:00
+58,Less Greedy Equivalence Search,2506.22331,http://arxiv.org/abs/2506.22331v1,2025-06-27 15:39:48+00:00
+59,From Ground to Air: Noise Robustness in Vision Transformers and CNNs for Event-Based Vehicle Classification with Potential UAV Applications,2506.22360,http://arxiv.org/abs/2506.22360v1,2025-06-27 16:21:00+00:00
+60,Probabilistic Optimality for Inference-time Scaling,2506.22376,http://arxiv.org/abs/2506.22376v1,2025-06-27 16:44:11+00:00
+61,Can Video Large Multimodal Models Think Like Doubters-or Double-Down: A Study on Defeasible Video Entailment,2506.22385,http://arxiv.org/abs/2506.22385v1,2025-06-27 16:51:15+00:00
+62,Towards Distributed Neural Architectures,2506.22389,http://arxiv.org/abs/2506.22389v1,2025-06-27 16:57:59+00:00
+63,Dehazing Light Microscopy Images with Guided Conditional Flow Matching: finding a sweet spot between fidelity and realism,2506.22397,http://arxiv.org/abs/2506.22397v3,2025-06-27 17:10:43+00:00
+64,The Automated LLM Speedrunning Benchmark: Reproducing NanoGPT Improvements,2506.22419,http://arxiv.org/abs/2506.22419v2,2025-06-27 17:44:32+00:00
+65,Correlated Mutations for Integer Programming,2506.22526,http://arxiv.org/abs/2506.22526v1,2025-06-27 08:24:15+00:00
+66,Exploration Behavior of Untrained Policies,2506.22566,http://arxiv.org/abs/2506.22566v1,2025-06-27 18:28:41+00:00
+67,The Hidden Link Between RLHF and Contrastive Learning,2506.22578,http://arxiv.org/abs/2506.22578v1,2025-06-27 18:51:25+00:00
+68,FedCLAM: Client Adaptive Momentum with Foreground Intensity Matching for Federated Medical Image Segmentation,2506.22580,http://arxiv.org/abs/2506.22580v1,2025-06-27 18:52:41+00:00
+69,Pixels-to-Graph: Real-time Integration of Building Information Models and Scene Graphs for Semantic-Geometric Human-Robot Understanding,2506.22593,http://arxiv.org/abs/2506.22593v1,2025-06-27 19:23:31+00:00
+70,Bootstrapping Human-Like Planning via LLMs,2506.22604,http://arxiv.org/abs/2506.22604v1,2025-06-27 20:00:51+00:00
+71,DistShap: Scalable GNN Explanations with Distributed Shapley Values,2506.22668,http://arxiv.org/abs/2506.22668v1,2025-06-27 22:30:49+00:00
+72,Smooth-Distill: A Self-distillation Framework for Multitask Learning with Wearable Sensor Data,2507.00061,http://arxiv.org/abs/2507.00061v1,2025-06-27 06:51:51+00:00
+73,Long-Sequence Memory with Temporal Kernels and Dense Hopfield Functionals,2507.01052,http://arxiv.org/abs/2507.01052v1,2025-06-27 15:57:58+00:00
+74,"Conversational LLMs Simplify Secure Clinical Data Access, Understanding, and Analysis",2507.01053,http://arxiv.org/abs/2507.01053v1,2025-06-27 16:24:17+00:00
+75,XxaCT-NN: Structure Agnostic Multimodal Learning for Materials Science,2507.01054,http://arxiv.org/abs/2507.01054v1,2025-06-27 21:45:56+00:00
+76,UnMix-NeRF: Spectral Unmixing Meets Neural Radiance Fields,2506.21884,http://arxiv.org/abs/2506.21884v1,2025-06-27 03:42:49+00:00
+77,SceneDiffuser++: City-Scale Traffic Simulation via a Generative World Model,2506.21976,http://arxiv.org/abs/2506.21976v1,2025-06-27 07:35:04+00:00
+78,Autonomic Microservice Management via Agentic AI and MAPE-K Integration,2506.22185,http://arxiv.org/abs/2506.22185v1,2025-06-27 12:46:12+00:00
