@@ -1,0 +1,54 @@
+,title,id,arxiv_url,published
+0,ReasonBridge: Efficient Reasoning Transfer from Closed to Open-Source Language Models,2506.22865,http://arxiv.org/abs/2506.22865v1,2025-06-28 12:22:55+00:00
+1,Hecto: Modular Sparse Experts for Adaptive and Interpretable Reasoning,2506.22919,http://arxiv.org/abs/2506.22919v2,2025-06-28 15:03:43+00:00
+2,Improving Rationality in the Reasoning Process of Language Models through Self-playing Game,2506.22920,http://arxiv.org/abs/2506.22920v1,2025-06-28 15:11:23+00:00
+3,Text Production and Comprehension by Human and Artificial Intelligence: Interdisciplinary Workshop Report,2506.22698,http://arxiv.org/abs/2506.22698v2,2025-06-28 00:31:14+00:00
+4,P4OMP: Retrieval-Augmented Prompting for OpenMP Parallelism in Serial Code,2506.22703,http://arxiv.org/abs/2506.22703v1,2025-06-28 01:06:34+00:00
+5,Kill Two Birds with One Stone! Trajectory enabled Unified Online Detection of Adversarial Examples and Backdoor Attacks,2506.22722,http://arxiv.org/abs/2506.22722v1,2025-06-28 02:06:23+00:00
+6,Explanations are a means to an end,2506.22740,http://arxiv.org/abs/2506.22740v1,2025-06-28 03:04:21+00:00
+7,RAILS: Retrieval-Augmented Intelligence for Learning Software Development,2506.22742,http://arxiv.org/abs/2506.22742v1,2025-06-28 03:30:04+00:00
+8,Bridging Ethical Principles and Algorithmic Methods: An Alternative Approach for Assessing Trustworthiness in AI Systems,2506.22774,http://arxiv.org/abs/2506.22774v2,2025-06-28 06:27:30+00:00
+9,Teaching Models to Verbalize Reward Hacking in Chain-of-Thought Reasoning,2506.22777,http://arxiv.org/abs/2506.22777v1,2025-06-28 06:37:10+00:00
+10,MedEthicsQA: A Comprehensive Question Answering Benchmark for Medical Ethics Evaluation of LLMs,2506.22808,http://arxiv.org/abs/2506.22808v1,2025-06-28 08:21:35+00:00
+11,Listener-Rewarded Thinking in VLMs for Image Preferences,2506.22832,http://arxiv.org/abs/2506.22832v2,2025-06-28 09:53:17+00:00
+12,xLSTMAD: A Powerful xLSTM-based Method for Anomaly Detection,2506.22837,http://arxiv.org/abs/2506.22837v1,2025-06-28 10:39:09+00:00
+13,Scalable Structure Learning of Bayesian Networks by Learning Algorithm Ensembles,2506.22848,http://arxiv.org/abs/2506.22848v1,2025-06-28 11:05:08+00:00
+14,"DICE-BENCH: Evaluating the Tool-Use Capabilities of Large Language Models in Multi-Round, Multi-Party Dialogues",2506.22853,http://arxiv.org/abs/2506.22853v2,2025-06-28 11:28:04+00:00
+15,Region-Aware CAM: High-Resolution Weakly-Supervised Defect Segmentation via Salient Region Perception,2506.22866,http://arxiv.org/abs/2506.22866v1,2025-06-28 12:24:45+00:00
+16,STR-Match: Matching SpatioTemporal Relevance Score for Training-Free Video Editing,2506.22868,http://arxiv.org/abs/2506.22868v1,2025-06-28 12:36:19+00:00
+17,Decoupled Seg Tokens Make Stronger Reasoning Video Segmenter and Grounder,2506.22880,http://arxiv.org/abs/2506.22880v1,2025-06-28 13:30:36+00:00
+18,Agentic Enterprise: AI-Centric User to User-Centric AI,2506.22893,http://arxiv.org/abs/2506.22893v1,2025-06-28 14:05:59+00:00
+19,Interpretable Time Series Autoregression for Periodicity Quantification,2506.22895,http://arxiv.org/abs/2506.22895v1,2025-06-28 14:17:11+00:00
+20,Positioning AI Tools to Support Online Harm Reduction Practice: Applications and Design Directions,2506.22941,http://arxiv.org/abs/2506.22941v2,2025-06-28 16:15:47+00:00
+21,Against 'softmaxing' culture,2506.22968,http://arxiv.org/abs/2506.22968v2,2025-06-28 17:59:17+00:00
+22,A Systematic Study of Compositional Syntactic Transformer Language Models,2506.22978,http://arxiv.org/abs/2506.22978v1,2025-06-28 18:32:23+00:00
+23,Generating Privacy Stories From Software Documentation,2506.23014,http://arxiv.org/abs/2506.23014v1,2025-06-28 20:55:21+00:00
+24,Spectra 1.1: Scaling Laws and Efficient Inference for Ternary Language Models,2506.23025,http://arxiv.org/abs/2506.23025v1,2025-06-28 22:13:43+00:00
+25,InSight-R: A Framework for Risk-informed Human Failure Event Identification and Interface-Induced Risk Assessment Driven by AutoGraph,2507.00066,http://arxiv.org/abs/2507.00066v1,2025-06-28 02:04:06+00:00
+26,An efficient plant disease detection using transfer learning approach,2507.00070,http://arxiv.org/abs/2507.00070v1,2025-06-28 13:47:27+00:00
+27,Beyond Code: The Multidimensional Impacts of Large Language Models in Software Development,2506.22704,http://arxiv.org/abs/2506.22704v2,2025-06-28 01:10:24+00:00
+28,General Autonomous Cybersecurity Defense: Learning Robust Policies for Dynamic Topologies and Diverse Attackers,2506.22706,http://arxiv.org/abs/2506.22706v1,2025-06-28 01:12:13+00:00
+29,BEST-Route: Adaptive LLM Routing with Test-Time Optimal Compute,2506.22716,http://arxiv.org/abs/2506.22716v1,2025-06-28 01:52:50+00:00
+30,FF-INT8: Efficient Forward-Forward DNN Training on Edge Devices with INT8 Precision,2506.22771,http://arxiv.org/abs/2506.22771v1,2025-06-28 06:16:26+00:00
+31,Smaller = Weaker? Benchmarking Robustness of Quantized LLMs in Code Generation,2506.22776,http://arxiv.org/abs/2506.22776v1,2025-06-28 06:32:25+00:00
+32,PhonemeFake: Redefining Deepfake Realism with Language-Driven Segmental Manipulation and Adaptive Bilevel Detection,2506.22783,http://arxiv.org/abs/2506.22783v1,2025-06-28 06:56:41+00:00
+33,Single-Frame Point-Pixel Registration via Supervised Cross-Modal Feature Matching,2506.22784,http://arxiv.org/abs/2506.22784v1,2025-06-28 06:57:13+00:00
+34,WavShape: Information-Theoretic Speech Representation Learning for Fair and Privacy-Aware Audio Processing,2506.22789,http://arxiv.org/abs/2506.22789v1,2025-06-28 07:03:55+00:00
+35,Offline Reinforcement Learning for Mobility Robustness Optimization,2506.22793,http://arxiv.org/abs/2506.22793v1,2025-06-28 07:31:01+00:00
+36,BayesLoRA: Task-Specific Uncertainty in Low-Rank Adapters,2506.22809,http://arxiv.org/abs/2506.22809v1,2025-06-28 08:22:02+00:00
+37,Quantum Neural Networks for Wind Energy Forecasting: A Comparative Study of Performance and Scalability with Classical Models,2506.22845,http://arxiv.org/abs/2506.22845v1,2025-06-28 10:51:27+00:00
+38,Mask-aware Text-to-Image Retrieval: Referring Expression Segmentation Meets Cross-modal Retrieval,2506.22864,http://arxiv.org/abs/2506.22864v1,2025-06-28 12:19:49+00:00
+39,Missing-Modality-Aware Graph Neural Network for Cancer Classification,2506.22901,http://arxiv.org/abs/2506.22901v1,2025-06-28 14:31:00+00:00
+40,Learning Truthful Mechanisms without Discretization,2506.22911,http://arxiv.org/abs/2506.22911v1,2025-06-28 14:50:29+00:00
+41,Mathematical Computation on High-dimensional Data via Array Programming and Parallel Acceleration,2506.22929,http://arxiv.org/abs/2506.22929v1,2025-06-28 15:42:23+00:00
+42,A Study on Semi-Supervised Detection of DDoS Attacks under Class Imbalance,2506.22949,http://arxiv.org/abs/2506.22949v1,2025-06-28 16:47:39+00:00
+43,Agent-to-Agent Theory of Mind: Testing Interlocutor Awareness among Large Language Models,2506.22957,http://arxiv.org/abs/2506.22957v1,2025-06-28 17:22:59+00:00
+44,MARBLE: A Hard Benchmark for Multimodal Spatial Reasoning and Planning,2506.22992,http://arxiv.org/abs/2506.22992v1,2025-06-28 19:44:32+00:00
+45,Scenario-Based Hierarchical Reinforcement Learning for Automated Driving Decision Making,2506.23023,http://arxiv.org/abs/2506.23023v1,2025-06-28 21:55:59+00:00
+46,BWLer: Barycentric Weight Layer Elucidates a Precision-Conditioning Tradeoff for PINNs,2506.23024,http://arxiv.org/abs/2506.23024v1,2025-06-28 22:11:00+00:00
+47,MANTA: Cross-Modal Semantic Alignment and Information-Theoretic Optimization for Long-form Multimodal Understanding,2507.00068,http://arxiv.org/abs/2507.00068v1,2025-06-28 12:12:06+00:00
+48,Prompt Mechanisms in Medical Imaging: A Comprehensive Survey,2507.01055,http://arxiv.org/abs/2507.01055v1,2025-06-28 03:06:25+00:00
+49,A Data Science Approach to Calcutta High Court Judgments: An Efficient LLM and RAG-powered Framework for Summarization and Similar Cases Retrieval,2507.01058,http://arxiv.org/abs/2507.01058v1,2025-06-28 20:24:34+00:00
+50,TriADA: Massively Parallel Trilinear Matrix-by-Tensor Multiply-Add Algorithm and Device Architecture for the Acceleration of 3D Discrete Transformations,2506.22818,http://arxiv.org/abs/2506.22818v1,2025-06-28 08:42:01+00:00
+51,VisionScores -- A system-segmented image score dataset for deep learning tasks,2506.23030,http://arxiv.org/abs/2506.23030v1,2025-06-28 22:29:23+00:00
+52,Performance Measurements in the AI-Centric Computing Continuum Systems,2506.22884,http://arxiv.org/abs/2506.22884v1,2025-06-28 13:46:07+00:00
