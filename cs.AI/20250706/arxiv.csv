@@ -1,0 +1,63 @@
+,title,id,arxiv_url,published
+0,AI's Euclid's Elements Moment: From Language Models to Computable Thought,2506.23080,http://arxiv.org/abs/2506.23080v1,2025-06-29 04:14:19+00:00
+1,Can Large Language Models Capture Human Risk Preferences? A Cross-Cultural Study,2506.23107,http://arxiv.org/abs/2506.23107v1,2025-06-29 06:16:57+00:00
+2,Are Large Language Models Capable of Deep Relational Reasoning? Insights from DeepSeek-R1 and Benchmark Comparisons,2506.23128,http://arxiv.org/abs/2506.23128v1,2025-06-29 07:37:49+00:00
+3,Context-Driven Knowledge Graph Completion with Semantic-Aware Relational Message Passing,2506.23141,http://arxiv.org/abs/2506.23141v1,2025-06-29 08:37:48+00:00
+4,FinStat2SQL: A Text2SQL Pipeline for Financial Statement Analysis,2506.23273,http://arxiv.org/abs/2506.23273v1,2025-06-29 14:55:21+00:00
+5,GATSim: Urban Mobility Simulation with Generative Agents,2506.23306,http://arxiv.org/abs/2506.23306v1,2025-06-29 15:52:16+00:00
+6,"Treatment, evidence, imitation, and chat",2506.23040,http://arxiv.org/abs/2506.23040v1,2025-06-29 00:23:06+00:00
+7,Ovis-U1 Technical Report,2506.23044,http://arxiv.org/abs/2506.23044v2,2025-06-29 00:40:17+00:00
+8,Measuring How LLMs Internalize Human Psychological Concepts: A preliminary analysis,2506.23055,http://arxiv.org/abs/2506.23055v1,2025-06-29 01:56:56+00:00
+9,Enhancing Live Broadcast Engagement: A Multi-modal Approach to Short Video Recommendations Using MMGCN and User Preferences,2506.23085,http://arxiv.org/abs/2506.23085v1,2025-06-29 04:50:52+00:00
+10,From Individuals to Interactions: Benchmarking Gender Bias in Multimodal Large Language Models from the Lens of Social Relationship,2506.23101,http://arxiv.org/abs/2506.23101v1,2025-06-29 06:03:21+00:00
+11,Unleashing Embodied Task Planning Ability in LLMs via Reinforcement Learning,2506.23127,http://arxiv.org/abs/2506.23127v1,2025-06-29 07:31:24+00:00
+12,Flow-Modulated Scoring for Semantic-Aware Knowledge Graph Completion,2506.23137,http://arxiv.org/abs/2506.23137v2,2025-06-29 08:22:04+00:00
+13,Benchmarking Deep Search over Heterogeneous Enterprise Data,2506.23139,http://arxiv.org/abs/2506.23139v1,2025-06-29 08:34:59+00:00
+14,Mode Collapse Happens: Evaluating Critical Interactions in Joint Trajectory Prediction Models,2506.23164,http://arxiv.org/abs/2506.23164v1,2025-06-29 09:53:12+00:00
+15,Data Can Speak for Itself: Quality-guided Utilization of Wireless Synthetic Data,2506.23174,http://arxiv.org/abs/2506.23174v1,2025-06-29 10:17:39+00:00
+16,Multi-Branch DNN and CRLB-Ratio-Weight Fusion for Enhanced DOA Sensing via a Massive H$^2$AD MIMO Receiver,2506.23203,http://arxiv.org/abs/2506.23203v1,2025-06-29 12:14:59+00:00
+17,"VolumetricSMPL: A Neural Volumetric Body Model for Efficient Interactions, Contacts, and Collisions",2506.23236,http://arxiv.org/abs/2506.23236v1,2025-06-29 13:48:38+00:00
+18,From Prompt Injections to Protocol Exploits: Threats in LLM-Powered AI Agents Workflows,2506.23260,http://arxiv.org/abs/2506.23260v1,2025-06-29 14:32:32+00:00
+19,Predicting thinking time in Reasoning models,2506.23274,http://arxiv.org/abs/2506.23274v1,2025-06-29 15:01:01+00:00
+20,Why Settle for One? Text-to-ImageSet Generation and Evaluation,2506.23275,http://arxiv.org/abs/2506.23275v1,2025-06-29 15:01:16+00:00
+21,Corrupted by Reasoning: Reasoning Language Models Become Free-Riders in Public Goods Games,2506.23276,http://arxiv.org/abs/2506.23276v1,2025-06-29 15:02:47+00:00
+22,Securing AI Systems: A Guide to Known Attacks and Impacts,2506.23296,http://arxiv.org/abs/2506.23296v1,2025-06-29 15:32:03+00:00
+23,Interpretable by Design: MH-AutoML for Transparent and Efficient Android Malware Detection without Compromising Performance,2506.23314,http://arxiv.org/abs/2506.23314v1,2025-06-29 16:12:41+00:00
+24,ATGen: A Framework for Active Text Generation,2506.23342,http://arxiv.org/abs/2506.23342v1,2025-06-29 17:27:48+00:00
+25,Federated Timeline Synthesis: Scalable and Private Methodology For Model Training and Deployment,2506.23358,http://arxiv.org/abs/2506.23358v1,2025-06-29 18:29:59+00:00
+26,Perspective Dial: Measuring Perspective of Text and Guiding LLM Outputs,2506.23377,http://arxiv.org/abs/2506.23377v1,2025-06-29 19:26:37+00:00
+27,Hierarchical Memory Organization for Wikipedia Generation,2506.23393,http://arxiv.org/abs/2506.23393v1,2025-06-29 20:22:49+00:00
+28,TuCo: Measuring the Contribution of Fine-Tuning to Individual Responses of LLMs,2506.23423,http://arxiv.org/abs/2506.23423v1,2025-06-29 23:08:36+00:00
+29,Accurate Parameter-Efficient Test-Time Adaptation for Time Series Forecasting,2506.23424,http://arxiv.org/abs/2506.23424v1,2025-06-29 23:09:35+00:00
+30,Pipelined Decoder for Efficient Context-Aware Text Generation,2506.23431,http://arxiv.org/abs/2506.23431v2,2025-06-29 23:37:24+00:00
+31,Theoretical Modeling of LLM Self-Improvement Training Dynamics Through Solver-Verifier Gap,2507.00075,http://arxiv.org/abs/2507.00075v1,2025-06-29 06:48:47+00:00
+32,VoyagerVision: Investigating the Role of Multi-modal Information for Open-ended Learning Systems,2507.00079,http://arxiv.org/abs/2507.00079v1,2025-06-29 14:16:11+00:00
+33,SoMi-ToM: Evaluating Multi-Perspective Theory of Mind in Embodied Social Interactions,2506.23046,http://arxiv.org/abs/2506.23046v1,2025-06-29 00:54:13+00:00
+34,"AURA: Agent for Understanding, Reasoning, and Automated Tool Use in Voice-Driven Tasks",2506.23049,http://arxiv.org/abs/2506.23049v1,2025-06-29 01:13:15+00:00
+35,Curious Causality-Seeking Agents Learn Meta Causal World,2506.23068,http://arxiv.org/abs/2506.23068v1,2025-06-29 03:05:25+00:00
+36,TOMI: Transforming and Organizing Music Ideas for Multi-Track Compositions with Full-Song Structure,2506.23094,http://arxiv.org/abs/2506.23094v1,2025-06-29 05:15:41+00:00
+37,MoCa: Modality-aware Continual Pre-training Makes Better Bidirectional Multimodal Embeddings,2506.23115,http://arxiv.org/abs/2506.23115v1,2025-06-29 06:41:00+00:00
+38,CRISP-SAM2: SAM2 with Cross-Modal Interaction and Semantic Prompting for Multi-Organ Segmentation,2506.23121,http://arxiv.org/abs/2506.23121v1,2025-06-29 07:05:27+00:00
+39,The Societal Impact of Foundation Models: Advancing Evidence-based AI Policy,2506.23123,http://arxiv.org/abs/2506.23123v1,2025-06-29 07:16:48+00:00
+40,MEMFOF: High-Resolution Training for Memory-Efficient Multi-Frame Optical Flow Estimation,2506.23151,http://arxiv.org/abs/2506.23151v1,2025-06-29 09:01:42+00:00
+41,Rises for Measuring Local Distributivity in Lattices,2506.23168,http://arxiv.org/abs/2506.23168v1,2025-06-29 10:03:51+00:00
+42,Deep Learning for Optical Misalignment Diagnostics in Multi-Lens Imaging Systems,2506.23173,http://arxiv.org/abs/2506.23173v1,2025-06-29 10:13:40+00:00
+43,Score-based Diffusion Model for Unpaired Virtual Histology Staining,2506.23184,http://arxiv.org/abs/2506.23184v1,2025-06-29 11:02:45+00:00
+44,FedRef: Communication-Efficient Bayesian Fine Tuning with Reference Model,2506.23210,http://arxiv.org/abs/2506.23210v1,2025-06-29 12:41:11+00:00
+45,UrbanLLaVA: A Multi-modal Large Language Model for Urban Intelligence with Spatial Reasoning and Understanding,2506.23219,http://arxiv.org/abs/2506.23219v1,2025-06-29 13:04:27+00:00
+46,Aggregating Local Saliency Maps for Semi-Global Explainable Image Classification,2506.23247,http://arxiv.org/abs/2506.23247v1,2025-06-29 14:11:02+00:00
+47,PixelBoost: Leveraging Brownian Motion for Realistic-Image Super-Resolution,2506.23254,http://arxiv.org/abs/2506.23254v1,2025-06-29 14:22:38+00:00
+48,Token Activation Map to Visually Explain Multimodal LLMs,2506.23270,http://arxiv.org/abs/2506.23270v1,2025-06-29 14:50:45+00:00
+49,Not All Explanations for Deep Learning Phenomena Are Equally Valuable,2506.23286,http://arxiv.org/abs/2506.23286v1,2025-06-29 15:18:56+00:00
+50,Objective-Free Local Learning and Emergent Language Structure in Thinking Machines,2506.23293,http://arxiv.org/abs/2506.23293v1,2025-06-29 15:29:13+00:00
+51,GaussMaster: An LLM-based Database Copilot System,2506.23322,http://arxiv.org/abs/2506.23322v1,2025-06-29 16:39:31+00:00
+52,XY-Tokenizer: Mitigating the Semantic-Acoustic Conflict in Low-Bitrate Speech Codecs,2506.23325,http://arxiv.org/abs/2506.23325v1,2025-06-29 16:51:50+00:00
+53,Federated Breast Cancer Detection Enhanced by Synthetic Ultrasound Image Augmentation,2506.23334,http://arxiv.org/abs/2506.23334v1,2025-06-29 17:05:50+00:00
+54,VALID-Mol: a Systematic Framework for Validated LLM-Assisted Molecular Design,2506.23339,http://arxiv.org/abs/2506.23339v1,2025-06-29 17:17:04+00:00
+55,Benchmarking Generalizable Bimanual Manipulation: RoboTwin Dual-Arm Collaboration Challenge at CVPR 2025 MEIS Workshop,2506.23351,http://arxiv.org/abs/2506.23351v2,2025-06-29 17:56:41+00:00
+56,SIEDD: Shared-Implicit Encoder with Discrete Decoders,2506.23382,http://arxiv.org/abs/2506.23382v1,2025-06-29 19:39:43+00:00
+57,Teaching a Language Model to Speak the Language of Tools,2506.23394,http://arxiv.org/abs/2506.23394v1,2025-06-29 20:47:27+00:00
+58,BenchMake: Turn any scientific data set into a reproducible benchmark,2506.23419,http://arxiv.org/abs/2506.23419v1,2025-06-29 22:56:48+00:00
+59,The language of time: a language model perspective on time-series foundation models,2507.00078,http://arxiv.org/abs/2507.00078v1,2025-06-29 14:03:34+00:00
+60,Integrating Large Language Models in Financial Investments and Market Analysis: A Survey,2507.01990,http://arxiv.org/abs/2507.01990v1,2025-06-29 05:25:31+00:00
+61,Automated Vehicles Should be Connected with Natural Language,2507.01059,http://arxiv.org/abs/2507.01059v1,2025-06-29 16:41:19+00:00
