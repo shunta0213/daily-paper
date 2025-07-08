@@ -1,0 +1,90 @@
+,title,id,arxiv_url,published
+0,Thinking Beyond Tokens: From Brain-Inspired Intelligence to Cognitive Foundations for Artificial General Intelligence and its Societal Impact,2507.00951,http://arxiv.org/abs/2507.00951v1,2025-07-01 16:52:25+00:00
+1,Rethinking the Illusion of Thinking,2507.01231,http://arxiv.org/abs/2507.01231v1,2025-07-01 23:10:02+00:00
+2,"Training for X-Ray Vision: Amodal Segmentation, Amodal Content Completion, and View-Invariant Object Representation from Multi-Camera Video",2507.00339,http://arxiv.org/abs/2507.00339v1,2025-07-01 00:36:56+00:00
+3,VTS-Guided AI Interaction Workflow for Business Insights,2507.00347,http://arxiv.org/abs/2507.00347v1,2025-07-01 00:48:52+00:00
+4,CGEarthEye:A High-Resolution Remote Sensing Vision Foundation Model Based on the Jilin-1 Satellite Constellation,2507.00356,http://arxiv.org/abs/2507.00356v1,2025-07-01 01:05:18+00:00
+5,iPanda: An Intelligent Protocol Testing and Debugging Agent for Conformance Testing,2507.00378,http://arxiv.org/abs/2507.00378v1,2025-07-01 02:27:44+00:00
+6,ASTRO: Teaching Language Models to Reason by Reflecting and Backtracking In-Context,2507.00417,http://arxiv.org/abs/2507.00417v1,2025-07-01 04:10:15+00:00
+7,Serving LLMs in HPC Clusters: A Comparative Study of Qualcomm Cloud AI 100 Ultra and High-Performance GPUs,2507.00418,http://arxiv.org/abs/2507.00418v1,2025-07-01 04:11:09+00:00
+8,Geological Everything Model 3D: A Promptable Foundation Model for Unified and Zero-Shot Subsurface Understanding,2507.00419,http://arxiv.org/abs/2507.00419v1,2025-07-01 04:14:13+00:00
+9,Does Math Reasoning Improve General LLM Capabilities? Understanding Transferability of LLM Reasoning,2507.00432,http://arxiv.org/abs/2507.00432v1,2025-07-01 05:23:05+00:00
+10,ATSTrack: Enhancing Visual-Language Tracking by Aligning Temporal and Spatial Scales,2507.00454,http://arxiv.org/abs/2507.00454v1,2025-07-01 06:13:34+00:00
+11,Process-aware and high-fidelity microstructure generation using stable diffusion,2507.00459,http://arxiv.org/abs/2507.00459v1,2025-07-01 06:16:53+00:00
+12,Novel Complex-Valued Hopfield Neural Networks with Phase and Magnitude Quantization,2507.00461,http://arxiv.org/abs/2507.00461v1,2025-07-01 06:19:06+00:00
+13,Diversity Conscious Refined Random Forest,2507.00467,http://arxiv.org/abs/2507.00467v2,2025-07-01 06:28:15+00:00
+14,PNAct: Crafting Backdoor Attacks in Safe Reinforcement Learning,2507.00485,http://arxiv.org/abs/2507.00485v1,2025-07-01 06:59:59+00:00
+15,Visual Anagrams Reveal Hidden Differences in Holistic Shape Processing Across Vision Models,2507.00493,http://arxiv.org/abs/2507.00493v2,2025-07-01 07:08:56+00:00
+16,TeamCMU at Touché: Adversarial Co-Evolution for Advertisement Integration and Detection in Conversational Search,2507.00509,http://arxiv.org/abs/2507.00509v1,2025-07-01 07:24:29+00:00
+17,Box-QAymo: Box-Referring VQA Dataset for Autonomous Driving,2507.00525,http://arxiv.org/abs/2507.00525v1,2025-07-01 07:40:16+00:00
+18,Rethinking Group Recommender Systems in the Era of Generative AI: From One-Shot Recommendations to Agentic Group Decision Support,2507.00535,http://arxiv.org/abs/2507.00535v1,2025-07-01 07:56:37+00:00
+19,TUM-MiKaNi at SemEval-2025 Task 3: Towards Multilingual and Knowledge-Aware Non-factual Hallucination Identification,2507.00579,http://arxiv.org/abs/2507.00579v1,2025-07-01 09:00:50+00:00
+20,Quantum Circuit Structure Optimization for Quantum Reinforcement Learning,2507.00589,http://arxiv.org/abs/2507.00589v1,2025-07-01 09:16:58+00:00
+21,Mixture of Reasonings: Teach Large Language Models to Reason with Adaptive Strategies,2507.00606,http://arxiv.org/abs/2507.00606v2,2025-07-01 09:39:04+00:00
+22,Physics-Informed Neural ODEs for Temporal Dynamics Modeling in Cardiac T1 Mapping,2507.00613,http://arxiv.org/abs/2507.00613v1,2025-07-01 09:47:22+00:00
+23,Cognitive Load-Aware Inference: A Neuro-Symbolic Framework for Optimizing the Token Economy of Large Language Models,2507.00653,http://arxiv.org/abs/2507.00653v1,2025-07-01 10:51:18+00:00
+24,SAFER: Probing Safety in Reward Models with Sparse Autoencoder,2507.00665,http://arxiv.org/abs/2507.00665v1,2025-07-01 11:04:03+00:00
+25,TopoStreamer: Temporal Lane Segment Topology Reasoning in Autonomous Driving,2507.00709,http://arxiv.org/abs/2507.00709v1,2025-07-01 12:10:46+00:00
+26,Can Large Language Models Develop Strategic Reasoning? Post-training Insights from Learning Chess,2507.00726,http://arxiv.org/abs/2507.00726v2,2025-07-01 13:16:34+00:00
+27,LitBench: A Benchmark and Dataset for Reliable Evaluation of Creative Writing,2507.00769,http://arxiv.org/abs/2507.00769v1,2025-07-01 14:10:36+00:00
+28,Echoes of AI: Investigating the Downstream Effects of AI Assistants on Software Maintainability,2507.00788,http://arxiv.org/abs/2507.00788v1,2025-07-01 14:24:37+00:00
+29,LD-RPS: Zero-Shot Unified Image Restoration via Latent Diffusion Recurrent Posterior Sampling,2507.00790,http://arxiv.org/abs/2507.00790v2,2025-07-01 14:25:09+00:00
+30,A Robust Algorithm for Non-IID Machine Learning Problems with Convergence Analysis,2507.00810,http://arxiv.org/abs/2507.00810v1,2025-07-01 14:41:59+00:00
+31,PI-WAN: A Physics-Informed Wind-Adaptive Network for Quadrotor Dynamics Prediction in Unknown Environments,2507.00816,http://arxiv.org/abs/2507.00816v1,2025-07-01 14:48:22+00:00
+32,CAVALRY-V: A Large-Scale Generator Framework for Adversarial Attacks on Video MLLMs,2507.00817,http://arxiv.org/abs/2507.00817v1,2025-07-01 14:48:27+00:00
+33,HumanoidGen: Data Generation for Bimanual Dexterous Manipulation via LLM Reasoning,2507.00833,http://arxiv.org/abs/2507.00833v1,2025-07-01 15:04:38+00:00
+34,SafeMobile: Chain-level Jailbreak Detection and Automated Evaluation for Multimodal Mobile Agents,2507.00841,http://arxiv.org/abs/2507.00841v1,2025-07-01 15:10:00+00:00
+35,NN-Former: Rethinking Graph Structure in Neural Architecture Representation,2507.00880,http://arxiv.org/abs/2507.00880v1,2025-07-01 15:46:18+00:00
+36,MemeCMD: An Automatically Generated Chinese Multi-turn Dialogue Dataset with Contextually Retrieved Memes,2507.00891,http://arxiv.org/abs/2507.00891v1,2025-07-01 15:57:14+00:00
+37,The Age of Sensorial Zero Trust: Why We Can No Longer Trust Our Senses,2507.00907,http://arxiv.org/abs/2507.00907v1,2025-07-01 16:11:41+00:00
+38,"Large Language Model Powered Intelligent Urban Agents: Concepts, Capabilities, and Applications",2507.00914,http://arxiv.org/abs/2507.00914v1,2025-07-01 16:18:29+00:00
+39,From Sentences to Sequences: Rethinking Languages in Biological System,2507.00953,http://arxiv.org/abs/2507.00953v2,2025-07-01 16:57:39+00:00
+40,Surgical Neural Radiance Fields from One Image,2507.00969,http://arxiv.org/abs/2507.00969v1,2025-07-01 17:19:25+00:00
+41,Reasoning as an Adaptive Defense for Safety,2507.00971,http://arxiv.org/abs/2507.00971v1,2025-07-01 17:20:04+00:00
+42,SciArena: An Open Evaluation Platform for Foundation Models in Scientific Literature Tasks,2507.01001,http://arxiv.org/abs/2507.01001v1,2025-07-01 17:51:59+00:00
+43,Description of the Training Process of Neural Networks via Ergodic Theorem : Ghost nodes,2507.01003,http://arxiv.org/abs/2507.01003v1,2025-07-01 17:54:35+00:00
+44,AI-guided digital intervention with physiological monitoring reduces intrusive memories after experimental trauma,2507.01081,http://arxiv.org/abs/2507.01081v1,2025-07-01 17:59:01+00:00
+45,Capacity Planning and Scheduling for Jobs with Uncertainty in Resource Usage and Duration,2507.01225,http://arxiv.org/abs/2507.01225v1,2025-07-01 22:56:08+00:00
+46,Beyond First-Order: Training LLMs with Stochastic Conjugate Subgradients and AdamW,2507.01241,http://arxiv.org/abs/2507.01241v1,2025-07-01 23:30:15+00:00
+47,Discovery of Fatigue Strength Models via Feature Engineering and automated eXplainable Machine Learning applied to the welded Transverse Stiffener,2507.02005,http://arxiv.org/abs/2507.02005v1,2025-07-01 21:57:12+00:00
+48,An AST-guided LLM Approach for SVRF Code Synthesis,2507.00352,http://arxiv.org/abs/2507.00352v1,2025-07-01 00:57:45+00:00
+49,Augmenting Molecular Graphs with Geometries via Machine Learning Interatomic Potentials,2507.00407,http://arxiv.org/abs/2507.00407v1,2025-07-01 03:49:11+00:00
+50,RoboEval: Where Robotic Manipulation Meets Structured and Scalable Evaluation,2507.00435,http://arxiv.org/abs/2507.00435v1,2025-07-01 05:33:16+00:00
+51,A Recipe for Causal Graph Regression: Confounding Effects Revisited,2507.00440,http://arxiv.org/abs/2507.00440v1,2025-07-01 05:46:29+00:00
+52,Novel Pigeon-inspired 3D Obstacle Detection and Avoidance Maneuver for Multi-UAV Systems,2507.00443,http://arxiv.org/abs/2507.00443v1,2025-07-01 05:52:21+00:00
+53,Iterative Distillation for Reward-Guided Fine-Tuning of Diffusion Models in Biomolecular Design,2507.00445,http://arxiv.org/abs/2507.00445v1,2025-07-01 05:55:28+00:00
+54,Physics-Aware Style Transfer for Adaptive Holographic Reconstruction,2507.00482,http://arxiv.org/abs/2507.00482v1,2025-07-01 06:56:51+00:00
+55,Twill: Scheduling Compound AI Systems on Heterogeneous Mobile Edge Platforms,2507.00491,http://arxiv.org/abs/2507.00491v1,2025-07-01 07:06:45+00:00
+56,Customer Service Representative's Perception of the AI Assistant in an Organization's Call Center,2507.00513,http://arxiv.org/abs/2507.00513v1,2025-07-01 07:27:34+00:00
+57,Not All Attention Heads Are What You Need: Refining CLIP's Image Representation with Attention Ablation,2507.00537,http://arxiv.org/abs/2507.00537v1,2025-07-01 07:56:46+00:00
+58,Inverse Design in Nanophotonics via Representation Learning,2507.00546,http://arxiv.org/abs/2507.00546v1,2025-07-01 08:10:05+00:00
+59,Advancing Local Search in SMT-NRA with MCSAT Integration,2507.00557,http://arxiv.org/abs/2507.00557v1,2025-07-01 08:27:29+00:00
+60,BadViM: Backdoor Attack against Vision Mamba,2507.00577,http://arxiv.org/abs/2507.00577v1,2025-07-01 08:59:24+00:00
+61,AI-Generated Video Detection via Perceptual Straightening,2507.00583,http://arxiv.org/abs/2507.00583v1,2025-07-01 09:04:21+00:00
+62,High-resolution spatial memory requires grid-cell-like neural codes,2507.00598,http://arxiv.org/abs/2507.00598v1,2025-07-01 09:29:05+00:00
+63,Residual Reward Models for Preference-based Reinforcement Learning,2507.00611,http://arxiv.org/abs/2507.00611v1,2025-07-01 09:43:57+00:00
+64,Horus: A Protocol for Trustless Delegation Under Uncertainty,2507.00631,http://arxiv.org/abs/2507.00631v4,2025-07-01 10:22:35+00:00
+65,"Generative Exaggeration in LLM Social Agents: Consistency, Bias, and Toxicity",2507.00657,http://arxiv.org/abs/2507.00657v1,2025-07-01 10:54:51+00:00
+66,MTCNet: Motion and Topology Consistency Guided Learning for Mitral Valve Segmentationin 4D Ultrasound,2507.00660,http://arxiv.org/abs/2507.00660v2,2025-07-01 10:58:51+00:00
+67,Audio-3DVG: Unified Audio - Point Cloud Fusion for 3D Visual Grounding,2507.00669,http://arxiv.org/abs/2507.00669v1,2025-07-01 11:08:22+00:00
+68,LearnAFE: Circuit-Algorithm Co-design Framework for Learnable Audio Analog Front-End,2507.00755,http://arxiv.org/abs/2507.00755v1,2025-07-01 13:59:24+00:00
+69,Many LLMs Are More Utilitarian Than One,2507.00814,http://arxiv.org/abs/2507.00814v1,2025-07-01 14:46:16+00:00
+70,Automated anatomy-based post-processing reduces false positives and improved interpretability of deep learning intracranial aneurysm detection,2507.00832,http://arxiv.org/abs/2507.00832v1,2025-07-01 15:03:43+00:00
+71,Stylometry recognizes human and LLM-generated texts in short samples,2507.00838,http://arxiv.org/abs/2507.00838v1,2025-07-01 15:08:53+00:00
+72,A Scalable and Quantum-Accurate Foundation Model for Biomolecular Force Field via Linearly Tensorized Quadrangle Attention,2507.00884,http://arxiv.org/abs/2507.00884v1,2025-07-01 15:52:39+00:00
+73,Constellation as a Service: Tailored Connectivity Management in Direct-Satellite-to-Device Networks,2507.00902,http://arxiv.org/abs/2507.00902v1,2025-07-01 16:06:29+00:00
+74,Deep learning-based segmentation of T1 and T2 cardiac MRI maps for automated disease detection,2507.00903,http://arxiv.org/abs/2507.00903v1,2025-07-01 16:08:54+00:00
+75,WebArXiv: Evaluating Multimodal Agents on Time-Invariant arXiv Tasks,2507.00938,http://arxiv.org/abs/2507.00938v1,2025-07-01 16:43:57+00:00
+76,MambAttention: Mamba with Multi-Head Attention for Generalizable Single-Channel Speech Enhancement,2507.00966,http://arxiv.org/abs/2507.00966v1,2025-07-01 17:16:05+00:00
+77,Enhancing LLM Agent Safety via Causal Influence Prompting,2507.00979,http://arxiv.org/abs/2507.00979v1,2025-07-01 17:31:51+00:00
+78,Robotic Manipulation by Imitating Generated Videos Without Physical Demonstrations,2507.00990,http://arxiv.org/abs/2507.00990v2,2025-07-01 17:39:59+00:00
+79,GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning,2507.01006,http://arxiv.org/abs/2507.01006v2,2025-07-01 17:55:04+00:00
+80,Empirical Analysis Of Heuristic and Approximation Algorithms for the The Mutual-Visibility Problem,2507.01076,http://arxiv.org/abs/2507.01076v1,2025-07-01 14:35:44+00:00
+81,Geometry-aware 4D Video Generation for Robot Manipulation,2507.01099,http://arxiv.org/abs/2507.01099v1,2025-07-01 18:01:41+00:00
+82,Are Large Brainwave Foundation Models Capable Yet? Insights from Fine-tuning,2507.01196,http://arxiv.org/abs/2507.01196v1,2025-07-01 21:21:42+00:00
+83,Search-Based Robot Motion Planning With Distance-Based Adaptive Motion Primitives,2507.01198,http://arxiv.org/abs/2507.01198v1,2025-07-01 21:33:33+00:00
+84,Towards a Playground to Democratize Experimentation and Benchmarking of AI Agents for Network Troubleshooting,2507.01997,http://arxiv.org/abs/2507.01997v2,2025-07-01 08:46:37+00:00
+85,STELLA: Self-Evolving LLM Agent for Biomedical Research,2507.02004,http://arxiv.org/abs/2507.02004v1,2025-07-01 20:52:01+00:00
+86,Data-Driven Exploration for a Class of Continuous-Time Linear--Quadratic Reinforcement Learning Problems,2507.00358,http://arxiv.org/abs/2507.00358v1,2025-07-01 01:09:06+00:00
+87,"Turning AI Data Centers into Grid-Interactive Assets: Results from a Field Demonstration in Phoenix, Arizona",2507.00909,http://arxiv.org/abs/2507.00909v1,2025-07-01 16:11:49+00:00
+88,Best Agent Identification for General Game Playing,2507.00451,http://arxiv.org/abs/2507.00451v1,2025-07-01 06:07:56+00:00
