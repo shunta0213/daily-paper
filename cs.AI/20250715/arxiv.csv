@@ -1,0 +1,101 @@
+,title,id,arxiv_url,published
+0,SingLoRA: Low Rank Adaptation Using a Single Matrix,2507.05566,http://arxiv.org/abs/2507.05566v1,2025-07-08 01:11:30+00:00
+1,Towards Measurement Theory for Artificial Intelligence,2507.05587,http://arxiv.org/abs/2507.05587v1,2025-07-08 01:52:37+00:00
+2,MLlm-DR: Towards Explainable Depression Recognition with MultiModal Large Language Models,2507.05591,http://arxiv.org/abs/2507.05591v1,2025-07-08 01:56:39+00:00
+3,Domain adaptation of large language models for geotechnical applications,2507.05613,http://arxiv.org/abs/2507.05613v1,2025-07-08 02:45:44+00:00
+4,ADMC: Attention-based Diffusion Model for Missing Modalities Feature Completion,2507.05624,http://arxiv.org/abs/2507.05624v1,2025-07-08 03:08:52+00:00
+5,Enhancing Student Learning with LLM-Generated Retrieval Practice Questions: An Empirical Study in Data Science Courses,2507.05629,http://arxiv.org/abs/2507.05629v1,2025-07-08 03:23:19+00:00
+6,City-Level Foreign Direct Investment Prediction with Tabular Learning on Judicial Data,2507.05651,http://arxiv.org/abs/2507.05651v1,2025-07-08 04:10:25+00:00
+7,Divergent Realities: A Comparative Analysis of Human Expert vs. Artificial Intelligence Based Generation and Evaluation of Treatment Plans in Dermatology,2507.05716,http://arxiv.org/abs/2507.05716v1,2025-07-08 06:59:58+00:00
+8,An autonomous agent for auditing and improving the reliability of clinical AI models,2507.05755,http://arxiv.org/abs/2507.05755v1,2025-07-08 07:58:52+00:00
+9,Real-time monitoring of the SoH of lithium-ion batteries,2507.05765,http://arxiv.org/abs/2507.05765v1,2025-07-08 08:08:53+00:00
+10,GTA1: GUI Test-time Scaling Agent,2507.05791,http://arxiv.org/abs/2507.05791v3,2025-07-08 08:52:18+00:00
+11,CogniPlay: a work-in-progress Human-like model for General Game Playing,2507.05868,http://arxiv.org/abs/2507.05868v1,2025-07-08 10:48:29+00:00
+12,"Decomposing the Time Series Forecasting Pipeline: A Modular Approach for Time Series Representation, Information Extraction, and Projection",2507.05891,http://arxiv.org/abs/2507.05891v1,2025-07-08 11:26:42+00:00
+13,BlueLM-2.5-3B Technical Report,2507.05934,http://arxiv.org/abs/2507.05934v1,2025-07-08 12:34:10+00:00
+14,CogniSQL-R1-Zero: Lightweight Reinforced Reasoning for Efficient SQL Generation,2507.06013,http://arxiv.org/abs/2507.06013v1,2025-07-08 14:17:07+00:00
+15,Feature-Guided Neighbor Selection for Non-Expert Evaluation of Model Predictions,2507.06029,http://arxiv.org/abs/2507.06029v1,2025-07-08 14:32:25+00:00
+16,On Lockean beliefs that are deductively closed and minimal change,2507.06042,http://arxiv.org/abs/2507.06042v1,2025-07-08 14:44:01+00:00
+17,AI-Based Demand Forecasting and Load Balancing for Optimising Energy use in Healthcare Systems: A real case study,2507.06077,http://arxiv.org/abs/2507.06077v1,2025-07-08 15:16:50+00:00
+18,OpenAgentSafety: A Comprehensive Framework for Evaluating Real-World AI Agent Safety,2507.06134,http://arxiv.org/abs/2507.06134v1,2025-07-08 16:18:54+00:00
+19,The Delta Learning Hypothesis: Preference Tuning on Weak Data can Yield Strong Gains,2507.06187,http://arxiv.org/abs/2507.06187v1,2025-07-08 17:14:44+00:00
+20,Identifiability in Causal Abstractions: A Hierarchy of Criteria,2507.06213,http://arxiv.org/abs/2507.06213v1,2025-07-08 17:46:08+00:00
+21,AI Agent Smart Contract Exploit Generation,2507.05558,http://arxiv.org/abs/2507.05558v2,2025-07-08 00:45:26+00:00
+22,The Fourier Spectral Transformer Networks For Efficient and Generalizable Nonlinear PDEs Prediction,2507.05584,http://arxiv.org/abs/2507.05584v1,2025-07-08 01:43:33+00:00
+23,Self-Review Framework for Enhancing Instruction Following Capability of LLM,2507.05598,http://arxiv.org/abs/2507.05598v1,2025-07-08 02:17:18+00:00
+24,Graph Learning,2507.05636,http://arxiv.org/abs/2507.05636v1,2025-07-08 03:29:27+00:00
+25,LLMs are Introvert,2507.05638,http://arxiv.org/abs/2507.05638v1,2025-07-08 03:32:38+00:00
+26,MedGen: Unlocking Medical Video Generation by Scaling Granularly-annotated Medical Videos,2507.05675,http://arxiv.org/abs/2507.05675v1,2025-07-08 04:58:36+00:00
+27,Efficient Training of Large-Scale AI Models Through Federated Mixture-of-Experts: A System-Level Approach,2507.05685,http://arxiv.org/abs/2507.05685v1,2025-07-08 05:30:37+00:00
+28,DRAGON: Dynamic RAG Benchmark On News,2507.05713,http://arxiv.org/abs/2507.05713v1,2025-07-08 06:52:43+00:00
+29,HIRAG: Hierarchical-Thought Instruction-Tuning Retrieval-Augmented Generation,2507.05714,http://arxiv.org/abs/2507.05714v1,2025-07-08 06:53:28+00:00
+30,Hyperspectral Anomaly Detection Methods: A Survey and Comparative Study,2507.05730,http://arxiv.org/abs/2507.05730v2,2025-07-08 07:23:24+00:00
+31,When Transformers Meet Recommenders: Integrating Self-Attentive Sequential Recommendation with Fine-Tuned LLMs,2507.05733,http://arxiv.org/abs/2507.05733v1,2025-07-08 07:26:55+00:00
+32,LeAD: The LLM Enhanced Planning System Converged with End-to-end Autonomous Driving,2507.05754,http://arxiv.org/abs/2507.05754v1,2025-07-08 07:58:29+00:00
+33,Towards Solar Altitude Guided Scene Illumination,2507.05812,http://arxiv.org/abs/2507.05812v1,2025-07-08 09:31:16+00:00
+34,Empowering Bridge Digital Twins by Bridging the Data Gap with a Unified Synthesis Framework,2507.05814,http://arxiv.org/abs/2507.05814v2,2025-07-08 09:34:55+00:00
+35,Comparison of Path Planning Algorithms for Autonomous Vehicle Navigation Using Satellite and Airborne LiDAR Data,2507.05884,http://arxiv.org/abs/2507.05884v1,2025-07-08 11:15:21+00:00
+36,Current Practices for Building LLM-Powered Reasoning Tools Are Ad Hoc -- and We Can Do Better,2507.05886,http://arxiv.org/abs/2507.05886v1,2025-07-08 11:19:09+00:00
+37,Hierarchy or Heterarchy? A Theory of Long-Range Connections for the Sensorimotor Brain,2507.05888,http://arxiv.org/abs/2507.05888v1,2025-07-08 11:22:02+00:00
+38,Psychometric Item Validation Using Virtual Respondents with Trait-Response Mediators,2507.05890,http://arxiv.org/abs/2507.05890v1,2025-07-08 11:26:03+00:00
+39,MusiScene: Leveraging MU-LLaMA for Scene Imagination and Enhanced Video Background Music Generation,2507.05894,http://arxiv.org/abs/2507.05894v1,2025-07-08 11:32:02+00:00
+40,Universal Embeddings of Tabular Data,2507.05904,http://arxiv.org/abs/2507.05904v1,2025-07-08 11:45:29+00:00
+41,On the Effectiveness of Methods and Metrics for Explainable AI in Remote Sensing Image Scene Classification,2507.05916,http://arxiv.org/abs/2507.05916v1,2025-07-08 12:00:24+00:00
+42,A Wireless Foundation Model for Multi-Task Prediction,2507.05938,http://arxiv.org/abs/2507.05938v2,2025-07-08 12:37:55+00:00
+43,Complexity Results of Persuasion,2507.05951,http://arxiv.org/abs/2507.05951v1,2025-07-08 12:49:22+00:00
+44,OpenFActScore: Open-Source Atomic Evaluation of Factuality in Text Generation,2507.05965,http://arxiv.org/abs/2507.05965v1,2025-07-08 13:19:00+00:00
+45,Enhancing the Interpretability of Rule-based Explanations through Information Retrieval,2507.05976,http://arxiv.org/abs/2507.05976v1,2025-07-08 13:32:50+00:00
+46,Exploring Partial Multi-Label Learning via Integrating Semantic Co-occurrence Knowledge,2507.05992,http://arxiv.org/abs/2507.05992v1,2025-07-08 13:53:28+00:00
+47,Geo-Registration of Terrestrial LiDAR Point Clouds with Satellite Images without GNSS,2507.05999,http://arxiv.org/abs/2507.05999v2,2025-07-08 14:00:18+00:00
+48,CAVGAN: Unifying Jailbreak and Defense of LLMs via Generative Adversarial Attacks on their Internal Representations,2507.06043,http://arxiv.org/abs/2507.06043v1,2025-07-08 14:45:21+00:00
+49,Entropy-Memorization Law: Evaluating Memorization Difficulty of Data in LLMs,2507.06056,http://arxiv.org/abs/2507.06056v1,2025-07-08 14:58:28+00:00
+50,FEVO: Financial Knowledge Expansion and Reasoning Evolution for Large Language Models,2507.06057,http://arxiv.org/abs/2507.06057v2,2025-07-08 14:59:46+00:00
+51,VisualSpeaker: Visually-Guided 3D Avatar Lip Synthesis,2507.06060,http://arxiv.org/abs/2507.06060v1,2025-07-08 15:04:17+00:00
+52,QS4D: Quantization-aware training for efficient hardware deployment of structured state-space sequential models,2507.06079,http://arxiv.org/abs/2507.06079v1,2025-07-08 15:19:14+00:00
+53,Subspace-based Approximate Hessian Method for Zeroth-Order Optimization,2507.06125,http://arxiv.org/abs/2507.06125v1,2025-07-08 16:11:53+00:00
+54,PrefixAgent: An LLM-Powered Design Framework for Efficient Prefix Adder Optimization,2507.06127,http://arxiv.org/abs/2507.06127v1,2025-07-08 16:14:17+00:00
+55,Coding Triangle: How Does Large Language Model Understand Code?,2507.06138,http://arxiv.org/abs/2507.06138v1,2025-07-08 16:20:43+00:00
+56,A Method for Optimizing Connections in Differentiable Logic Gate Networks,2507.06173,http://arxiv.org/abs/2507.06173v1,2025-07-08 16:53:39+00:00
+57,DS@GT at CheckThat! 2025: Detecting Subjectivity via Transfer-Learning and Corrective Data Augmentation,2507.06189,http://arxiv.org/abs/2507.06189v1,2025-07-08 17:18:50+00:00
+58,Aligned Textual Scoring Rules,2507.06221,http://arxiv.org/abs/2507.06221v1,2025-07-08 17:53:22+00:00
+59,EC-Flow: Enabling Versatile Robotic Manipulation from Action-Unlabeled Videos via Embodiment-Centric Flow,2507.06224,http://arxiv.org/abs/2507.06224v1,2025-07-08 17:57:03+00:00
+60,Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving,2507.06229,http://arxiv.org/abs/2507.06229v2,2025-07-08 17:59:22+00:00
+61,A Probabilistic Approach to Uncertainty Quantification Leveraging 3D Geometry,2507.06269,http://arxiv.org/abs/2507.06269v1,2025-07-08 03:21:12+00:00
+62,LIRA: Inferring Segmentation in Large Multi-modal Models with Local Interleaved Region Assistance,2507.06272,http://arxiv.org/abs/2507.06272v2,2025-07-08 07:46:26+00:00
+63,Enhancing LLM Watermark Resilience Against Both Scrubbing and Spoofing Attacks,2507.06274,http://arxiv.org/abs/2507.06274v1,2025-07-08 11:14:00+00:00
+64,The Prompt War: How AI Decides on a Military Intervention,2507.06277,http://arxiv.org/abs/2507.06277v1,2025-07-08 12:52:08+00:00
+65,Bridging AI and Software Security: A Comparative Vulnerability Assessment of LLM Agent Deployment Paradigms,2507.06323,http://arxiv.org/abs/2507.06323v1,2025-07-08 18:24:28+00:00
+66,Jolting Technologies: Superexponential Acceleration in AI Capabilities and Implications for AGI,2507.06398,http://arxiv.org/abs/2507.06398v1,2025-07-08 21:03:49+00:00
+67,SImpHAR: Advancing impedance-based human activity recognition using 3D simulation and text-to-motion models,2507.06405,http://arxiv.org/abs/2507.06405v1,2025-07-08 21:15:12+00:00
+68,Bridging Data Gaps of Rare Conditions in ICU: A Multi-Disease Adaptation Approach for Clinical Prediction,2507.06432,http://arxiv.org/abs/2507.06432v1,2025-07-08 22:27:19+00:00
+69,DpDNet: An Dual-Prompt-Driven Network for Universal PET-CT Segmentation,2507.07126,http://arxiv.org/abs/2507.07126v1,2025-07-08 18:56:01+00:00
+70,BOOST: Out-of-Distribution-Informed Adaptive Sampling for Bias Mitigation in Stylistic Convolutional Neural Networks,2507.07134,http://arxiv.org/abs/2507.07134v1,2025-07-08 22:18:36+00:00
+71,Circumventing Safety Alignment in Large Language Models Through Embedding Space Toxicity Attenuation,2507.08020,http://arxiv.org/abs/2507.08020v1,2025-07-08 03:01:00+00:00
+72,Unveiling Effective In-Context Configurations for Image Captioning: An External & Internal Analysis,2507.08021,http://arxiv.org/abs/2507.08021v1,2025-07-08 08:07:57+00:00
+73,The Ethical Implications of AI in Creative Industries: A Focus on AI-Generated Art,2507.05549,http://arxiv.org/abs/2507.05549v1,2025-07-08 00:16:38+00:00
+74,MP-ALOE: An r2SCAN dataset for universal machine learning interatomic potentials,2507.05559,http://arxiv.org/abs/2507.05559v1,2025-07-08 00:45:32+00:00
+75,Search-based Selection of Metamorphic Relations for Optimized Robustness Testing of Large Language Models,2507.05565,http://arxiv.org/abs/2507.05565v1,2025-07-08 01:11:27+00:00
+76,Prompt Migration: Stabilizing GenAI Applications with Evolving Large Language Models,2507.05573,http://arxiv.org/abs/2507.05573v1,2025-07-08 01:20:12+00:00
+77,DATABench: Evaluating Dataset Auditing in Deep Learning from an Adversarial Perspective,2507.05622,http://arxiv.org/abs/2507.05622v1,2025-07-08 03:07:15+00:00
+78,How Not to Detect Prompt Injections with an LLM,2507.05630,http://arxiv.org/abs/2507.05630v1,2025-07-08 03:24:56+00:00
+79,SARA: Selective and Adaptive Retrieval-augmented Generation with Context Compression,2507.05633,http://arxiv.org/abs/2507.05633v1,2025-07-08 03:29:09+00:00
+80,FACT: the Features At Convergence Theorem for neural networks,2507.05644,http://arxiv.org/abs/2507.05644v1,2025-07-08 03:52:48+00:00
+81,DESIGN: Encrypted GNN Inference via Server-Side Input Graph Pruning,2507.05649,http://arxiv.org/abs/2507.05649v1,2025-07-08 04:01:53+00:00
+82,TuneShield: Mitigating Toxicity in Conversational AI while Fine-tuning on Untrusted Data,2507.05660,http://arxiv.org/abs/2507.05660v1,2025-07-08 04:40:09+00:00
+83,GATMesh: Clock Mesh Timing Analysis using Graph Neural Networks,2507.05681,http://arxiv.org/abs/2507.05681v1,2025-07-08 05:18:42+00:00
+84,Agentic-R1: Distilled Dual-Strategy Reasoning,2507.05707,http://arxiv.org/abs/2507.05707v1,2025-07-08 06:35:16+00:00
+85,A Satellite-Ground Synergistic Large Vision-Language Model System for Earth Observation,2507.05731,http://arxiv.org/abs/2507.05731v1,2025-07-08 07:24:34+00:00
+86,Concept-Based Mechanistic Interpretability Using Structured Knowledge Graphs,2507.05810,http://arxiv.org/abs/2507.05810v1,2025-07-08 09:30:20+00:00
+87,Affective-ROPTester: Capability and Bias Analysis of LLMs in Predicting Retinopathy of Prematurity,2507.05816,http://arxiv.org/abs/2507.05816v1,2025-07-08 09:36:14+00:00
+88,Constella: Supporting Storywriters' Interconnected Character Creation through LLM-based Multi-Agents,2507.05820,http://arxiv.org/abs/2507.05820v1,2025-07-08 09:39:02+00:00
+89,Intra-DP: A High Performance Collaborative Inference System for Mobile Edge Computing,2507.05829,http://arxiv.org/abs/2507.05829v1,2025-07-08 09:50:57+00:00
+90,Feature-Based vs. GAN-Based Learning from Demonstrations: When and Why,2507.05906,http://arxiv.org/abs/2507.05906v1,2025-07-08 11:45:51+00:00
+91,Differentiable Reward Optimization for LLM based TTS system,2507.05911,http://arxiv.org/abs/2507.05911v1,2025-07-08 11:57:16+00:00
+92,Simple Convergence Proof of Adam From a Sign-like Descent Perspective,2507.05966,http://arxiv.org/abs/2507.05966v1,2025-07-08 13:19:26+00:00
+93,Development and Evaluation of HopeBot: an LLM-based chatbot for structured and interactive PHQ-9 depression screening,2507.05984,http://arxiv.org/abs/2507.05984v1,2025-07-08 13:41:22+00:00
+94,The Impact of Event Data Partitioning on Privacy-aware Process Discovery,2507.06008,http://arxiv.org/abs/2507.06008v1,2025-07-08 14:13:44+00:00
+95,Efficient Federated Learning with Timely Update Dissemination,2507.06031,http://arxiv.org/abs/2507.06031v1,2025-07-08 14:34:32+00:00
+96,TextPixs: Glyph-Conditioned Diffusion with Character-Aware Attention and OCR-Guided Supervision,2507.06033,http://arxiv.org/abs/2507.06033v1,2025-07-08 14:35:02+00:00
+97,Enhancing Synthetic CT from CBCT via Multimodal Fusion and End-To-End Registration,2507.06067,http://arxiv.org/abs/2507.06067v1,2025-07-08 15:10:04+00:00
+98,Taming Data Challenges in ML-based Security Tasks: Lessons from Integrating Generative AI,2507.06092,http://arxiv.org/abs/2507.06092v1,2025-07-08 15:34:45+00:00
+99,LighthouseGS: Indoor Structure-aware 3D Gaussian Splatting for Panorama-Style Mobile Captures,2507.06109,http://arxiv.org/abs/2507.06109v1,2025-07-08 15:49:53+00:00
