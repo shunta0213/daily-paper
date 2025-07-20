@@ -1,0 +1,69 @@
+,title,id,arxiv_url,published
+0,eSapiens: A Platform for Secure and Auditable Retrieval-Augmented Generation,2507.09588,http://arxiv.org/abs/2507.09588v1,2025-07-13 11:41:44+00:00
+1,Causality-informed Anomaly Detection in Partially Observable Sensor Networks: Moving beyond Correlations,2507.09742,http://arxiv.org/abs/2507.09742v1,2025-07-13 18:48:34+00:00
+2,Transformers Don't In-Context Learn Least Squares Regression,2507.09440,http://arxiv.org/abs/2507.09440v1,2025-07-13 01:09:26+00:00
+3,Enhancing ALS Progression Tracking with Semi-Supervised ALSFRS-R Scores Estimated from Ambient Home Health Monitoring,2507.09460,http://arxiv.org/abs/2507.09460v1,2025-07-13 02:56:40+00:00
+4,Enhancing Clinical Text Classification via Fine-Tuned DRAGON Longformer Models,2507.09470,http://arxiv.org/abs/2507.09470v1,2025-07-13 03:10:19+00:00
+5,Towards Agentic RAG with Deep Reasoning: A Survey of RAG-Reasoning Systems in LLMs,2507.09477,http://arxiv.org/abs/2507.09477v2,2025-07-13 03:29:41+00:00
+6,HMID-Net: An Exploration of Masked Image Modeling and Knowledge Distillation in Hyperbolic Space,2507.09487,http://arxiv.org/abs/2507.09487v1,2025-07-13 04:14:20+00:00
+7,SDTN and TRN: Adaptive Spectral-Spatial Feature Extraction for Hyperspectral Image Classification,2507.09492,http://arxiv.org/abs/2507.09492v1,2025-07-13 04:53:33+00:00
+8,A Mixture of Linear Corrections Generates Secure Code,2507.09508,http://arxiv.org/abs/2507.09508v1,2025-07-13 06:27:33+00:00
+9,QuarterMap: Efficient Post-Training Token Pruning for Visual State Space Models,2507.09514,http://arxiv.org/abs/2507.09514v1,2025-07-13 06:49:32+00:00
+10,An Analysis of Action-Value Temporal-Difference Methods That Learn State Values,2507.09523,http://arxiv.org/abs/2507.09523v1,2025-07-13 07:34:33+00:00
+11,On the Importance of Neural Membrane Potential Leakage for LIDAR-based Robot Obstacle Avoidance using Spiking Neural Networks,2507.09538,http://arxiv.org/abs/2507.09538v1,2025-07-13 08:43:31+00:00
+12,Learning to Control Dynamical Agents via Spiking Neural Networks and Metropolis-Hastings Sampling,2507.09540,http://arxiv.org/abs/2507.09540v1,2025-07-13 08:50:00+00:00
+13,"Prompt Engineering in Segment Anything Model: Methodologies, Applications, and Emerging Challenges",2507.09562,http://arxiv.org/abs/2507.09562v1,2025-07-13 10:10:17+00:00
+14,A Serverless Architecture for Real-Time Stock Analysis using Large Language Models: An Iterative Development and Debugging Case Study,2507.09583,http://arxiv.org/abs/2507.09583v1,2025-07-13 11:29:51+00:00
+15,THOR: Transformer Heuristics for On-Demand Retrieval,2507.09592,http://arxiv.org/abs/2507.09592v3,2025-07-13 11:48:24+00:00
+16,DRAGD: A Federated Unlearning Data Reconstruction Attack Based on Gradient Differences,2507.09602,http://arxiv.org/abs/2507.09602v1,2025-07-13 12:16:43+00:00
+17,"The Hidden Costs of AI: A Review of Energy, E-Waste, and Inequality in Model Development",2507.09611,http://arxiv.org/abs/2507.09611v1,2025-07-13 12:31:42+00:00
+18,Bridging Bots: from Perception to Action via Multimodal-LMs and Knowledge Graphs,2507.09617,http://arxiv.org/abs/2507.09617v1,2025-07-13 12:52:00+00:00
+19,Brain Stroke Detection and Classification Using CT Imaging with Transformer Models and Explainable AI,2507.09630,http://arxiv.org/abs/2507.09630v1,2025-07-13 13:50:50+00:00
+20,KEN: Knowledge Augmentation and Emotion Guidance Network for Multimodal Fake News Detection,2507.09647,http://arxiv.org/abs/2507.09647v2,2025-07-13 14:28:20+00:00
+21,Towards Concise and Adaptive Thinking in Large Reasoning Models: A Survey,2507.09662,http://arxiv.org/abs/2507.09662v1,2025-07-13 14:51:59+00:00
+22,SimStep: Chain-of-Abstractions for Incremental Specification and Debugging of AI-Generated Interactive Simulations,2507.09664,http://arxiv.org/abs/2507.09664v1,2025-07-13 14:54:17+00:00
+23,"Post-Training Quantization of Generative and Discriminative LSTM Text Classifiers: A Study of Calibration, Class Balance, and Robustness",2507.09687,http://arxiv.org/abs/2507.09687v1,2025-07-13 15:48:16+00:00
+24,EPT-2 Technical Report,2507.09703,http://arxiv.org/abs/2507.09703v1,2025-07-13 16:32:13+00:00
+25,Toward accurate RUL and SOH estimation using reinforced graph-based PINNs enhanced with dynamic weights,2507.09766,http://arxiv.org/abs/2507.09766v1,2025-07-13 19:49:12+00:00
+26,BitParticle: Partializing Sparse Dual-Factors to Build Quasi-Synchronizing MAC Arrays for Energy-efficient DNNs,2507.09780,http://arxiv.org/abs/2507.09780v1,2025-07-13 20:27:27+00:00
+27,Technical Requirements for Halting Dangerous AI Activities,2507.09801,http://arxiv.org/abs/2507.09801v1,2025-07-13 21:32:15+00:00
+28,Federated Learning with Graph-Based Aggregation for Traffic Forecasting,2507.09805,http://arxiv.org/abs/2507.09805v1,2025-07-13 21:41:42+00:00
+29,Compressed Computation: Dense Circuits in a Toy Model of the Universal-AND Problem,2507.09816,http://arxiv.org/abs/2507.09816v1,2025-07-13 22:18:15+00:00
+30,Bridging Neural Networks and Dynamic Time Warping for Adaptive Time Series Classification,2507.09826,http://arxiv.org/abs/2507.09826v1,2025-07-13 23:15:21+00:00
+31,LaSM: Layer-wise Scaling Mechanism for Defending Pop-up Attack on GUI Agents,2507.10610,http://arxiv.org/abs/2507.10610v1,2025-07-13 08:36:09+00:00
+32,Sub-Scaling Laws: On the Role of Data Density and Training Strategies in LLMs,2507.10613,http://arxiv.org/abs/2507.10613v1,2025-07-13 15:15:24+00:00
+33,Fine-tuning Large Language Model for Automated Algorithm Design,2507.10614,http://arxiv.org/abs/2507.10614v1,2025-07-13 15:21:23+00:00
+34,Compute Requirements for Algorithmic Innovation in Frontier AI Models,2507.10618,http://arxiv.org/abs/2507.10618v1,2025-07-13 21:28:02+00:00
+35,LLMs Meet Cross-Modal Time Series Analytics: Overview and Directions,2507.10620,http://arxiv.org/abs/2507.10620v1,2025-07-13 23:47:32+00:00
+36,An Memory-Efficient Framework for Deformable Transformer with Neural Architecture Search,2507.11549,http://arxiv.org/abs/2507.11549v1,2025-07-13 06:42:00+00:00
+37,Deformable Dynamic Convolution for Accurate yet Efficient Spatio-Temporal Traffic Prediction,2507.11550,http://arxiv.org/abs/2507.11550v1,2025-07-13 06:49:35+00:00
+38,Dynamic Sparse Causal-Attention Temporal Networks for Interpretable Causality Discovery in Multivariate Time Series,2507.09439,http://arxiv.org/abs/2507.09439v1,2025-07-13 01:03:27+00:00
+39,Fourier Basis Mapping: A Time-Frequency Learning Framework for Time Series Forecasting,2507.09445,http://arxiv.org/abs/2507.09445v1,2025-07-13 01:45:27+00:00
+40,Evaluating LLMs on Sequential API Call Through Automated Test Generation,2507.09481,http://arxiv.org/abs/2507.09481v1,2025-07-13 03:52:51+00:00
+41,ViSP: A PPO-Driven Framework for Sarcasm Generation with Contrastive Learning,2507.09482,http://arxiv.org/abs/2507.09482v1,2025-07-13 04:03:05+00:00
+42,VDInstruct: Zero-Shot Key Information Extraction via Content-Aware Vision Tokenization,2507.09531,http://arxiv.org/abs/2507.09531v1,2025-07-13 08:15:11+00:00
+43,Consistency Trajectory Planning: High-Quality and Efficient Trajectory Optimization for Offline Model-Based Reinforcement Learning,2507.09534,http://arxiv.org/abs/2507.09534v1,2025-07-13 08:31:11+00:00
+44,Identifying Offline Metrics that Predict Online Impact: A Pragmatic Strategy for Real-World Recommender Systems,2507.09566,http://arxiv.org/abs/2507.09566v1,2025-07-13 10:24:41+00:00
+45,MENTOR: Efficient Multimodal-Conditioned Tuning for Autoregressive Vision Generation Models,2507.09574,http://arxiv.org/abs/2507.09574v1,2025-07-13 10:52:59+00:00
+46,NMIXX: Domain-Adapted Neural Embeddings for Cross-Lingual eXploration of Finance,2507.09601,http://arxiv.org/abs/2507.09601v1,2025-07-13 12:14:57+00:00
+47,humancompatible.interconnect: Testing Properties of Repeated Uses of Interconnections of AI Systems,2507.09626,http://arxiv.org/abs/2507.09626v1,2025-07-13 13:35:15+00:00
+48,Conformal Prediction for Privacy-Preserving Machine Learning,2507.09678,http://arxiv.org/abs/2507.09678v1,2025-07-13 15:29:14+00:00
+49,OrQstrator: An AI-Powered Framework for Advanced Quantum Circuit Optimization,2507.09682,http://arxiv.org/abs/2507.09682v1,2025-07-13 15:38:39+00:00
+50,Frequency-aware Surrogate Modeling With SMT Kernels For Advanced Data Forecasting,2507.09694,http://arxiv.org/abs/2507.09694v1,2025-07-13 16:10:46+00:00
+51,Visual Homing in Outdoor Robots Using Mushroom Body Circuits and Learning Walks,2507.09725,http://arxiv.org/abs/2507.09725v1,2025-07-13 17:54:01+00:00
+52,Universal Physics Simulation: A Foundational Diffusion Approach,2507.09733,http://arxiv.org/abs/2507.09733v1,2025-07-13 18:12:34+00:00
+53,Sound and Complete Neuro-symbolic Reasoning with LLM-Grounded Interpretations,2507.09751,http://arxiv.org/abs/2507.09751v1,2025-07-13 19:05:43+00:00
+54,AI-Enhanced Pediatric Pneumonia Detection: A CNN-Based Approach Using Data Augmentation and Generative Adversarial Networks (GANs),2507.09759,http://arxiv.org/abs/2507.09759v1,2025-07-13 19:38:49+00:00
+55,EventHunter: Dynamic Clustering and Ranking of Security Events from Hacker Forum Discussions,2507.09762,http://arxiv.org/abs/2507.09762v1,2025-07-13 19:40:36+00:00
+56,TinyTroupe: An LLM-powered Multiagent Persona Simulation Toolkit,2507.09788,http://arxiv.org/abs/2507.09788v1,2025-07-13 21:00:27+00:00
+57,Prompting for Performance: Exploring LLMs for Configuring Software,2507.09790,http://arxiv.org/abs/2507.09790v1,2025-07-13 21:05:01+00:00
+58,CADmium: Fine-Tuning Code Language Models for Text-Driven Sequential CAD Design,2507.09792,http://arxiv.org/abs/2507.09792v1,2025-07-13 21:11:53+00:00
+59,Generative Cognitive Diagnosis,2507.09831,http://arxiv.org/abs/2507.09831v1,2025-07-13 23:55:05+00:00
+60,RedOne: Revealing Domain-specific LLM Post-Training in Social Networking Services,2507.10605,http://arxiv.org/abs/2507.10605v1,2025-07-13 02:22:59+00:00
+61,DALI-PD: Diffusion-based Synthetic Layout Heatmap Generation for ML in Physical Design,2507.10606,http://arxiv.org/abs/2507.10606v1,2025-07-13 06:12:04+00:00
+62,Neural Expectation Operators,2507.10607,http://arxiv.org/abs/2507.10607v1,2025-07-13 06:19:28+00:00
+63,FedGSCA: Medical Federated Learning with Global Sample Selector and Client Adaptive Adjuster under Label Noise,2507.10611,http://arxiv.org/abs/2507.10611v1,2025-07-13 08:51:51+00:00
+64,"Scalpel vs. Hammer: GRPO Amplifies Existing Capabilities, SFT Replaces Them",2507.10616,http://arxiv.org/abs/2507.10616v1,2025-07-13 19:04:17+00:00
+65,Meta-Reinforcement Learning for Fast and Data-Efficient Spectrum Allocation in Dynamic Wireless Networks,2507.10619,http://arxiv.org/abs/2507.10619v1,2025-07-13 21:29:39+00:00
+66,Landmark Detection for Medical Images using a General-purpose Segmentation Model,2507.11551,http://arxiv.org/abs/2507.11551v1,2025-07-13 07:17:53+00:00
+67,GenAI-based Multi-Agent Reinforcement Learning towards Distributed Agent Intelligence: A Generative-RL Agent Perspective,2507.09495,http://arxiv.org/abs/2507.09495v1,2025-07-13 05:02:43+00:00
