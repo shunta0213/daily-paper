@@ -1,0 +1,68 @@
+,title,id,arxiv_url,published
+0,Tripartite Entanglement in Multimode Cavity Quantum Electrodynamics,2507.11885,http://arxiv.org/abs/2507.11885v1,2025-07-16 03:53:14+00:00
+1,QAS-QTNs: Curriculum Reinforcement Learning-Driven Quantum Architecture Search for Quantum Tensor Networks,2507.12013,http://arxiv.org/abs/2507.12013v1,2025-07-16 08:12:01+00:00
+2,Benchmarking fault-tolerant quantum computing hardware via QLOPS,2507.12024,http://arxiv.org/abs/2507.12024v1,2025-07-16 08:31:51+00:00
+3,"A resource-centric, task-based approach to quantum network control",2507.12030,http://arxiv.org/abs/2507.12030v1,2025-07-16 08:43:18+00:00
+4,Cutting Slack: Quantum Optimization with Slack-Free Methods for Combinatorial Benchmarks,2507.12159,http://arxiv.org/abs/2507.12159v2,2025-07-16 11:39:47+00:00
+5,A solid-state temporally multiplexed quantum memory array at the single-photon level,2507.12200,http://arxiv.org/abs/2507.12200v1,2025-07-16 12:55:27+00:00
+6,Relations between parameters of the Hamiltonian and Neel-type states in the anisotropic Heisenberg model,2507.12225,http://arxiv.org/abs/2507.12225v1,2025-07-16 13:35:19+00:00
+7,Design Automation in Quantum Error Correction,2507.12253,http://arxiv.org/abs/2507.12253v1,2025-07-16 13:59:38+00:00
+8,Approximating fixed size quantum correlations in polynomial time,2507.12302,http://arxiv.org/abs/2507.12302v1,2025-07-16 15:01:45+00:00
+9,Uncertainty and entropies of classical channels,2507.12310,http://arxiv.org/abs/2507.12310v1,2025-07-16 15:06:17+00:00
+10,On approximate quantum error correction for symmetric noise,2507.12326,http://arxiv.org/abs/2507.12326v1,2025-07-16 15:20:07+00:00
+11,Quantum Phase Transition in the Dicke Model,2507.12332,http://arxiv.org/abs/2507.12332v1,2025-07-16 15:24:26+00:00
+12,"Modulator-free, self-testing quantum random number generator",2507.12346,http://arxiv.org/abs/2507.12346v1,2025-07-16 15:39:29+00:00
+13,Entanglement-efficiency trade-offs in the fusion-based generation of photonic GHZ-like states,2507.12389,http://arxiv.org/abs/2507.12389v1,2025-07-16 16:36:54+00:00
+14,Beyond Ground States: Physics-Inspired Optimization of Excited States of Classical Hamiltonians,2507.12394,http://arxiv.org/abs/2507.12394v1,2025-07-16 16:40:49+00:00
+15,Heisenberg limited multiple eigenvalue estimation via off-the-grid compressed sensing,2507.12438,http://arxiv.org/abs/2507.12438v1,2025-07-16 17:27:01+00:00
+16,Leveraging Quantum Layers in Classical Neural Networks,2507.12505,http://arxiv.org/abs/2507.12505v1,2025-07-16 15:12:53+00:00
+17,Unfolded distillation: very low-cost magic state preparation for biased-noise qubits,2507.12511,http://arxiv.org/abs/2507.12511v1,2025-07-16 18:00:00+00:00
+18,Scalable dissipative quantum error correction for discrete-variable codes,2507.12534,http://arxiv.org/abs/2507.12534v1,2025-07-16 18:00:09+00:00
+19,Compensating connectivity restrictions in quantum annealers via splitting and linearization techniques,2507.12536,http://arxiv.org/abs/2507.12536v1,2025-07-16 18:00:09+00:00
+20,Qrisp Implementation and Resource Analysis of a T-Count-Optimised Non-Restoring Quantum Square-Root Circuit,2507.12603,http://arxiv.org/abs/2507.12603v1,2025-07-16 19:45:50+00:00
+21,Multiqubit monogamy relations beyond shadow inequalities,2507.12680,http://arxiv.org/abs/2507.12680v1,2025-07-16 23:31:54+00:00
+22,Observation of quantum noise reduction in a Raman amplifier via quantum correlation between atom and light,2507.11890,http://arxiv.org/abs/2507.11890v1,2025-07-16 04:04:39+00:00
+23,Noise-induced Quantum Mpemba effect,2507.11915,http://arxiv.org/abs/2507.11915v1,2025-07-16 05:05:53+00:00
+24,Simultaneous High-Fidelity Single-Qubit Gates in a Spin Qubit Array,2507.11918,http://arxiv.org/abs/2507.11918v1,2025-07-16 05:26:40+00:00
+25,Obfuscation of Unitary Quantum Programs,2507.11970,http://arxiv.org/abs/2507.11970v1,2025-07-16 07:07:52+00:00
+26,Extending the Limited Performance of the Quantum Refrigerator with Catalysts,2507.12016,http://arxiv.org/abs/2507.12016v1,2025-07-16 08:20:41+00:00
+27,Channel capacity of small modular quantum networks in the ultrastrongly coupled regime,2507.12020,http://arxiv.org/abs/2507.12020v1,2025-07-16 08:27:59+00:00
+28,Selective decoupling in multi-level quantum systems by the SU(2) sign anomaly,2507.12056,http://arxiv.org/abs/2507.12056v1,2025-07-16 09:13:23+00:00
+29,Generation of Near-ideal Indistinguishable Two-Photon State by Incoherent Light,2507.12066,http://arxiv.org/abs/2507.12066v1,2025-07-16 09:23:57+00:00
+30,A thermofield-double model of Uhlmann anholonomy,2507.12071,http://arxiv.org/abs/2507.12071v1,2025-07-16 09:29:34+00:00
+31,Efficient Preparation of Fermionic Superfluids in an Optical Dipole Trap through Reinforcement Learning,2507.12152,http://arxiv.org/abs/2507.12152v2,2025-07-16 11:31:09+00:00
+32,Optimized Qubit Routing for Commuting Gates via Integer Programming,2507.12199,http://arxiv.org/abs/2507.12199v1,2025-07-16 12:55:09+00:00
+33,What are we talking about when we discuss the Born-Oppenheimer approximation?,2507.12223,http://arxiv.org/abs/2507.12223v1,2025-07-16 13:30:47+00:00
+34,"Comment on ""Properties and dynamics of generalized squeezed states""",2507.12250,http://arxiv.org/abs/2507.12250v1,2025-07-16 13:58:52+00:00
+35,Ultra-strong Quantum Squeezing Mediated by Plasma Waves,2507.12288,http://arxiv.org/abs/2507.12288v1,2025-07-16 14:38:48+00:00
+36,Tailored Quantum Device Calibration with Statistical Model Checking,2507.12323,http://arxiv.org/abs/2507.12323v1,2025-07-16 15:14:57+00:00
+37,Bounding the asymptotic quantum value of all multipartite compiled non-local games,2507.12408,http://arxiv.org/abs/2507.12408v1,2025-07-16 16:58:39+00:00
+38,Adiabatic Cooling of Planar Motion in a Penning Trap Ion Crystal to Sub-Millikelvin Temperatures,2507.12429,http://arxiv.org/abs/2507.12429v1,2025-07-16 17:17:38+00:00
+39,"On One-Shot Signatures, Quantum vs Classical Binding, and Obfuscating Permutations",2507.12456,http://arxiv.org/abs/2507.12456v1,2025-07-16 17:56:08+00:00
+40,Hybrid satellite-fiber quantum network,2507.12539,http://arxiv.org/abs/2507.12539v1,2025-07-16 18:00:09+00:00
+41,Learning mixed quantum states in large-scale experiments,2507.12550,http://arxiv.org/abs/2507.12550v1,2025-07-16 18:01:36+00:00
+42,Inverse Physics-informed neural networks procedure for detecting noise in open quantum systems,2507.12552,http://arxiv.org/abs/2507.12552v1,2025-07-16 18:03:48+00:00
+43,Sridhara-Compressed VQE Accelerates Molecular Energy Ranking of Polyaromatic Hydrocarbons,2507.12678,http://arxiv.org/abs/2507.12678v1,2025-07-16 23:28:28+00:00
+44,An Adversarial Quantum Key Distribution Project,2507.13389,http://arxiv.org/abs/2507.13389v1,2025-07-16 03:55:38+00:00
+45,Measurement-Induced Phase Transition in a Disordered XX Spin Chain: A Real-Space Renormalization Group Study,2507.11957,http://arxiv.org/abs/2507.11957v1,2025-07-16 06:43:49+00:00
+46,Optomagnonic continuous-variable quantum teleportation enhanced by non-Gaussian distillation,2507.12065,http://arxiv.org/abs/2507.12065v1,2025-07-16 09:22:07+00:00
+47,Quantum Machine Learning in Multi-Qubit Phase-Space Part I: Foundations,2507.12117,http://arxiv.org/abs/2507.12117v1,2025-07-16 10:37:16+00:00
+48,Hyperfine van der Waals repulsion between open-shell polar molecules,2507.12167,http://arxiv.org/abs/2507.12167v1,2025-07-16 11:55:08+00:00
+49,Mobility rings in a non-Hermitian non-Abelian quasiperiodic lattice,2507.12176,http://arxiv.org/abs/2507.12176v1,2025-07-16 12:18:02+00:00
+50,BenchRL-QAS: Benchmarking reinforcement learning algorithms for quantum architecture search,2507.12189,http://arxiv.org/abs/2507.12189v1,2025-07-16 12:43:25+00:00
+51,Quantum estimation of cosmological parameters,2507.12228,http://arxiv.org/abs/2507.12228v1,2025-07-16 13:40:46+00:00
+52,Surrogate Quantum Circuit Design for the Lattice Boltzmann Collision Operator,2507.12256,http://arxiv.org/abs/2507.12256v1,2025-07-16 14:02:01+00:00
+53,Streamline controlled rectification of supercurrent in thin-film asymmetric weak links,2507.12280,http://arxiv.org/abs/2507.12280v1,2025-07-16 14:26:18+00:00
+54,"Hybrid quantum lattice model: Polaritons, photons, and spin waves propagation",2507.12319,http://arxiv.org/abs/2507.12319v1,2025-07-16 15:12:25+00:00
+55,A graphene platform for nano scale coherent interaction of surface plasmons with resonant atomic ensembles,2507.12421,http://arxiv.org/abs/2507.12421v1,2025-07-16 17:10:32+00:00
+56,Jenga-Krotov algorithm: Efficient compilation of multi-qubit gates for exchange-only qubits,2507.12448,http://arxiv.org/abs/2507.12448v1,2025-07-16 17:40:58+00:00
+57,Quadratic Volatility from the Pöschl-Teller Potential and Hyperbolic Geometry,2507.12501,http://arxiv.org/abs/2507.12501v1,2025-07-16 05:12:45+00:00
+58,Quantum Tomography in Neutral Meson and Antimeson Systems,2507.12513,http://arxiv.org/abs/2507.12513v1,2025-07-16 18:00:00+00:00
+59,"Projective Representations, Bogomolov Multiplier, and Their Applications in Physics",2507.12515,http://arxiv.org/abs/2507.12515v1,2025-07-16 18:00:00+00:00
+60,Spacetime duality between sequential and measurement-feedback circuits,2507.12523,http://arxiv.org/abs/2507.12523v1,2025-07-16 18:00:01+00:00
+61,Emergence of Generic Entanglement Structure in Doped Matchgate Circuits,2507.12526,http://arxiv.org/abs/2507.12526v1,2025-07-16 18:00:02+00:00
+62,Efficient Qudit Circuit for Quench Dynamics of $2+1$D Quantum Link Electrodynamics,2507.12589,http://arxiv.org/abs/2507.12589v1,2025-07-16 19:16:49+00:00
+63,Probing Hadron Scattering in Lattice Gauge Theories on Qudit Quantum Computers,2507.12614,http://arxiv.org/abs/2507.12614v1,2025-07-16 20:15:36+00:00
+64,Spin relaxation in a polariton fluid: quantum hydrodynamic approach,2507.12636,http://arxiv.org/abs/2507.12636v1,2025-07-16 21:18:29+00:00
+65,QSpark: Towards Reliable Qiskit Code Generation,2507.12642,http://arxiv.org/abs/2507.12642v1,2025-07-16 21:27:31+00:00
+66,Space of conformal boundary conditions from the view of higher Berry phase: Flow of Berry curvature in parametrized BCFTs,2507.12546,http://arxiv.org/abs/2507.12546v1,2025-07-16 18:00:49+00:00
