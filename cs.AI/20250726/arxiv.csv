@@ -1,0 +1,60 @@
+,title,id,arxiv_url,published
+0,BioGraphFusion: Graph Knowledge Embedding for Biological Completion and Reasoning,2507.14468,http://arxiv.org/abs/2507.14468v2,2025-07-19 04:03:42+00:00
+1,Amico: An Event-Driven Modular Framework for Persistent and Embedded Autonomy,2507.14513,http://arxiv.org/abs/2507.14513v1,2025-07-19 07:21:09+00:00
+2,What if Othello-Playing Language Models Could See?,2507.14520,http://arxiv.org/abs/2507.14520v1,2025-07-19 07:47:55+00:00
+3,Large Language Models Assisting Ontology Evaluation,2507.14552,http://arxiv.org/abs/2507.14552v1,2025-07-19 09:13:51+00:00
+4,Configurable multi-agent framework for scalable and realistic testing of llm-based agents,2507.14705,http://arxiv.org/abs/2507.14705v1,2025-07-19 17:51:25+00:00
+5,Automated Safety Evaluations Across 20 Large Language Models: The Aymara LLM Risk and Responsibility Matrix,2507.14719,http://arxiv.org/abs/2507.14719v1,2025-07-19 18:49:16+00:00
+6,"Towards AI Urban Planner in the Age of GenAI, LLMs, and Agentic AI",2507.14730,http://arxiv.org/abs/2507.14730v1,2025-07-19 19:40:42+00:00
+7,Inverse Scaling in Test-Time Compute,2507.14417,http://arxiv.org/abs/2507.14417v1,2025-07-19 00:06:13+00:00
+8,Designing Conversational AI to Support Think-Aloud Practice in Technical Interview Preparation for CS Students,2507.14418,http://arxiv.org/abs/2507.14418v1,2025-07-19 00:15:05+00:00
+9,Routine: A Structural Planning Framework for LLM Agent System in Enterprise,2507.14447,http://arxiv.org/abs/2507.14447v2,2025-07-19 02:46:19+00:00
+10,GPI-Net: Gestalt-Guided Parallel Interaction Network via Orthogonal Geometric Consistency for Robust Point Cloud Registration,2507.14452,http://arxiv.org/abs/2507.14452v1,2025-07-19 02:56:29+00:00
+11,DFQ-ViT: Data-Free Quantization for Vision Transformers without Fine-tuning,2507.14481,http://arxiv.org/abs/2507.14481v1,2025-07-19 04:32:04+00:00
+12,Benefit from Reference: Retrieval-Augmented Cross-modal Point Cloud Completion,2507.14485,http://arxiv.org/abs/2507.14485v1,2025-07-19 04:57:41+00:00
+13,"Towards Efficient Privacy-Preserving Machine Learning: A Systematic Review from Protocol, Model, and System Perspectives",2507.14519,http://arxiv.org/abs/2507.14519v1,2025-07-19 07:45:39+00:00
+14,Multimodal AI for Gastrointestinal Diagnostics: Tackling VQA in MEDVQA-GI 2025,2507.14544,http://arxiv.org/abs/2507.14544v1,2025-07-19 09:04:13+00:00
+15,LPS-GNN : Deploying Graph Neural Networks on Graphs with 100-Billion Edges,2507.14570,http://arxiv.org/abs/2507.14570v1,2025-07-19 10:44:26+00:00
+16,"Benchmarking GANs, Diffusion Models, and Flow Matching for T1w-to-T2w MRI Translation",2507.14575,http://arxiv.org/abs/2507.14575v1,2025-07-19 10:58:02+00:00
+17,Exploring Human-AI Complementarity in CPS Diagnosis Using Unimodal and Multimodal BERT Models,2507.14579,http://arxiv.org/abs/2507.14579v1,2025-07-19 11:47:08+00:00
+18,Explainable Collaborative Problem Solving Diagnosis with BERT using SHAP and its Implications for Teacher Adoption,2507.14584,http://arxiv.org/abs/2507.14584v1,2025-07-19 11:57:24+00:00
+19,"Performance comparison of medical image classification systems using TensorFlow Keras, PyTorch, and JAX",2507.14587,http://arxiv.org/abs/2507.14587v1,2025-07-19 12:05:14+00:00
+20,Backtranslation and paraphrasing in the LLM era? Comparing data augmentation methods for emotion classification,2507.14590,http://arxiv.org/abs/2507.14590v1,2025-07-19 12:23:20+00:00
+21,A Transformer-Based Conditional GAN with Multiple Instance Learning for UAV Signal Detection and Classification,2507.14592,http://arxiv.org/abs/2507.14592v1,2025-07-19 12:35:45+00:00
+22,Coordinate Heart System: A Geometric Framework for Emotion Representation,2507.14593,http://arxiv.org/abs/2507.14593v1,2025-07-19 12:38:30+00:00
+23,Retrieval-Augmented Clinical Benchmarking for Contextual Model Testing in Kenyan Primary Care: A Methodology Paper,2507.14615,http://arxiv.org/abs/2507.14615v1,2025-07-19 13:25:26+00:00
+24,VTarbel: Targeted Label Attack with Minimal Knowledge on Detector-enhanced Vertical Federated Learning,2507.14625,http://arxiv.org/abs/2507.14625v1,2025-07-19 13:43:50+00:00
+25,VMask: Tunable Label Privacy Protection for Vertical Federated Learning via Layer Masking,2507.14629,http://arxiv.org/abs/2507.14629v1,2025-07-19 13:51:09+00:00
+26,Efficient Story Point Estimation With Comparative Learning,2507.14642,http://arxiv.org/abs/2507.14642v1,2025-07-19 14:36:19+00:00
+27,Cleanse: Uncertainty Estimation Approach Using Clustering-based Semantic Consistency in LLMs,2507.14649,http://arxiv.org/abs/2507.14649v1,2025-07-19 14:48:24+00:00
+28,"AI-Enhanced Precision in Sport Taekwondo: Increasing Fairness, Speed, and Trust in Competition (FST.ai)",2507.14657,http://arxiv.org/abs/2507.14657v2,2025-07-19 15:14:45+00:00
+29,When Autonomy Goes Rogue: Preparing for Risks of Multi-Agent Collusion in Social Systems,2507.14660,http://arxiv.org/abs/2507.14660v2,2025-07-19 15:17:30+00:00
+30,"Artificial Intelligence in the Food Industry: Food Waste Estimation based on Computer Vision, a Brief Case Study in a University Dining Hall",2507.14662,http://arxiv.org/abs/2507.14662v1,2025-07-19 15:21:29+00:00
+31,WSI-Agents: A Collaborative Multi-Agent System for Multi-Modal Whole Slide Image Analysis,2507.14680,http://arxiv.org/abs/2507.14680v1,2025-07-19 16:11:03+00:00
+32,Fraud is Not Just Rarity: A Causal Prototype Attention Approach to Realistic Synthetic Oversampling,2507.14706,http://arxiv.org/abs/2507.14706v1,2025-07-19 17:51:54+00:00
+33,LeanTree: Accelerating White-Box Proof Search with Factorized States in Lean 4,2507.14722,http://arxiv.org/abs/2507.14722v1,2025-07-19 18:50:07+00:00
+34,Task-Agnostic Continual Prompt Tuning with Gradient-Based Selection and Decoding,2507.14725,http://arxiv.org/abs/2507.14725v1,2025-07-19 19:15:03+00:00
+35,Analyzing Internal Activity and Robustness of SNNs Across Neuron Parameter Space,2507.14757,http://arxiv.org/abs/2507.14757v1,2025-07-19 21:13:53+00:00
+36,Combining Cost-Constrained Runtime Monitors for AI Safety,2507.15886,http://arxiv.org/abs/2507.15886v1,2025-07-19 04:28:40+00:00
+37,CASPER: Contrastive Approach for Smart Ponzi Scheme Detecter with More Negative Samples,2507.16840,http://arxiv.org/abs/2507.16840v1,2025-07-19 01:26:02+00:00
+38,It's Not That Simple. An Analysis of Simple Test-Time Scaling,2507.14419,http://arxiv.org/abs/2507.14419v1,2025-07-19 00:28:10+00:00
+39,Approximate Revenue Maximization for Diffusion Auctions,2507.14470,http://arxiv.org/abs/2507.14470v1,2025-07-19 04:04:09+00:00
+40,Strategyproofness and Monotone Allocation of Auction in Social Networks,2507.14472,http://arxiv.org/abs/2507.14472v1,2025-07-19 04:05:35+00:00
+41,Diffusion Models for Time Series Forecasting: A Survey,2507.14507,http://arxiv.org/abs/2507.14507v1,2025-07-19 07:04:04+00:00
+42,SDSC:A Structure-Aware Metric for Semantic Signal Representation Learning,2507.14516,http://arxiv.org/abs/2507.14516v2,2025-07-19 07:32:00+00:00
+43,Exp-Graph: How Connections Learn Facial Attributes in Graph-based Expression Recognition,2507.14608,http://arxiv.org/abs/2507.14608v1,2025-07-19 13:10:21+00:00
+44,Enhancing POI Recommendation through Global Graph Disentanglement with POI Weighted Module,2507.14612,http://arxiv.org/abs/2507.14612v1,2025-07-19 13:16:44+00:00
+45,"GCC-Spam: Spam Detection via GAN, Contrastive Learning, and Character Similarity Networks",2507.14679,http://arxiv.org/abs/2507.14679v2,2025-07-19 16:09:48+00:00
+46,Mind the Gap: A Review of Arabic Post-Training Datasets and Their Limitations,2507.14688,http://arxiv.org/abs/2507.14688v1,2025-07-19 16:30:45+00:00
+47,Rethinking Suicidal Ideation Detection: A Trustworthy Annotation Framework and Cross-Lingual Model Evaluation,2507.14693,http://arxiv.org/abs/2507.14693v1,2025-07-19 16:54:36+00:00
+48,Spatial-Temporal Transformer with Curriculum Learning for EEG-Based Emotion Recognition,2507.14698,http://arxiv.org/abs/2507.14698v1,2025-07-19 17:23:38+00:00
+49,Skill Learning via Policy Diversity Yields Identifiable Representations for Reinforcement Learning,2507.14748,http://arxiv.org/abs/2507.14748v1,2025-07-19 20:48:46+00:00
+50,GRACE: Generative Recommendation via Journey-Aware Sparse Attention on Chain-of-Thought Tokenization,2507.14758,http://arxiv.org/abs/2507.14758v1,2025-07-19 21:23:23+00:00
+51,QUTCC: Quantile Uncertainty Training and Conformal Calibration for Imaging Inverse Problems,2507.14760,http://arxiv.org/abs/2507.14760v1,2025-07-19 21:44:14+00:00
+52,CXR-TFT: Multi-Modal Temporal Fusion Transformer for Predicting Chest X-ray Trajectories,2507.14766,http://arxiv.org/abs/2507.14766v1,2025-07-19 22:42:26+00:00
+53,XplainAct: Visualization for Personalized Intervention Insights,2507.14767,http://arxiv.org/abs/2507.14767v1,2025-07-19 22:57:09+00:00
+54,AlgoTune: Can Language Models Speed Up General-Purpose Numerical Programs?,2507.15887,http://arxiv.org/abs/2507.15887v1,2025-07-19 11:23:25+00:00
+55,Caching Techniques for Reducing the Communication Cost of Federated Learning in IoT Environments,2507.17772,http://arxiv.org/abs/2507.17772v1,2025-07-19 17:02:15+00:00
+56,Neural Brownian Motion,2507.14499,http://arxiv.org/abs/2507.14499v1,2025-07-19 06:09:52+00:00
+57,Explainable Graph Neural Networks via Structural Externalities,2507.17848,http://arxiv.org/abs/2507.17848v1,2025-07-19 07:36:47+00:00
+58,Statistical and Algorithmic Foundations of Reinforcement Learning,2507.14444,http://arxiv.org/abs/2507.14444v1,2025-07-19 02:42:41+00:00
