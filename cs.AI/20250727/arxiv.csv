@@ -1,0 +1,63 @@
+,title,id,arxiv_url,published
+0,AgentFly: Extensible and Scalable Reinforcement Learning for LM Agents,2507.14897,http://arxiv.org/abs/2507.14897v1,2025-07-20 10:22:36+00:00
+1,Feedback-Induced Performance Decline in LLM-Based Decision-Making,2507.14906,http://arxiv.org/abs/2507.14906v1,2025-07-20 10:38:56+00:00
+2,Redefining Elderly Care with Agentic AI: Challenges and Opportunities,2507.14912,http://arxiv.org/abs/2507.14912v1,2025-07-20 10:53:01+00:00
+3,A Forced-Choice Neural Cognitive Diagnostic Model of Personality Testing,2507.15013,http://arxiv.org/abs/2507.15013v1,2025-07-20 15:39:36+00:00
+4,Clinical Semantic Intelligence (CSI): Emulating the Cognitive Framework of the Expert Clinician for Comprehensive Oral Disease Diagnosis,2507.15140,http://arxiv.org/abs/2507.15140v1,2025-07-20 22:30:01+00:00
+5,Omni-Thinker: Scaling Cross-Domain Generalization in LLMs via Multi-Task RL with Hybrid Rewards,2507.14783,http://arxiv.org/abs/2507.14783v2,2025-07-20 01:50:16+00:00
+6,LeAdQA: LLM-Driven Context-Aware Temporal Grounding for Video Question Answering,2507.14784,http://arxiv.org/abs/2507.14784v1,2025-07-20 01:57:00+00:00
+7,Exploring the In-Context Learning Capabilities of LLMs for Money Laundering Detection in Financial Graphs,2507.14785,http://arxiv.org/abs/2507.14785v1,2025-07-20 02:00:21+00:00
+8,FOCUS: Fused Observation of Channels for Unveiling Spectra,2507.14787,http://arxiv.org/abs/2507.14787v1,2025-07-20 02:08:23+00:00
+9,Manipulating LLM Web Agents with Indirect Prompt Injection Attack via HTML Accessibility Tree,2507.14799,http://arxiv.org/abs/2507.14799v1,2025-07-20 03:10:13+00:00
+10,ACME: Adaptive Customization of Large Models via Distributed Systems,2507.14802,http://arxiv.org/abs/2507.14802v1,2025-07-20 03:30:24+00:00
+11,Subliminal Learning: Language models transmit behavioral traits via hidden signals in data,2507.14805,http://arxiv.org/abs/2507.14805v1,2025-07-20 03:51:13+00:00
+12,Seeing Through Deepfakes: A Human-Inspired Framework for Multi-Face Detection,2507.14807,http://arxiv.org/abs/2507.14807v1,2025-07-20 03:53:52+00:00
+13,SegQuant: A Semantics-Aware and Generalizable Quantization Framework for Diffusion Models,2507.14811,http://arxiv.org/abs/2507.14811v2,2025-07-20 04:00:53+00:00
+14,Benchmarking Foundation Models with Multimodal Public Electronic Health Records,2507.14824,http://arxiv.org/abs/2507.14824v1,2025-07-20 05:08:28+00:00
+15,eMargin: Revisiting Contrastive Learning with Margin-Based Separation,2507.14828,http://arxiv.org/abs/2507.14828v1,2025-07-20 05:39:25+00:00
+16,Paired Image Generation with Diffusion-Guided Diffusion Models,2507.14833,http://arxiv.org/abs/2507.14833v1,2025-07-20 06:13:02+00:00
+17,The Tsetlin Machine Goes Deep: Logical Learning and Reasoning With Graphs,2507.14874,http://arxiv.org/abs/2507.14874v1,2025-07-20 09:16:31+00:00
+18,Application-Specific Component-Aware Structured Pruning of Deep Neural Networks via Soft Coefficient Optimization,2507.14882,http://arxiv.org/abs/2507.14882v1,2025-07-20 09:50:04+00:00
+19,InsightX Agent: An LMM-based Agentic Framework with Integrated Tools for Reliable X-ray NDT Analysis,2507.14899,http://arxiv.org/abs/2507.14899v1,2025-07-20 10:23:22+00:00
+20,TriCLIP-3D: A Unified Parameter-Efficient Framework for Tri-Modal 3D Visual Grounding based on CLIP,2507.14904,http://arxiv.org/abs/2507.14904v1,2025-07-20 10:28:06+00:00
+21,The Endless Tuning. An Artificial Intelligence Design To Avoid Human Replacement and Trace Back Responsibilities,2507.14909,http://arxiv.org/abs/2507.14909v1,2025-07-20 10:48:07+00:00
+22,One Step Beyond: Feedthrough & Placement-Aware Rectilinear Floorplanner,2507.14914,http://arxiv.org/abs/2507.14914v1,2025-07-20 11:00:18+00:00
+23,Byzantine-Robust Decentralized Coordination of LLM Agents,2507.14928,http://arxiv.org/abs/2507.14928v1,2025-07-20 11:55:26+00:00
+24,FCRF: Flexible Constructivism Reflection for Long-Horizon Robotic Task Planning with Large Language Models,2507.14975,http://arxiv.org/abs/2507.14975v1,2025-07-20 14:15:39+00:00
+25,Survey of GenAI for Automotive Software Development: From Requirements to Executable Code,2507.15025,http://arxiv.org/abs/2507.15025v1,2025-07-20 16:21:51+00:00
+26,DeRAG: Black-box Adversarial Attacks on Multiple Retrieval-Augmented Generation Applications via Prompt Injection,2507.15042,http://arxiv.org/abs/2507.15042v1,2025-07-20 16:48:20+00:00
+27,WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization,2507.15061,http://arxiv.org/abs/2507.15061v1,2025-07-20 17:53:37+00:00
+28,StableAnimator++: Overcoming Pose Misalignment and Face Distortion for Human Image Animation,2507.15064,http://arxiv.org/abs/2507.15064v1,2025-07-20 17:59:26+00:00
+29,NavVI: A Telerobotic Simulation with Multimodal Feedback for Visually Impaired Navigation in Warehouse Environments,2507.15072,http://arxiv.org/abs/2507.15072v1,2025-07-20 18:14:55+00:00
+30,Evaluation of Coding Schemes for Transformer-based Gene Sequence Modeling,2507.15087,http://arxiv.org/abs/2507.15087v1,2025-07-20 19:02:07+00:00
+31,BleedOrigin: Dynamic Bleeding Source Localization in Endoscopic Submucosal Dissection via Dual-Stage Detection and Tracking,2507.15094,http://arxiv.org/abs/2507.15094v1,2025-07-20 19:19:42+00:00
+32,Filling the Gap: Is Commonsense Knowledge Generation useful for Natural Language Inference?,2507.15100,http://arxiv.org/abs/2507.15100v1,2025-07-20 19:42:45+00:00
+33,AnalogFed: Federated Discovery of Analog Circuit Topologies with Generative AI,2507.15104,http://arxiv.org/abs/2507.15104v1,2025-07-20 19:57:07+00:00
+34,From Kicking to Causality: Simulating Infant Agency Detection with a Robust Intrinsic Reward,2507.15106,http://arxiv.org/abs/2507.15106v1,2025-07-20 20:02:50+00:00
+35,Automated planning with ontologies under coherence update semantics (Extended Version),2507.15120,http://arxiv.org/abs/2507.15120v2,2025-07-20 20:49:21+00:00
+36,A Case Against Implicit Standards: Homophone Normalization in Machine Translation for Languages that use the Ge'ez Script,2507.15142,http://arxiv.org/abs/2507.15142v1,2025-07-20 22:35:08+00:00
+37,Can We Move Freely in NEOM's The Line? An Agent-Based Simulation of Human Mobility in a Futuristic Smart City,2507.15143,http://arxiv.org/abs/2507.15143v1,2025-07-20 22:35:16+00:00
+38,Can LLMs Generate User Stories and Assess Their Quality?,2507.15157,http://arxiv.org/abs/2507.15157v1,2025-07-20 23:37:43+00:00
+39,Dr. Boot: Bootstrapping Program Synthesis Language Models to Perform Repairing,2507.15889,http://arxiv.org/abs/2507.15889v1,2025-07-20 02:10:46+00:00
+40,Large Language Model as An Operator: An Experience-Driven Solution for Distribution Network Voltage Control,2507.14800,http://arxiv.org/abs/2507.14800v1,2025-07-20 03:22:08+00:00
+41,The Invisible Leash: Why RLVR May Not Escape Its Origin,2507.14843,http://arxiv.org/abs/2507.14843v1,2025-07-20 07:04:08+00:00
+42,Hierarchical Multi-Agent Reinforcement Learning with Control Barrier Functions for Safety-Critical Autonomous Systems,2507.14850,http://arxiv.org/abs/2507.14850v1,2025-07-20 07:43:18+00:00
+43,Grounding Degradations in Natural Language for All-In-One Video Restoration,2507.14851,http://arxiv.org/abs/2507.14851v1,2025-07-20 07:43:33+00:00
+44,Learning Nonlinear Causal Reductions to Explain Reinforcement Learning Policies,2507.14901,http://arxiv.org/abs/2507.14901v1,2025-07-20 10:25:24+00:00
+45,Partial Symmetry Enforced Attention Decomposition (PSEAD): A Group-Theoretic Framework for Equivariant Transformers in Biological Systems,2507.14908,http://arxiv.org/abs/2507.14908v1,2025-07-20 10:44:31+00:00
+46,Probing EFX via PMMS: (Non-)Existence Results in Discrete Fair Division,2507.14957,http://arxiv.org/abs/2507.14957v1,2025-07-20 13:32:12+00:00
+47,Complexity of Faceted Explanations in Propositional Abduction,2507.14962,http://arxiv.org/abs/2507.14962v1,2025-07-20 13:50:26+00:00
+48,AlphaAlign: Incentivizing Safety Alignment with Extremely Simplified Reinforcement Learning,2507.14987,http://arxiv.org/abs/2507.14987v1,2025-07-20 14:47:03+00:00
+49,The Rise of AI Teammates in Software Engineering (SE) 3.0: How Autonomous Coding Agents Are Reshaping Software Engineering,2507.15003,http://arxiv.org/abs/2507.15003v1,2025-07-20 15:15:58+00:00
+50,The hunt for new pulsating ultraluminous X-ray sources: a clustering approach,2507.15032,http://arxiv.org/abs/2507.15032v1,2025-07-20 16:33:18+00:00
+51,Touch in the Wild: Learning Fine-Grained Manipulation with a Portable Visuo-Tactile Gripper,2507.15062,http://arxiv.org/abs/2507.15062v1,2025-07-20 17:53:59+00:00
+52,Time-RA: Towards Time Series Reasoning for Anomaly with LLM Feedback,2507.15066,http://arxiv.org/abs/2507.15066v1,2025-07-20 18:02:50+00:00
+53,Robust Control with Gradient Uncertainty,2507.15082,http://arxiv.org/abs/2507.15082v1,2025-07-20 18:37:30+00:00
+54,Performance Analysis of Post-Training Quantization for CNN-based Conjunctival Pallor Anemia Detection,2507.15151,http://arxiv.org/abs/2507.15151v1,2025-07-20 23:02:58+00:00
+55,"What Level of Automation is ""Good Enough""? A Benchmark of Large Language Models for Meta-Analysis Data Extraction",2507.15152,http://arxiv.org/abs/2507.15152v1,2025-07-20 23:09:04+00:00
+56,Constraint-aware Learning of Probabilistic Sequential Models for Multi-Label Classification,2507.15156,http://arxiv.org/abs/2507.15156v1,2025-07-20 23:31:36+00:00
+57,Systole-Conditioned Generative Cardiac Motion,2507.15894,http://arxiv.org/abs/2507.15894v1,2025-07-20 14:44:40+00:00
+58,Integrating Reason-Based Moral Decision-Making in the Reinforcement Learning Architecture,2507.15895,http://arxiv.org/abs/2507.15895v1,2025-07-20 16:46:16+00:00
+59,Weak Supervision Techniques towards Enhanced ASR Models in Industry-level CRM Systems,2507.16843,http://arxiv.org/abs/2507.16843v1,2025-07-20 03:39:09+00:00
+60,A Comparative Analysis of Statistical and Machine Learning Models for Outlier Detection in Bitcoin Limit Order Books,2507.14960,http://arxiv.org/abs/2507.14960v1,2025-07-20 13:42:36+00:00
+61,Design of an Edge-based Portable EHR System for Anemia Screening in Remote Health Applications,2507.15146,http://arxiv.org/abs/2507.15146v1,2025-07-20 22:46:42+00:00
