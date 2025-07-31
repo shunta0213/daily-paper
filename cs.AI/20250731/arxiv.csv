@@ -1,0 +1,101 @@
+,title,id,arxiv_url,published
+0,E.A.R.T.H.: Structuring Creative Evolution through Model Error in Generative AI,2507.18004,http://arxiv.org/abs/2507.18004v1,2025-07-24 00:39:19+00:00
+1,AlphaGo Moment for Model Architecture Discovery,2507.18074,http://arxiv.org/abs/2507.18074v1,2025-07-24 03:57:27+00:00
+2,Decoupling Knowledge and Reasoning in LLMs: An Exploration Using Cognitive Dual-System Theory,2507.18178,http://arxiv.org/abs/2507.18178v1,2025-07-24 08:24:52+00:00
+3,Comparing Non-minimal Semantics for Disjunction in Answer Set Programming,2507.18198,http://arxiv.org/abs/2507.18198v1,2025-07-24 08:54:37+00:00
+4,Foundations for Risk Assessment of AI in Protecting Fundamental Rights,2507.18290,http://arxiv.org/abs/2507.18290v1,2025-07-24 10:52:22+00:00
+5,The AlphaPhysics Term Rewriting System for Marking Algebraic Expressions in Physics Exams,2507.18337,http://arxiv.org/abs/2507.18337v1,2025-07-24 12:08:49+00:00
+6,Reasoning Beyond the Obvious: Evaluating Divergent and Convergent Thinking in LLMs for Financial Scenarios,2507.18368,http://arxiv.org/abs/2507.18368v1,2025-07-24 12:47:29+00:00
+7,Revisiting LLM Reasoning via Information Bottleneck,2507.18391,http://arxiv.org/abs/2507.18391v1,2025-07-24 13:14:25+00:00
+8,Optimising Call Centre Operations using Reinforcement Learning: Value Iteration versus Proximal Policy Optimisation,2507.18398,http://arxiv.org/abs/2507.18398v1,2025-07-24 13:31:38+00:00
+9,GPU Accelerated Compact-Table Propagation,2507.18413,http://arxiv.org/abs/2507.18413v1,2025-07-24 13:53:49+00:00
+10,Simulation-Driven Reinforcement Learning in Queuing Network Routing Optimization,2507.18795,http://arxiv.org/abs/2507.18795v1,2025-07-24 20:32:47+00:00
+11,Fashion-AlterEval: A Dataset for Improved Evaluation of Conversational Recommendation Systems with Alternative Relevant Items,2507.18017,http://arxiv.org/abs/2507.18017v1,2025-07-24 01:18:24+00:00
+12,"NeuralDB: Scaling Knowledge Editing in LLMs to 100,000 Facts with Neural KV Database",2507.18028,http://arxiv.org/abs/2507.18028v1,2025-07-24 02:00:09+00:00
+13,OpenNav: Open-World Navigation with Multimodal Large Language Models,2507.18033,http://arxiv.org/abs/2507.18033v1,2025-07-24 02:05:28+00:00
+14,Synthetic Data Generation for Phrase Break Prediction with Large Language Model,2507.18044,http://arxiv.org/abs/2507.18044v1,2025-07-24 02:45:03+00:00
+15,Enhancing Scene Transition Awareness in Video Generation via Post-Training,2507.18046,http://arxiv.org/abs/2507.18046v1,2025-07-24 02:50:26+00:00
+16,Multi-Agent Guided Policy Optimization,2507.18059,http://arxiv.org/abs/2507.18059v1,2025-07-24 03:22:21+00:00
+17,TextSAM-EUS: Text Prompt Learning for SAM to Accurately Segment Pancreatic Tumor in Endoscopic Ultrasound,2507.18082,http://arxiv.org/abs/2507.18082v3,2025-07-24 04:17:06+00:00
+18,Datasets and Recipes for Video Temporal Grounding via Reinforcement Learning,2507.18100,http://arxiv.org/abs/2507.18100v1,2025-07-24 05:24:01+00:00
+19,Distributional Uncertainty for Out-of-Distribution Detection,2507.18106,http://arxiv.org/abs/2507.18106v1,2025-07-24 05:35:49+00:00
+20,Actively evaluating and learning the distinctions that matter: Vaccine safety signal detection from emergency triage notes,2507.18123,http://arxiv.org/abs/2507.18123v1,2025-07-24 06:18:34+00:00
+21,HIVMedQA: Benchmarking large language models for HIV medical decision support,2507.18143,http://arxiv.org/abs/2507.18143v2,2025-07-24 07:06:30+00:00
+22,Logical Characterizations of GNNs with Mean Aggregation,2507.18145,http://arxiv.org/abs/2507.18145v1,2025-07-24 07:21:49+00:00
+23,When Noisy Labels Meet Class Imbalance on Graphs: A Graph Augmentation Method with LLM and Pseudo Label,2507.18153,http://arxiv.org/abs/2507.18153v2,2025-07-24 07:39:07+00:00
+24,Sticking to the Mean: Detecting Sticky Tokens in Text Embedding Models,2507.18171,http://arxiv.org/abs/2507.18171v1,2025-07-24 08:13:16+00:00
+25,Differential-UMamba: Rethinking Tumor Segmentation Under Limited Data Scenarios,2507.18177,http://arxiv.org/abs/2507.18177v2,2025-07-24 08:23:11+00:00
+26,SCOPE: Stochastic and Counterbiased Option Placement for Evaluating Large Language Models,2507.18182,http://arxiv.org/abs/2507.18182v1,2025-07-24 08:28:17+00:00
+27,Safeguarding RAG Pipelines with GMTP: A Gradient-based Masked Token Probability Method for Poisoned Document Detection,2507.18202,http://arxiv.org/abs/2507.18202v1,2025-07-24 08:58:41+00:00
+28,MoRPI-PINN: A Physics-Informed Framework for Mobile Robot Pure Inertial Navigation,2507.18206,http://arxiv.org/abs/2507.18206v1,2025-07-24 09:02:13+00:00
+29,Information Security Based on LLM Approaches: A Review,2507.18215,http://arxiv.org/abs/2507.18215v1,2025-07-24 09:09:36+00:00
+30,FedSA-GCL: A Semi-Asynchronous Federated Graph Learning Framework with Personalized Aggregation and Cluster-Aware Broadcasting,2507.18219,http://arxiv.org/abs/2507.18219v1,2025-07-24 09:15:07+00:00
+31,GenAI for Automotive Software Development: From Requirements to Wheels,2507.18223,http://arxiv.org/abs/2507.18223v1,2025-07-24 09:17:13+00:00
+32,DepthDark: Robust Monocular Depth Estimation for Low-Light Environments,2507.18243,http://arxiv.org/abs/2507.18243v1,2025-07-24 09:32:53+00:00
+33,Exploiting Gaussian Agnostic Representation Learning with Diffusion Priors for Enhanced Infrared Small Target Detection,2507.18260,http://arxiv.org/abs/2507.18260v1,2025-07-24 10:03:33+00:00
+34,Locate-and-Focus: Enhancing Terminology Translation in Speech Language Models,2507.18263,http://arxiv.org/abs/2507.18263v1,2025-07-24 10:07:59+00:00
+35,"A Concept for Efficient Scalability of Automated Driving Allowing for Technical, Legal, Cultural, and Ethical Differences",2507.18326,http://arxiv.org/abs/2507.18326v1,2025-07-24 11:51:55+00:00
+36,AraTable: Benchmarking LLMs' Reasoning and Understanding of Arabic Tabular Data,2507.18442,http://arxiv.org/abs/2507.18442v1,2025-07-24 14:26:41+00:00
+37,Generation of Synthetic Clinical Text: A Systematic Review,2507.18451,http://arxiv.org/abs/2507.18451v1,2025-07-24 14:35:16+00:00
+38,Revisiting Physically Realizable Adversarial Object Attack against LiDAR-based Detection: Clarifying Problem Formulation and Experimental Protocols,2507.18457,http://arxiv.org/abs/2507.18457v1,2025-07-24 14:37:00+00:00
+39,Automated Code Review Using Large Language Models with Symbolic Reasoning,2507.18476,http://arxiv.org/abs/2507.18476v1,2025-07-24 14:50:27+00:00
+40,Reinforced Embodied Active Defense: Exploiting Adaptive Interaction for Robust Visual Perception in Adversarial 3D Environments,2507.18484,http://arxiv.org/abs/2507.18484v1,2025-07-24 14:56:21+00:00
+41,"Explaining How Visual, Textual and Multimodal Encoders Share Concepts",2507.18512,http://arxiv.org/abs/2507.18512v1,2025-07-24 15:33:31+00:00
+42,GLANCE: Graph Logic Attention Network with Cluster Enhancement for Heterophilous Graph Representation Learning,2507.18521,http://arxiv.org/abs/2507.18521v1,2025-07-24 15:45:26+00:00
+43,C2G-KD: PCA-Constrained Generator for Data-Free Knowledge Distillation,2507.18533,http://arxiv.org/abs/2507.18533v1,2025-07-24 16:00:32+00:00
+44,GLiNER2: An Efficient Multi-Task Information Extraction System with Schema-Driven Interface,2507.18546,http://arxiv.org/abs/2507.18546v1,2025-07-24 16:11:14+00:00
+45,VideoMind: An Omni-Modal Video Dataset with Intent Grounding for Deep-Cognitive Video Understanding,2507.18552,http://arxiv.org/abs/2507.18552v1,2025-07-24 16:19:43+00:00
+46,HARLF: Hierarchical Reinforcement Learning and Lightweight LLM-Driven Sentiment Integration for Financial Portfolio Optimization,2507.18560,http://arxiv.org/abs/2507.18560v1,2025-07-24 16:35:24+00:00
+47,GIIFT: Graph-guided Inductive Image-free Multimodal Machine Translation,2507.18562,http://arxiv.org/abs/2507.18562v1,2025-07-24 16:36:47+00:00
+48,Proceedings 19th International Workshop on the ACL2 Theorem Prover and Its Applications,2507.18567,http://arxiv.org/abs/2507.18567v1,2025-07-24 16:42:15+00:00
+49,"AQuilt: Weaving Logic and Self-Inspection into Low-Cost, High-Relevance Data Synthesis for Specialist LLMs",2507.18584,http://arxiv.org/abs/2507.18584v1,2025-07-24 17:03:27+00:00
+50,A Foundation Model for Massive MIMO Precoding with an Adaptive per-User Rate-Power Tradeoff,2507.18587,http://arxiv.org/abs/2507.18587v1,2025-07-24 17:10:06+00:00
+51,Approximate SMT Counting Beyond Discrete Domains,2507.18612,http://arxiv.org/abs/2507.18612v1,2025-07-24 17:48:13+00:00
+52,Gen-AI Police Sketches with Stable Diffusion,2507.18667,http://arxiv.org/abs/2507.18667v1,2025-07-24 04:41:58+00:00
+53,Efficient Knowledge Tracing Leveraging Higher-Order Information in Integrated Graphs,2507.18668,http://arxiv.org/abs/2507.18668v1,2025-07-24 06:12:43+00:00
+54,Innovator: Scientific Continued Pretraining with Fine-grained MoE Upcycling,2507.18671,http://arxiv.org/abs/2507.18671v1,2025-07-24 08:37:58+00:00
+55,Towards Scalable Spatial Intelligence via 2D-to-3D Data Lifting,2507.18678,http://arxiv.org/abs/2507.18678v1,2025-07-24 14:53:26+00:00
+56,Market Making Strategies with Reinforcement Learning,2507.18680,http://arxiv.org/abs/2507.18680v1,2025-07-24 16:17:49+00:00
+57,The Right to be Forgotten in Pruning: Unveil Machine Unlearning on Sparse Models,2507.18725,http://arxiv.org/abs/2507.18725v1,2025-07-24 18:13:26+00:00
+58,Specification Self-Correction: Mitigating In-Context Reward Hacking Through Test-Time Refinement,2507.18742,http://arxiv.org/abs/2507.18742v1,2025-07-24 18:44:28+00:00
+59,Initial Steps in Integrating Large Reasoning and Action Models for Service Composition,2507.18775,http://arxiv.org/abs/2507.18775v1,2025-07-24 19:57:18+00:00
+60,DxHF: Providing High-Quality Human Feedback for LLM Alignment via Interactive Decomposition,2507.18802,http://arxiv.org/abs/2507.18802v1,2025-07-24 21:01:24+00:00
+61,MemoCoder: Automated Function Synthesis using LLM-Supported Agents,2507.18812,http://arxiv.org/abs/2507.18812v1,2025-07-24 21:23:44+00:00
+62,Deepfake Detection Via Facial Feature Extraction and Modeling,2507.18815,http://arxiv.org/abs/2507.18815v1,2025-07-24 21:30:51+00:00
+63,Equivariant Volumetric Grasping,2507.18847,http://arxiv.org/abs/2507.18847v1,2025-07-24 23:18:32+00:00
+64,PTCMIL: Multiple Instance Learning via Prompt Token Clustering for Whole Slide Image Analysis,2507.18848,http://arxiv.org/abs/2507.18848v1,2025-07-24 23:33:59+00:00
+65,Justifications for Democratizing AI Alignment and Their Prospects,2507.19548,http://arxiv.org/abs/2507.19548v1,2025-07-24 17:16:19+00:00
+66,AccessGuru: Leveraging LLMs to Detect and Correct Web Accessibility Violations in HTML Code,2507.19549,http://arxiv.org/abs/2507.19549v1,2025-07-24 17:59:30+00:00
+67,Deep Unfolding for MIMO Signal Detection,2507.21152,http://arxiv.org/abs/2507.21152v1,2025-07-24 00:48:04+00:00
+68,GRR-CoCa: Leveraging LLM Mechanisms in Multimodal Model Architectures,2507.18009,http://arxiv.org/abs/2507.18009v1,2025-07-24 00:54:31+00:00
+69,Does visualization help AI understand data?,2507.18022,http://arxiv.org/abs/2507.18022v1,2025-07-24 01:47:34+00:00
+70,ViGText: Deepfake Image Detection with Vision-Language Model Explanations and Graph Neural Networks,2507.18031,http://arxiv.org/abs/2507.18031v1,2025-07-24 02:04:58+00:00
+71,GrAInS: Gradient-based Attribution for Inference-Time Steering of LLMs and VLMs,2507.18043,http://arxiv.org/abs/2507.18043v1,2025-07-24 02:34:13+00:00
+72,TELEVAL: A Dynamic Benchmark Designed for Spoken Language Models in Chinese Interactive Scenarios,2507.18061,http://arxiv.org/abs/2507.18061v1,2025-07-24 03:23:55+00:00
+73,Group Sequence Policy Optimization,2507.18071,http://arxiv.org/abs/2507.18071v2,2025-07-24 03:50:32+00:00
+74,Parameter-Efficient Fine-Tuning of 3D DDPM for MRI Image Generation Using Tensor Networks,2507.18112,http://arxiv.org/abs/2507.18112v1,2025-07-24 05:51:51+00:00
+75,GOAT-SLM: A Spoken Language Model with Paralinguistic and Speaker Characteristic Awareness,2507.18119,http://arxiv.org/abs/2507.18119v2,2025-07-24 06:10:29+00:00
+76,U-Net Based Healthy 3D Brain Tissue Inpainting,2507.18126,http://arxiv.org/abs/2507.18126v1,2025-07-24 06:26:46+00:00
+77,Deep Learning for Glioblastoma Morpho-pathological Features Identification: A BraTS-Pathology Challenge Solution,2507.18133,http://arxiv.org/abs/2507.18133v1,2025-07-24 06:47:23+00:00
+78,From Individual Learning to Market Equilibrium: Correcting Structural and Parametric Biases in RL Simulations of Economic Models,2507.18229,http://arxiv.org/abs/2507.18229v1,2025-07-24 09:21:02+00:00
+79,Multimodal Behavioral Patterns Analysis with Eye-Tracking and LLM-Based Reasoning,2507.18252,http://arxiv.org/abs/2507.18252v1,2025-07-24 09:49:53+00:00
+80,TCM-Tongue: A Standardized Tongue Image Dataset with Pathological Annotations for AI-Assisted TCM Diagnosis,2507.18288,http://arxiv.org/abs/2507.18288v1,2025-07-24 10:49:31+00:00
+81,LoRA-Leak: Membership Inference Attacks Against LoRA Fine-tuned Language Models,2507.18302,http://arxiv.org/abs/2507.18302v1,2025-07-24 11:18:27+00:00
+82,A Multi-Dataset Benchmark for Semi-Supervised Semantic Segmentation in ECG Delineation,2507.18323,http://arxiv.org/abs/2507.18323v1,2025-07-24 11:49:46+00:00
+83,Improving Bird Classification with Primary Color Additives,2507.18334,http://arxiv.org/abs/2507.18334v1,2025-07-24 12:05:17+00:00
+84,CLEAR: Error Analysis via LLM-as-a-Judge Made Easy,2507.18392,http://arxiv.org/abs/2507.18392v1,2025-07-24 13:15:21+00:00
+85,"Restoring Rhythm: Punctuation Restoration Using Transformer Models for Bangla, a Low-Resource Language",2507.18448,http://arxiv.org/abs/2507.18448v1,2025-07-24 14:33:13+00:00
+86,On the Performance of Concept Probing: The Influence of the Data (Extended Version),2507.18550,http://arxiv.org/abs/2507.18550v1,2025-07-24 16:18:46+00:00
+87,Beyond Internal Data: Constructing Complete Datasets for Fairness Testing,2507.18561,http://arxiv.org/abs/2507.18561v1,2025-07-24 16:35:42+00:00
+88,PosterMate: Audience-driven Collaborative Persona Agents for Poster Design,2507.18572,http://arxiv.org/abs/2507.18572v1,2025-07-24 16:46:25+00:00
+89,SafeWork-R1: Coevolving Safety and Intelligence under the AI-45$^{\circ}$ Law,2507.18576,http://arxiv.org/abs/2507.18576v2,2025-07-24 16:49:19+00:00
+90,DR.EHR: Dense Retrieval for Electronic Health Record with Knowledge Injection and Synthetic Data,2507.18583,http://arxiv.org/abs/2507.18583v1,2025-07-24 17:02:46+00:00
+91,DRWKV: Focusing on Object Edges for Low-Light Image Enhancement,2507.18594,http://arxiv.org/abs/2507.18594v1,2025-07-24 17:24:59+00:00
+92,SynC: Synthetic Image Caption Dataset Refinement with One-to-many Mapping for Zero-shot Image Captioning,2507.18616,http://arxiv.org/abs/2507.18616v1,2025-07-24 17:53:26+00:00
+93,Moving Out: Physically-grounded Human-AI Collaboration,2507.18623,http://arxiv.org/abs/2507.18623v2,2025-07-24 17:57:18+00:00
+94,3D Software Synthesis Guided by Constraint-Expressive Intermediate Representation,2507.18625,http://arxiv.org/abs/2507.18625v1,2025-07-24 17:58:03+00:00
+95,SIDA: Synthetic Image Driven Zero-shot Domain Adaptation,2507.18632,http://arxiv.org/abs/2507.18632v1,2025-07-24 17:59:36+00:00
+96,Concept Probing: Where to Find Human-Defined Concepts (Extended Version),2507.18681,http://arxiv.org/abs/2507.18681v1,2025-07-24 16:30:10+00:00
+97,Agentic Program Repair from Test Failures at Scale: A Neuro-symbolic approach with static analysis and test execution feedback,2507.18755,http://arxiv.org/abs/2507.18755v1,2025-07-24 19:12:32+00:00
+98,Tell Me What You See: An Iterative Deep Learning Framework for Image Captioning,2507.18788,http://arxiv.org/abs/2507.18788v1,2025-07-24 20:20:44+00:00
+99,Flow Stochastic Segmentation Networks,2507.18838,http://arxiv.org/abs/2507.18838v1,2025-07-24 22:26:28+00:00
