@@ -1,0 +1,49 @@
+,title,id,arxiv_url,published
+0,Optimising Perfect Quantum State Transfer for Timing Insensitivity,2507.18872,http://arxiv.org/abs/2507.18872v1,2025-07-25 01:07:35+00:00
+1,Almost fault--tolerant quantum machine learning with drastic overhead reduction,2507.18954,http://arxiv.org/abs/2507.18954v1,2025-07-25 04:43:37+00:00
+2,Scalable native multi-qubit gates for fluxonium architectures with tunable plasmon interactions,2507.18984,http://arxiv.org/abs/2507.18984v1,2025-07-25 06:28:19+00:00
+3,"Approximate k-uniform states: definition, construction and applications",2507.19018,http://arxiv.org/abs/2507.19018v1,2025-07-25 07:11:57+00:00
+4,"Wave packets, ""negative times"" and the elephant in the room",2507.19105,http://arxiv.org/abs/2507.19105v1,2025-07-25 09:40:16+00:00
+5,Shallow-depth GHZ state generation on NISQ devices,2507.19145,http://arxiv.org/abs/2507.19145v1,2025-07-25 10:33:30+00:00
+6,Polaritonic Coupled Cluster Theory for Unpolarized Cavities Exploiting Point Group Symmetry,2507.19180,http://arxiv.org/abs/2507.19180v1,2025-07-25 11:42:54+00:00
+7,Barren-plateau free variational quantum simulation of Z2 lattice gauge theories,2507.19203,http://arxiv.org/abs/2507.19203v1,2025-07-25 12:16:02+00:00
+8,Resource-Efficient Hadamard Test Circuits for Nonlinear Dynamics on a Trapped-Ion Quantum Computer,2507.19250,http://arxiv.org/abs/2507.19250v1,2025-07-25 13:16:54+00:00
+9,Probing Quantum States Over Spacetime Through Interferometry,2507.19258,http://arxiv.org/abs/2507.19258v1,2025-07-25 13:36:01+00:00
+10,Time-Dependent Hamiltonian Simulation via Time-Independent Dynamics in a Larger Space,2507.19345,http://arxiv.org/abs/2507.19345v1,2025-07-25 14:55:44+00:00
+11,"A Clockwork Quantum: Symmetry, Noise, and the Emergence of Quantum Order",2507.19348,http://arxiv.org/abs/2507.19348v1,2025-07-25 14:59:03+00:00
+12,Quantum Algorithm for Protein Side-Chain Optimisation: Comparing Quantum to Classical Methods,2507.19383,http://arxiv.org/abs/2507.19383v1,2025-07-25 15:37:04+00:00
+13,Photon catalysis for general multimode multi-photon quantum state preparation,2507.19397,http://arxiv.org/abs/2507.19397v1,2025-07-25 16:03:35+00:00
+14,Directional Codes: a new family of quantum LDPC codes on hexagonal- and square-grid connectivity hardware,2507.19430,http://arxiv.org/abs/2507.19430v1,2025-07-25 16:57:21+00:00
+15,Hidden shift problem for complex functions,2507.19440,http://arxiv.org/abs/2507.19440v1,2025-07-25 17:16:31+00:00
+16,Random approximate quantum information masking,2507.19454,http://arxiv.org/abs/2507.19454v1,2025-07-25 17:38:30+00:00
+17,Persistent subradiant correlations in a random driven Dicke model,2507.19467,http://arxiv.org/abs/2507.19467v1,2025-07-25 17:53:56+00:00
+18,Light and divergences: History and outlook,2507.19569,http://arxiv.org/abs/2507.19569v1,2025-07-25 17:00:00+00:00
+19,Real-Time Observation of Aharonov-Bohm Interference in a $\mathbb{Z}_2$ Lattice Gauge Theory on a Hybrid Qubit-Oscillator Quantum Computer,2507.19588,http://arxiv.org/abs/2507.19588v1,2025-07-25 18:02:33+00:00
+20,Quantum Internet Architecture: unlocking Quantum-Native Routing via Quantum Addressing,2507.19655,http://arxiv.org/abs/2507.19655v1,2025-07-25 20:01:46+00:00
+21,Quantum diffusion in the Harper model under polychromatic time-perturbation,2507.18859,http://arxiv.org/abs/2507.18859v1,2025-07-25 00:18:58+00:00
+22,Quantum simulation of multiscale linear transport equations via Schrödingerization and exponential integrators,2507.18970,http://arxiv.org/abs/2507.18970v1,2025-07-25 05:44:28+00:00
+23,Enhanced photon-pair generation from a van der Waals metasurface,2507.18994,http://arxiv.org/abs/2507.18994v1,2025-07-25 06:45:33+00:00
+24,PGKET: A Photonic Gaussian Kernel Enhanced Transformer,2507.19041,http://arxiv.org/abs/2507.19041v1,2025-07-25 07:52:24+00:00
+25,Graph Neural Network-Based Predictor for Optimal Quantum Hardware Selection,2507.19093,http://arxiv.org/abs/2507.19093v1,2025-07-25 09:23:04+00:00
+26,Photon condensation from thermal sources and the limits of heat engines,2507.19128,http://arxiv.org/abs/2507.19128v1,2025-07-25 10:09:11+00:00
+27,Probing the spatial distribution of k-vectors in situ with Bose-Einstein condensates,2507.19157,http://arxiv.org/abs/2507.19157v1,2025-07-25 10:58:58+00:00
+28,Towards System-Level Quantum-Accelerator Integration,2507.19212,http://arxiv.org/abs/2507.19212v1,2025-07-25 12:30:42+00:00
+29,Feature-Resolved Photoluminescence Analysis: Probing Emission Beyond Conventional Photon Statistics,2507.19226,http://arxiv.org/abs/2507.19226v1,2025-07-25 12:50:00+00:00
+30,On the Discretization Error of the Discrete Generalized Quantum Master Equation,2507.19323,http://arxiv.org/abs/2507.19323v1,2025-07-25 14:34:53+00:00
+31,PennyCoder: Efficient Domain-Specific LLMs for PennyLane-Based Quantum Code Generation,2507.19562,http://arxiv.org/abs/2507.19562v1,2025-07-25 12:02:49+00:00
+32,"Reply to ""Counterfactual communication not achieved yet -- A Comment on Salih et al. (2022)""",2507.19563,http://arxiv.org/abs/2507.19563v1,2025-07-25 15:16:13+00:00
+33,Cyclotron reonance in a kagome spin liquid candidate material,2507.19576,http://arxiv.org/abs/2507.19576v1,2025-07-25 18:00:00+00:00
+34,Non-volatile photorefractive tuning and green light generation in a diamond cavity,2507.19583,http://arxiv.org/abs/2507.19583v1,2025-07-25 18:00:03+00:00
+35,Characterization of Polariton Dynamics in a Multimode Cavity (II): Coherent-Incoherent Transition Driven by Photon Loss,2507.19671,http://arxiv.org/abs/2507.19671v1,2025-07-25 20:52:25+00:00
+36,Exponentially robust non-Clifford gate in a driven-dissipative circuit,2507.19713,http://arxiv.org/abs/2507.19713v1,2025-07-25 23:26:48+00:00
+37,Spinon Singlet: Microscopic Mechanism of $d$-Wave Pairing in a Partially-Filled Stripe,2507.18892,http://arxiv.org/abs/2507.18892v1,2025-07-25 02:24:37+00:00
+38,Kibble-Zurek mechanism for dissipative discrete time crystals,2507.18950,http://arxiv.org/abs/2507.18950v1,2025-07-25 04:38:04+00:00
+39,Neural network ensemble for computing cross sections for rotational transitions in H$_{2}$O + H$_{2}$O collisions,2507.18974,http://arxiv.org/abs/2507.18974v1,2025-07-25 05:59:32+00:00
+40,Autocallable Options Pricing with Integration-Based Exponential Amplitude Loading,2507.19039,http://arxiv.org/abs/2507.19039v1,2025-07-25 07:48:37+00:00
+41,Pulse-based optimization of quantum many-body states with Rydberg atoms in optical tweezer arrays,2507.19153,http://arxiv.org/abs/2507.19153v1,2025-07-25 10:51:49+00:00
+42,Implementing Credit Risk Analysis with Quantum Singular Value Transformation,2507.19206,http://arxiv.org/abs/2507.19206v1,2025-07-25 12:25:42+00:00
+43,Is the Full Power of Gaussian Boson Sampling Required for Simulating Vibronic Spectra Using Photonics?,2507.19442,http://arxiv.org/abs/2507.19442v1,2025-07-25 17:17:15+00:00
+44,Geometric Representation of Generalized Coherent States and their Symplectic Capacities: A Synthetic Approach,2507.19606,http://arxiv.org/abs/2507.19606v1,2025-07-25 18:22:16+00:00
+45,Quantum Reinforcement Learning by Adaptive Non-local Observables,2507.19629,http://arxiv.org/abs/2507.19629v1,2025-07-25 18:57:16+00:00
+46,Quantum-Efficient Convolution through Sparse Matrix Encoding and Low-Depth Inner Product Circuits,2507.19658,http://arxiv.org/abs/2507.19658v1,2025-07-25 20:08:12+00:00
+47,Quasi-isospectral higher-order Hamiltonians via a reversed Lax pair construction,2507.19622,http://arxiv.org/abs/2507.19622v1,2025-07-25 18:41:03+00:00
