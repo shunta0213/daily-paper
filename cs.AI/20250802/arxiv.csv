@@ -1,0 +1,64 @@
+,title,id,arxiv_url,published
+0,Minding Motivation: The Effect of Intrinsic Motivation on Agent Behaviors,2507.19725,http://arxiv.org/abs/2507.19725v1,2025-07-26 00:49:25+00:00
+1,Can LLMs Solve ASP Problems? Insights from a Benchmarking Study (Extended Version),2507.19749,http://arxiv.org/abs/2507.19749v1,2025-07-26 02:46:08+00:00
+2,Reinforcement Learning for Multi-Objective Multi-Echelon Supply Chain Optimisation,2507.19788,http://arxiv.org/abs/2507.19788v1,2025-07-26 04:30:11+00:00
+3,Causality-aligned Prompt Learning via Diffusion-based Counterfactual Generation,2507.19882,http://arxiv.org/abs/2507.19882v1,2025-07-26 09:27:52+00:00
+4,What Does 'Human-Centred AI' Mean?,2507.19960,http://arxiv.org/abs/2507.19960v2,2025-07-26 14:18:52+00:00
+5,An ontological analysis of risk in Basic Formal Ontology,2507.21171,http://arxiv.org/abs/2507.21171v1,2025-07-26 00:44:47+00:00
+6,Ontological Foundations of State Sovereignty,2507.21172,http://arxiv.org/abs/2507.21172v1,2025-07-26 01:21:25+00:00
+7,Tell Me You're Biased Without Telling Me You're Biased -- Toward Revealing Implicit Biases in Medical LLMs,2507.21176,http://arxiv.org/abs/2507.21176v1,2025-07-26 02:33:48+00:00
+8,HypKG: Hypergraph-based Knowledge Graph Contextualization for Precision Healthcare,2507.19726,http://arxiv.org/abs/2507.19726v2,2025-07-26 00:51:50+00:00
+9,Quaternion-Based Robust PCA for Efficient Moving Target Detection and Background Recovery in Color Videos,2507.19730,http://arxiv.org/abs/2507.19730v1,2025-07-26 01:05:03+00:00
+10,Integrating Activity Predictions in Knowledge Graphs,2507.19733,http://arxiv.org/abs/2507.19733v1,2025-07-26 01:22:06+00:00
+11,Defining ethically sourced code generation,2507.19743,http://arxiv.org/abs/2507.19743v1,2025-07-26 02:27:06+00:00
+12,UloRL:An Ultra-Long Output Reinforcement Learning Approach for Advancing Large Language Models' Reasoning Abilities,2507.19766,http://arxiv.org/abs/2507.19766v1,2025-07-26 03:42:33+00:00
+13,Large Language Model Agent for Structural Drawing Generation Using ReAct Prompt Engineering and Retrieval Augmented Generation,2507.19771,http://arxiv.org/abs/2507.19771v1,2025-07-26 03:47:12+00:00
+14,AI-Based Clinical Rule Discovery for NMIBC Recurrence through Tsetlin Machines,2507.19803,http://arxiv.org/abs/2507.19803v1,2025-07-26 05:32:13+00:00
+15,From Few-Label to Zero-Label: An Approach for Cross-System Log-Based Anomaly Detection with Meta-Learning,2507.19806,http://arxiv.org/abs/2507.19806v1,2025-07-26 05:38:51+00:00
+16,A Cooperative Approach for Knowledge-based Business Process Design in a Public Authority,2507.19842,http://arxiv.org/abs/2507.19842v1,2025-07-26 07:31:28+00:00
+17,RaGS: Unleashing 3D Gaussian Splatting from 4D Radar and Monocular Cues for 3D Object Detection,2507.19856,http://arxiv.org/abs/2507.19856v2,2025-07-26 08:17:12+00:00
+18,Trivial Trojans: How Minimal MCP Servers Enable Cross-Tool Exfiltration of Sensitive Data,2507.19880,http://arxiv.org/abs/2507.19880v1,2025-07-26 09:22:40+00:00
+19,FedS2R: One-Shot Federated Domain Generalization for Synthetic-to-Real Semantic Segmentation in Autonomous Driving,2507.19881,http://arxiv.org/abs/2507.19881v1,2025-07-26 09:24:00+00:00
+20,Interpretable Open-Vocabulary Referring Object Detection with Reverse Contrast Attention,2507.19891,http://arxiv.org/abs/2507.19891v2,2025-07-26 09:43:09+00:00
+21,AgentMesh: A Cooperative Multi-Agent Generative AI Framework for Software Development Automation,2507.19902,http://arxiv.org/abs/2507.19902v1,2025-07-26 10:10:02+00:00
+22,CrossPL: Evaluating Large Language Models on Cross Programming Language Code Generation,2507.19904,http://arxiv.org/abs/2507.19904v1,2025-07-26 10:28:39+00:00
+23,A mini-batch training strategy for deep subspace clustering networks,2507.19917,http://arxiv.org/abs/2507.19917v1,2025-07-26 11:44:39+00:00
+24,DynamiX: Large-Scale Dynamic Social Network Simulator,2507.19929,http://arxiv.org/abs/2507.19929v1,2025-07-26 12:13:30+00:00
+25,RARE: Refine Any Registration of Pairwise Point Clouds via Zero-Shot Learning,2507.19950,http://arxiv.org/abs/2507.19950v1,2025-07-26 13:34:39+00:00
+26,Pic2Diagnosis: A Method for Diagnosis of Cardiovascular Diseases from the Printed ECG Pictures,2507.19961,http://arxiv.org/abs/2507.19961v1,2025-07-26 14:21:25+00:00
+27,CLASP: General-Purpose Clothes Manipulation with Semantic Keypoints,2507.19983,http://arxiv.org/abs/2507.19983v1,2025-07-26 15:43:25+00:00
+28,NIRS: An Ontology for Non-Invasive Respiratory Support in Acute Care,2507.19992,http://arxiv.org/abs/2507.19992v1,2025-07-26 16:05:20+00:00
+29,"VLQA: The First Comprehensive, Large, and High-Quality Vietnamese Dataset for Legal Question Answering",2507.19995,http://arxiv.org/abs/2507.19995v1,2025-07-26 16:26:50+00:00
+30,Matching Game Preferences Through Dialogical Large Language Models: A Perspective,2507.20000,http://arxiv.org/abs/2507.20000v1,2025-07-26 16:40:17+00:00
+31,"Robust Taxi Fare Prediction Under Noisy Conditions: A Comparative Study of GAT, TimesNet, and XGBoost",2507.20008,http://arxiv.org/abs/2507.20008v1,2025-07-26 16:55:16+00:00
+32,"Policy-Driven AI in Dataspaces: Taxonomy, Explainability, and Pathways for Compliant Innovation",2507.20014,http://arxiv.org/abs/2507.20014v2,2025-07-26 17:07:01+00:00
+33,FedSWA: Improving Generalization in Federated Learning with Highly Heterogeneous Data via Momentum-Based Stochastic Controlled Weight Averaging,2507.20016,http://arxiv.org/abs/2507.20016v1,2025-07-26 17:12:40+00:00
+34,Anomaly Detection in Human Language via Meta-Learning: A Few-Shot Approach,2507.20019,http://arxiv.org/abs/2507.20019v1,2025-07-26 17:23:03+00:00
+35,TAPS : Frustratingly Simple Test Time Active Learning for VLMs,2507.20028,http://arxiv.org/abs/2507.20028v1,2025-07-26 18:04:49+00:00
+36,FaRMamba: Frequency-based learning and Reconstruction aided Mamba for Medical Segmentation,2507.20056,http://arxiv.org/abs/2507.20056v1,2025-07-26 20:41:53+00:00
+37,A ChatGPT-based approach for questions generation in higher education,2507.21174,http://arxiv.org/abs/2507.21174v2,2025-07-26 01:54:12+00:00
+38,LLM-Adapted Interpretation Framework for Machine Learning Models,2507.21179,http://arxiv.org/abs/2507.21179v1,2025-07-26 15:50:08+00:00
+39,SmartCourse: A Contextual AI-Powered Course Advising System for Undergraduates,2507.22946,http://arxiv.org/abs/2507.22946v1,2025-07-26 13:49:41+00:00
+40,Predicting Human Mobility in Disasters via LLM-Enhanced Cross-City Learning,2507.19737,http://arxiv.org/abs/2507.19737v1,2025-07-26 01:45:27+00:00
+41,Modeling enzyme temperature stability from sequence segment perspective,2507.19755,http://arxiv.org/abs/2507.19755v1,2025-07-26 03:01:58+00:00
+42,HCAttention: Extreme KV Cache Compression via Heterogeneous Attention Computing for LLMs,2507.19823,http://arxiv.org/abs/2507.19823v1,2025-07-26 06:43:14+00:00
+43,AutoSign: Direct Pose-to-Text Translation for Continuous Sign Language Recognition,2507.19840,http://arxiv.org/abs/2507.19840v1,2025-07-26 07:28:33+00:00
+44,Agentic Reinforced Policy Optimization,2507.19849,http://arxiv.org/abs/2507.19849v1,2025-07-26 07:53:11+00:00
+45,TS-Insight: Visualizing Thompson Sampling for Verification and XAI,2507.19898,http://arxiv.org/abs/2507.19898v1,2025-07-26 09:58:26+00:00
+46,The Impact of Fine-tuning Large Language Models on Automated Program Repair,2507.19909,http://arxiv.org/abs/2507.19909v1,2025-07-26 10:42:08+00:00
+47,Deep Learning Based Joint Channel Estimation and Positioning for Sparse XL-MIMO OFDM Systems,2507.19936,http://arxiv.org/abs/2507.19936v1,2025-07-26 12:47:39+00:00
+48,Predicting Brain Responses To Natural Movies With Multimodal LLMs,2507.19956,http://arxiv.org/abs/2507.19956v1,2025-07-26 13:57:08+00:00
+49,Dimer-Enhanced Optimization: A First-Order Approach to Escaping Saddle Points in Neural Network Training,2507.19968,http://arxiv.org/abs/2507.19968v1,2025-07-26 14:57:32+00:00
+50,Leveraging Fine-Tuned Large Language Models for Interpretable Pancreatic Cystic Lesion Feature Extraction and Risk Categorization,2507.19973,http://arxiv.org/abs/2507.19973v1,2025-07-26 15:02:32+00:00
+51,"Digital Twin Channel-Enabled Online Resource Allocation for 6G: Principle, Architecture and Application",2507.19974,http://arxiv.org/abs/2507.19974v1,2025-07-26 15:07:45+00:00
+52,A roadmap for AI in robotics,2507.19975,http://arxiv.org/abs/2507.19975v1,2025-07-26 15:18:28+00:00
+53,Improving the Performance of Sequential Recommendation Systems with an Extended Large Language Model,2507.19990,http://arxiv.org/abs/2507.19990v1,2025-07-26 15:59:25+00:00
+54,Finding Personalized Good-Enough Solutions to Unsatisfiable Stable Roommates Problems,2507.20010,http://arxiv.org/abs/2507.20010v1,2025-07-26 16:56:10+00:00
+55,"The Carbon Cost of Conversation, Sustainability in the Age of Language Models",2507.20018,http://arxiv.org/abs/2507.20018v2,2025-07-26 17:21:11+00:00
+56,When Engineering Outruns Intelligence: A Re-evaluation of Instruction-Guided Navigation,2507.20021,http://arxiv.org/abs/2507.20021v1,2025-07-26 17:37:15+00:00
+57,Irredundant $k$-Fold Cross-Validation,2507.20048,http://arxiv.org/abs/2507.20048v1,2025-07-26 19:59:37+00:00
+58,RAG in the Wild: On the (In)effectiveness of LLMs with Mixture-of-Knowledge Retrieval Augmentation,2507.20059,http://arxiv.org/abs/2507.20059v1,2025-07-26 20:57:24+00:00
+59,PITA: Preference-Guided Inference-Time Alignment for LLM Post-Training,2507.20067,http://arxiv.org/abs/2507.20067v1,2025-07-26 21:46:32+00:00
+60,Shape Invariant 3D-Variational Autoencoder: Super Resolution in Turbulence flow,2507.22082,http://arxiv.org/abs/2507.22082v1,2025-07-26 17:28:39+00:00
+61,ChoreoMuse: Robust Music-to-Dance Video Generation with Style Transfer and Beat-Adherent Motion,2507.19836,http://arxiv.org/abs/2507.19836v1,2025-07-26 07:17:50+00:00
+62,VAE-GAN Based Price Manipulation in Coordinated Local Energy Markets,2507.19844,http://arxiv.org/abs/2507.19844v1,2025-07-26 07:38:27+00:00
