@@ -1,0 +1,61 @@
+,title,id,arxiv_url,published
+0,Concept Learning for Cooperative Multi-Agent Reinforcement Learning,2507.20143,http://arxiv.org/abs/2507.20143v1,2025-07-27 06:22:24+00:00
+1,StepFun-Prover Preview: Let's Think and Verify Step by Step,2507.20199,http://arxiv.org/abs/2507.20199v1,2025-07-27 09:38:32+00:00
+2,Improving Subgraph Matching by Combining Algorithms and Graph Neural Networks,2507.20226,http://arxiv.org/abs/2507.20226v1,2025-07-27 11:10:15+00:00
+3,Artificial Intelligence In Patent And Market Intelligence: A New Paradigm For Technology Scouting,2507.20322,http://arxiv.org/abs/2507.20322v1,2025-07-27 15:22:39+00:00
+4,Multi-Agent Reinforcement Learning for Dynamic Mobility Resource Allocation with Hierarchical Adaptive Grouping,2507.20377,http://arxiv.org/abs/2507.20377v2,2025-07-27 18:40:04+00:00
+5,MazeEval: A Benchmark for Testing Sequential Decision-Making in Language Models,2507.20395,http://arxiv.org/abs/2507.20395v1,2025-07-27 19:33:45+00:00
+6,Learning to Align Human Code Preferences,2507.20109,http://arxiv.org/abs/2507.20109v1,2025-07-27 02:48:26+00:00
+7,AI-Driven Generation of Old English: A Framework for Low-Resource Languages,2507.20111,http://arxiv.org/abs/2507.20111v1,2025-07-27 03:29:19+00:00
+8,Packet-Level DDoS Data Augmentation Using Dual-Stream Temporal-Field Diffusion,2507.20115,http://arxiv.org/abs/2507.20115v1,2025-07-27 03:40:56+00:00
+9,Iterative Pretraining Framework for Interatomic Potentials,2507.20118,http://arxiv.org/abs/2507.20118v1,2025-07-27 03:59:41+00:00
+10,Awesome-OL: An Extensible Toolkit for Online Learning,2507.20144,http://arxiv.org/abs/2507.20144v1,2025-07-27 06:34:37+00:00
+11,Multi-Agent Interactive Question Generation Framework for Long Document Understanding,2507.20145,http://arxiv.org/abs/2507.20145v1,2025-07-27 06:44:53+00:00
+12,Goal Alignment in LLM-Based User Simulators for Conversational AI,2507.20152,http://arxiv.org/abs/2507.20152v1,2025-07-27 07:07:12+00:00
+13,Trust the Model: Compact VLMs as In-Context Judges for Image-Text Data Quality,2507.20156,http://arxiv.org/abs/2507.20156v1,2025-07-27 07:20:25+00:00
+14,ASNN: Learning to Suggest Neural Architectures from Performance Distributions,2507.20164,http://arxiv.org/abs/2507.20164v1,2025-07-27 07:39:33+00:00
+15,High-Performance Parallel Optimization of the Fish School Behaviour on the Setonix Platform Using OpenMP,2507.20173,http://arxiv.org/abs/2507.20173v1,2025-07-27 08:25:08+00:00
+16,"LRR-Bench: Left, Right or Rotate? Vision-Language models Still Struggle With Spatial Understanding Tasks",2507.20174,http://arxiv.org/abs/2507.20174v1,2025-07-27 08:31:24+00:00
+17,SGPO: Self-Generated Preference Optimization based on Self-Improver,2507.20181,http://arxiv.org/abs/2507.20181v1,2025-07-27 08:55:40+00:00
+18,Partial Domain Adaptation via Importance Sampling-based Shift Correction,2507.20191,http://arxiv.org/abs/2507.20191v1,2025-07-27 09:19:07+00:00
+19,Color histogram equalization and fine-tuning to improve expression recognition of (partially occluded) faces on sign language datasets,2507.20197,http://arxiv.org/abs/2507.20197v1,2025-07-27 09:29:15+00:00
+20,Protein-SE(3): Benchmarking SE(3)-based Generative Models for Protein Structure Design,2507.20243,http://arxiv.org/abs/2507.20243v1,2025-07-27 11:53:05+00:00
+21,Post-Completion Learning for Language Models,2507.20252,http://arxiv.org/abs/2507.20252v1,2025-07-27 12:47:26+00:00
+22,SciToolAgent: A Knowledge Graph-Driven Scientific Agent for Multi-Tool Integration,2507.20280,http://arxiv.org/abs/2507.20280v1,2025-07-27 13:55:35+00:00
+23,MIPS: a Multimodal Infinite Polymer Sequence Pre-training Framework for Polymer Property Prediction,2507.20326,http://arxiv.org/abs/2507.20326v1,2025-07-27 15:34:51+00:00
+24,"Cultivating Helpful, Personalized, and Creative AI Tutors: A Framework for Pedagogical Alignment using Reinforcement Learning",2507.20335,http://arxiv.org/abs/2507.20335v1,2025-07-27 15:56:29+00:00
+25,VLMPlanner: Integrating Visual Language Models with Motion Planning,2507.20342,http://arxiv.org/abs/2507.20342v1,2025-07-27 16:15:21+00:00
+26,Clustering by Attention: Leveraging Prior Fitted Transformers for Data Partitioning,2507.20369,http://arxiv.org/abs/2507.20369v1,2025-07-27 17:53:19+00:00
+27,WBHT: A Generative Attention Architecture for Detecting Black Hole Anomalies in Backbone Networks,2507.20373,http://arxiv.org/abs/2507.20373v1,2025-07-27 18:22:28+00:00
+28,Solving Scene Understanding for Autonomous Navigation in Unstructured Environments,2507.20389,http://arxiv.org/abs/2507.20389v1,2025-07-27 19:11:21+00:00
+29,A Multi-Stage Hybrid CNN-Transformer Network for Automated Pediatric Lung Sound Classification,2507.20408,http://arxiv.org/abs/2507.20408v1,2025-07-27 20:36:46+00:00
+30,CodeNER: Code Prompting for Named Entity Recognition,2507.20423,http://arxiv.org/abs/2507.20423v1,2025-07-27 21:49:36+00:00
+31,FAST: Similarity-based Knowledge Transfer for Efficient Policy Learning,2507.20433,http://arxiv.org/abs/2507.20433v1,2025-07-27 22:21:53+00:00
+32,"When Prompts Go Wrong: Evaluating Code Model Robustness to Ambiguous, Contradictory, and Incomplete Task Descriptions",2507.20439,http://arxiv.org/abs/2507.20439v1,2025-07-27 23:16:14+00:00
+33,SDD: Self-Degraded Defense against Malicious Fine-tuning,2507.21182,http://arxiv.org/abs/2507.21182v1,2025-07-27 02:08:21+00:00
+34,Embeddings to Diagnosis: Latent Fragility under Agentic Perturbations in Clinical LLMs,2507.21188,http://arxiv.org/abs/2507.21188v1,2025-07-27 16:48:53+00:00
+35,Spatial-Temporal Reinforcement Learning for Network Routing with Non-Markovian Traffic,2507.22174,http://arxiv.org/abs/2507.22174v2,2025-07-27 08:00:43+00:00
+36,Local Prompt Adaptation for Style-Consistent Multi-Object Generation in Diffusion Models,2507.20094,http://arxiv.org/abs/2507.20094v1,2025-07-27 01:32:13+00:00
+37,EcoTransformer: Attention without Multiplication,2507.20096,http://arxiv.org/abs/2507.20096v1,2025-07-27 01:32:54+00:00
+38,NeuroVoxel-LM: Language-Aligned 3D Perception via Dynamic Voxelization and Meta-Embedding,2507.20110,http://arxiv.org/abs/2507.20110v1,2025-07-27 03:11:08+00:00
+39,Online Learning with Probing for Sequential User-Centric Selection,2507.20112,http://arxiv.org/abs/2507.20112v1,2025-07-27 03:32:51+00:00
+40,Aggregation-aware MLP: An Unsupervised Approach for Graph Message-passing,2507.20127,http://arxiv.org/abs/2507.20127v1,2025-07-27 04:52:55+00:00
+41,Sem-DPO: Mitigating Semantic Inconsistency in Preference Optimization for Prompt Engineering,2507.20133,http://arxiv.org/abs/2507.20133v2,2025-07-27 05:20:13+00:00
+42,Multi-Stage Verification-Centric Framework for Mitigating Hallucination in Multi-Modal RAG,2507.20136,http://arxiv.org/abs/2507.20136v1,2025-07-27 05:45:45+00:00
+43,Do Not Mimic My Voice: Speaker Identity Unlearning for Zero-Shot Text-to-Speech,2507.20140,http://arxiv.org/abs/2507.20140v1,2025-07-27 06:13:58+00:00
+44,The Policy Cliff: A Theoretical Analysis of Reward-Policy Maps in Large Language Models,2507.20150,http://arxiv.org/abs/2507.20150v1,2025-07-27 06:56:10+00:00
+45,NeuroCLIP: A Multimodal Contrastive Learning Method for rTMS-treated Methamphetamine Addiction Analysis,2507.20189,http://arxiv.org/abs/2507.20189v1,2025-07-27 09:16:39+00:00
+46,Humanoid Occupancy: Enabling A Generalized Multimodal Occupancy Perception System on Humanoid Robots,2507.20217,http://arxiv.org/abs/2507.20217v2,2025-07-27 10:47:00+00:00
+47,Multi-Attention Stacked Ensemble for Lung Cancer Detection in CT Scans,2507.20221,http://arxiv.org/abs/2507.20221v1,2025-07-27 11:03:07+00:00
+48,A Multi-Agent System Enables Versatile Information Extraction from the Chemical Literature,2507.20230,http://arxiv.org/abs/2507.20230v2,2025-07-27 11:16:57+00:00
+49,Learning from Expert Factors: Trajectory-level Reward Shaping for Formulaic Alpha Mining,2507.20263,http://arxiv.org/abs/2507.20263v1,2025-07-27 13:14:48+00:00
+50,Towards Generalized Parameter Tuning in Coherent Ising Machines: A Portfolio-Based Approach,2507.20295,http://arxiv.org/abs/2507.20295v1,2025-07-27 14:18:54+00:00
+51,A Comparative Study of OpenMP Scheduling Algorithm Selection Strategies,2507.20312,http://arxiv.org/abs/2507.20312v1,2025-07-27 15:10:30+00:00
+52,The Blessing and Curse of Dimensionality in Safety Alignment,2507.20333,http://arxiv.org/abs/2507.20333v1,2025-07-27 15:51:23+00:00
+53,A Theory of $θ$-Expectations,2507.20353,http://arxiv.org/abs/2507.20353v1,2025-07-27 16:56:01+00:00
+54,Cognitive Chain-of-Thought: Structured Multimodal Reasoning about Social Situations,2507.20409,http://arxiv.org/abs/2507.20409v1,2025-07-27 20:40:30+00:00
+55,Survey of NLU Benchmarks Diagnosing Linguistic Phenomena: Why not Standardize Diagnostics Benchmarks?,2507.20419,http://arxiv.org/abs/2507.20419v1,2025-07-27 21:30:50+00:00
+56,ResCap-DBP: A Lightweight Residual-Capsule Network for Accurate DNA-Binding Protein Prediction Using Global ProteinBERT Embeddings,2507.20426,http://arxiv.org/abs/2507.20426v1,2025-07-27 21:54:32+00:00
+57,MaPPO: Maximum a Posteriori Preference Optimization with Prior Knowledge,2507.21183,http://arxiv.org/abs/2507.21183v1,2025-07-27 05:26:50+00:00
+58,EvoSLD: Automated Neural Scaling Law Discovery With Large Language Models,2507.21184,http://arxiv.org/abs/2507.21184v1,2025-07-27 05:45:26+00:00
+59,Contrast-CAT: Contrasting Activations for Enhanced Interpretability in Transformer-based Text Classifiers,2507.21186,http://arxiv.org/abs/2507.21186v1,2025-07-27 11:53:01+00:00
