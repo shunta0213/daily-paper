@@ -1,0 +1,87 @@
+,title,id,arxiv_url,published
+0,H2C: Hippocampal Circuit-inspired Continual Learning for Lifelong Trajectory Prediction in Autonomous Driving,2508.01158,http://arxiv.org/abs/2508.01158v1,2025-08-02 02:49:41+00:00
+1,Importance Sampling is All You Need: Predict LLM's performance on new benchmark by reusing existing benchmark,2508.01203,http://arxiv.org/abs/2508.01203v1,2025-08-02 05:34:05+00:00
+2,Calibrated Prediction Set in Fault Detection with Risk Guarantees via Significance Tests,2508.01208,http://arxiv.org/abs/2508.01208v1,2025-08-02 05:49:02+00:00
+3,SketchAgent: Generating Structured Diagrams from Hand-Drawn Sketches,2508.01237,http://arxiv.org/abs/2508.01237v1,2025-08-02 07:22:51+00:00
+4,Unifying Mixture of Experts and Multi-Head Latent Attention for Efficient Language Models,2508.01261,http://arxiv.org/abs/2508.01261v1,2025-08-02 08:33:30+00:00
+5,KCR: Resolving Long-Context Knowledge Conflicts via Reasoning in LLMs,2508.01273,http://arxiv.org/abs/2508.01273v2,2025-08-02 09:09:50+00:00
+6,How Far Are LLMs from Symbolic Planners? An NLP-Based Perspective,2508.01300,http://arxiv.org/abs/2508.01300v1,2025-08-02 10:20:52+00:00
+7,Towards Evaluation for Real-World LLM Unlearning,2508.01324,http://arxiv.org/abs/2508.01324v1,2025-08-02 11:32:41+00:00
+8,NatureGAIA: Pushing the Frontiers of GUI Agents with a Challenging Benchmark and High-Quality Trajectory Dataset,2508.01330,http://arxiv.org/abs/2508.01330v2,2025-08-02 11:53:41+00:00
+9,Relation-Aware LNN-Transformer for Intersection-Centric Next-Step Prediction,2508.01368,http://arxiv.org/abs/2508.01368v1,2025-08-02 13:47:12+00:00
+10,TripTailor: A Real-World Benchmark for Personalized Travel Planning,2508.01432,http://arxiv.org/abs/2508.01432v1,2025-08-02 16:44:02+00:00
+11,$R^2$-CoD: Understanding Text-Graph Complementarity in Relational Reasoning via Knowledge Co-Distillation,2508.01475,http://arxiv.org/abs/2508.01475v1,2025-08-02 19:51:50+00:00
+12,CARGO: A Co-Optimization Framework for EV Charging and Routing in Goods Delivery Logistics,2508.01476,http://arxiv.org/abs/2508.01476v1,2025-08-02 20:08:46+00:00
+13,WinkTPG: An Execution Framework for Multi-Agent Path Finding Using Temporal Reasoning,2508.01495,http://arxiv.org/abs/2508.01495v1,2025-08-02 21:33:08+00:00
+14,Large Language Model-based Data Science Agent: A Survey,2508.02744,http://arxiv.org/abs/2508.02744v1,2025-08-02 17:33:18+00:00
+15,Human-Robot Red Teaming for Safety-Aware Reasoning,2508.01129,http://arxiv.org/abs/2508.01129v1,2025-08-02 00:55:09+00:00
+16,Personalized Safety Alignment for Text-to-Image Diffusion Models,2508.01151,http://arxiv.org/abs/2508.01151v2,2025-08-02 02:23:20+00:00
+17,Asking the Right Questions: Benchmarking Large Language Models in the Development of Clinical Consultation Templates,2508.01159,http://arxiv.org/abs/2508.01159v1,2025-08-02 02:51:27+00:00
+18,RSPO: Risk-Seeking Policy Optimization for Pass@k and Max@k Metrics in Large Language Models,2508.01174,http://arxiv.org/abs/2508.01174v1,2025-08-02 03:25:26+00:00
+19,A Survey on Agent Workflow -- Status and Future,2508.01186,http://arxiv.org/abs/2508.01186v1,2025-08-02 04:15:30+00:00
+20,SpectrumWorld: Artificial Intelligence Foundation for Spectroscopy,2508.01188,http://arxiv.org/abs/2508.01188v3,2025-08-02 04:21:07+00:00
+21,BSL: A Unified and Generalizable Multitask Learning Platform for Virtual Drug Discovery from Design to Synthesis,2508.01195,http://arxiv.org/abs/2508.01195v1,2025-08-02 04:58:56+00:00
+22,Adaptive Content Restriction for Large Language Models via Suffix Optimization,2508.01198,http://arxiv.org/abs/2508.01198v1,2025-08-02 05:09:58+00:00
+23,Deep Learning for Pavement Condition Evaluation Using Satellite Imagery,2508.01206,http://arxiv.org/abs/2508.01206v1,2025-08-02 05:43:33+00:00
+24,Oldie but Goodie: Re-illuminating Label Propagation on Graphs with Partially Observed Features,2508.01209,http://arxiv.org/abs/2508.01209v1,2025-08-02 05:50:41+00:00
+25,WebDS: An End-to-End Benchmark for Web-based Data Science,2508.01222,http://arxiv.org/abs/2508.01222v1,2025-08-02 06:39:59+00:00
+26,Multi-Cache Enhanced Prototype Learning for Test-Time Generalization of Vision-Language Models,2508.01225,http://arxiv.org/abs/2508.01225v1,2025-08-02 06:43:43+00:00
+27,Win-k: Improved Membership Inference Attacks on Small Language Models,2508.01268,http://arxiv.org/abs/2508.01268v1,2025-08-02 08:50:42+00:00
+28,Multi-TW: Benchmarking Multimodal Models on Traditional Chinese Question Answering in Taiwan,2508.01274,http://arxiv.org/abs/2508.01274v1,2025-08-02 09:10:15+00:00
+29,Defending Against Beta Poisoning Attacks in Machine Learning Models,2508.01276,http://arxiv.org/abs/2508.01276v1,2025-08-02 09:13:10+00:00
+30,Exploitation Is All You Need... for Exploration,2508.01287,http://arxiv.org/abs/2508.01287v1,2025-08-02 09:42:59+00:00
+31,GMAT: Grounded Multi-Agent Clinical Description Generation for Text Encoder in Vision-Language MIL for Whole Slide Image Classification,2508.01293,http://arxiv.org/abs/2508.01293v1,2025-08-02 09:59:39+00:00
+32,PUZZLED: Jailbreaking LLMs through Word-Based Puzzles,2508.01306,http://arxiv.org/abs/2508.01306v1,2025-08-02 10:36:01+00:00
+33,D-SCoRE: Document-Centric Segmentation and CoT Reasoning with Structured Export for QA-CoT Data Generation,2508.01309,http://arxiv.org/abs/2508.01309v1,2025-08-02 10:45:05+00:00
+34,Is Exploration or Optimization the Problem for Deep Reinforcement Learning?,2508.01329,http://arxiv.org/abs/2508.01329v1,2025-08-02 11:40:26+00:00
+35,Referring Remote Sensing Image Segmentation with Cross-view Semantics Interaction Network,2508.01331,http://arxiv.org/abs/2508.01331v1,2025-08-02 11:57:56+00:00
+36,BlockA2A: Towards Secure and Verifiable Agent-to-Agent Interoperability,2508.01332,http://arxiv.org/abs/2508.01332v2,2025-08-02 11:59:21+00:00
+37,Weakly-Supervised Image Forgery Localization via Vision-Language Collaborative Reasoning Framework,2508.01338,http://arxiv.org/abs/2508.01338v1,2025-08-02 12:14:29+00:00
+38,SBP-YOLO:A Lightweight Real-Time Model for Detecting Speed Bumps and Potholes,2508.01339,http://arxiv.org/abs/2508.01339v1,2025-08-02 12:15:08+00:00
+39,UEChecker: Detecting Unchecked External Call Vulnerabilities in DApps via Graph Analysis,2508.01343,http://arxiv.org/abs/2508.01343v1,2025-08-02 12:40:17+00:00
+40,Convergence Analysis of Aggregation-Broadcast in LoRA-enabled Federated Learning,2508.01348,http://arxiv.org/abs/2508.01348v1,2025-08-02 12:54:17+00:00
+41,Effective Damage Data Generation by Fusing Imagery with Human Knowledge Using Vision-Language Models,2508.01380,http://arxiv.org/abs/2508.01380v1,2025-08-02 14:22:25+00:00
+42,A Full-Stage Refined Proposal Algorithm for Suppressing False Positives in Two-Stage CNN-Based Detection Methods,2508.01382,http://arxiv.org/abs/2508.01382v1,2025-08-02 14:25:37+00:00
+43,"Video-based Vehicle Surveillance in the Wild: License Plate, Make, and Model Recognition with Self Reflective Vision-Language Models",2508.01387,http://arxiv.org/abs/2508.01387v1,2025-08-02 14:34:19+00:00
+44,"Recognising, Anticipating, and Mitigating LLM Pollution of Online Behavioural Research",2508.01390,http://arxiv.org/abs/2508.01390v1,2025-08-02 14:40:54+00:00
+45,Spatial-Frequency Aware for Object Detection in RAW Image,2508.01396,http://arxiv.org/abs/2508.01396v2,2025-08-02 15:03:23+00:00
+46,"MedSynth: Realistic, Synthetic Medical Dialogue-Note Pairs",2508.01401,http://arxiv.org/abs/2508.01401v1,2025-08-02 15:18:19+00:00
+47,RoboMemory: A Brain-inspired Multi-memory Agentic Framework for Lifelong Learning in Physical Embodied Systems,2508.01415,http://arxiv.org/abs/2508.01415v2,2025-08-02 15:39:42+00:00
+48,From Query to Logic: Ontology-Driven Multi-Hop Reasoning in LLMs,2508.01424,http://arxiv.org/abs/2508.01424v1,2025-08-02 16:12:42+00:00
+49,Capturing More: Learning Multi-Domain Representations for Robust Online Handwriting Verification,2508.01427,http://arxiv.org/abs/2508.01427v1,2025-08-02 16:20:35+00:00
+50,Tuning LLM-based Code Optimization via Meta-Prompting: An Industrial Perspective,2508.01443,http://arxiv.org/abs/2508.01443v1,2025-08-02 17:11:40+00:00
+51,Fast and scalable retrosynthetic planning with a transformer neural network and speculative beam search,2508.01459,http://arxiv.org/abs/2508.01459v1,2025-08-02 18:30:06+00:00
+52,Training Dynamics of the Cooldown Stage in Warmup-Stable-Decay Learning Rate Scheduler,2508.01483,http://arxiv.org/abs/2508.01483v1,2025-08-02 20:36:52+00:00
+53,Recovering Individual-Level Activity Sequences from Location-Based Service Data Using a Novel Transformer-Based Model,2508.02734,http://arxiv.org/abs/2508.02734v1,2025-08-02 00:33:18+00:00
+54,Towards Bridging Review Sparsity in Recommendation with Textual Edge Graph Representation,2508.01128,http://arxiv.org/abs/2508.01128v1,2025-08-02 00:53:40+00:00
+55,COLLAGE: Adaptive Fusion-based Retrieval for Augmented Policy Learning,2508.01131,http://arxiv.org/abs/2508.01131v1,2025-08-02 01:23:09+00:00
+56,Dataset Condensation with Color Compensation,2508.01139,http://arxiv.org/abs/2508.01139v1,2025-08-02 01:44:23+00:00
+57,GeHirNet: A Gender-Aware Hierarchical Model for Voice Pathology Classification,2508.01172,http://arxiv.org/abs/2508.01172v1,2025-08-02 03:19:44+00:00
+58,Advancing the Foundation Model for Music Understanding,2508.01178,http://arxiv.org/abs/2508.01178v1,2025-08-02 03:33:47+00:00
+59,Is Chain-of-Thought Reasoning of LLMs a Mirage? A Data Distribution Lens,2508.01191,http://arxiv.org/abs/2508.01191v2,2025-08-02 04:37:28+00:00
+60,Conquering High Packet-Loss Erasure: MoE Swin Transformer-Based Video Semantic Communication,2508.01205,http://arxiv.org/abs/2508.01205v1,2025-08-02 05:41:52+00:00
+61,Bridging LLMs and Symbolic Reasoning in Educational QA Systems: Insights from the XAI Challenge at IJCNN 2025,2508.01263,http://arxiv.org/abs/2508.01263v1,2025-08-02 08:46:06+00:00
+62,"BioDisco: Multi-agent hypothesis generation with dual-mode evidence, iterative feedback and temporal evaluation",2508.01285,http://arxiv.org/abs/2508.01285v1,2025-08-02 09:32:52+00:00
+63,CoCoLIT: ControlNet-Conditioned Latent Image Translation for MRI to Amyloid PET Synthesis,2508.01292,http://arxiv.org/abs/2508.01292v1,2025-08-02 09:58:30+00:00
+64,Idempotent Equilibrium Analysis of Hybrid Workflow Allocation: A Mathematical Schema for Future Work,2508.01323,http://arxiv.org/abs/2508.01323v1,2025-08-02 11:28:34+00:00
+65,Classification of Brain Tumors using Hybrid Deep Learning Models,2508.01350,http://arxiv.org/abs/2508.01350v1,2025-08-02 12:56:18+00:00
+66,Prompt to Pwn: Automated Exploit Generation for Smart Contracts,2508.01371,http://arxiv.org/abs/2508.01371v1,2025-08-02 13:52:15+00:00
+67,Via Score to Performance: Efficient Human-Controllable Long Song Generation with Bar-Level Symbolic Notation,2508.01394,http://arxiv.org/abs/2508.01394v1,2025-08-02 14:58:34+00:00
+68,Reconstructing Trust Embeddings from Siamese Trust Scores: A Direct-Sum Approach with Fixed-Point Semantics,2508.01479,http://arxiv.org/abs/2508.01479v1,2025-08-02 20:19:22+00:00
+69,PESTO: Real-Time Pitch Estimation with Self-supervised Transposition-equivariant Objective,2508.01488,http://arxiv.org/abs/2508.01488v1,2025-08-02 21:00:55+00:00
+70,Translation-Equivariant Self-Supervised Learning for Pitch Estimation with Optimal Transport,2508.01493,http://arxiv.org/abs/2508.01493v1,2025-08-02 21:31:14+00:00
+71,ShrutiSense: Microtonal Modeling and Correction in Indian Classical Music,2508.01498,http://arxiv.org/abs/2508.01498v1,2025-08-02 21:42:47+00:00
+72,FlashSVD: Memory-Efficient Inference with Streaming for Low-Rank Models,2508.01506,http://arxiv.org/abs/2508.01506v1,2025-08-02 22:06:46+00:00
+73,Decentralized Aerial Manipulation of a Cable-Suspended Load using Multi-Agent Reinforcement Learning,2508.01522,http://arxiv.org/abs/2508.01522v1,2025-08-02 23:52:33+00:00
+74,Kronos: A Foundation Model for the Language of Financial Markets,2508.02739,http://arxiv.org/abs/2508.02739v1,2025-08-02 13:15:59+00:00
+75,Who Gets Cited? Gender- and Majority-Bias in LLM-Driven Reference Selection,2508.02740,http://arxiv.org/abs/2508.02740v1,2025-08-02 13:27:32+00:00
+76,"DeepGB-TB: A Risk-Balanced Cross-Attention Gradient-Boosted Convolutional Network for Rapid, Interpretable Tuberculosis Screening",2508.02741,http://arxiv.org/abs/2508.02741v1,2025-08-02 14:11:07+00:00
+77,SpectrumFM: A New Paradigm for Spectrum Cognition,2508.02742,http://arxiv.org/abs/2508.02742v1,2025-08-02 14:40:50+00:00
+78,A Novel cVAE-Augmented Deep Learning Framework for Pan-Cancer RNA-Seq Classification,2508.02743,http://arxiv.org/abs/2508.02743v1,2025-08-02 16:57:31+00:00
+79,Classifying Epistemic Relationships in Human-AI Interaction: An Exploratory Approach,2508.03673,http://arxiv.org/abs/2508.03673v1,2025-08-02 23:41:28+00:00
+80,Data-Driven Discovery of Mobility Periodicity for Understanding Urban Transportation Systems,2508.03747,http://arxiv.org/abs/2508.03747v1,2025-08-02 15:25:20+00:00
+81,DBAIOps: A Reasoning LLM-Enhanced Database Operation and Maintenance System using Knowledge Graphs,2508.01136,http://arxiv.org/abs/2508.01136v1,2025-08-02 01:36:57+00:00
+82,Benchmarking and Bridging Emotion Conflicts for Multimodal Emotion Reasoning,2508.01181,http://arxiv.org/abs/2508.01181v1,2025-08-02 04:03:44+00:00
+83,AgentArmor: Enforcing Program Analysis on Agent Runtime Trace to Defend Against Prompt Injection,2508.01249,http://arxiv.org/abs/2508.01249v1,2025-08-02 07:59:34+00:00
+84,A Large-Scale Benchmark of Cross-Modal Learning for Histology and Gene Expression in Spatial Transcriptomics,2508.01490,http://arxiv.org/abs/2508.01490v1,2025-08-02 21:11:36+00:00
+85,The Vanishing Gradient Problem for Stiff Neural Differential Equations,2508.01519,http://arxiv.org/abs/2508.01519v1,2025-08-02 23:44:14+00:00
