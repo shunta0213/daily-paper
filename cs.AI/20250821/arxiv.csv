@@ -1,0 +1,101 @@
+,title,id,arxiv_url,published
+0,Promoting Efficient Reasoning with Verifiable Stepwise Reward,2508.10293,http://arxiv.org/abs/2508.10293v2,2025-08-14 02:43:53+00:00
+1,Multi-Agent Trust Region Policy Optimisation: A Joint Constraint Approach,2508.10340,http://arxiv.org/abs/2508.10340v1,2025-08-14 04:48:46+00:00
+2,What to Ask Next? Probing the Imaginative Reasoning of LLMs with TurtleSoup Puzzles,2508.10358,http://arxiv.org/abs/2508.10358v1,2025-08-14 05:55:42+00:00
+3,LeanRAG: Knowledge-Graph-Based Generation with Semantic Aggregation and Hierarchical Retrieval,2508.10391,http://arxiv.org/abs/2508.10391v2,2025-08-14 06:47:18+00:00
+4,SEQ-GPT: LLM-assisted Spatial Query via Example,2508.10486,http://arxiv.org/abs/2508.10486v1,2025-08-14 09:41:55+00:00
+5,MSRS: Adaptive Multi-Subspace Representation Steering for Attribute Alignment in Large Language Models,2508.10599,http://arxiv.org/abs/2508.10599v1,2025-08-14 12:40:19+00:00
+6,GenOM: Ontology Matching with Description Generation and Large Language Model,2508.10703,http://arxiv.org/abs/2508.10703v1,2025-08-14 14:48:09+00:00
+7,The Knowledge-Reasoning Dissociation: Fundamental Limitations of LLMs in Clinical Natural Language Inference,2508.10777,http://arxiv.org/abs/2508.10777v1,2025-08-14 16:01:10+00:00
+8,Who Benefits from AI Explanations? Towards Accessible and Interpretable Systems,2508.10806,http://arxiv.org/abs/2508.10806v1,2025-08-14 16:26:09+00:00
+9,Grounding Rule-Based Argumentation Using Datalog,2508.10976,http://arxiv.org/abs/2508.10976v1,2025-08-14 17:57:32+00:00
+10,From Individual to Multi-Agent Algorithmic Recourse: Minimizing the Welfare Gap via Capacitated Bipartite Matching,2508.11070,http://arxiv.org/abs/2508.11070v1,2025-08-14 21:04:24+00:00
+11,MRFD: Multi-Region Fusion Decoding with Self-Consistency for Mitigating Hallucinations in LVLMs,2508.10264,http://arxiv.org/abs/2508.10264v1,2025-08-14 01:17:39+00:00
+12,Why Cannot Large Language Models Ever Make True Correct Reasoning?,2508.10265,http://arxiv.org/abs/2508.10265v2,2025-08-14 01:18:18+00:00
+13,Yet another algorithmic bias: A Discursive Analysis of Large Language Models Reinforcing Dominant Discourses on Gender and Race,2508.10304,http://arxiv.org/abs/2508.10304v1,2025-08-14 03:22:02+00:00
+14,ReviewRL: Towards Automated Scientific Review with RL,2508.10308,http://arxiv.org/abs/2508.10308v1,2025-08-14 03:26:13+00:00
+15,A Vision-Language Pre-training Model-Guided Approach for Mitigating Backdoor Attacks in Federated Learning,2508.10315,http://arxiv.org/abs/2508.10315v1,2025-08-14 03:39:54+00:00
+16,A Curriculum Learning Approach to Reinforcement Learning: Leveraging RAG for Multimodal Question Answering,2508.10337,http://arxiv.org/abs/2508.10337v1,2025-08-14 04:37:56+00:00
+17,eMamba: Efficient Acceleration Framework for Mamba Models in Edge Computing,2508.10370,http://arxiv.org/abs/2508.10370v1,2025-08-14 06:08:05+00:00
+18,Unlocking Robust Semantic Segmentation Performance via Label-only Elastic Deformations against Implicit Label Noise,2508.10383,http://arxiv.org/abs/2508.10383v1,2025-08-14 06:27:43+00:00
+19,PQ-DAF: Pose-driven Quality-controlled Data Augmentation for Data-scarce Driver Distraction Detection,2508.10397,http://arxiv.org/abs/2508.10397v1,2025-08-14 06:54:28+00:00
+20,Layer-Wise Perturbations via Sparse Autoencoders for Adversarial Text Generation,2508.10404,http://arxiv.org/abs/2508.10404v1,2025-08-14 07:12:44+00:00
+21,AnalogSeeker: An Open-source Foundation Language Model for Analog Circuit Design,2508.10409,http://arxiv.org/abs/2508.10409v1,2025-08-14 07:32:07+00:00
+22,HiRef: Leveraging Hierarchical Ontology and Network Refinement for Robust Medication Recommendation,2508.10425,http://arxiv.org/abs/2508.10425v1,2025-08-14 07:55:03+00:00
+23,RealAC: A Domain-Agnostic Framework for Realistic and Actionable Counterfactual Explanations,2508.10455,http://arxiv.org/abs/2508.10455v1,2025-08-14 08:51:39+00:00
+24,X-Node: Self-Explanation is All We Need,2508.10461,http://arxiv.org/abs/2508.10461v1,2025-08-14 09:00:45+00:00
+25,FIRESPARQL: A LLM-based Framework for SPARQL Query Generation over Scholarly Knowledge Graphs,2508.10467,http://arxiv.org/abs/2508.10467v1,2025-08-14 09:08:50+00:00
+26,Enhanced Sparse Point Cloud Data Processing for Privacy-aware Human Action Recognition,2508.10469,http://arxiv.org/abs/2508.10469v1,2025-08-14 09:09:49+00:00
+27,PASS: Probabilistic Agentic Supernet Sampling for Interpretable and Adaptive Chest X-Ray Reasoning,2508.10501,http://arxiv.org/abs/2508.10501v2,2025-08-14 10:03:47+00:00
+28,Advances in Logic-Based Entity Resolution: Enhancing ASPEN with Local Merges and Optimality Criteria,2508.10504,http://arxiv.org/abs/2508.10504v1,2025-08-14 10:05:56+00:00
+29,Multi-Sample Anti-Aliasing and Constrained Optimization for 3D Gaussian Splatting,2508.10507,http://arxiv.org/abs/2508.10507v1,2025-08-14 10:14:36+00:00
+30,Med-GLIP: Advancing Medical Language-Image Pre-training with Large-scale Grounded Dataset,2508.10528,http://arxiv.org/abs/2508.10528v1,2025-08-14 11:02:38+00:00
+31,"Diversity First, Quality Later: A Two-Stage Assumption for Language Model Alignment",2508.10530,http://arxiv.org/abs/2508.10530v1,2025-08-14 11:05:18+00:00
+32,Improving Value-based Process Verifier via Low-Cost Variance Reduction,2508.10539,http://arxiv.org/abs/2508.10539v1,2025-08-14 11:22:29+00:00
+33,When Language Overrules: Revealing Text Dominance in Multimodal Large Language Models,2508.10552,http://arxiv.org/abs/2508.10552v1,2025-08-14 11:44:52+00:00
+34,Retrieval-Augmented Prompt for OOD Detection,2508.10556,http://arxiv.org/abs/2508.10556v1,2025-08-14 11:52:43+00:00
+35,PTQAT: A Hybrid Parameter-Efficient Quantization Algorithm for 3D Perception Tasks,2508.10557,http://arxiv.org/abs/2508.10557v2,2025-08-14 11:55:21+00:00
+36,Fake Speech Wild: Detecting Deepfake Speech on Social Media Platform,2508.10559,http://arxiv.org/abs/2508.10559v1,2025-08-14 11:56:30+00:00
+37,FreeGAD: A Training-Free yet Effective Approach for Graph Anomaly Detection,2508.10594,http://arxiv.org/abs/2508.10594v2,2025-08-14 12:37:20+00:00
+38,Fourier-Guided Attention Upsampling for Image Super-Resolution,2508.10616,http://arxiv.org/abs/2508.10616v1,2025-08-14 13:13:17+00:00
+39,SPHENIC: Topology-Informed Multi-View Clustering for Spatial Transcriptomics,2508.10646,http://arxiv.org/abs/2508.10646v1,2025-08-14 13:43:28+00:00
+40,Serial Over Parallel: Learning Continual Unification for Multi-Modal Visual Object Tracking and Benchmarking,2508.10655,http://arxiv.org/abs/2508.10655v1,2025-08-14 13:54:04+00:00
+41,AddressVLM: Cross-view Alignment Tuning for Image Address Localization using Large Vision-Language Models,2508.10667,http://arxiv.org/abs/2508.10667v1,2025-08-14 14:06:28+00:00
+42,STEP: Stepwise Curriculum Learning for Context-Knowledge Fusion in Conversational Recommendation,2508.10669,http://arxiv.org/abs/2508.10669v1,2025-08-14 14:08:21+00:00
+43,Hybrid Generative Fusion for Efficient and Privacy-Preserving Face Recognition Dataset Generation,2508.10672,http://arxiv.org/abs/2508.10672v2,2025-08-14 14:14:18+00:00
+44,Continuous Bangla Sign Language Translation: Mitigating the Expense of Gloss Annotation with the Assistance of Graph,2508.10687,http://arxiv.org/abs/2508.10687v1,2025-08-14 14:32:31+00:00
+45,REFN: A Reinforcement-Learning-From-Network Framework against 1-day/n-day Exploitations,2508.10701,http://arxiv.org/abs/2508.10701v1,2025-08-14 14:45:45+00:00
+46,Electromagnetic Simulations of Antennas on GPUs for Machine Learning Applications,2508.10713,http://arxiv.org/abs/2508.10713v1,2025-08-14 14:56:04+00:00
+47,EgoCross: Benchmarking Multimodal Large Language Models for Cross-Domain Egocentric Video Question Answering,2508.10729,http://arxiv.org/abs/2508.10729v1,2025-08-14 15:11:20+00:00
+48,APFL: Analytic Personalized Federated Learning via Dual-Stream Least Squares,2508.10732,http://arxiv.org/abs/2508.10732v1,2025-08-14 15:12:50+00:00
+49,Scaling Up without Fading Out: Goal-Aware Sparse GNN for RL-based Generalized Planning,2508.10747,http://arxiv.org/abs/2508.10747v2,2025-08-14 15:30:28+00:00
+50,Natively Trainable Sparse Attention for Hierarchical Point Cloud Datasets,2508.10758,http://arxiv.org/abs/2508.10758v1,2025-08-14 15:39:34+00:00
+51,FROGENT: An End-to-End Full-process Drug Design Agent,2508.10760,http://arxiv.org/abs/2508.10760v1,2025-08-14 15:45:53+00:00
+52,Modeling Human Responses to Multimodal AI Content,2508.10769,http://arxiv.org/abs/2508.10769v1,2025-08-14 15:55:19+00:00
+53,AEGIS: Authenticity Evaluation Benchmark for AI-Generated Video Sequences,2508.10771,http://arxiv.org/abs/2508.10771v1,2025-08-14 15:55:49+00:00
+54,Estimating Covariance for Global Minimum Variance Portfolio: A Decision-Focused Learning Approach,2508.10776,http://arxiv.org/abs/2508.10776v1,2025-08-14 16:00:52+00:00
+55,Ultra-High-Definition Reference-Based Landmark Image Super-Resolution with Generative Diffusion Prior,2508.10779,http://arxiv.org/abs/2508.10779v1,2025-08-14 16:04:39+00:00
+56,The SET Perceptual Factors Framework: Towards Assured Perception for Autonomous Systems,2508.10798,http://arxiv.org/abs/2508.10798v1,2025-08-14 16:22:01+00:00
+57,A Multimodal Neural Network for Recognizing Subjective Self-Disclosure Towards Social Robots,2508.10828,http://arxiv.org/abs/2508.10828v1,2025-08-14 16:50:51+00:00
+58,From Black Box to Transparency: Enhancing Automated Interpreting Assessment with Explainable AI in College Classrooms,2508.10860,http://arxiv.org/abs/2508.10860v1,2025-08-14 17:31:18+00:00
+59,Performance of GPT-5 in Brain Tumor MRI Reasoning,2508.10865,http://arxiv.org/abs/2508.10865v1,2025-08-14 17:35:31+00:00
+60,Medico 2025: Visual Question Answering for Gastrointestinal Imaging,2508.10869,http://arxiv.org/abs/2508.10869v1,2025-08-14 17:43:46+00:00
+61,TLE-Based A2C Agent for Terrestrial Coverage Orbital Path Planning,2508.10872,http://arxiv.org/abs/2508.10872v1,2025-08-14 17:44:51+00:00
+62,ToonComposer: Streamlining Cartoon Production with Generative Post-Keyframing,2508.10881,http://arxiv.org/abs/2508.10881v1,2025-08-14 17:50:11+00:00
+63,Towards Efficient Prompt-based Continual Learning in Distributed Medical AI,2508.10954,http://arxiv.org/abs/2508.10954v1,2025-08-14 06:46:14+00:00
+64,ORBIT: An Object Property Reasoning Benchmark for Visual Inference Tasks,2508.10956,http://arxiv.org/abs/2508.10956v1,2025-08-14 11:28:40+00:00
+65,Retro-Expert: Collaborative Reasoning for Interpretable Retrosynthesis,2508.10967,http://arxiv.org/abs/2508.10967v1,2025-08-14 15:41:25+00:00
+66,Rule2Text: A Framework for Generating and Evaluating Natural Language Explanations of Knowledge Graph Rules,2508.10971,http://arxiv.org/abs/2508.10971v1,2025-08-14 16:41:47+00:00
+67,MCP-Guard: A Defense Framework for Model Context Protocol Integrity in Large Language Model Applications,2508.10991,http://arxiv.org/abs/2508.10991v1,2025-08-14 18:00:25+00:00
+68,SproutBench: A Benchmark for Safe and Ethical Large Language Models for Youth,2508.11009,http://arxiv.org/abs/2508.11009v1,2025-08-14 18:21:39+00:00
+69,CURE: Critical-Token-Guided Re-concatenation for Entropy-collapse Prevention,2508.11016,http://arxiv.org/abs/2508.11016v1,2025-08-14 18:40:34+00:00
+70,Beyond the Rosetta Stone: Unification Forces in Generalization Dynamics,2508.11017,http://arxiv.org/abs/2508.11017v1,2025-08-14 18:44:13+00:00
+71,AI That Helps Us Help Each Other: A Proactive System for Scaffolding Mentor-Novice Collaboration in Entrepreneurship Coaching,2508.11052,http://arxiv.org/abs/2508.11052v1,2025-08-14 20:23:48+00:00
+72,Learn to optimize for automatic proton PBS treatment planning for H&N cancers,2508.11085,http://arxiv.org/abs/2508.11085v1,2025-08-14 21:50:31+00:00
+73,Street Review: A Participatory AI-Based Framework for Assessing Streetscape Inclusivity,2508.11708,http://arxiv.org/abs/2508.11708v1,2025-08-14 02:40:56+00:00
+74,Navigating the New Landscape: A Conceptual Model for Project-Based Assessment (PBA) in the Age of GenAI,2508.11709,http://arxiv.org/abs/2508.11709v1,2025-08-14 05:22:37+00:00
+75,Benchmark Dataset Generation and Evaluation for Excel Formula Repair with LLMs,2508.11715,http://arxiv.org/abs/2508.11715v1,2025-08-14 16:43:35+00:00
+76,Are AI Machines Making Humans Obsolete?,2508.11719,http://arxiv.org/abs/2508.11719v1,2025-08-14 21:24:31+00:00
+77,Facilitating Longitudinal Interaction Studies of AI Systems,2508.10252,http://arxiv.org/abs/2508.10252v1,2025-08-14 00:38:23+00:00
+78,DINOMotion: advanced robust tissue motion tracking with DINOv2 in 2D-Cine MRI-guided radiotherapy,2508.10260,http://arxiv.org/abs/2508.10260v1,2025-08-14 01:02:26+00:00
+79,Pose-Robust Calibration Strategy for Point-of-Gaze Estimation on Mobile Phones,2508.10268,http://arxiv.org/abs/2508.10268v1,2025-08-14 01:28:30+00:00
+80,Welfare-Centric Clustering,2508.10345,http://arxiv.org/abs/2508.10345v1,2025-08-14 05:02:32+00:00
+81,MCP2OSC: Parametric Control by Natural Language,2508.10414,http://arxiv.org/abs/2508.10414v1,2025-08-14 07:38:01+00:00
+82,CorrectNav: Self-Correction Flywheel Empowers Vision-Language-Action Navigation Model,2508.10416,http://arxiv.org/abs/2508.10416v1,2025-08-14 07:39:26+00:00
+83,ComoRAG: A Cognitive-Inspired Memory-Organized RAG for Stateful Long Narrative Reasoning,2508.10419,http://arxiv.org/abs/2508.10419v1,2025-08-14 07:52:09+00:00
+84,MASH: Cooperative-Heterogeneous Multi-Agent Reinforcement Learning for Single Humanoid Robot Locomotion,2508.10423,http://arxiv.org/abs/2508.10423v1,2025-08-14 07:54:31+00:00
+85,"MM-Food-100K: A 100,000-Sample Multimodal Food Intelligence Dataset with Verifiable Provenance",2508.10429,http://arxiv.org/abs/2508.10429v1,2025-08-14 07:59:31+00:00
+86,We-Math 2.0: A Versatile MathBook System for Incentivizing Visual Mathematical Reasoning,2508.10433,http://arxiv.org/abs/2508.10433v1,2025-08-14 08:15:41+00:00
+87,Unpacking the Implicit Norm Dynamics of Sharpness-Aware Minimization in Tensorized Models,2508.10435,http://arxiv.org/abs/2508.10435v1,2025-08-14 08:17:34+00:00
+88,Alternating Approach-Putt Models for Multi-Stage Speech Enhancement,2508.10436,http://arxiv.org/abs/2508.10436v1,2025-08-14 08:18:42+00:00
+89,Pinet: Optimizing hard-constrained neural networks with orthogonal projection layers,2508.10480,http://arxiv.org/abs/2508.10480v1,2025-08-14 09:32:09+00:00
+90,On the Complexity-Faithfulness Trade-off of Gradient-Based Explanations,2508.10490,http://arxiv.org/abs/2508.10490v1,2025-08-14 09:49:07+00:00
+91,Contrastive ECOC: Learning Output Codes for Adversarial Defense,2508.10491,http://arxiv.org/abs/2508.10491v1,2025-08-14 09:50:50+00:00
+92,Reverse Physician-AI Relationship: Full-process Clinical Diagnosis Driven by a Large Language Model,2508.10492,http://arxiv.org/abs/2508.10492v1,2025-08-14 09:51:20+00:00
+93,A Unified Multi-Agent Framework for Universal Multimodal Understanding and Generation,2508.10494,http://arxiv.org/abs/2508.10494v1,2025-08-14 09:52:51+00:00
+94,Stabilizing Long-term Multi-turn Reinforcement Learning with Gated Rewards,2508.10548,http://arxiv.org/abs/2508.10548v1,2025-08-14 11:37:02+00:00
+95,On Spectral Properties of Gradient-based Explanation Methods,2508.10595,http://arxiv.org/abs/2508.10595v1,2025-08-14 12:37:22+00:00
+96,Deep Learning in Classical and Quantum Physics,2508.10666,http://arxiv.org/abs/2508.10666v1,2025-08-14 14:05:12+00:00
+97,Learning from Natural Language Feedback for Personalized Question Answering,2508.10695,http://arxiv.org/abs/2508.10695v1,2025-08-14 14:36:53+00:00
+98,Pass@k Training for Adaptively Balancing Exploration and Exploitation of Large Reasoning Models,2508.10751,http://arxiv.org/abs/2508.10751v1,2025-08-14 15:34:47+00:00
+99,Video-BLADE: Block-Sparse Attention Meets Step Distillation for Efficient Video Generation,2508.10774,http://arxiv.org/abs/2508.10774v1,2025-08-14 15:58:59+00:00
