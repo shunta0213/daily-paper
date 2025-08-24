@@ -1,0 +1,66 @@
+,title,id,arxiv_url,published
+0,RadarQA: Multi-modal Quality Analysis of Weather Radar Forecasts,2508.12291,http://arxiv.org/abs/2508.12291v1,2025-08-17 08:50:07+00:00
+1,Wisdom of the Crowd: Reinforcement Learning from Coevolutionary Collective Feedback,2508.12338,http://arxiv.org/abs/2508.12338v1,2025-08-17 11:57:34+00:00
+2,Hierarchical knowledge guided fault intensity diagnosis of complex industrial systems,2508.12375,http://arxiv.org/abs/2508.12375v1,2025-08-17 14:22:03+00:00
+3,GraphCogent: Overcoming LLMs' Working Memory Constraints via Multi-Agent Collaboration in Complex Graph Understanding,2508.12379,http://arxiv.org/abs/2508.12379v1,2025-08-17 14:28:38+00:00
+4,GALA: Can Graph-Augmented Large Language Model Agentic Workflows Elevate Root Cause Analysis?,2508.12472,http://arxiv.org/abs/2508.12472v1,2025-08-17 19:12:05+00:00
+5,Self-Guided Action Diffusion,2508.12189,http://arxiv.org/abs/2508.12189v1,2025-08-17 00:39:15+00:00
+6,Improving Pre-Trained Vision-Language-Action Policies with Model-Based Search,2508.12211,http://arxiv.org/abs/2508.12211v1,2025-08-17 02:59:42+00:00
+7,Distribution Matching via Generalized Consistency Models,2508.12222,http://arxiv.org/abs/2508.12222v1,2025-08-17 03:37:57+00:00
+8,LinkAnchor: An Autonomous LLM-Based Agent for Issue-to-Commit Link Recovery,2508.12232,http://arxiv.org/abs/2508.12232v1,2025-08-17 04:21:44+00:00
+9,STM3: Mixture of Multiscale Mamba for Long-Term Spatio-Temporal Time-Series Prediction,2508.12247,http://arxiv.org/abs/2508.12247v1,2025-08-17 05:29:58+00:00
+10,Mantis: A Simulation-Grounded Foundation Model for Disease Forecasting,2508.12260,http://arxiv.org/abs/2508.12260v1,2025-08-17 06:55:29+00:00
+11,Region-Level Context-Aware Multimodal Understanding,2508.12263,http://arxiv.org/abs/2508.12263v1,2025-08-17 07:18:43+00:00
+12,The Self-Execution Benchmark: Measuring LLMs' Attempts to Overcome Their Lack of Self-Execution,2508.12277,http://arxiv.org/abs/2508.12277v1,2025-08-17 07:57:58+00:00
+13,CRoC: Context Refactoring Contrast for Graph Anomaly Detection with Limited Supervision,2508.12278,http://arxiv.org/abs/2508.12278v1,2025-08-17 08:05:17+00:00
+14,Mutually Assured Deregulation,2508.12300,http://arxiv.org/abs/2508.12300v1,2025-08-17 09:27:50+00:00
+15,Semantic Discrepancy-aware Detector for Image Forgery Identification,2508.12341,http://arxiv.org/abs/2508.12341v1,2025-08-17 12:11:09+00:00
+16,Uncovering Systematic Failures of LLMs in Verifying Code Against Natural Language Specifications,2508.12358,http://arxiv.org/abs/2508.12358v1,2025-08-17 13:07:26+00:00
+17,IPGPhormer: Interpretable Pathology Graph-Transformer for Survival Analysis,2508.12381,http://arxiv.org/abs/2508.12381v1,2025-08-17 14:32:08+00:00
+18,MedKGent: A Large Language Model Agent Framework for Constructing Temporally Evolving Medical Knowledge Graph,2508.12393,http://arxiv.org/abs/2508.12393v2,2025-08-17 15:14:03+00:00
+19,Extracting Post-Acute Sequelae of SARS-CoV-2 Infection Symptoms from Clinical Notes via Hybrid Natural Language Processing,2508.12405,http://arxiv.org/abs/2508.12405v1,2025-08-17 15:43:05+00:00
+20,SRMA-Mamba: Spatial Reverse Mamba Attention Network for Pathological Liver Segmentation in MRI Volumes,2508.12410,http://arxiv.org/abs/2508.12410v2,2025-08-17 15:52:54+00:00
+21,LumiMAS: A Comprehensive Framework for Real-Time Monitoring and Enhanced Observability in Multi-Agent Systems,2508.12412,http://arxiv.org/abs/2508.12412v1,2025-08-17 15:55:02+00:00
+22,fCrit: A Visual Explanation System for Furniture Design Creative Support,2508.12416,http://arxiv.org/abs/2508.12416v1,2025-08-17 16:03:44+00:00
+23,Non-Iterative Symbolic-Aided Chain-of-Thought for Logical Reasoning,2508.12425,http://arxiv.org/abs/2508.12425v1,2025-08-17 16:32:05+00:00
+24,Tactile Gesture Recognition with Built-in Joint Sensors for Industrial Robots,2508.12435,http://arxiv.org/abs/2508.12435v1,2025-08-17 17:04:58+00:00
+25,A Robust Cross-Domain IDS using BiGRU-LSTM-Attention for Medical and Industrial IoT Security,2508.12470,http://arxiv.org/abs/2508.12470v1,2025-08-17 18:50:23+00:00
+26,Standardization of Neuromuscular Reflex Analysis -- Role of Fine-Tuned Vision-Language Model Consortium and OpenAI gpt-oss Reasoning LLM Enabled Decision Support System,2508.12473,http://arxiv.org/abs/2508.12473v1,2025-08-17 19:13:27+00:00
+27,Design and Validation of a Responsible Artificial Intelligence-based System for the Referral of Diabetic Retinopathy Patients,2508.12506,http://arxiv.org/abs/2508.12506v1,2025-08-17 21:54:11+00:00
+28,An Initial Study of Bird's-Eye View Generation for Autonomous Vehicles using Cross-View Transformers,2508.12520,http://arxiv.org/abs/2508.12520v1,2025-08-17 23:05:00+00:00
+29,Rethinking Safety in LLM Fine-tuning: An Optimization Perspective,2508.12531,http://arxiv.org/abs/2508.12531v1,2025-08-17 23:46:36+00:00
+30,Deep Graph Neural Point Process For Learning Temporal Interactive Networks,2508.13219,http://arxiv.org/abs/2508.13219v1,2025-08-17 11:17:03+00:00
+31,MCPSecBench: A Systematic Security Benchmark and Playground for Testing Model Context Protocols,2508.13220,http://arxiv.org/abs/2508.13220v1,2025-08-17 11:49:16+00:00
+32,MIRAGE: Towards AI-Generated Image Detection in the Wild,2508.13223,http://arxiv.org/abs/2508.13223v1,2025-08-17 12:59:58+00:00
+33,You Don't Know Until You Click:Automated GUI Testing for Production-Ready Software Evaluation,2508.14104,http://arxiv.org/abs/2508.14104v1,2025-08-17 07:31:11+00:00
+34,Disentangling the Drivers of LLM Social Conformity: An Uncertainty-Moderated Dual-Process Mechanism,2508.14918,http://arxiv.org/abs/2508.14918v1,2025-08-17 03:53:55+00:00
+35,Exploring Multimodal AI Reasoning for Meteorological Forecasting from Skew-T Diagrams,2508.12198,http://arxiv.org/abs/2508.12198v1,2025-08-17 01:36:31+00:00
+36,ProtTeX-CC: Activating In-Context Learning in Protein LLM via Two-Stage Instruction Compression,2508.12212,http://arxiv.org/abs/2508.12212v1,2025-08-17 03:03:56+00:00
+37,Towards Generalizable Human Activity Recognition: A Survey,2508.12213,http://arxiv.org/abs/2508.12213v1,2025-08-17 03:04:39+00:00
+38,Unlearning at Scale: Implementing the Right to be Forgotten in Large Language Models,2508.12220,http://arxiv.org/abs/2508.12220v1,2025-08-17 03:29:22+00:00
+39,Interpreting Time Series Forecasts with LIME and SHAP: A Case Study on the Air Passengers Dataset,2508.12253,http://arxiv.org/abs/2508.12253v1,2025-08-17 06:22:29+00:00
+40,Fortifying the Agentic Web: A Unified Zero-Trust Architecture Against Logic-layer Threats,2508.12259,http://arxiv.org/abs/2508.12259v3,2025-08-17 06:52:39+00:00
+41,TSLA: A Task-Specific Learning Adaptation for Semantic Segmentation on Autonomous Vehicles Platform,2508.12279,http://arxiv.org/abs/2508.12279v1,2025-08-17 08:09:13+00:00
+42,"""My productivity is boosted, but ..."" Demystifying Users' Perception on AI Coding Assistants",2508.12285,http://arxiv.org/abs/2508.12285v1,2025-08-17 08:22:47+00:00
+43,HuBERT-VIC: Improving Noise-Robust Automatic Speech Recognition of Speech Foundation Model via Variance-Invariance-Covariance Regularization,2508.12292,http://arxiv.org/abs/2508.12292v1,2025-08-17 08:54:25+00:00
+44,"Synchronization Dynamics of Heterogeneous, Collaborative Multi-Agent AI Systems",2508.12314,http://arxiv.org/abs/2508.12314v1,2025-08-17 10:16:41+00:00
+45,A Large-Scale Web Search Dataset for Federated Online Learning to Rank,2508.12353,http://arxiv.org/abs/2508.12353v1,2025-08-17 12:57:54+00:00
+46,Synthetic Data is Sufficient for Zero-Shot Visual Generalization from Offline Data,2508.12356,http://arxiv.org/abs/2508.12356v1,2025-08-17 13:01:15+00:00
+47,Navigating the Exploration-Exploitation Tradeoff in Inference-Time Scaling of Diffusion Models,2508.12361,http://arxiv.org/abs/2508.12361v1,2025-08-17 13:35:38+00:00
+48,TaoSR1: The Thinking Model for E-commerce Relevance Search,2508.12365,http://arxiv.org/abs/2508.12365v1,2025-08-17 13:48:48+00:00
+49,Where to Start Alignment? Diffusion Large Language Model May Demand a Distinct Position,2508.12398,http://arxiv.org/abs/2508.12398v1,2025-08-17 15:19:57+00:00
+50,Quantum Flow Matching,2508.12413,http://arxiv.org/abs/2508.12413v1,2025-08-17 16:00:20+00:00
+51,Adversarial Attacks on VQA-NLE: Exposing and Alleviating Inconsistencies in Visual Question Answering Explanations,2508.12430,http://arxiv.org/abs/2508.12430v1,2025-08-17 16:53:10+00:00
+52,Uncovering Emergent Physics Representations Learned In-Context by Large Language Models,2508.12448,http://arxiv.org/abs/2508.12448v1,2025-08-17 17:49:17+00:00
+53,Inverse-LLaVA: Eliminating Alignment Pre-training Through Text-to-Vision Mapping,2508.12466,http://arxiv.org/abs/2508.12466v1,2025-08-17 18:36:04+00:00
+54,The Yokai Learning Environment: Tracking Beliefs Over Space and Time,2508.12480,http://arxiv.org/abs/2508.12480v1,2025-08-17 19:42:17+00:00
+55,Cold-RL: Learning Cache Eviction with Offline Reinforcement Learning for NGINX,2508.12485,http://arxiv.org/abs/2508.12485v1,2025-08-17 20:01:12+00:00
+56,Advanced DOA Regulation with a Whale-Optimized Fractional Order Fuzzy PID Framework,2508.12487,http://arxiv.org/abs/2508.12487v1,2025-08-17 20:01:49+00:00
+57,Mitigating Hallucinations in Large Language Models via Causal Reasoning,2508.12495,http://arxiv.org/abs/2508.12495v1,2025-08-17 20:51:06+00:00
+58,Root Cause Analysis of Hydrogen Bond Separation in Spatio-Temporal Molecular Dynamics using Causal Models,2508.12500,http://arxiv.org/abs/2508.12500v1,2025-08-17 21:23:12+00:00
+59,Defining and Benchmarking a Data-Centric Design Space for Brain Graph Construction,2508.12533,http://arxiv.org/abs/2508.12533v1,2025-08-17 23:53:29+00:00
+60,PreSem-Surf: RGB-D Surface Reconstruction with Progressive Semantic Modeling and SG-MLP Pre-Rendering Mechanism,2508.13228,http://arxiv.org/abs/2508.13228v1,2025-08-17 17:00:18+00:00
+61,Accelerating LLM Inference via Dynamic KV Cache Placement in Heterogeneous Memory System,2508.13231,http://arxiv.org/abs/2508.13231v1,2025-08-17 19:07:08+00:00
+62,High-Throughput Low-Cost Segmentation of Brightfield Microscopy Live Cell Images,2508.14106,http://arxiv.org/abs/2508.14106v1,2025-08-17 22:05:58+00:00
+63,An Introduction to Sliced Optimal Transport,2508.12519,http://arxiv.org/abs/2508.12519v1,2025-08-17 22:53:19+00:00
+64,"EXOTIC: An Exact, Optimistic, Tree-Based Algorithm for Min-Max Optimization",2508.12479,http://arxiv.org/abs/2508.12479v1,2025-08-17 19:39:19+00:00
