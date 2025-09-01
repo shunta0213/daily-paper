@@ -1,0 +1,101 @@
+,title,id,arxiv_url,published
+0,TradingGroup: A Multi-Agent Trading System with Self-Reflection and Data-Synthesis,2508.17565,http://arxiv.org/abs/2508.17565v1,2025-08-25 00:29:58+00:00
+1,Evaluating Movement Initiation Timing in Ultimate Frisbee via Temporal Counterfactuals,2508.17611,http://arxiv.org/abs/2508.17611v1,2025-08-25 02:42:08+00:00
+2,A Taxonomy of Transcendence,2508.17669,http://arxiv.org/abs/2508.17669v1,2025-08-25 05:05:00+00:00
+3,FAIRGAMER: Evaluating Biases in the Application of Large Language Models to Video Games,2508.17825,http://arxiv.org/abs/2508.17825v1,2025-08-25 09:26:19+00:00
+4,Language Models Coupled with Metacognition Can Outperform Reasoning Models,2508.17959,http://arxiv.org/abs/2508.17959v1,2025-08-25 12:19:57+00:00
+5,PerPilot: Personalizing VLM-based Mobile Agents via Memory and Exploration,2508.18040,http://arxiv.org/abs/2508.18040v1,2025-08-25 13:57:02+00:00
+6,Efficient Computation of Blackwell Optimal Policies using Rational Functions,2508.18252,http://arxiv.org/abs/2508.18252v1,2025-08-25 17:41:30+00:00
+7,Hermes 4 Technical Report,2508.18255,http://arxiv.org/abs/2508.18255v1,2025-08-25 17:45:06+00:00
+8,Information Templates: A New Paradigm for Intelligent Active Feature Acquisition,2508.18380,http://arxiv.org/abs/2508.18380v1,2025-08-25 18:15:11+00:00
+9,PKG-DPO: Optimizing Domain-Specific AI systems with Physics Knowledge Graphs and Direct Preference Optimization,2508.18391,http://arxiv.org/abs/2508.18391v1,2025-08-25 18:31:03+00:00
+10,The AI in the Mirror: LLM Self-Recognition in an Iterated Public Goods Game,2508.18467,http://arxiv.org/abs/2508.18467v1,2025-08-25 20:35:03+00:00
+11,Language Models For Generalised PDDL Planning: Synthesising Sound and Programmatic Policies,2508.18507,http://arxiv.org/abs/2508.18507v1,2025-08-25 21:28:14+00:00
+12,"Weisfeiler-Leman Features for Planning: A 1,000,000 Sample Size Hyperparameter Study",2508.18515,http://arxiv.org/abs/2508.18515v1,2025-08-25 21:39:03+00:00
+13,Symmetry-Invariant Novelty Heuristics via Unsupervised Weisfeiler-Leman Features,2508.18520,http://arxiv.org/abs/2508.18520v1,2025-08-25 21:46:19+00:00
+14,Generic Guard AI in Stealth Game with Composite Potential Fields,2508.18527,http://arxiv.org/abs/2508.18527v1,2025-08-25 21:56:13+00:00
+15,A Database-Driven Framework for 3D Level Generation with LLMs,2508.18533,http://arxiv.org/abs/2508.18533v1,2025-08-25 22:15:08+00:00
+16,SchemaCoder: Automatic Log Schema Extraction Coder with Residual Q-Tree Boosting,2508.18554,http://arxiv.org/abs/2508.18554v1,2025-08-25 23:12:45+00:00
+17,Consciousness as a Functor,2508.17561,http://arxiv.org/abs/2508.17561v1,2025-08-25 00:06:52+00:00
+18,Steering When Necessary: Flexible Steering Large Language Models with Backtracking,2508.17621,http://arxiv.org/abs/2508.17621v1,2025-08-25 03:01:30+00:00
+19,Stop Spinning Wheels: Mitigating LLM Overthinking via Mining Patterns for Early Reasoning Exit,2508.17627,http://arxiv.org/abs/2508.17627v1,2025-08-25 03:17:17+00:00
+20,ControlEchoSynth: Boosting Ejection Fraction Estimation Models via Controlled Video Diffusion,2508.17631,http://arxiv.org/abs/2508.17631v2,2025-08-25 03:27:25+00:00
+21,Finding Outliers in a Haystack: Anomaly Detection for Large Pointcloud Scenes,2508.17634,http://arxiv.org/abs/2508.17634v2,2025-08-25 03:47:33+00:00
+22,Few-Shot Pattern Detection via Template Matching and Regression,2508.17636,http://arxiv.org/abs/2508.17636v1,2025-08-25 03:52:42+00:00
+23,Weights-Rotated Preference Optimization for Large Language Models,2508.17637,http://arxiv.org/abs/2508.17637v1,2025-08-25 03:57:17+00:00
+24,Hierarchical Vision-Language Learning for Medical Out-of-Distribution Detection,2508.17667,http://arxiv.org/abs/2508.17667v1,2025-08-25 04:55:27+00:00
+25,Unlearning as Ablation: Toward a Falsifiable Benchmark for Generative Scientific Discovery,2508.17681,http://arxiv.org/abs/2508.17681v2,2025-08-25 05:24:15+00:00
+26,LLM-based Agentic Reasoning Frameworks: A Survey from Methods to Scenarios,2508.17692,http://arxiv.org/abs/2508.17692v1,2025-08-25 06:01:16+00:00
+27,Database Normalization via Dual-LLM Self-Refinement,2508.17693,http://arxiv.org/abs/2508.17693v1,2025-08-25 06:02:17+00:00
+28,Instant Preference Alignment for Text-to-Image Diffusion Models,2508.17718,http://arxiv.org/abs/2508.17718v1,2025-08-25 06:51:15+00:00
+29,Speculative Safety-Aware Decoding,2508.17739,http://arxiv.org/abs/2508.17739v1,2025-08-25 07:30:10+00:00
+30,DiffusionGS: Generative Search with Query Conditioned Diffusion in Kuaishou,2508.17754,http://arxiv.org/abs/2508.17754v1,2025-08-25 07:46:51+00:00
+31,AgentRAN: An Agentic AI Architecture for Autonomous Control of Open 6G Networks,2508.17778,http://arxiv.org/abs/2508.17778v1,2025-08-25 08:18:10+00:00
+32,Adaptive Output Steps: FlexiSteps Network for Dynamic Trajectory Prediction,2508.17797,http://arxiv.org/abs/2508.17797v1,2025-08-25 08:43:08+00:00
+33,Scalable Engine and the Performance of Different LLM Models in a SLURM based HPC architecture,2508.17814,http://arxiv.org/abs/2508.17814v1,2025-08-25 09:11:27+00:00
+34,UniSino: Physics-Driven Foundational Model for Universal CT Sinogram Standardization,2508.17816,http://arxiv.org/abs/2508.17816v1,2025-08-25 09:12:14+00:00
+35,Limitations of Normalization in Attention Mechanism,2508.17821,http://arxiv.org/abs/2508.17821v1,2025-08-25 09:25:05+00:00
+36,Group Expectation Policy Optimization for Stable Heterogeneous Reinforcement Learning in LLMs,2508.17850,http://arxiv.org/abs/2508.17850v1,2025-08-25 09:57:35+00:00
+37,VISA: Group-wise Visual Token Selection and Aggregation via Graph Summarization for Efficient MLLMs Inference,2508.17857,http://arxiv.org/abs/2508.17857v1,2025-08-25 10:07:07+00:00
+38,AVAM: Universal Training-free Adaptive Visual Anchoring Embedded into Multimodal Large Language Model for Multi-image Question Answering,2508.17860,http://arxiv.org/abs/2508.17860v1,2025-08-25 10:10:46+00:00
+39,Ada-TransGNN: An Air Quality Prediction Model Based On Adaptive Graph Convolutional Networks,2508.17867,http://arxiv.org/abs/2508.17867v2,2025-08-25 10:22:03+00:00
+40,Edge-Enhanced Vision Transformer Framework for Accurate AI-Generated Image Detection,2508.17877,http://arxiv.org/abs/2508.17877v1,2025-08-25 10:30:56+00:00
+41,A Defect Classification Framework for AI-Based Software Systems (AI-ODC),2508.17900,http://arxiv.org/abs/2508.17900v1,2025-08-25 11:15:31+00:00
+42,Riemannian Optimization for LoRA on the Stiefel Manifold,2508.17901,http://arxiv.org/abs/2508.17901v1,2025-08-25 11:15:52+00:00
+43,AMELIA: A Family of Multi-task End-to-end Language Models for Argumentation,2508.17926,http://arxiv.org/abs/2508.17926v1,2025-08-25 11:51:39+00:00
+44,See What You Need: Query-Aware Visual Intelligence through Reasoning-Perception Loops,2508.17932,http://arxiv.org/abs/2508.17932v1,2025-08-25 12:00:12+00:00
+45,A Feminist Account of Intersectional Algorithmic Fairness,2508.17944,http://arxiv.org/abs/2508.17944v1,2025-08-25 12:09:04+00:00
+46,Neural Algorithmic Reasoners informed Large Language Model for Multi-Agent Path Finding,2508.17971,http://arxiv.org/abs/2508.17971v1,2025-08-25 12:38:08+00:00
+47,Automating Conflict-Aware ACL Configurations with Natural Language Intents,2508.17990,http://arxiv.org/abs/2508.17990v1,2025-08-25 13:00:41+00:00
+48,Previously on... Automating Code Review,2508.18003,http://arxiv.org/abs/2508.18003v1,2025-08-25 13:12:48+00:00
+49,Towards Continual Visual Anomaly Detection in the Medical Domain,2508.18013,http://arxiv.org/abs/2508.18013v1,2025-08-25 13:28:15+00:00
+50,HyST: LLM-Powered Hybrid Retrieval over Semi-Structured Tabular Data,2508.18048,http://arxiv.org/abs/2508.18048v1,2025-08-25 14:06:27+00:00
+51,Dynamic Fusion Multimodal Network for SpeechWellness Detection,2508.18057,http://arxiv.org/abs/2508.18057v1,2025-08-25 14:18:12+00:00
+52,Teaching LLMs to Think Mathematically: A Critical Study of Decision-Making via Optimization,2508.18091,http://arxiv.org/abs/2508.18091v1,2025-08-25 14:52:56+00:00
+53,A.S.E: A Repository-Level Benchmark for Evaluating Security in AI-Generated Code,2508.18106,http://arxiv.org/abs/2508.18106v1,2025-08-25 15:11:11+00:00
+54,CMPhysBench: A Benchmark for Evaluating Large Language Models in Condensed Matter Physics,2508.18124,http://arxiv.org/abs/2508.18124v3,2025-08-25 15:32:22+00:00
+55,Learning from Few Samples: A Novel Approach for High-Quality Malcode Generation,2508.18148,http://arxiv.org/abs/2508.18148v1,2025-08-25 15:55:17+00:00
+56,Amortized Sampling with Transferable Normalizing Flows,2508.18175,http://arxiv.org/abs/2508.18175v1,2025-08-25 16:28:18+00:00
+57,SEAM: Semantically Equivalent Across Modalities Benchmark for Vision-Language Models,2508.18179,http://arxiv.org/abs/2508.18179v1,2025-08-25 16:33:07+00:00
+58,BRAIN: Bias-Mitigation Continual Learning Approach to Vision-Brain Understanding,2508.18187,http://arxiv.org/abs/2508.18187v1,2025-08-25 16:44:43+00:00
+59,Why Synthetic Isn't Real Yet: A Diagnostic Framework for Contact Center Dialogue Generation,2508.18210,http://arxiv.org/abs/2508.18210v1,2025-08-25 17:10:36+00:00
+60,Disentangling the Factors of Convergence between Brains and Computer Vision Models,2508.18226,http://arxiv.org/abs/2508.18226v1,2025-08-25 17:23:27+00:00
+61,Type-Compliant Adaptation Cascades: Adapting Programmatic LM Workflows to Data,2508.18244,http://arxiv.org/abs/2508.18244v1,2025-08-25 17:36:21+00:00
+62,ANO : Faster is Better in Noisy Landscape,2508.18258,http://arxiv.org/abs/2508.18258v1,2025-08-25 17:51:00+00:00
+63,SafeBimanual: Diffusion-based Trajectory Optimization for Safe Bimanual Manipulation,2508.18268,http://arxiv.org/abs/2508.18268v1,2025-08-25 17:59:02+00:00
+64,Backprompting: Leveraging Synthetic Production Data for Health Advice Guardrails,2508.18384,http://arxiv.org/abs/2508.18384v1,2025-08-25 18:17:00+00:00
+65,Latent Self-Consistency for Reliable Majority-Set Selection in Short- and Long-Answer Reasoning,2508.18395,http://arxiv.org/abs/2508.18395v1,2025-08-25 18:36:28+00:00
+66,Can Out-of-Distribution Evaluations Uncover Reliance on Shortcuts? A Case Study in Question Answering,2508.18407,http://arxiv.org/abs/2508.18407v1,2025-08-25 18:49:50+00:00
+67,Low-Rank Tensor Decompositions for the Theory of Neural Networks,2508.18408,http://arxiv.org/abs/2508.18408v1,2025-08-25 18:50:45+00:00
+68,CLARIFY: A Specialist-Generalist Framework for Accurate and Lightweight Dermatological Visual Question Answering,2508.18430,http://arxiv.org/abs/2508.18430v1,2025-08-25 19:22:16+00:00
+69,How Reliable are LLMs for Reasoning on the Re-ranking task?,2508.18444,http://arxiv.org/abs/2508.18444v1,2025-08-25 19:48:39+00:00
+70,VERIRL: Boosting the LLM-based Verilog Code Generation via Reinforcement Learning,2508.18462,http://arxiv.org/abs/2508.18462v1,2025-08-25 20:20:44+00:00
+71,DRTA: Dynamic Reward Scaling for Reinforcement Learning in Time Series Anomaly Detection,2508.18474,http://arxiv.org/abs/2508.18474v1,2025-08-25 20:39:49+00:00
+72,Collaborative Intelligence: Topic Modelling of Large Language Model use in Live Cybersecurity Operations,2508.18488,http://arxiv.org/abs/2508.18488v1,2025-08-25 21:02:13+00:00
+73,Data Augmentation Improves Machine Unlearning,2508.18502,http://arxiv.org/abs/2508.18502v1,2025-08-25 21:17:25+00:00
+74,SAT-SKYLINES: 3D Building Generation from Satellite Imagery and Coarse Geometric Priors,2508.18531,http://arxiv.org/abs/2508.18531v1,2025-08-25 22:03:31+00:00
+75,Beyond prior knowledge: The predictive role of knowledge-building in Tutor Learning,2508.18545,http://arxiv.org/abs/2508.18545v1,2025-08-25 22:45:04+00:00
+76,The Quasi-Creature and the Uncanny Valley of Agency: A Synthesis of Theory and Evidence on User Interaction with Inconsistent Generative AI,2508.18563,http://arxiv.org/abs/2508.18563v1,2025-08-25 23:43:33+00:00
+77,Prompt-in-Content Attacks: Exploiting Uploaded Inputs to Hijack LLM Behavior,2508.19287,http://arxiv.org/abs/2508.19287v1,2025-08-25 05:20:11+00:00
+78,Tricking LLM-Based NPCs into Spilling Secrets,2508.19288,http://arxiv.org/abs/2508.19288v1,2025-08-25 05:25:28+00:00
+79,Seeing Like a Designer Without One: A Study on Unsupervised Slide Quality Assessment via Designer Cue Augmentation,2508.19289,http://arxiv.org/abs/2508.19289v1,2025-08-25 10:07:58+00:00
+80,Efficient Model-Based Purification Against Adversarial Attacks for LiDAR Segmentation,2508.19290,http://arxiv.org/abs/2508.19290v1,2025-08-25 10:14:10+00:00
+81,Stand on The Shoulders of Giants: Building JailExpert from Previous Attack Experience,2508.19292,http://arxiv.org/abs/2508.19292v1,2025-08-25 14:16:30+00:00
+82,DemoBias: An Empirical Study to Trace Demographic Biases in Vision Foundation Models,2508.19298,http://arxiv.org/abs/2508.19298v1,2025-08-25 18:02:49+00:00
+83,UQ: Assessing Language Models on Unsolved Questions,2508.17580,http://arxiv.org/abs/2508.17580v1,2025-08-25 01:07:59+00:00
+84,RubikSQL: Lifelong Learning Agentic Knowledge Base as an Industrial NL2SQL System,2508.17590,http://arxiv.org/abs/2508.17590v1,2025-08-25 01:28:37+00:00
+85,GWM: Towards Scalable Gaussian World Models for Robotic Manipulation,2508.17600,http://arxiv.org/abs/2508.17600v1,2025-08-25 02:01:09+00:00
+86,Spacer: Towards Engineered Scientific Inspiration,2508.17661,http://arxiv.org/abs/2508.17661v1,2025-08-25 04:49:16+00:00
+87,Consistent Opponent Modeling of Static Opponents in Imperfect-Information Games,2508.17671,http://arxiv.org/abs/2508.17671v2,2025-08-25 05:08:49+00:00
+88,Attacking LLMs and AI Agents: Advertisement Embedding Attacks Against Large Language Models,2508.17674,http://arxiv.org/abs/2508.17674v1,2025-08-25 05:13:23+00:00
+89,Robustness Feature Adapter for Efficient Adversarial Training,2508.17680,http://arxiv.org/abs/2508.17680v1,2025-08-25 05:23:50+00:00
+90,EEG-FM-Bench: A Comprehensive Benchmark for the Systematic Evaluation of EEG Foundation Models,2508.17742,http://arxiv.org/abs/2508.17742v1,2025-08-25 07:34:33+00:00
+91,Talking to Robots: A Practical Examination of Speech Foundation Models for HRI Applications,2508.17753,http://arxiv.org/abs/2508.17753v1,2025-08-25 07:45:20+00:00
+92,Algebraic Approach to Ridge-Regularized Mean Squared Error Minimization in Minimal ReLU Neural Network,2508.17783,http://arxiv.org/abs/2508.17783v1,2025-08-25 08:24:20+00:00
+93,Proximal Supervised Fine-Tuning,2508.17784,http://arxiv.org/abs/2508.17784v1,2025-08-25 08:26:43+00:00
+94,Interpretable Early Failure Detection via Machine Learning and Trace Checking-based Monitoring,2508.17786,http://arxiv.org/abs/2508.17786v1,2025-08-25 08:30:01+00:00
+95,MeshSplat: Generalizable Sparse-View Surface Reconstruction via Gaussian Splatting,2508.17811,http://arxiv.org/abs/2508.17811v1,2025-08-25 09:04:20+00:00
+96,Designing Practical Models for Isolated Word Visual Speech Recognition,2508.17894,http://arxiv.org/abs/2508.17894v1,2025-08-25 11:04:36+00:00
+97,Debiasing Multilingual LLMs in Cross-lingual Latent Space,2508.17948,http://arxiv.org/abs/2508.17948v1,2025-08-25 12:13:37+00:00
+98,Understanding Subword Compositionality of Large Language Models,2508.17953,http://arxiv.org/abs/2508.17953v1,2025-08-25 12:16:56+00:00
+99,Arnold: a generalist muscle transformer policy,2508.18066,http://arxiv.org/abs/2508.18066v1,2025-08-25 14:22:40+00:00
