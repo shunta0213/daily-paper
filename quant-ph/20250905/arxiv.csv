@@ -1,0 +1,54 @@
+,title,id,arxiv_url,published
+0,Accelerating Transpilation in Quantum Machine Learning with Haiqu's Rivet-transpiler,2508.21342,http://arxiv.org/abs/2508.21342v1,2025-08-29 06:00:29+00:00
+1,Optimizing sparse quantum state preparation with measurement and feedforward,2508.21346,http://arxiv.org/abs/2508.21346v1,2025-08-29 06:14:28+00:00
+2,QUAV: Quantum-Assisted Path Planning and Optimization for UAV Navigation with Obstacle Avoidance,2508.21361,http://arxiv.org/abs/2508.21361v1,2025-08-29 06:59:21+00:00
+3,CircuitHunt: Automated Quantum Circuit Screening for Superior Credit-Card Fraud Detection,2508.21366,http://arxiv.org/abs/2508.21366v1,2025-08-29 07:14:20+00:00
+4,Quantum Learning with Tunable Loss Functions,2508.21369,http://arxiv.org/abs/2508.21369v1,2025-08-29 07:22:08+00:00
+5,Characterization of Linear Measurements in Cavity Optomechanics: Examples and Applications,2508.21419,http://arxiv.org/abs/2508.21419v1,2025-08-29 08:40:54+00:00
+6,Realization of an untrusted intermediate relay architecture using a quantum dot single-photon source,2508.21479,http://arxiv.org/abs/2508.21479v1,2025-08-29 10:02:22+00:00
+7,Phase error estimation for passive detection setups with imperfections and memory effects,2508.21486,http://arxiv.org/abs/2508.21486v1,2025-08-29 10:11:06+00:00
+8,Statistical Invisibility of a Physical Attack on QRNGs After Randomness Extraction,2508.21498,http://arxiv.org/abs/2508.21498v2,2025-08-29 10:28:36+00:00
+9,"Digital quantum simulation of many-body systems: Making the most of intermediate-scale, noisy quantum computers",2508.21504,http://arxiv.org/abs/2508.21504v1,2025-08-29 10:37:19+00:00
+10,"Quantum Leap in Finance: Economic Advantages, Security, and Post-Quantum Readiness",2508.21548,http://arxiv.org/abs/2508.21548v1,2025-08-29 12:04:08+00:00
+11,Electronic-nuclear entanglement in Born-Oppenheimer wave functions and beyond,2508.21578,http://arxiv.org/abs/2508.21578v1,2025-08-29 12:31:54+00:00
+12,Impurities in cryogenic solids: a new platform for hybrid quantum systems,2508.21651,http://arxiv.org/abs/2508.21651v1,2025-08-29 14:15:18+00:00
+13,A simple method for seniority-zero quantum state preparation,2508.21679,http://arxiv.org/abs/2508.21679v1,2025-08-29 14:47:45+00:00
+14,An Exclusive-Sum-of-Products Pipeline for QAOA,2508.21686,http://arxiv.org/abs/2508.21686v1,2025-08-29 14:53:56+00:00
+15,An Exact Branch and Bound Algorithm for the generalized Qubit Mapping Problem,2508.21718,http://arxiv.org/abs/2508.21718v1,2025-08-29 15:35:16+00:00
+16,"Diagrammatic Reasoning with Control as a Constructor, Applications to Quantum Circuits",2508.21756,http://arxiv.org/abs/2508.21756v1,2025-08-29 16:34:00+00:00
+17,On the Implementation Security of Twin-Field Quantum Key Distribution using Optical Injection Locking,2508.21763,http://arxiv.org/abs/2508.21763v1,2025-08-29 16:38:18+00:00
+18,Non-Markovian dynamics of giant emitters beyond the Weisskopf-Wigner approximation,2508.21784,http://arxiv.org/abs/2508.21784v1,2025-08-29 17:02:28+00:00
+19,High-Distance Error-Correcting Codes for Fermion-to-Qubit Mappings in 2D and 3D,2509.00147,http://arxiv.org/abs/2509.00147v1,2025-08-29 18:00:00+00:00
+20,Out-of-time ordered correlation functions for the localized $f$ electrons in the Falicov-Kimball model,2508.21388,http://arxiv.org/abs/2508.21388v1,2025-08-29 08:04:52+00:00
+21,Computationally Tractable Offline Quantum Experimental Design for Nuclear Spin Detection,2508.21450,http://arxiv.org/abs/2508.21450v1,2025-08-29 09:29:02+00:00
+22,Testing quantum markers of brain processes,2508.21490,http://arxiv.org/abs/2508.21490v1,2025-08-29 10:16:31+00:00
+23,Single atom enables extraordinary light transmission through zero-mode waveguide,2508.21514,http://arxiv.org/abs/2508.21514v1,2025-08-29 10:55:54+00:00
+24,Universal Precision Limits in General Open Quantum Systems,2508.21567,http://arxiv.org/abs/2508.21567v1,2025-08-29 12:22:14+00:00
+25,Observation of universal non-Gaussian statistics of the order parameter across a continuous phase transition,2508.21623,http://arxiv.org/abs/2508.21623v1,2025-08-29 13:35:53+00:00
+26,High fidelity flopping-mode single spin operation with tuning inter-dot orbital levels,2508.21723,http://arxiv.org/abs/2508.21723v1,2025-08-29 15:43:04+00:00
+27,Experimental measurement of quantum-first-passage-time distributions,2508.21790,http://arxiv.org/abs/2508.21790v1,2025-08-29 17:09:45+00:00
+28,1D Cluster State Generation On Superconducting Hardware,2508.21798,http://arxiv.org/abs/2508.21798v2,2025-08-29 17:24:35+00:00
+29,The rotation-invariant Hamiltonian problem is QMA$_{\rm EXP}$-complete,2509.00161,http://arxiv.org/abs/2509.00161v1,2025-08-29 18:03:12+00:00
+30,Optimizing Cost Hamiltonian Compilation for Max-Cut QAOA on Unweighted Graphs Using Global Controls and Qubit Bit Flips,2509.00170,http://arxiv.org/abs/2509.00170v1,2025-08-29 18:12:20+00:00
+31,Strategies to search for two-dimensional materials with long spin qubit coherence time,2509.00222,http://arxiv.org/abs/2509.00222v1,2025-08-29 20:12:14+00:00
+32,Finite entropy sums in quantum field theory,2508.21276,http://arxiv.org/abs/2508.21276v1,2025-08-29 00:36:06+00:00
+33,Quantum Physics using Weighted Model Counting,2508.21288,http://arxiv.org/abs/2508.21288v1,2025-08-29 01:17:49+00:00
+34,Project-Based Learning in Introductory Quantum Computing Courses: A Case Study on Quantum Algorithms for Medical Imaging,2508.21321,http://arxiv.org/abs/2508.21321v1,2025-08-29 04:24:26+00:00
+35,Hybrid Quantum-Classical Simulations of Graphene Analogues: Adsorption Energetics Beyond DFT,2508.21325,http://arxiv.org/abs/2508.21325v1,2025-08-29 04:44:09+00:00
+36,Quantum-Enhanced Natural Language Generation: A Multi-Model Framework with Hybrid Quantum-Classical Architectures,2508.21332,http://arxiv.org/abs/2508.21332v1,2025-08-29 05:20:18+00:00
+37,$k$-Positive Maps: New Characterizations and a Generation Method,2508.21348,http://arxiv.org/abs/2508.21348v1,2025-08-29 06:22:57+00:00
+38,Generalized quantum singular value transformation with application in quantum bi-conjugate gradient method,2508.21390,http://arxiv.org/abs/2508.21390v1,2025-08-29 08:05:06+00:00
+39,Quantum enhanced ensemble GANs for anomaly detection in continuous biomanufacturing,2508.21438,http://arxiv.org/abs/2508.21438v1,2025-08-29 09:05:56+00:00
+40,Quantum Well in Fractional Quantum Mechanics,2508.21528,http://arxiv.org/abs/2508.21528v1,2025-08-29 11:36:55+00:00
+41,"Dirac particles, spin and photons",2508.21590,http://arxiv.org/abs/2508.21590v1,2025-08-29 12:47:56+00:00
+42,Quantum Sequential Universal Hypothesis Testing,2508.21594,http://arxiv.org/abs/2508.21594v1,2025-08-29 12:50:04+00:00
+43,Quantitative evaluations of stability and convergence for solutions of semilinear Klein--Gordon equation,2508.21659,http://arxiv.org/abs/2508.21659v1,2025-08-29 14:21:55+00:00
+44,Block Encoding of Sparse Matrices via Coherent Permutation,2508.21667,http://arxiv.org/abs/2508.21667v1,2025-08-29 14:30:08+00:00
+45,Experimental Construction of NOON State Dynamics in Photonic Flat Band Lattices,2508.21700,http://arxiv.org/abs/2508.21700v1,2025-08-29 15:09:43+00:00
+46,The Universal Theory of Locally Universal Tracial von Neumann Algebras is not Computable,2508.21709,http://arxiv.org/abs/2508.21709v1,2025-08-29 15:28:13+00:00
+47,Bayesian perspectives for quantum states and application to ab initio quantum chemistry,2508.21729,http://arxiv.org/abs/2508.21729v1,2025-08-29 15:55:14+00:00
+48,A Hybrid Anyon-Otto thermal machine,2508.21768,http://arxiv.org/abs/2508.21768v1,2025-08-29 16:41:02+00:00
+49,"Quantum Phase Sensitivity with Generalized Coherent States Based on Deformed su(1,1) and Heisenberg Algebras",2508.21779,http://arxiv.org/abs/2508.21779v1,2025-08-29 16:57:00+00:00
+50,Unitary induced channels and Tsirelson's problem,2508.21808,http://arxiv.org/abs/2508.21808v1,2025-08-29 17:42:48+00:00
+51,Large time-step discretisation of adiabatic quantum dynamics,2509.00171,http://arxiv.org/abs/2509.00171v1,2025-08-29 18:12:48+00:00
+52,Small $x$ behavior in QCD from maximal entanglement and conformal invariance,2508.21643,http://arxiv.org/abs/2508.21643v1,2025-08-29 14:03:55+00:00
