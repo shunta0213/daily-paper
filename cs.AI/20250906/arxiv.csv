@@ -1,0 +1,56 @@
+,title,id,arxiv_url,published
+0,NEWSAGENT: Benchmarking Multimodal Agents as Journalists with Real-World Newswriting Tasks,2509.00446,http://arxiv.org/abs/2509.00446v1,2025-08-30 10:31:34+00:00
+1,Multi-Agent Data Visualization and Narrative Generation,2509.00481,http://arxiv.org/abs/2509.00481v1,2025-08-30 12:39:55+00:00
+2,Artificial Intelligence-Based Analysis of Ice Cream Melting Behavior Under Various Ingredients,2509.00507,http://arxiv.org/abs/2509.00507v1,2025-08-30 14:00:21+00:00
+3,Text-to-Layout: A Generative Workflow for Drafting Architectural Floor Plans Using LLMs,2509.00543,http://arxiv.org/abs/2509.00543v1,2025-08-30 16:04:15+00:00
+4,Social World Models,2509.00559,http://arxiv.org/abs/2509.00559v1,2025-08-30 16:52:58+00:00
+5,NetGent: Agent-Based Automation of Network Application Workflows,2509.00625,http://arxiv.org/abs/2509.00625v1,2025-08-30 22:47:15+00:00
+6,Intelligent Spectrum Management in Satellite Communications,2509.00286,http://arxiv.org/abs/2509.00286v1,2025-08-30 00:34:36+00:00
+7,SIGMUS: Semantic Integration for Knowledge Graphs in Multimodal Urban Spaces,2509.00287,http://arxiv.org/abs/2509.00287v1,2025-08-30 00:35:41+00:00
+8,TReF-6: Inferring Task-Relevant Frames from a Single Demonstration for One-Shot Skill Generalization,2509.00310,http://arxiv.org/abs/2509.00310v1,2025-08-30 01:54:28+00:00
+9,Continuously Tempered Diffusion Samplers,2509.00316,http://arxiv.org/abs/2509.00316v1,2025-08-30 02:24:52+00:00
+10,A Framework for Task and Motion Planning based on Expanding AND/OR Graphs,2509.00317,http://arxiv.org/abs/2509.00317v1,2025-08-30 02:28:25+00:00
+11,Scalable Option Learning in High-Throughput Environments,2509.00338,http://arxiv.org/abs/2509.00338v1,2025-08-30 03:42:10+00:00
+12,LLM-Driven Policy Diffusion: Enhancing Generalization in Offline Reinforcement Learning,2509.00347,http://arxiv.org/abs/2509.00347v1,2025-08-30 04:02:33+00:00
+13,Theory Foundation of Physics-Enhanced Residual Learning,2509.00348,http://arxiv.org/abs/2509.00348v1,2025-08-30 04:08:19+00:00
+14,AQFusionNet: Multimodal Deep Learning for Air Quality Index Prediction with Imagery and Sensor Data,2509.00353,http://arxiv.org/abs/2509.00353v1,2025-08-30 04:32:38+00:00
+15,Activation Steering Meets Preference Optimization: Defense Against Jailbreaks in Vision Language Models,2509.00373,http://arxiv.org/abs/2509.00373v1,2025-08-30 06:00:53+00:00
+16,Open Data Synthesis For Deep Research,2509.00375,http://arxiv.org/abs/2509.00375v1,2025-08-30 06:02:56+00:00
+17,Unifying Adversarial Perturbation for Graph Neural Networks,2509.00387,http://arxiv.org/abs/2509.00387v1,2025-08-30 06:53:36+00:00
+18,Beyond Negative Transfer: Disentangled Preference-Guided Diffusion for Cross-Domain Sequential Recommendation,2509.00389,http://arxiv.org/abs/2509.00389v1,2025-08-30 06:56:56+00:00
+19,DAOVI: Distortion-Aware Omnidirectional Video Inpainting,2509.00396,http://arxiv.org/abs/2509.00396v1,2025-08-30 07:27:52+00:00
+20,A Study on the Framework for Evaluating the Ethics and Trustworthiness of Generative AI,2509.00398,http://arxiv.org/abs/2509.00398v1,2025-08-30 07:38:07+00:00
+21,Curriculum Guided Personalized Subgraph Federated Learning,2509.00402,http://arxiv.org/abs/2509.00402v1,2025-08-30 08:01:36+00:00
+22,TECP: Token-Entropy Conformal Prediction for LLMs,2509.00461,http://arxiv.org/abs/2509.00461v1,2025-08-30 11:31:04+00:00
+23,Cross-Domain Malware Detection via Probability-Level Fusion of Lightweight Gradient Boosting Models,2509.00476,http://arxiv.org/abs/2509.00476v1,2025-08-30 12:18:13+00:00
+24,VideoRewardBench: Comprehensive Evaluation of Multimodal Reward Models for Video Understanding,2509.00484,http://arxiv.org/abs/2509.00484v1,2025-08-30 12:50:55+00:00
+25,Multi-Focused Video Group Activities Hashing,2509.00490,http://arxiv.org/abs/2509.00490v1,2025-08-30 13:22:57+00:00
+26,ResearchQA: Evaluating Scholarly Question Answering at Scale Across 75 Fields with Survey-Mined Questions and Rubrics,2509.00496,http://arxiv.org/abs/2509.00496v1,2025-08-30 13:37:28+00:00
+27,LLM-Assisted Iterative Evolution with Swarm Intelligence Toward SuperBrain,2509.00510,http://arxiv.org/abs/2509.00510v1,2025-08-30 14:12:46+00:00
+28,"KVComp: A High-Performance, LLM-Aware, Lossy Compression Framework for KV Cache",2509.00579,http://arxiv.org/abs/2509.00579v1,2025-08-30 18:25:19+00:00
+29,BALM-TSF: Balanced Multimodal Alignment for LLM-Based Time Series Forecasting,2509.00622,http://arxiv.org/abs/2509.00622v1,2025-08-30 22:31:55+00:00
+30,A Multi-Strategy Approach for AI-Generated Text Detection,2509.00623,http://arxiv.org/abs/2509.00623v1,2025-08-30 22:37:35+00:00
+31,Towards Methane Detection Onboard Satellites,2509.00626,http://arxiv.org/abs/2509.00626v1,2025-08-30 22:54:00+00:00
+32,Enabling Trustworthy Federated Learning via Remote Attestation for Mitigating Byzantine Threats,2509.00634,http://arxiv.org/abs/2509.00634v1,2025-08-30 23:36:22+00:00
+33,NMR-Solver: Automated Structure Elucidation via Large-Scale Spectral Matching and Physics-Guided Fragment Optimization,2509.00640,http://arxiv.org/abs/2509.00640v1,2025-08-30 23:59:12+00:00
+34,Towards Digital Twins for Optimal Radioembolization,2509.02607,http://arxiv.org/abs/2509.02607v1,2025-08-30 00:30:42+00:00
+35,Contrastive clustering based on regular equivalence for influential node identification in complex networks,2509.02609,http://arxiv.org/abs/2509.02609v1,2025-08-30 09:34:39+00:00
+36,Resilient Biosecurity in the Era of AI-Enabled Bioweapons,2509.02610,http://arxiv.org/abs/2509.02610v1,2025-08-30 18:09:04+00:00
+37,OpinioRAG: Towards Generating User-Centric Opinion Highlights from Large-scale Online Reviews,2509.00285,http://arxiv.org/abs/2509.00285v1,2025-08-30 00:00:34+00:00
+38,Access Paths for Efficient Ordering with Large Language Models,2509.00303,http://arxiv.org/abs/2509.00303v1,2025-08-30 01:44:36+00:00
+39,Contact-Aided Navigation of Flexible Robotic Endoscope Using Deep Reinforcement Learning in Dynamic Stomach,2509.00319,http://arxiv.org/abs/2509.00319v1,2025-08-30 02:42:06+00:00
+40,Jacobian Exploratory Dual-Phase Reinforcement Learning for Dynamic Endoluminal Navigation of Deformable Continuum Robots,2509.00329,http://arxiv.org/abs/2509.00329v1,2025-08-30 03:04:35+00:00
+41,Target-Oriented Single Domain Generalization,2509.00351,http://arxiv.org/abs/2509.00351v1,2025-08-30 04:21:48+00:00
+42,SurgLLM: A Versatile Large Multimodal Model with Spatial Focus and Temporal Awareness for Surgical Video Understanding,2509.00357,http://arxiv.org/abs/2509.00357v1,2025-08-30 04:36:41+00:00
+43,The Resurgence of GCG Adversarial Attacks on Large Language Models,2509.00391,http://arxiv.org/abs/2509.00391v1,2025-08-30 07:04:29+00:00
+44,MedSEBA: Synthesizing Evidence-Based Answers Grounded in Evolving Medical Literature,2509.00414,http://arxiv.org/abs/2509.00414v1,2025-08-30 08:43:09+00:00
+45,Embodied Spatial Intelligence: from Implicit Scene Modeling to Spatial Reasoning,2509.00465,http://arxiv.org/abs/2509.00465v1,2025-08-30 11:42:26+00:00
+46,A Novel Method to Determine Total Oxidant Concentration Produced by Non-Thermal Plasma Based on Image Processing and Machine Learning,2509.00479,http://arxiv.org/abs/2509.00479v1,2025-08-30 12:28:52+00:00
+47,"Talk Less, Call Right: Enhancing Role-Play LLM Agents with Automatic Prompt Optimization and Role Prompting",2509.00482,http://arxiv.org/abs/2509.00482v1,2025-08-30 12:45:36+00:00
+48,NeuralSVCD for Efficient Swept Volume Collision Detection,2509.00499,http://arxiv.org/abs/2509.00499v1,2025-08-30 13:43:11+00:00
+49,LatentEdit: Adaptive Latent Control for Consistent Semantic Editing,2509.00541,http://arxiv.org/abs/2509.00541v1,2025-08-30 15:47:03+00:00
+50,Can AI be Auditable?,2509.00575,http://arxiv.org/abs/2509.00575v1,2025-08-30 18:03:20+00:00
+51,Federated Survival Analysis with Node-Level Differential Privacy: Private Kaplan-Meier Curves,2509.00615,http://arxiv.org/abs/2509.00615v1,2025-08-30 21:47:56+00:00
+52,TimeCopilot,2509.00616,http://arxiv.org/abs/2509.00616v2,2025-08-30 21:48:51+00:00
+53,Forecasting the Ionosphere from Sparse GNSS Data with Temporal-Fusion Transformers,2509.00631,http://arxiv.org/abs/2509.00631v1,2025-08-30 23:08:19+00:00
+54,Is Synthetic Image Augmentation Useful for Imbalanced Classification Problems? Case-Study on the MIDOG2025 Atypical Cell Detection Competition,2509.02612,http://arxiv.org/abs/2509.02612v1,2025-08-30 23:37:20+00:00
