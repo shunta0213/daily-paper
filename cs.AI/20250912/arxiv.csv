@@ -1,0 +1,90 @@
+,title,id,arxiv_url,published
+0,What-If Analysis of Large Language Models: Explore the Game World Using Proactive Thinking,2509.04791,http://arxiv.org/abs/2509.04791v1,2025-09-05 04:05:27+00:00
+1,Collaboration and Conflict between Humans and Language Models through the Lens of Game Theory,2509.04847,http://arxiv.org/abs/2509.04847v1,2025-09-05 06:55:15+00:00
+2,OSC: Cognitive Orchestration through Dynamic Knowledge Alignment in Multi-Agent LLM Collaboration,2509.04876,http://arxiv.org/abs/2509.04876v1,2025-09-05 07:44:05+00:00
+3,Internet 3.0: Architecture for a Web-of-Agents with it's Algorithm for Ranking Agents,2509.04979,http://arxiv.org/abs/2509.04979v1,2025-09-05 10:04:33+00:00
+4,CoVeR: Conformal Calibration for Versatile and Reliable Autoregressive Next-Token Prediction,2509.04733,http://arxiv.org/abs/2509.04733v1,2025-09-05 01:07:12+00:00
+5,Enhancing Self-Driving Segmentation in Adverse Weather Conditions: A Dual Uncertainty-Aware Training Approach to SAM Optimization,2509.04735,http://arxiv.org/abs/2509.04735v1,2025-09-05 01:24:42+00:00
+6,"A Study of Large Language Models for Patient Information Extraction: Model Architecture, Fine-Tuning Strategy, and Multi-task Instruction Tuning",2509.04753,http://arxiv.org/abs/2509.04753v1,2025-09-05 02:07:40+00:00
+7,MCANet: A Multi-Scale Class-Specific Attention Network for Multi-Label Post-Hurricane Damage Assessment using UAV Imagery,2509.04757,http://arxiv.org/abs/2509.04757v1,2025-09-05 02:25:05+00:00
+8,FloodVision: Urban Flood Depth Estimation Using Foundation Vision-Language Models and Domain Knowledge Graph,2509.04772,http://arxiv.org/abs/2509.04772v1,2025-09-05 03:05:18+00:00
+9,Decoders Laugh as Loud as Encoders,2509.04779,http://arxiv.org/abs/2509.04779v1,2025-09-05 03:22:38+00:00
+10,VARMA-Enhanced Transformer for Time Series Forecasting,2509.04782,http://arxiv.org/abs/2509.04782v1,2025-09-05 03:32:51+00:00
+11,Enhancing Diversity in Large Language Models via Determinantal Point Processes,2509.04784,http://arxiv.org/abs/2509.04784v1,2025-09-05 03:47:06+00:00
+12,Graph Unlearning: Efficient Node Removal in Graph Neural Networks,2509.04785,http://arxiv.org/abs/2509.04785v1,2025-09-05 03:47:49+00:00
+13,Toward Accessible Dermatology: Skin Lesion Classification Using Deep Learning Models on Mobile-Acquired Images,2509.04800,http://arxiv.org/abs/2509.04800v1,2025-09-05 04:31:16+00:00
+14,TalkToAgent: A Human-centric Explanation of Reinforcement Learning Agents with Large Language Models,2509.04809,http://arxiv.org/abs/2509.04809v2,2025-09-05 05:09:09+00:00
+15,Exploring Non-Local Spatial-Angular Correlations with a Hybrid Mamba-Transformer Framework for Light Field Super-Resolution,2509.04824,http://arxiv.org/abs/2509.04824v1,2025-09-05 05:50:38+00:00
+16,PropVG: End-to-End Proposal-Driven Visual Grounding with Multi-Granularity Discrimination,2509.04833,http://arxiv.org/abs/2509.04833v1,2025-09-05 06:30:06+00:00
+17,A Knowledge-Driven Diffusion Policy for End-to-End Autonomous Driving Based on Expert Routing,2509.04853,http://arxiv.org/abs/2509.04853v1,2025-09-05 07:07:18+00:00
+18,"Cloning a Conversational Voice AI Agent from Call\,Recording Datasets for Telesales",2509.04871,http://arxiv.org/abs/2509.04871v1,2025-09-05 07:36:12+00:00
+19,DeGuV: Depth-Guided Visual Reinforcement Learning for Generalization and Interpretability in Manipulation,2509.04970,http://arxiv.org/abs/2509.04970v1,2025-09-05 09:52:08+00:00
+20,Exploring an implementation of quantum learning pipeline for support vector machines,2509.04983,http://arxiv.org/abs/2509.04983v1,2025-09-05 10:19:32+00:00
+21,LLM Enabled Multi-Agent System for 6G Networks: Framework and Method of Dual-Loop Edge-Terminal Collaboration,2509.04993,http://arxiv.org/abs/2509.04993v1,2025-09-05 10:40:31+00:00
+22,Sticker-TTS: Learn to Utilize Historical Experience with a Sticker-driven Test-Time Scaling Framework,2509.05007,http://arxiv.org/abs/2509.05007v2,2025-09-05 11:14:11+00:00
+23,Towards Efficient Pixel Labeling for Industrial Anomaly Detection and Localization,2509.05034,http://arxiv.org/abs/2509.05034v1,2025-09-05 11:45:17+00:00
+24,ToM-SSI: Evaluating Theory of Mind in Situated Social Interactions,2509.05066,http://arxiv.org/abs/2509.05066v1,2025-09-05 12:58:15+00:00
+25,Finding your MUSE: Mining Unexpected Solutions Engine,2509.05072,http://arxiv.org/abs/2509.05072v1,2025-09-05 13:13:19+00:00
+26,ProToM: Promoting Prosocial Behaviour via Theory of Mind-Informed Feedback,2509.05091,http://arxiv.org/abs/2509.05091v1,2025-09-05 13:30:17+00:00
+27,ICR: Iterative Clarification and Rewriting for Conversational Search,2509.05100,http://arxiv.org/abs/2509.05100v1,2025-09-05 13:37:04+00:00
+28,GenAI-based test case generation and execution in SDV platform,2509.05112,http://arxiv.org/abs/2509.05112v1,2025-09-05 13:50:26+00:00
+29,Evaluation and Comparison Semantics for ODRL,2509.05139,http://arxiv.org/abs/2509.05139v1,2025-09-05 14:30:41+00:00
+30,Accuracy-Constrained CNN Pruning for Efficient and Reliable EEG-Based Seizure Detection,2509.05190,http://arxiv.org/abs/2509.05190v1,2025-09-05 15:42:15+00:00
+31,RapidGNN: Energy and Communication-Efficient Distributed Training on Large-Scale Graph Neural Networks,2509.05207,http://arxiv.org/abs/2509.05207v1,2025-09-05 16:10:20+00:00
+32,HoPE: Hyperbolic Rotary Positional Encoding for Stable Long-Range Dependency Modeling in Large Language Models,2509.05218,http://arxiv.org/abs/2509.05218v2,2025-09-05 16:20:48+00:00
+33,COGITAO: A Visual Reasoning Framework To Study Compositionality & Generalization,2509.05249,http://arxiv.org/abs/2509.05249v1,2025-09-05 17:01:05+00:00
+34,Scaling Performance of Large Language Model Pretraining,2509.05258,http://arxiv.org/abs/2509.05258v1,2025-09-05 17:14:58+00:00
+35,WinT3R: Window-Based Streaming Reconstruction with Camera Token Pool,2509.05296,http://arxiv.org/abs/2509.05296v1,2025-09-05 17:59:47+00:00
+36,A Lightweight Framework for Trigger-Guided LoRA-Based Self-Adaptation in LLMs,2509.05385,http://arxiv.org/abs/2509.05385v1,2025-09-05 03:23:25+00:00
+37,Augmented Structure Preserving Neural Networks for cell biomechanics,2509.05388,http://arxiv.org/abs/2509.05388v1,2025-09-05 07:32:50+00:00
+38,An Optimized Pipeline for Automatic Educational Knowledge Graph Construction,2509.05392,http://arxiv.org/abs/2509.05392v1,2025-09-05 10:29:46+00:00
+39,Inferring Prerequisite Knowledge Concepts in Educational Knowledge Graphs: A Multi-criteria Approach,2509.05393,http://arxiv.org/abs/2509.05393v1,2025-09-05 10:37:58+00:00
+40,Reverse Browser: Vector-Image-to-Code Generator,2509.05394,http://arxiv.org/abs/2509.05394v1,2025-09-05 11:13:40+00:00
+41,Graph Connectionist Temporal Classification for Phoneme Recognition,2509.05399,http://arxiv.org/abs/2509.05399v1,2025-09-05 15:20:59+00:00
+42,No Translation Needed: Forecasting Quality from Fertility and Metadata,2509.05425,http://arxiv.org/abs/2509.05425v1,2025-09-05 18:11:49+00:00
+43,Newton to Einstein: Axiom-Based Discovery via Game Design,2509.05448,http://arxiv.org/abs/2509.05448v1,2025-09-05 18:59:18+00:00
+44,Neural Breadcrumbs: Membership Inference Attacks on LLMs Through Hidden State and Attention Pattern Analysis,2509.05449,http://arxiv.org/abs/2509.05449v1,2025-09-05 19:05:49+00:00
+45,Behind the Mask: Benchmarking Camouflaged Jailbreaks in Large Language Models,2509.05471,http://arxiv.org/abs/2509.05471v1,2025-09-05 19:57:38+00:00
+46,From Vision to Validation: A Theory- and Data-Driven Construction of a GCC-Specific AI Adoption Index,2509.05474,http://arxiv.org/abs/2509.05474v2,2025-09-05 20:06:57+00:00
+47,PLanTS: Periodicity-aware Latent-state Representation Learning for Multivariate Time Series,2509.05478,http://arxiv.org/abs/2509.05478v1,2025-09-05 20:10:09+00:00
+48,The Token Tax: Systematic Bias in Multilingual Tokenization,2509.05486,http://arxiv.org/abs/2509.05486v1,2025-09-05 20:20:51+00:00
+49,An Analysis of Layer-Freezing Strategies for Enhanced Transfer Learning in YOLO Architectures,2509.05490,http://arxiv.org/abs/2509.05490v1,2025-09-05 20:39:43+00:00
+50,Microrobot Vascular Parkour: Analytic Geometry-based Path Planning with Real-time Dynamic Obstacle Avoidance,2509.05500,http://arxiv.org/abs/2509.05500v1,2025-09-05 21:22:37+00:00
+51,Combining TSL and LLM to Automate REST API Testing: A Comparative Study,2509.05540,http://arxiv.org/abs/2509.05540v1,2025-09-05 23:32:35+00:00
+52,Learning-Based Planning for Improving Science Return of Earth Observation Satellites,2509.07997,http://arxiv.org/abs/2509.07997v1,2025-09-05 13:11:50+00:00
+53,Bilingual Word Level Language Identification for Omotic Languages,2509.07998,http://arxiv.org/abs/2509.07998v1,2025-09-05 23:36:26+00:00
+54,KERAG: Knowledge-Enhanced Retrieval-Augmented Generation for Advanced Question Answering,2509.04716,http://arxiv.org/abs/2509.04716v1,2025-09-05 00:06:00+00:00
+55,Beyond I-Con: Exploring New Dimension of Distance Measures in Representation Learning,2509.04734,http://arxiv.org/abs/2509.04734v1,2025-09-05 01:23:59+00:00
+56,SePA: A Search-enhanced Predictive Agent for Personalized Health Coaching,2509.04752,http://arxiv.org/abs/2509.04752v1,2025-09-05 02:07:36+00:00
+57,The LLM Has Left The Chat: Evidence of Bail Preferences in Large Language Models,2509.04781,http://arxiv.org/abs/2509.04781v1,2025-09-05 03:30:04+00:00
+58,AI-Driven Fronthaul Link Compression in Wireless Communication Systems: Review and Method Design,2509.04805,http://arxiv.org/abs/2509.04805v1,2025-09-05 04:52:51+00:00
+59,VoltanaLLM: Feedback-Driven Frequency Control and State-Space Routing for Energy-Efficient LLM Serving,2509.04827,http://arxiv.org/abs/2509.04827v1,2025-09-05 05:58:16+00:00
+60,REMOTE: A Unified Multimodal Relation Extraction Framework with Multilevel Optimal Transport and Mixture-of-Experts,2509.04844,http://arxiv.org/abs/2509.04844v1,2025-09-05 06:52:03+00:00
+61,The Paradox of Doom: Acknowledging Extinction Risk Reduces the Incentive to Prevent It,2509.04855,http://arxiv.org/abs/2509.04855v1,2025-09-05 07:14:24+00:00
+62,SpiderNets: Estimating Fear Ratings of Spider-Related Images with Vision Models,2509.04889,http://arxiv.org/abs/2509.04889v1,2025-09-05 08:10:40+00:00
+63,PLaMo 2 Technical Report,2509.04897,http://arxiv.org/abs/2509.04897v1,2025-09-05 08:17:59+00:00
+64,SparkUI-Parser: Enhancing GUI Perception with Robust Grounding and Parsing,2509.04908,http://arxiv.org/abs/2509.04908v1,2025-09-05 08:24:12+00:00
+65,Artificial intelligence for representing and characterizing quantum systems,2509.04923,http://arxiv.org/abs/2509.04923v1,2025-09-05 08:41:24+00:00
+66,Towards Ontology-Based Descriptions of Conversations with Qualitatively-Defined Concepts,2509.04926,http://arxiv.org/abs/2509.04926v1,2025-09-05 08:44:27+00:00
+67,High-Resolution Global Land Surface Temperature Retrieval via a Coupled Mechanism-Machine Learning Framework,2509.04991,http://arxiv.org/abs/2509.04991v1,2025-09-05 10:37:27+00:00
+68,Adversarial Augmentation and Active Sampling for Robust Cyber Anomaly Detection,2509.04999,http://arxiv.org/abs/2509.04999v1,2025-09-05 10:47:49+00:00
+69,Pointing-Guided Target Estimation via Transformer-Based Attention,2509.05031,http://arxiv.org/abs/2509.05031v1,2025-09-05 11:42:03+00:00
+70,Exploring Situated Stabilities of a Rhythm Generation System through Variational Cross-Examination,2509.05145,http://arxiv.org/abs/2509.05145v1,2025-09-05 14:38:02+00:00
+71,AI Agents for Web Testing: A Case Study in the Wild,2509.05197,http://arxiv.org/abs/2509.05197v1,2025-09-05 15:57:16+00:00
+72,Enhancing 3D Point Cloud Classification with ModelNet-R and Point-SkipNet,2509.05198,http://arxiv.org/abs/2509.05198v1,2025-09-05 15:57:36+00:00
+73,CURE: Controlled Unlearning for Robust Embeddings -- Mitigating Conceptual Shortcuts in Pre-Trained Language Models,2509.05230,http://arxiv.org/abs/2509.05230v2,2025-09-05 16:47:22+00:00
+74,Uncertain but Useful: Leveraging CNN Variability into Data Augmentation,2509.05238,http://arxiv.org/abs/2509.05238v1,2025-09-05 16:54:26+00:00
+75,Recomposer: Event-roll-guided generative audio editing,2509.05256,http://arxiv.org/abs/2509.05256v1,2025-09-05 17:14:29+00:00
+76,LatticeWorld: A Multimodal Large Language Model-Empowered Framework for Interactive Complex World Generation,2509.05263,http://arxiv.org/abs/2509.05263v2,2025-09-05 17:22:33+00:00
+77,SpikingBrain Technical Report: Spiking Brain-inspired Large Models,2509.05276,http://arxiv.org/abs/2509.05276v1,2025-09-05 17:34:00+00:00
+78,Crosscoding Through Time: Tracking Emergence & Consolidation Of Linguistic Representations Throughout LLM Pretraining,2509.05291,http://arxiv.org/abs/2509.05291v1,2025-09-05 17:56:24+00:00
+79,User Privacy and Large Language Models: An Analysis of Frontier Developers' Privacy Policies,2509.05382,http://arxiv.org/abs/2509.05382v1,2025-09-05 01:01:21+00:00
+80,Authorship Without Writing: Large Language Models and the Senior Author Analogy,2509.05390,http://arxiv.org/abs/2509.05390v1,2025-09-05 10:11:56+00:00
+81,Talk Isn't Always Cheap: Understanding Failure Modes in Multi-Agent Debate,2509.05396,http://arxiv.org/abs/2509.05396v1,2025-09-05 13:47:38+00:00
+82,Advanced Brain Tumor Segmentation Using EMCAD: Efficient Multi-scale Convolutional Attention Decoding,2509.05431,http://arxiv.org/abs/2509.05431v1,2025-09-05 18:23:47+00:00
+83,Direct-Scoring NLG Evaluators Can Use Pairwise Comparisons Too,2509.05440,http://arxiv.org/abs/2509.05440v1,2025-09-05 18:48:34+00:00
+84,From Image Generation to Infrastructure Design: a Multi-agent Pipeline for Street Design Generation,2509.05469,http://arxiv.org/abs/2509.05469v1,2025-09-05 19:49:36+00:00
+85,Learning Tool-Aware Adaptive Compliant Control for Autonomous Regolith Excavation,2509.05475,http://arxiv.org/abs/2509.05475v1,2025-09-05 20:09:28+00:00
+86,MambaLite-Micro: Memory-Optimized Mamba Inference on MCUs,2509.05488,http://arxiv.org/abs/2509.05488v1,2025-09-05 20:34:06+00:00
+87,OpenEgo: A Large-Scale Multimodal Egocentric Dataset for Dexterous Manipulation,2509.05513,http://arxiv.org/abs/2509.05513v1,2025-09-05 21:47:55+00:00
+88,Language-Driven Hierarchical Task Structures as Explicit World Models for Multi-Agent Learning,2509.04731,http://arxiv.org/abs/2509.04731v1,2025-09-05 01:03:51+00:00
