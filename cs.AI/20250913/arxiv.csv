@@ -1,0 +1,50 @@
+,title,id,arxiv_url,published
+0,TreeGPT: Pure TreeFFN Encoder-Decoder Architecture for Structured Reasoning Without Attention Mechanisms,2509.05550,http://arxiv.org/abs/2509.05550v2,2025-09-06 00:39:33+00:00
+1,Hyperbolic Large Language Models,2509.05757,http://arxiv.org/abs/2509.05757v1,2025-09-06 15:56:46+00:00
+2,DRF: LLM-AGENT Dynamic Reputation Filtering Framework,2509.05764,http://arxiv.org/abs/2509.05764v1,2025-09-06 16:29:42+00:00
+3,Decision-Focused Learning Enhanced by Automated Feature Engineering for Energy Storage Optimisation,2509.05772,http://arxiv.org/abs/2509.05772v1,2025-09-06 16:54:07+00:00
+4,Chatbot To Help Patients Understand Their Health,2509.05818,http://arxiv.org/abs/2509.05818v1,2025-09-06 19:50:44+00:00
+5,Renewable Energy Sources Selection Analysis with the Maximizing Deviation Method,2509.07011,http://arxiv.org/abs/2509.07011v1,2025-09-06 11:17:58+00:00
+6,Using Contrastive Learning to Improve Two-Way Reasoning in Large Language Models: The Obfuscation Task as a Case Study,2509.05553,http://arxiv.org/abs/2509.05553v1,2025-09-06 00:44:34+00:00
+7,OccVLA: Vision-Language-Action Model with Implicit 3D Occupancy Supervision,2509.05578,http://arxiv.org/abs/2509.05578v1,2025-09-06 03:47:21+00:00
+8,Natural Language-Programming Language Software Traceability Link Recovery Needs More than Textual Similarity,2509.05585,http://arxiv.org/abs/2509.05585v1,2025-09-06 04:15:09+00:00
+9,Language-guided Recursive Spatiotemporal Graph Modeling for Video Summarization,2509.05604,http://arxiv.org/abs/2509.05604v1,2025-09-06 05:37:31+00:00
+10,Icon$^{2}$: Aligning Large Language Models Using Self-Synthetic Preference Data via Inherent Regulation,2509.05605,http://arxiv.org/abs/2509.05605v1,2025-09-06 05:38:47+00:00
+11,Causal Debiasing Medical Multimodal Representation Learning with Missing Modalities,2509.05615,http://arxiv.org/abs/2509.05615v1,2025-09-06 06:27:10+00:00
+12,From Joy to Fear: A Benchmark of Emotion Estimation in Pop Song Lyrics,2509.05617,http://arxiv.org/abs/2509.05617v1,2025-09-06 06:28:28+00:00
+13,Orchestrator: Active Inference for Multi-Agent Systems in Long-Horizon Tasks,2509.05651,http://arxiv.org/abs/2509.05651v1,2025-09-06 09:03:36+00:00
+14,OptiProxy-NAS: Optimization Proxy based End-to-End Neural Architecture Search,2509.05656,http://arxiv.org/abs/2509.05656v1,2025-09-06 09:26:02+00:00
+15,LM-Searcher: Cross-domain Neural Architecture Search with LLMs via Unified Numerical Encoding,2509.05657,http://arxiv.org/abs/2509.05657v2,2025-09-06 09:26:39+00:00
+16,"Llama-GENBA-10B: A Trilingual Large Language Model for German, English and Bavarian",2509.05668,http://arxiv.org/abs/2509.05668v1,2025-09-06 10:12:52+00:00
+17,SEASONED: Semantic-Enhanced Self-Counterfactual Explainable Detection of Adversarial Exploiter Contracts,2509.05681,http://arxiv.org/abs/2509.05681v1,2025-09-06 11:08:10+00:00
+18,MSRFormer: Road Network Representation Learning using Multi-scale Feature Fusion of Heterogeneous Spatial Interactions,2509.05685,http://arxiv.org/abs/2509.05685v2,2025-09-06 11:19:13+00:00
+19,Revealing the Numeracy Gap: An Empirical Investigation of Text Embedding Models,2509.05691,http://arxiv.org/abs/2509.05691v1,2025-09-06 11:44:26+00:00
+20,Towards Meta-Cognitive Knowledge Editing for Multimodal LLMs,2509.05714,http://arxiv.org/abs/2509.05714v1,2025-09-06 13:26:04+00:00
+21,A Survey of the State-of-the-Art in Conversational Question Answering Systems,2509.05716,http://arxiv.org/abs/2509.05716v1,2025-09-06 13:38:03+00:00
+22,Simulation Priors for Data-Efficient Deep Learning,2509.05732,http://arxiv.org/abs/2509.05732v1,2025-09-06 14:36:41+00:00
+23,Offline vs. Online Learning in Model-based RL: Lessons for Data Collection Strategies,2509.05735,http://arxiv.org/abs/2509.05735v1,2025-09-06 14:52:33+00:00
+24,Unleashing Hierarchical Reasoning: An LLM-Driven Framework for Training-Free Referring Video Object Segmentation,2509.05751,http://arxiv.org/abs/2509.05751v1,2025-09-06 15:46:23+00:00
+25,Exploit Tool Invocation Prompt for Tool Behavior Hijacking in LLM-Based Agentic System,2509.05755,http://arxiv.org/abs/2509.05755v1,2025-09-06 15:48:49+00:00
+26,Real-E: A Foundation Benchmark for Advancing Robust and Generalizable Electricity Forecasting,2509.05768,http://arxiv.org/abs/2509.05768v1,2025-09-06 16:50:22+00:00
+27,Dual-Mode Deep Anomaly Detection for Medical Manufacturing: Structural Similarity and Feature Distance,2509.05796,http://arxiv.org/abs/2509.05796v1,2025-09-06 18:17:40+00:00
+28,time2time: Causal Intervention in Hidden States to Simulate Rare Events in Time Series Foundation Models,2509.05801,http://arxiv.org/abs/2509.05801v1,2025-09-06 18:28:20+00:00
+29,Decoding Latent Attack Surfaces in LLMs: Prompt Injection via HTML in Web Summarization,2509.05831,http://arxiv.org/abs/2509.05831v1,2025-09-06 21:05:18+00:00
+30,ZhiFangDanTai: Fine-tuning Graph-based Retrieval-Augmented Generation Model for Traditional Chinese Medicine Formula,2509.05867,http://arxiv.org/abs/2509.05867v1,2025-09-06 23:48:46+00:00
+31,Universality of physical neural networks with multivariate nonlinearity,2509.05420,http://arxiv.org/abs/2509.05420v1,2025-09-06 14:08:32+00:00
+32,Learning to Walk in Costume: Adversarial Motion Priors for Aesthetically Constrained Humanoids,2509.05581,http://arxiv.org/abs/2509.05581v1,2025-09-06 03:52:10+00:00
+33,Cross-Service Threat Intelligence in LLM Services using Privacy-Preserving Fingerprints,2509.05608,http://arxiv.org/abs/2509.05608v1,2025-09-06 05:57:20+00:00
+34,SpecPrune-VLA: Accelerating Vision-Language-Action Models via Action-Aware Self-Speculative Pruning,2509.05614,http://arxiv.org/abs/2509.05614v1,2025-09-06 06:22:19+00:00
+35,Self-supervised Learning for Hyperspectral Images of Trees,2509.05630,http://arxiv.org/abs/2509.05630v1,2025-09-06 07:25:39+00:00
+36,GraMFedDHAR: Graph Based Multimodal Differentially Private Federated HAR,2509.05671,http://arxiv.org/abs/2509.05671v1,2025-09-06 10:23:17+00:00
+37,Knowledge-Augmented Vision Language Models for Underwater Bioacoustic Spectrogram Analysis,2509.05703,http://arxiv.org/abs/2509.05703v1,2025-09-06 12:36:59+00:00
+38,LiDAR-BIND-T: Improved and Temporally Consistent Sensor Modality Translation and Fusion for Robotic Applications,2509.05728,http://arxiv.org/abs/2509.05728v2,2025-09-06 14:21:27+00:00
+39,Reasoning Introduces New Poisoning Attacks Yet Makes Them More Complicated,2509.05739,http://arxiv.org/abs/2509.05739v1,2025-09-06 15:06:18+00:00
+40,Tell-Tale Watermarks for Explanatory Reasoning in Synthetic Media Forensics,2509.05753,http://arxiv.org/abs/2509.05753v1,2025-09-06 15:47:27+00:00
+41,DCV-ROOD Evaluation Framework: Dual Cross-Validation for Robust Out-of-Distribution Detection,2509.05778,http://arxiv.org/abs/2509.05778v1,2025-09-06 17:20:09+00:00
+42,Hybrid Fourier Neural Operator-Plasma Fluid Model for Fast and Accurate Multiscale Simulations of High Power Microwave Breakdown,2509.05799,http://arxiv.org/abs/2509.05799v1,2025-09-06 18:24:33+00:00
+43,GenAI on Wall Street -- Opportunities and Risk Controls,2509.05841,http://arxiv.org/abs/2509.05841v1,2025-09-06 21:47:19+00:00
+44,ArGen: Auto-Regulation of Generative AI via GRPO and Policy-as-Code,2509.07006,http://arxiv.org/abs/2509.07006v1,2025-09-06 04:33:16+00:00
+45,Computational Concept of the Psyche (in Russian),2509.07009,http://arxiv.org/abs/2509.07009v2,2025-09-06 10:22:27+00:00
+46,Human-in-the-Loop: Quantitative Evaluation of 3D Models Generation by Large Language Models,2509.07010,http://arxiv.org/abs/2509.07010v1,2025-09-06 11:04:15+00:00
+47,"InterAct: A Large-Scale Dataset of Dynamic, Expressive and Interactive Activities between Two People in Daily Scenarios",2509.05747,http://arxiv.org/abs/2509.05747v1,2025-09-06 15:36:47+00:00
+48,The Computational Foundations of Collective Intelligence,2509.07999,http://arxiv.org/abs/2509.07999v1,2025-09-06 16:02:03+00:00
