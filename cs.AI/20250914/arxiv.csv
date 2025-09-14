@@ -1,0 +1,59 @@
+,title,id,arxiv_url,published
+0,MapAgent: A Hierarchical Agent for Geospatial Reasoning with Dynamic Map Tool Integration,2509.05933,http://arxiv.org/abs/2509.05933v1,2025-09-07 05:47:58+00:00
+1,Rethinking Reasoning Quality in Large Language Models through Enhanced Chain-of-Thought via RL,2509.06024,http://arxiv.org/abs/2509.06024v1,2025-09-07 11:52:18+00:00
+2,Proof2Silicon: Prompt Repair for Verified Code and Hardware Generation via Reinforcement Learning,2509.06239,http://arxiv.org/abs/2509.06239v1,2025-09-07 23:04:15+00:00
+3,GeoAnalystBench: A GeoAI benchmark for assessing large language models for spatial analysis workflow and code generation,2509.05881,http://arxiv.org/abs/2509.05881v1,2025-09-07 00:51:57+00:00
+4,Multimodal Prompt Injection Attacks: Risks and Defenses for Modern LLMs,2509.05883,http://arxiv.org/abs/2509.05883v1,2025-09-07 01:11:10+00:00
+5,Challenges in Deep Learning-Based Small Organ Segmentation: A Benchmarking Perspective for Medical Research with Limited Datasets,2509.05892,http://arxiv.org/abs/2509.05892v1,2025-09-07 01:54:20+00:00
+6,ConstStyle: Robust Domain Generalization with Unified Style Transformation,2509.05975,http://arxiv.org/abs/2509.05975v1,2025-09-07 08:40:19+00:00
+7,"Operationalising AI Regulatory Sandboxes under the EU AI Act: The Triple Challenge of Capacity, Coordination and Attractiveness to Providers",2509.05985,http://arxiv.org/abs/2509.05985v1,2025-09-07 09:20:40+00:00
+8,S-LAM3D: Segmentation-Guided Monocular 3D Object Detection via Feature Space Fusion,2509.05999,http://arxiv.org/abs/2509.05999v1,2025-09-07 10:14:56+00:00
+9,Unified Interaction Foundational Model (UIFM) for Predicting Complex User and System Behavior,2509.06025,http://arxiv.org/abs/2509.06025v1,2025-09-07 11:57:41+00:00
+10,PolicyEvolve: Evolving Programmatic Policies by LLMs for multi-player games via Population-Based Training,2509.06053,http://arxiv.org/abs/2509.06053v1,2025-09-07 13:33:31+00:00
+11,ARIES: Relation Assessment and Model Recommendation for Deep Time Series Forecasting,2509.06060,http://arxiv.org/abs/2509.06060v1,2025-09-07 13:57:14+00:00
+12,Software Dependencies 2.0: An Empirical Study of Reuse and Integration of Pre-Trained Models in Open-Source Projects,2509.06085,http://arxiv.org/abs/2509.06085v1,2025-09-07 15:00:22+00:00
+13,Teaching Precommitted Agents: Model-Free Policy Evaluation and Control in Quasi-Hyperbolic Discounted MDPs,2509.06094,http://arxiv.org/abs/2509.06094v1,2025-09-07 15:16:15+00:00
+14,SpecSwin3D: Generating Hyperspectral Imagery from Multispectral Data via Transformer Networks,2509.06122,http://arxiv.org/abs/2509.06122v1,2025-09-07 16:18:31+00:00
+15,Reverse-Engineered Reasoning for Open-Ended Generation,2509.06160,http://arxiv.org/abs/2509.06160v1,2025-09-07 18:07:58+00:00
+16,Tracking daily paths in home contexts with RSSI fingerprinting based on UWB through deep learning models,2509.06161,http://arxiv.org/abs/2509.06161v1,2025-09-07 18:08:05+00:00
+17,UNO: Unifying One-stage Video Scene Graph Generation via Object-Centric Visual Representation Learning,2509.06165,http://arxiv.org/abs/2509.06165v1,2025-09-07 18:30:41+00:00
+18,Reasoning Language Model for Personalized Lung Cancer Screening,2509.06169,http://arxiv.org/abs/2509.06169v1,2025-09-07 18:38:39+00:00
+19,From Long to Short: LLMs Excel at Trimming Own Reasoning Chains,2509.06174,http://arxiv.org/abs/2509.06174v1,2025-09-07 19:00:44+00:00
+20,Agentic Software Engineering: Foundational Pillars and a Research Roadmap,2509.06216,http://arxiv.org/abs/2509.06216v1,2025-09-07 21:40:10+00:00
+21,PillagerBench: Benchmarking LLM-Based Agents in Competitive Minecraft Team Environments,2509.06235,http://arxiv.org/abs/2509.06235v1,2025-09-07 22:51:12+00:00
+22,An efficient deep reinforcement learning environment for flexible job-shop scheduling,2509.07019,http://arxiv.org/abs/2509.07019v1,2025-09-07 02:50:09+00:00
+23,MEGS$^{2}$: Memory-Efficient Gaussian Splatting via Spherical Gaussians and Unified Pruning,2509.07021,http://arxiv.org/abs/2509.07021v1,2025-09-07 07:06:03+00:00
+24,Preventing Another Tessa: Modular Safety Middleware For Health-Adjacent AI Assistants,2509.07022,http://arxiv.org/abs/2509.07022v1,2025-09-07 08:43:39+00:00
+25,1 bit is all we need: binary normalized neural networks,2509.07025,http://arxiv.org/abs/2509.07025v1,2025-09-07 13:27:15+00:00
+26,Contradictions,2509.07026,http://arxiv.org/abs/2509.07026v1,2025-09-07 13:47:51+00:00
+27,The Impact of Artificial Intelligence on Traditional Art Forms: A Disruption or Enhancement,2509.07029,http://arxiv.org/abs/2509.07029v1,2025-09-07 16:37:04+00:00
+28,A Maslow-Inspired Hierarchy of Engagement with AI Model,2509.07032,http://arxiv.org/abs/2509.07032v1,2025-09-07 21:54:21+00:00
+29,Evaluating and comparing gender bias across four text-to-image models,2509.08004,http://arxiv.org/abs/2509.08004v1,2025-09-07 22:15:58+00:00
+30,Learning to Construct Knowledge through Sparse Reference Selection with Reinforcement Learning,2509.05874,http://arxiv.org/abs/2509.05874v1,2025-09-07 00:19:13+00:00
+31,"Uncertainty Quantification in Probabilistic Machine Learning Models: Theory, Methods, and Insights",2509.05877,http://arxiv.org/abs/2509.05877v2,2025-09-07 00:38:33+00:00
+32,Let's Roleplay: Examining LLM Alignment in Collaborative Dialogues,2509.05882,http://arxiv.org/abs/2509.05882v1,2025-09-07 00:58:10+00:00
+33,Meta-training of diffractive meta-neural networks for super-resolution direction of arrival estimation,2509.05926,http://arxiv.org/abs/2509.05926v1,2025-09-07 04:49:51+00:00
+34,TSPC: A Two-Stage Phoneme-Centric Architecture for code-switching Vietnamese-English Speech Recognition,2509.05983,http://arxiv.org/abs/2509.05983v1,2025-09-07 09:19:03+00:00
+35,Khana: A Comprehensive Indian Cuisine Dataset,2509.06006,http://arxiv.org/abs/2509.06006v1,2025-09-07 10:43:29+00:00
+36,DCMI: A Differential Calibration Membership Inference Attack Against Retrieval-Augmented Generation,2509.06026,http://arxiv.org/abs/2509.06026v1,2025-09-07 11:58:02+00:00
+37,DreamAudio: Customized Text-to-Audio Generation with Diffusion Models,2509.06027,http://arxiv.org/abs/2509.06027v1,2025-09-07 12:06:21+00:00
+38,TinyDef-DETR: A DETR-based Framework for Defect Detection in Transmission Lines from UAV Imagery,2509.06035,http://arxiv.org/abs/2509.06035v2,2025-09-07 12:36:33+00:00
+39,BranchGRPO: Stable and Efficient GRPO with Structured Branching in Diffusion Models,2509.06040,http://arxiv.org/abs/2509.06040v3,2025-09-07 12:53:06+00:00
+40,Empirical Study of Code Large Language Models for Binary Security Patch Detection,2509.06052,http://arxiv.org/abs/2509.06052v1,2025-09-07 13:31:43+00:00
+41,Language Native Lightly Structured Databases for Large Language Model Driven Composite Materials Research,2509.06093,http://arxiv.org/abs/2509.06093v1,2025-09-07 15:15:55+00:00
+42,FASL-Seg: Anatomy and Tool Segmentation of Surgical Scenes,2509.06159,http://arxiv.org/abs/2509.06159v1,2025-09-07 17:59:09+00:00
+43,Benchmarking Gender and Political Bias in Large Language Models,2509.06164,http://arxiv.org/abs/2509.06164v1,2025-09-07 18:23:30+00:00
+44,"AI Governance in Higher Education: A course design exploring regulatory, ethical and practical considerations",2509.06176,http://arxiv.org/abs/2509.06176v1,2025-09-07 19:09:12+00:00
+45,Language Bias in Information Retrieval: The Nature of the Beast and Mitigation Methods,2509.06195,http://arxiv.org/abs/2509.06195v1,2025-09-07 20:10:49+00:00
+46,Grasp-MPC: Closed-Loop Visual Grasping via Value-Guided Model Predictive Control,2509.06201,http://arxiv.org/abs/2509.06201v1,2025-09-07 20:28:21+00:00
+47,Toward a Metrology for Artificial Intelligence: Hidden-Rule Environments and Reinforcement Learning,2509.06213,http://arxiv.org/abs/2509.06213v2,2025-09-07 21:22:14+00:00
+48,The Efficiency Frontier: Classical Shadows versus Quantum Footage,2509.06218,http://arxiv.org/abs/2509.06218v2,2025-09-07 21:46:56+00:00
+49,"Beamforming-LLM: What, Where and When Did I Miss?",2509.06221,http://arxiv.org/abs/2509.06221v1,2025-09-07 21:52:26+00:00
+50,Distillation of CNN Ensemble Results for Enhanced Long-Term Prediction of the ENSO Phenomenon,2509.06227,http://arxiv.org/abs/2509.06227v1,2025-09-07 22:26:42+00:00
+51,Random Forest Stratified K-Fold Cross Validation on SYN DoS Attack SD-IoV,2509.07016,http://arxiv.org/abs/2509.07016v1,2025-09-07 00:18:30+00:00
+52,From Eigenmodes to Proofs: Integrating Graph Spectral Operators with Symbolic Interpretable Reasoning,2509.07017,http://arxiv.org/abs/2509.07017v1,2025-09-07 01:12:20+00:00
+53,Moment- and Power-Spectrum-Based Gaussianity Regularization for Text-to-Image Models,2509.07027,http://arxiv.org/abs/2509.07027v2,2025-09-07 14:22:01+00:00
+54,A Minimalist Bayesian Framework for Stochastic Optimization,2509.07030,http://arxiv.org/abs/2509.07030v1,2025-09-07 19:31:12+00:00
+55,Uncertainty Estimation using Variance-Gated Distributions,2509.08846,http://arxiv.org/abs/2509.08846v1,2025-09-07 16:19:21+00:00
+56,Automated Unity Game Template Generation from GDDs via NLP and Multi-Modal LLMs,2509.08847,http://arxiv.org/abs/2509.08847v1,2025-09-07 21:53:37+00:00
+57,Quantum spatial best-arm identification via quantum walks,2509.05890,http://arxiv.org/abs/2509.05890v1,2025-09-07 01:53:09+00:00
