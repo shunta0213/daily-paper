@@ -1,0 +1,101 @@
+,title,id,arxiv_url,published
+0,Performative Thinking? The Brittle Correlation Between CoT Length and Problem Complexity,2509.07339,http://arxiv.org/abs/2509.07339v1,2025-09-09 02:31:16+00:00
+1,SheetDesigner: MLLM-Powered Spreadsheet Layout Generation with Rule-Based and Vision-Based Reflection,2509.07473,http://arxiv.org/abs/2509.07473v1,2025-09-09 07:51:38+00:00
+2,Towards explainable decision support using hybrid neural models for logistic terminal automation,2509.07577,http://arxiv.org/abs/2509.07577v2,2025-09-09 10:41:08+00:00
+3,Transferable Direct Prompt Injection via Activation-Guided MCMC Sampling,2509.07617,http://arxiv.org/abs/2509.07617v1,2025-09-09 11:42:06+00:00
+4,Getting In Contract with Large Language Models -- An Agency Theory Perspective On Large Language Model Alignment,2509.07642,http://arxiv.org/abs/2509.07642v1,2025-09-09 12:10:14+00:00
+5,DeepGraphLog for Layered Neurosymbolic AI,2509.07665,http://arxiv.org/abs/2509.07665v1,2025-09-09 12:32:07+00:00
+6,Unleashing the True Potential of LLMs: A Feedback-Triggered Self-Correction with Long-Term Multipath Decoding,2509.07676,http://arxiv.org/abs/2509.07676v1,2025-09-09 12:43:28+00:00
+7,FHIR-RAG-MEDS: Integrating HL7 FHIR with Retrieval-Augmented Large Language Models for Enhanced Medical Decision Support,2509.07706,http://arxiv.org/abs/2509.07706v1,2025-09-09 13:10:49+00:00
+8,"RIMO: An Easy-to-Evaluate, Hard-to-Solve Olympiad Benchmark for Advanced Mathematical Reasoning",2509.07711,http://arxiv.org/abs/2509.07711v1,2025-09-09 13:13:51+00:00
+9,The Carbon Footprint Wizard: A Knowledge-Augmented AI Interface for Streamlining Food Carbon Footprint Analysis,2509.07733,http://arxiv.org/abs/2509.07733v1,2025-09-09 13:34:06+00:00
+10,Certainty-Guided Reasoning in Large Language Models: A Dynamic Thinking Budget Approach,2509.07820,http://arxiv.org/abs/2509.07820v1,2025-09-09 14:57:15+00:00
+11,Aligning LLMs for the Classroom with Knowledge-Based Retrieval -- A Comparative RAG Study,2509.07846,http://arxiv.org/abs/2509.07846v1,2025-09-09 15:22:33+00:00
+12,SCoder: Iterative Self-Distillation for Bootstrapping Small-Scale Data Synthesizers to Empower Code LLMs,2509.07858,http://arxiv.org/abs/2509.07858v1,2025-09-09 15:38:44+00:00
+13,CP-Model-Zoo: A Natural Language Query System for Constraint Programming Models,2509.07867,http://arxiv.org/abs/2509.07867v1,2025-09-09 15:55:15+00:00
+14,HiPhO: How Far Are (M)LLMs from Humans in the Latest High School Physics Olympiad Benchmark?,2509.07894,http://arxiv.org/abs/2509.07894v3,2025-09-09 16:24:51+00:00
+15,Probing the Preferences of a Language Model: Integrating Verbal and Behavioral Tests of AI Welfare,2509.07961,http://arxiv.org/abs/2509.07961v1,2025-09-09 17:48:44+00:00
+16,Trust Semantics Distillation for Collaborator Selection via Memory-Augmented Agentic AI,2509.08151,http://arxiv.org/abs/2509.08151v1,2025-09-09 21:18:31+00:00
+17,Basis Vector Metric: A Method for Robust Open-Ended State Change Detection,2509.07308,http://arxiv.org/abs/2509.07308v1,2025-09-09 00:58:43+00:00
+18,Does This Look Familiar to You? Knowledge Analysis via Model Internal Representations,2509.07311,http://arxiv.org/abs/2509.07311v1,2025-09-09 01:08:15+00:00
+19,MEGG: Replay via Maximally Extreme GGscore in Incremental Learning for Neural Recommendation Models,2509.07319,http://arxiv.org/abs/2509.07319v1,2025-09-09 01:35:51+00:00
+20,Mitigating Attention Localization in Small Scale: Self-Attention Refinement via One-step Belief Propagation,2509.07324,http://arxiv.org/abs/2509.07324v1,2025-09-09 01:43:48+00:00
+21,DEPF: A UAV Multispectral Object Detector with Dual-Domain Enhancement and Priority-Guided Mamba Fusion,2509.07327,http://arxiv.org/abs/2509.07327v1,2025-09-09 01:51:57+00:00
+22,General Demographic Foundation Models for Enhancing Predictive Performance Across Diseases,2509.07330,http://arxiv.org/abs/2509.07330v1,2025-09-09 02:02:27+00:00
+23,Word2Spike: Poisson Rate Coding for Associative Memories and Neuromorphic Algorithms,2509.07361,http://arxiv.org/abs/2509.07361v1,2025-09-09 03:15:22+00:00
+24,SBS: Enhancing Parameter-Efficiency of Neural Representations for Neural Networks via Spectral Bias Suppression,2509.07373,http://arxiv.org/abs/2509.07373v1,2025-09-09 03:48:57+00:00
+25,Hybrid GCN-GRU Model for Anomaly Detection in Cryptocurrency Transactions,2509.07392,http://arxiv.org/abs/2509.07392v1,2025-09-09 05:14:26+00:00
+26,The Choice of Divergence: A Neglected Key to Mitigating Diversity Collapse in Reinforcement Learning with Verifiable Reward,2509.07430,http://arxiv.org/abs/2509.07430v1,2025-09-09 06:34:32+00:00
+27,Text2Touch: Tactile In-Hand Manipulation with LLM-Designed Reward Functions,2509.07445,http://arxiv.org/abs/2509.07445v1,2025-09-09 07:10:39+00:00
+28,Bias-Aware Machine Unlearning: Towards Fairer Vision Models via Controllable Forgetting,2509.07456,http://arxiv.org/abs/2509.07456v1,2025-09-09 07:25:51+00:00
+29,HALT-RAG: A Task-Adaptable Framework for Hallucination Detection with Calibrated NLI Ensembles and Abstention,2509.07475,http://arxiv.org/abs/2509.07475v1,2025-09-09 07:58:46+00:00
+30,Fine-Tuning Vision-Language Models for Visual Navigation Assistance,2509.07488,http://arxiv.org/abs/2509.07488v1,2025-09-09 08:08:35+00:00
+31,Generating Transferrable Adversarial Examples via Local Mixing and Logits Optimization for Remote Sensing Object Recognition,2509.07495,http://arxiv.org/abs/2509.07495v1,2025-09-09 08:20:19+00:00
+32,EHWGesture -- A dataset for multimodal understanding of clinical gestures,2509.07525,http://arxiv.org/abs/2509.07525v1,2025-09-09 09:00:03+00:00
+33,FLeW: Facet-Level and Adaptive Weighted Representation Learning of Scientific Documents,2509.07531,http://arxiv.org/abs/2509.07531v1,2025-09-09 09:08:44+00:00
+34,HU-based Foreground Masking for 3D Medical Masked Image Modeling,2509.07534,http://arxiv.org/abs/2509.07534v1,2025-09-09 09:11:38+00:00
+35,Avoiding Knowledge Edit Skipping in Multi-hop Question Answering with Guided Decomposition,2509.07555,http://arxiv.org/abs/2509.07555v1,2025-09-09 09:49:23+00:00
+36,$ΔL$ Normalization: Rethink Loss Aggregation in RLVR,2509.07558,http://arxiv.org/abs/2509.07558v1,2025-09-09 09:52:34+00:00
+37,Towards Generalized Routing: Model and Agent Orchestration for Adaptive and Efficient Inference,2509.07571,http://arxiv.org/abs/2509.07571v2,2025-09-09 10:15:42+00:00
+38,Attention Maps in 3D Shape Classification for Dental Stage Estimation with Class Node Graph Attention Networks,2509.07581,http://arxiv.org/abs/2509.07581v1,2025-09-09 10:44:25+00:00
+39,BALI: Enhancing Biomedical Language Representations through Knowledge Graph and Language Model Alignment,2509.07588,http://arxiv.org/abs/2509.07588v1,2025-09-09 10:59:47+00:00
+40,Transformer-Based Approach to Optimal Sensor Placement for Structural Health Monitoring of Probe Cards,2509.07603,http://arxiv.org/abs/2509.07603v1,2025-09-09 11:21:49+00:00
+41,From Classical Data to Quantum Advantage -- Quantum Policy Evaluation on Quantum Hardware,2509.07614,http://arxiv.org/abs/2509.07614v1,2025-09-09 11:36:25+00:00
+42,Variational Quantum Circuits in Offline Contextual Bandit Problems,2509.07633,http://arxiv.org/abs/2509.07633v1,2025-09-09 12:00:33+00:00
+43,Spectral Masking and Interpolation Attack (SMIA): A Black-box Adversarial Attack against Voice Authentication and Anti-Spoofing Systems,2509.07677,http://arxiv.org/abs/2509.07677v1,2025-09-09 12:43:59+00:00
+44,"Are LLMs Enough for Hyperpartisan, Fake, Polarized and Harmful Content Detection? Evaluating In-Context Learning vs. Fine-Tuning",2509.07768,http://arxiv.org/abs/2509.07768v1,2025-09-09 14:01:15+00:00
+45,XSRD-Net: EXplainable Stroke Relapse Detection,2509.07772,http://arxiv.org/abs/2509.07772v1,2025-09-09 14:06:01+00:00
+46,Forecasting Russian Equipment Losses Using Time Series and Deep Learning Models,2509.07813,http://arxiv.org/abs/2509.07813v1,2025-09-09 14:52:31+00:00
+47,Deep Learning-Based Burned Area Mapping Using Bi-Temporal Siamese Networks and AlphaEarth Foundation Datasets,2509.07852,http://arxiv.org/abs/2509.07852v1,2025-09-09 15:29:18+00:00
+48,Active Membership Inference Test (aMINT): Enhancing Model Auditability with Multi-Task Learning,2509.07879,http://arxiv.org/abs/2509.07879v1,2025-09-09 16:00:03+00:00
+49,Multimodal Contrastive Pretraining of CBCT and IOS for Enhanced Tooth Segmentation,2509.07923,http://arxiv.org/abs/2509.07923v1,2025-09-09 17:05:04+00:00
+50,Breaking Android with AI: A Deep Dive into LLM-Powered Exploitation,2509.07933,http://arxiv.org/abs/2509.07933v1,2025-09-09 17:17:06+00:00
+51,"ImportSnare: Directed ""Code Manual"" Hijacking in Retrieval-Augmented Code Generation",2509.07941,http://arxiv.org/abs/2509.07941v1,2025-09-09 17:21:20+00:00
+52,ACE and Diverse Generalization via Selective Disagreement,2509.07955,http://arxiv.org/abs/2509.07955v1,2025-09-09 17:43:05+00:00
+53,MVPBench: A Benchmark and Fine-Tuning Framework for Aligning Large Language Models with Diverse Human Values,2509.08022,http://arxiv.org/abs/2509.08022v1,2025-09-09 09:25:08+00:00
+54,NOWJ@COLIEE 2025: A Multi-stage Framework Integrating Embedding Models and Large Language Models for Legal Retrieval and Entailment,2509.08025,http://arxiv.org/abs/2509.08025v1,2025-09-09 12:05:52+00:00
+55,Two-Stage Swarm Intelligence Ensemble Deep Transfer Learning (SI-EDTL) for Vehicle Detection Using Unmanned Aerial Vehicles,2509.08026,http://arxiv.org/abs/2509.08026v1,2025-09-09 13:03:12+00:00
+56,How Far Are We from True Unlearnability?,2509.08058,http://arxiv.org/abs/2509.08058v1,2025-09-09 18:01:10+00:00
+57,JEL: A Novel Model Linking Knowledge Graph entities to News Mentions,2509.08086,http://arxiv.org/abs/2509.08086v1,2025-09-09 18:50:18+00:00
+58,Performance Assessment Strategies for Generative AI Applications in Healthcare,2509.08087,http://arxiv.org/abs/2509.08087v1,2025-09-09 18:50:26+00:00
+59,EnvX: Agentize Everything with Agentic AI,2509.08088,http://arxiv.org/abs/2509.08088v1,2025-09-09 18:51:36+00:00
+60,Real-Time Obstacle Avoidance for a Mobile Robot Using CNN-Based Sensor Fusion,2509.08095,http://arxiv.org/abs/2509.08095v1,2025-09-09 19:05:37+00:00
+61,APML: Adaptive Probabilistic Matching Loss for Robust 3D Point Cloud Reconstruction,2509.08104,http://arxiv.org/abs/2509.08104v1,2025-09-09 19:31:06+00:00
+62,Domain Knowledge is Power: Leveraging Physiological Priors for Self Supervised Representation Learning in Electrocardiography,2509.08116,http://arxiv.org/abs/2509.08116v1,2025-09-09 19:44:50+00:00
+63,From Limited Data to Rare-event Prediction: LLM-powered Feature Engineering and Multi-model Learning in Venture Capital,2509.08140,http://arxiv.org/abs/2509.08140v1,2025-09-09 20:46:54+00:00
+64,Zero-Shot Metric Depth Estimation via Monocular Visual-Inertial Rescaling for Autonomous Aerial Navigation,2509.08159,http://arxiv.org/abs/2509.08159v1,2025-09-09 21:39:13+00:00
+65,MARLINE: Multi-Source Mapping Transfer Learning for Non-Stationary Environments,2509.08176,http://arxiv.org/abs/2509.08176v1,2025-09-09 22:51:31+00:00
+66,Multi-Label Transfer Learning in Non-Stationary Data Streams,2509.08181,http://arxiv.org/abs/2509.08181v1,2025-09-09 23:01:20+00:00
+67,Multi Robot Coordination in Highly Dynamic Environments: Tackling Asymmetric Obstacles and Limited Communication,2509.08859,http://arxiv.org/abs/2509.08859v1,2025-09-09 22:11:34+00:00
+68,Investigating Symbolic Triggers of Hallucination in Gemma Models Across HaluEval and TruthfulQA,2509.09715,http://arxiv.org/abs/2509.09715v1,2025-09-09 05:50:08+00:00
+69,Autonomous Code Evolution Meets NP-Completeness,2509.07367,http://arxiv.org/abs/2509.07367v1,2025-09-09 03:28:06+00:00
+70,Talking with Oompa Loompas: A novel framework for evaluating linguistic acquisition of LLM agents,2509.07389,http://arxiv.org/abs/2509.07389v1,2025-09-09 05:09:27+00:00
+71,"Toward Lifelong-Sustainable Electronic-Photonic AI Systems via Extreme Efficiency, Reconfigurability, and Robustness",2509.07396,http://arxiv.org/abs/2509.07396v1,2025-09-09 05:20:55+00:00
+72,Language Self-Play For Data-Free Training,2509.07414,http://arxiv.org/abs/2509.07414v1,2025-09-09 05:51:34+00:00
+73,Benchmarking Universal Interatomic Potentials on Zeolite Structures,2509.07417,http://arxiv.org/abs/2509.07417v1,2025-09-09 06:04:40+00:00
+74,DepthVision: Robust Vision-Language Understanding through GAN-Based LiDAR-to-RGB Synthesis,2509.07463,http://arxiv.org/abs/2509.07463v1,2025-09-09 07:42:07+00:00
+75,ALLabel: Three-stage Active Learning for LLM-based Entity Recognition using Demonstration Retrieval,2509.07512,http://arxiv.org/abs/2509.07512v1,2025-09-09 08:47:13+00:00
+76,Water Demand Forecasting of District Metered Areas through Learned Consumer Representations,2509.07515,http://arxiv.org/abs/2509.07515v1,2025-09-09 08:51:30+00:00
+77,Competitive Audio-Language Models with Data-Efficient Single-Stage Training on Public Data,2509.07526,http://arxiv.org/abs/2509.07526v1,2025-09-09 09:01:01+00:00
+78,Beyond Rebalancing: Benchmarking Binary Classifiers Under Class Imbalance Without Rebalancing Techniques,2509.07605,http://arxiv.org/abs/2509.07605v1,2025-09-09 11:28:34+00:00
+79,BDPM: A Machine Learning-Based Feature Extractor for Parkinson's Disease Classification via Gut Microbiota Analysis,2509.07723,http://arxiv.org/abs/2509.07723v1,2025-09-09 13:24:25+00:00
+80,Enhancing Online Learning by Integrating Biosensors and Multimodal Learning Analytics for Detecting and Predicting Student Behavior: A Review,2509.07742,http://arxiv.org/abs/2509.07742v1,2025-09-09 13:41:40+00:00
+81,What Were You Thinking? An LLM-Driven Large-Scale Study of Refactoring Motivations in Open-Source Projects,2509.07763,http://arxiv.org/abs/2509.07763v1,2025-09-09 13:58:46+00:00
+82,Individual utilities of life satisfaction reveal inequality aversion unrelated to political alignment,2509.07793,http://arxiv.org/abs/2509.07793v2,2025-09-09 14:30:24+00:00
+83,Enhanced SegNet with Integrated Grad-CAM for Interpretable Retinal Layer Segmentation in OCT Images,2509.07795,http://arxiv.org/abs/2509.07795v1,2025-09-09 14:31:51+00:00
+84,Small Open Models Achieve Near Parity with Large Models in Low Resource Literary Translation at a Fraction of the Cost,2509.07829,http://arxiv.org/abs/2509.07829v1,2025-09-09 15:07:14+00:00
+85,Uncovering Scaling Laws for Large Language Models via Inverse Problems,2509.07909,http://arxiv.org/abs/2509.07909v1,2025-09-09 16:53:21+00:00
+86,GENUINE: Graph Enhanced Multi-level Uncertainty Estimation for Large Language Models,2509.07925,http://arxiv.org/abs/2509.07925v1,2025-09-09 17:07:44+00:00
+87,Accelerating Local AI on Consumer GPUs: A Hardware-Aware Dynamic Strategy for YOLOv10s,2509.07928,http://arxiv.org/abs/2509.07928v1,2025-09-09 17:13:31+00:00
+88,Bringing Multi-Modal Multi-Task Federated Foundation Models to Education Domain: Prospects and Challenges,2509.07946,http://arxiv.org/abs/2509.07946v1,2025-09-09 17:31:42+00:00
+89,Mini-o3: Scaling Up Reasoning Patterns and Interaction Turns for Visual Search,2509.07969,http://arxiv.org/abs/2509.07969v1,2025-09-09 17:54:21+00:00
+90,AU-Harness: An Open-Source Toolkit for Holistic Evaluation of Audio LLMs,2509.08031,http://arxiv.org/abs/2509.08031v2,2025-09-09 15:30:40+00:00
+91,Risk-Bounded Multi-Agent Visual Navigation via Dynamic Budget Allocation,2509.08157,http://arxiv.org/abs/2509.08157v1,2025-09-09 21:35:55+00:00
+92,Diffusion-Guided Multi-Arm Motion Planning,2509.08160,http://arxiv.org/abs/2509.08160v1,2025-09-09 21:41:23+00:00
+93,Quadrotor Navigation using Reinforcement Learning with Privileged Information,2509.08177,http://arxiv.org/abs/2509.08177v1,2025-09-09 22:56:35+00:00
+94,"XML Prompting as Grammar-Constrained Interaction: Fixed-Point Semantics, Convergence Guarantees, and Human-AI Protocols",2509.08182,http://arxiv.org/abs/2509.08182v1,2025-09-09 23:03:53+00:00
+95,Lifetime-Aware Design of Item-Level Intelligence,2509.08193,http://arxiv.org/abs/2509.08193v1,2025-09-09 23:53:46+00:00
+96,"A vibe coding learning design to enhance EFL students' talking to, through, and about AI",2509.08854,http://arxiv.org/abs/2509.08854v1,2025-09-09 00:27:04+00:00
+97,VStyle: A Benchmark for Voice Style Adaptation with Spoken Instructions,2509.09716,http://arxiv.org/abs/2509.09716v1,2025-09-09 14:28:58+00:00
+98,Astra: A Multi-Agent System for GPU Kernel Performance Optimization,2509.07506,http://arxiv.org/abs/2509.07506v1,2025-09-09 08:39:50+00:00
+99,Spectral and Rhythm Feature Performance Evaluation for Category and Class Level Audio Classification with Deep Convolutional Neural Networks,2509.07756,http://arxiv.org/abs/2509.07756v2,2025-09-09 13:54:41+00:00
