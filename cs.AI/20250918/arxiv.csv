@@ -1,0 +1,101 @@
+,title,id,arxiv_url,published
+0,Instructional Prompt Optimization for Few-Shot LLM-Based Recommendations on Cold-Start Users,2509.09066,http://arxiv.org/abs/2509.09066v1,2025-09-11 00:13:17+00:00
+1,Anti-Money Laundering Machine Learning Pipelines; A Technical Analysis on Identifying High-risk Bank Clients with Supervised Learning,2509.09127,http://arxiv.org/abs/2509.09127v1,2025-09-11 03:53:10+00:00
+2,Jupiter: Enhancing LLM Data Analysis Capabilities via Notebook and Inference-Time Value-Guided Search,2509.09245,http://arxiv.org/abs/2509.09245v1,2025-09-11 08:27:54+00:00
+3,Fusing Knowledge and Language: A Comparative Study of Knowledge Graph-Based Question Answering with LLMs,2509.09272,http://arxiv.org/abs/2509.09272v1,2025-09-11 09:02:15+00:00
+4,LightAgent: Production-level Open-source Agentic AI Framework,2509.09292,http://arxiv.org/abs/2509.09292v1,2025-09-11 09:29:13+00:00
+5,Explaining Tournament Solutions with Minimal Supports,2509.09312,http://arxiv.org/abs/2509.09312v2,2025-09-11 09:55:50+00:00
+6,"Towards Adaptive ML Benchmarks: Web-Agent-Driven Construction, Domain Expansion, and Metric Optimization",2509.09321,http://arxiv.org/abs/2509.09321v1,2025-09-11 10:10:48+00:00
+7,TORSO: Template-Oriented Reasoning Towards General Tasks,2509.09448,http://arxiv.org/abs/2509.09448v3,2025-09-11 13:31:35+00:00
+8,"Inteligencia Artificial jurídica y el desafío de la veracidad: análisis de alucinaciones, optimización de RAG y principios para una integración responsable",2509.09467,http://arxiv.org/abs/2509.09467v1,2025-09-11 13:50:23+00:00
+9,SEDM: Scalable Self-Evolving Distributed Memory for Agents,2509.09498,http://arxiv.org/abs/2509.09498v1,2025-09-11 14:37:37+00:00
+10,Compositional Concept Generalization with Variational Quantum Circuits,2509.09541,http://arxiv.org/abs/2509.09541v1,2025-09-11 15:34:33+00:00
+11,The Illusion of Diminishing Returns: Measuring Long Horizon Execution in LLMs,2509.09677,http://arxiv.org/abs/2509.09677v1,2025-09-11 17:59:34+00:00
+12,How well can LLMs provide planning feedback in grounded environments?,2509.09790,http://arxiv.org/abs/2509.09790v1,2025-09-11 18:51:26+00:00
+13,Towards a Common Framework for Autoformalization,2509.09810,http://arxiv.org/abs/2509.09810v1,2025-09-11 19:28:56+00:00
+14,Towards an AI-based knowledge assistant for goat farmers based on Retrieval-Augmented Generation,2509.09848,http://arxiv.org/abs/2509.09848v1,2025-09-11 20:58:51+00:00
+15,SQAP-VLA: A Synergistic Quantization-Aware Pruning Framework for High-Performance Vision-Language-Action Models,2509.09090,http://arxiv.org/abs/2509.09090v1,2025-09-11 01:52:25+00:00
+16,Towards Confidential and Efficient LLM Inference with Dual Privacy Protection,2509.09091,http://arxiv.org/abs/2509.09091v1,2025-09-11 01:54:13+00:00
+17,DP-FedLoRA: Privacy-Enhanced Federated Fine-Tuning for On-Device Large Language Models,2509.09097,http://arxiv.org/abs/2509.09097v1,2025-09-11 02:16:34+00:00
+18,Character-Level Perturbations Disrupt LLM Watermarks,2509.09112,http://arxiv.org/abs/2509.09112v2,2025-09-11 02:50:07+00:00
+19,Automated Classification of Tutors' Dialogue Acts Using Generative AI: A Case Study Using the CIMA Corpus,2509.09125,http://arxiv.org/abs/2509.09125v1,2025-09-11 03:36:03+00:00
+20,ViRanker: A BGE-M3 & Blockwise Parallel Transformer Cross-Encoder for Vietnamese Reranking,2509.09131,http://arxiv.org/abs/2509.09131v1,2025-09-11 04:07:43+00:00
+21,OCELOT 2023: Cell Detection from Cell-Tissue Interaction Challenge,2509.09153,http://arxiv.org/abs/2509.09153v1,2025-09-11 05:21:02+00:00
+22,Mind Meets Space: Rethinking Agentic Spatial Intelligence from a Neuroscience-inspired Perspective,2509.09154,http://arxiv.org/abs/2509.09154v1,2025-09-11 05:23:22+00:00
+23,HISPASpoof: A New Dataset For Spanish Speech Forensics,2509.09155,http://arxiv.org/abs/2509.09155v1,2025-09-11 05:29:07+00:00
+24,A Knowledge Noise Mitigation Framework for Knowledge-based Visual Question Answering,2509.09159,http://arxiv.org/abs/2509.09159v1,2025-09-11 05:40:26+00:00
+25,Target-oriented Multimodal Sentiment Classification with Counterfactual-enhanced Debiasing,2509.09160,http://arxiv.org/abs/2509.09160v1,2025-09-11 05:40:53+00:00
+26,Dark-ISP: Enhancing RAW Image Processing for Low-Light Object Detection,2509.09183,http://arxiv.org/abs/2509.09183v1,2025-09-11 06:44:43+00:00
+27,"Probing Pre-trained Language Models on Code Changes: Insights from ReDef, a High-Confidence Just-in-Time Defect Prediction Dataset",2509.09192,http://arxiv.org/abs/2509.09192v1,2025-09-11 07:07:11+00:00
+28,On Integrating Large Language Models and Scenario-Based Programming for Improving Software Reliability,2509.09194,http://arxiv.org/abs/2509.09194v1,2025-09-11 07:10:25+00:00
+29,Efficient Trie-based Biasing using K-step Prediction for Rare Word Recognition,2509.09196,http://arxiv.org/abs/2509.09196v1,2025-09-11 07:11:46+00:00
+30,Improving Synthetic Data Training for Contextual Biasing Models with a Keyword-Aware Cost Function,2509.09197,http://arxiv.org/abs/2509.09197v1,2025-09-11 07:12:17+00:00
+31,Incentivizing Safer Actions in Policy Optimization for Constrained Reinforcement Learning,2509.09208,http://arxiv.org/abs/2509.09208v1,2025-09-11 07:33:35+00:00
+32,ProgD: Progressive Multi-scale Decoding with Dynamic Graphs for Joint Multi-agent Motion Forecasting,2509.09210,http://arxiv.org/abs/2509.09210v1,2025-09-11 07:36:54+00:00
+33,"Enabling Regulatory Multi-Agent Collaboration: Architecture, Challenges, and Solutions",2509.09215,http://arxiv.org/abs/2509.09215v1,2025-09-11 07:46:00+00:00
+34,Vejde: A Framework for Inductive Deep Reinforcement Learning Based on Factor Graph Color Refinement,2509.09219,http://arxiv.org/abs/2509.09219v1,2025-09-11 07:51:38+00:00
+35,CoAtNeXt:An Attention-Enhanced ConvNeXtV2-Transformer Hybrid Model for Gastric Tissue Classification,2509.09242,http://arxiv.org/abs/2509.09242v1,2025-09-11 08:24:50+00:00
+36,Adaptive Knowledge Distillation using a Device-Aware Teacher for Low-Complexity Acoustic Scene Classification,2509.09262,http://arxiv.org/abs/2509.09262v1,2025-09-11 08:48:48+00:00
+37,Modality-Agnostic Input Channels Enable Segmentation of Brain lesions in Multimodal MRI with Sequences Unavailable During Training,2509.09290,http://arxiv.org/abs/2509.09290v1,2025-09-11 09:25:30+00:00
+38,Measuring Implicit Spatial Coordination in Teams: Effects on Collective Intelligence and Performance,2509.09314,http://arxiv.org/abs/2509.09314v1,2025-09-11 10:00:01+00:00
+39,MoSE: Unveiling Structural Patterns in Graphs via Mixture of Subgraph Experts,2509.09337,http://arxiv.org/abs/2509.09337v1,2025-09-11 10:45:50+00:00
+40,Curriculum-Based Multi-Tier Semantic Exploration via Deep Reinforcement Learning,2509.09356,http://arxiv.org/abs/2509.09356v1,2025-09-11 11:10:08+00:00
+41,MetaLLMix : An XAI Aided LLM-Meta-learning Based Approach for Hyper-parameters Optimization,2509.09387,http://arxiv.org/abs/2509.09387v2,2025-09-11 12:06:34+00:00
+42,"We're Still Doing It (All) Wrong: Recommender Systems, Fifteen Years Later",2509.09414,http://arxiv.org/abs/2509.09414v1,2025-09-11 12:51:37+00:00
+43,ENSI: Efficient Non-Interactive Secure Inference for Large Language Models,2509.09424,http://arxiv.org/abs/2509.09424v1,2025-09-11 13:04:22+00:00
+44,Resource-Efficient Glioma Segmentation on Sub-Saharan MRI,2509.09469,http://arxiv.org/abs/2509.09469v1,2025-09-11 13:52:47+00:00
+45,AEGIS: An Agent for Extraction and Geographic Identification in Scholarly Proceedings,2509.09470,http://arxiv.org/abs/2509.09470v1,2025-09-11 13:52:52+00:00
+46,Prompt Pirates Need a Map: Stealing Seeds helps Stealing Prompts,2509.09488,http://arxiv.org/abs/2509.09488v1,2025-09-11 14:21:59+00:00
+47,Towards Explainable Job Title Matching: Leveraging Semantic Textual Relatedness and Knowledge Graphs,2509.09522,http://arxiv.org/abs/2509.09522v1,2025-09-11 15:02:54+00:00
+48,Improving Video Diffusion Transformer Training by Multi-Feature Fusion and Alignment from Self-Supervised Vision Encoders,2509.09547,http://arxiv.org/abs/2509.09547v1,2025-09-11 15:39:27+00:00
+49,"Invisible Attributes, Visible Biases: Exploring Demographic Shortcuts in MRI-based Alzheimer's Disease Classification",2509.09558,http://arxiv.org/abs/2509.09558v1,2025-09-11 15:48:30+00:00
+50,Boosting Embodied AI Agents through Perception-Generation Disaggregation and Asynchronous Pipeline Execution,2509.09560,http://arxiv.org/abs/2509.09560v1,2025-09-11 15:51:43+00:00
+51,Fluent but Unfeeling: The Emotional Blind Spots of Language Models,2509.09593,http://arxiv.org/abs/2509.09593v1,2025-09-11 16:31:13+00:00
+52,Mechanistic Learning with Guided Diffusion Models to Predict Spatio-Temporal Brain Tumor Growth,2509.09610,http://arxiv.org/abs/2509.09610v1,2025-09-11 16:52:09+00:00
+53,LoCoBench: A Benchmark for Long-Context Large Language Models in Complex Software Engineering,2509.09614,http://arxiv.org/abs/2509.09614v1,2025-09-11 16:55:04+00:00
+54,Explaining Concept Drift through the Evolution of Group Counterfactuals,2509.09616,http://arxiv.org/abs/2509.09616v1,2025-09-11 16:58:34+00:00
+55,Structure Matters: Brain Graph Augmentation via Learnable Edge Masking for Data-efficient Psychiatric Diagnosis,2509.09744,http://arxiv.org/abs/2509.09744v1,2025-09-11 07:24:39+00:00
+56,A Co-Training Semi-Supervised Framework Using Faster R-CNN and YOLO Networks for Object Detection in Densely Packed Retail Images,2509.09750,http://arxiv.org/abs/2509.09750v1,2025-09-11 13:40:43+00:00
+57,Meta-Learning Reinforcement Learning for Crypto-Return Prediction,2509.09751,http://arxiv.org/abs/2509.09751v1,2025-09-11 14:20:45+00:00
+58,LAVa: Layer-wise KV Cache Eviction with Dynamic Budget Allocation,2509.09754,http://arxiv.org/abs/2509.09754v1,2025-09-11 16:48:24+00:00
+59,ZORRO: Zero-Knowledge Robustness and Privacy for Split Learning (Full Version),2509.09787,http://arxiv.org/abs/2509.09787v1,2025-09-11 18:44:09+00:00
+60,A Modular and Multimodal Generative AI Framework for Urban Building Energy Data: Generating Synthetic Homes,2509.09794,http://arxiv.org/abs/2509.09794v1,2025-09-11 18:53:21+00:00
+61,Revisiting Actor-Critic Methods in Discrete Action Off-Policy Reinforcement Learning,2509.09838,http://arxiv.org/abs/2509.09838v1,2025-09-11 20:34:08+00:00
+62,HGEN: Heterogeneous Graph Ensemble Networks,2509.09843,http://arxiv.org/abs/2509.09843v1,2025-09-11 20:50:00+00:00
+63,SWE-Effi: Re-Evaluating Software AI Agent System Effectiveness Under Resource Constraints,2509.09853,http://arxiv.org/abs/2509.09853v1,2025-09-11 21:04:10+00:00
+64,LLMs as Agentic Cooperative Players in Multiplayer UNO,2509.09867,http://arxiv.org/abs/2509.09867v1,2025-09-11 21:42:33+00:00
+65,Surrogate Supervision for Robust and Generalizable Deformable Image Registration,2509.09869,http://arxiv.org/abs/2509.09869v1,2025-09-11 21:43:45+00:00
+66,Emulating Public Opinion: A Proof-of-Concept of AI-Generated Synthetic Survey Responses for the Chilean Case,2509.09871,http://arxiv.org/abs/2509.09871v1,2025-09-11 21:43:59+00:00
+67,From Hugging Face to GitHub: Tracing License Drift in the Open-Source AI Ecosystem,2509.09873,http://arxiv.org/abs/2509.09873v1,2025-09-11 21:46:20+00:00
+68,Self-Augmented Robot Trajectory: Efficient Imitation Learning via Safe Self-augmentation with Demonstrator-annotated Precision,2509.09893,http://arxiv.org/abs/2509.09893v1,2025-09-11 23:10:56+00:00
+69,Large Foundation Models for Trajectory Prediction in Autonomous Driving: A Comprehensive Survey,2509.10570,http://arxiv.org/abs/2509.10570v1,2025-09-11 10:30:06+00:00
+70,Gene-R1: Reasoning with Data-Augmented Lightweight LLMs for Gene Set Analysis,2509.10575,http://arxiv.org/abs/2509.10575v1,2025-09-11 17:14:08+00:00
+71,Aesthetic Experience and Educational Value in Co-creating Art with Generative AI: Evidence from a Survey of Young Learners,2509.10576,http://arxiv.org/abs/2509.10576v1,2025-09-11 17:55:46+00:00
+72,The Coding Limits of Robust Watermarking for Generative Models,2509.10577,http://arxiv.org/abs/2509.10577v1,2025-09-11 18:08:32+00:00
+73,LearnLens: An AI-Enhanced Dashboard to Support Teachers in Open-Ended Classrooms,2509.10582,http://arxiv.org/abs/2509.10582v1,2025-09-11 23:06:54+00:00
+74,"Modular, On-Site Solutions with Lightweight Anomaly Detection for Sustainable Nutrient Management in Agriculture",2509.12247,http://arxiv.org/abs/2509.12247v1,2025-09-11 21:14:35+00:00
+75,STRIDE: Subset-Free Functional Decomposition for XAI in Tabular Settings,2509.09070,http://arxiv.org/abs/2509.09070v2,2025-09-11 00:19:53+00:00
+76,Strategic Tradeoffs Between Humans and AI in Multi-Agent Bargaining,2509.09071,http://arxiv.org/abs/2509.09071v2,2025-09-11 00:25:07+00:00
+77,KoopMotion: Learning Almost Divergence Free Koopman Flow Fields for Motion Planning,2509.09074,http://arxiv.org/abs/2509.09074v1,2025-09-11 00:42:01+00:00
+78,Objectness Similarity: Capturing Object-Level Fidelity in 3D Scene Evaluation,2509.09143,http://arxiv.org/abs/2509.09143v1,2025-09-11 04:33:27+00:00
+79,Video Understanding by Design: How Datasets Shape Architectures and Insights,2509.09151,http://arxiv.org/abs/2509.09151v1,2025-09-11 05:06:30+00:00
+80,Adaptive Pareto-Optimal Token Merging for Edge Transformer Models in Semantic Communication,2509.09168,http://arxiv.org/abs/2509.09168v1,2025-09-11 06:05:35+00:00
+81,EchoX: Towards Mitigating Acoustic-Semantic Gap via Echo Training for Speech-to-Speech LLMs,2509.09174,http://arxiv.org/abs/2509.09174v1,2025-09-11 06:17:59+00:00
+82,Clip Your Sequences Fairly: Enforcing Length Fairness for Sequence-Level RL,2509.09177,http://arxiv.org/abs/2509.09177v1,2025-09-11 06:27:10+00:00
+83,Bona fide Cross Testing Reveals Weak Spot in Audio Deepfake Detection Systems,2509.09204,http://arxiv.org/abs/2509.09204v1,2025-09-11 07:20:18+00:00
+84,Tree-OPO: Off-policy Monte Carlo Tree-Guided Advantage Optimization for Multistep Reasoning,2509.09284,http://arxiv.org/abs/2509.09284v1,2025-09-11 09:18:07+00:00
+85,Can Multimodal LLMs See Materials Clearly? A Multimodal Benchmark on Materials Characterization,2509.09307,http://arxiv.org/abs/2509.09307v1,2025-09-11 09:50:16+00:00
+86,OmniEVA: Embodied Versatile Planner via Task-Adaptive 3D-Grounded and Embodiment-aware Reasoning,2509.09332,http://arxiv.org/abs/2509.09332v2,2025-09-11 10:32:22+00:00
+87,Robust Non-Linear Correlations via Polynomial Regression,2509.09380,http://arxiv.org/abs/2509.09380v1,2025-09-11 11:55:48+00:00
+88,LLMs Don't Know Their Own Decision Boundaries: The Unreliability of Self-Generated Counterfactual Explanations,2509.09396,http://arxiv.org/abs/2509.09396v1,2025-09-11 12:25:41+00:00
+89,OpenFake: An Open Dataset and Platform Toward Large-Scale Deepfake Detection,2509.09495,http://arxiv.org/abs/2509.09495v1,2025-09-11 14:34:22+00:00
+90,Incorporating AI Incident Reporting into Telecommunications Law and Policy: Insights from India,2509.09508,http://arxiv.org/abs/2509.09508v1,2025-09-11 14:50:41+00:00
+91,A modified RIME algorithm with covariance learning and diversity enhancement for numerical optimization,2509.09529,http://arxiv.org/abs/2509.09529v1,2025-09-11 15:12:03+00:00
+92,An improved educational competition optimizer with multi-covariance learning operators for global optimization problems,2509.09552,http://arxiv.org/abs/2509.09552v1,2025-09-11 15:41:14+00:00
+93,Graph Alignment via Dual-Pass Spectral Encoding and Latent Space Communication,2509.09597,http://arxiv.org/abs/2509.09597v1,2025-09-11 16:36:16+00:00
+94,Feasibility-Guided Fair Adaptive Offline Reinforcement Learning for Medicaid Care Management,2509.09655,http://arxiv.org/abs/2509.09655v1,2025-09-11 17:50:06+00:00
+95,SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning,2509.09674,http://arxiv.org/abs/2509.09674v1,2025-09-11 17:59:17+00:00
+96,CDE: Curiosity-Driven Exploration for Efficient Reinforcement Learning in Large Language Models,2509.09675,http://arxiv.org/abs/2509.09675v1,2025-09-11 17:59:17+00:00
+97,ButterflyQuant: Ultra-low-bit LLM Quantization through Learnable Orthogonal Butterfly Transforms,2509.09679,http://arxiv.org/abs/2509.09679v1,2025-09-11 17:59:51+00:00
+98,D-CAT: Decoupled Cross-Attention Transfer between Sensor Modalities for Unimodal Inference,2509.09747,http://arxiv.org/abs/2509.09747v1,2025-09-11 10:54:07+00:00
+99,Executable Ontologies: Synthesizing Event Semantics with Dataflow Architecture,2509.09775,http://arxiv.org/abs/2509.09775v2,2025-09-11 18:12:46+00:00
