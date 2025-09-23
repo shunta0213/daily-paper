@@ -1,0 +1,64 @@
+,title,id,arxiv_url,published
+0,Toward Heisenberg Scaling in Non-Hermitian Metrology at the Quantum Regime,2509.12579,http://arxiv.org/abs/2509.12579v1,2025-09-16 02:13:37+00:00
+1,"Erasing, Converting, and Communicating: The Power of Resource-Nongenerating Operations",2509.12604,http://arxiv.org/abs/2509.12604v1,2025-09-16 03:00:33+00:00
+2,Stabilizer Perturbation Theory: A Systematic Construction via Schrieffer-Wolff Transformation,2509.12621,http://arxiv.org/abs/2509.12621v1,2025-09-16 03:32:26+00:00
+3,Cavity-Modified Nonequilibrium Fermi's Golden Rule Rate Coefficients from Cavity-Free Inputs,2509.12634,http://arxiv.org/abs/2509.12634v1,2025-09-16 03:53:06+00:00
+4,EmuPlat: A Framework-Agnostic Platform for Quantum Hardware Emulation with Validated Transpiler-to-Pulse Pipeline,2509.12639,http://arxiv.org/abs/2509.12639v1,2025-09-16 03:56:23+00:00
+5,Sample-optimal single-copy quantum state tomography via shallow depth measurements,2509.12703,http://arxiv.org/abs/2509.12703v1,2025-09-16 05:54:01+00:00
+6,Low-complexity CV-QKD system with optical pilot-tone local oscillator synchronization,2509.12735,http://arxiv.org/abs/2509.12735v1,2025-09-16 06:50:42+00:00
+7,RandomMeas.jl: A Julia Package for Randomized Measurements in Quantum Devices,2509.12749,http://arxiv.org/abs/2509.12749v1,2025-09-16 07:10:21+00:00
+8,Spontaneous formation of subsystem and bath under accordion-type driving,2509.12761,http://arxiv.org/abs/2509.12761v1,2025-09-16 07:23:52+00:00
+9,Designing Shadow Tomography Protocols by Natural Language Processing,2509.12782,http://arxiv.org/abs/2509.12782v1,2025-09-16 07:58:43+00:00
+10,Generalised two-dimensional nonlinear oscillator with a position-dependent effective mass and the thermodynamic properties,2509.12796,http://arxiv.org/abs/2509.12796v1,2025-09-16 08:14:36+00:00
+11,Mitigating the phase-mismatch effect in non-resonant four-wave mixing enabled by optimal control,2509.12827,http://arxiv.org/abs/2509.12827v1,2025-09-16 08:51:21+00:00
+12,The Quantum Control Hierarchy: When Physics-Informed Design Meets Machine Learning,2509.12832,http://arxiv.org/abs/2509.12832v2,2025-09-16 08:56:11+00:00
+13,Data-Efficient Quantum Noise Modeling via Machine Learning,2509.12933,http://arxiv.org/abs/2509.12933v1,2025-09-16 10:30:28+00:00
+14,First Practical Experiences Integrating Quantum Computers with HPC Resources: A Case Study With a 20-qubit Superconducting Quantum Computer,2509.12949,http://arxiv.org/abs/2509.12949v1,2025-09-16 10:53:57+00:00
+15,Towards Universal Quantum Tamper Detection,2509.12986,http://arxiv.org/abs/2509.12986v1,2025-09-16 11:49:17+00:00
+16,Slice-Wise Initial State Optimization to Improve Cost and Accuracy of the VQE on Lattice Models,2509.13034,http://arxiv.org/abs/2509.13034v1,2025-09-16 12:52:23+00:00
+17,Resource-efficient entanglement detection in high-dimensional states via two-qubit witnesses,2509.13061,http://arxiv.org/abs/2509.13061v1,2025-09-16 13:19:27+00:00
+18,Certifying bipartite entangled states with few local measurements: from separable stabilizers to applications,2509.13082,http://arxiv.org/abs/2509.13082v1,2025-09-16 13:39:57+00:00
+19,Steady-state entanglement of spin qubits mediated by non-reciprocal and chiral magnons,2509.13094,http://arxiv.org/abs/2509.13094v1,2025-09-16 13:52:10+00:00
+20,Ultrafast non-adiabatic molecular energy conversion into photons induced by quantized electromagnetic fields,2509.13233,http://arxiv.org/abs/2509.13233v1,2025-09-16 16:41:07+00:00
+21,"Demonstration of a Logical Architecture Uniting Motion and In-Place Entanglement: Shor's Algorithm, Constant-Depth CNOT Ladder, and Many-Hypercube Code",2509.13247,http://arxiv.org/abs/2509.13247v1,2025-09-16 16:55:42+00:00
+22,A Robust Modular Quantum Processor,2509.13269,http://arxiv.org/abs/2509.13269v1,2025-09-16 17:26:57+00:00
+23,Direct Experimental Observation of Quantum Mpemba Effect without Bath Engineering,2509.13451,http://arxiv.org/abs/2509.13451v1,2025-09-16 18:36:43+00:00
+24,From virtual Z gates to virtual Z pulses,2509.13453,http://arxiv.org/abs/2509.13453v1,2025-09-16 18:37:59+00:00
+25,The original Wigner's-Friend scenarios,2509.13470,http://arxiv.org/abs/2509.13470v1,2025-09-16 19:11:46+00:00
+26,End-to-End Complexity Analysis for Quantum Simulation of the Extended Jaynes-Cummings Models,2509.13546,http://arxiv.org/abs/2509.13546v1,2025-09-16 21:23:53+00:00
+27,Pulsed Generation of Continuous-Variable Cluster States in a Phononic Quantum Network,2509.12529,http://arxiv.org/abs/2509.12529v1,2025-09-16 00:09:01+00:00
+28,Unidirectional and collective emission of integrated quantum emitters,2509.12585,http://arxiv.org/abs/2509.12585v1,2025-09-16 02:23:27+00:00
+29,Symmetry and Topology of Successive Quantum Feedback Control,2509.12637,http://arxiv.org/abs/2509.12637v1,2025-09-16 03:54:43+00:00
+30,Non-Markovian amplitude damping in a central spin model with random couplings,2509.12670,http://arxiv.org/abs/2509.12670v1,2025-09-16 04:50:41+00:00
+31,Ancilla-train quantum algorithm for simulating non-Markovian open quantum systems,2509.12717,http://arxiv.org/abs/2509.12717v1,2025-09-16 06:18:06+00:00
+32,Superresolution of unequal-brightness thermal sources for stellar interferometry,2509.12751,http://arxiv.org/abs/2509.12751v1,2025-09-16 07:12:38+00:00
+33,Efficient lattice field theory simulation using adaptive normalizing flow on a resistive memory-based neural differential equation solver,2509.12812,http://arxiv.org/abs/2509.12812v1,2025-09-16 08:30:58+00:00
+34,Sources of nonlinearity in the response of a driven nano-electromechanical resonator,2509.12830,http://arxiv.org/abs/2509.12830v1,2025-09-16 08:55:35+00:00
+35,Dynamics of Quantum Analogs of Classical Impact Oscillators,2509.12835,http://arxiv.org/abs/2509.12835v1,2025-09-16 08:58:39+00:00
+36,Real-time vacuum-state quantum random number generator on a chip,2509.13105,http://arxiv.org/abs/2509.13105v1,2025-09-16 14:04:56+00:00
+37,Topological Photon Transport in Programmable Photonic Processors via Discretized Evolution of Synthetic Magnetic Fields,2509.13184,http://arxiv.org/abs/2509.13184v2,2025-09-16 15:36:32+00:00
+38,Coherence and Dimensionality Witnesses for Fractional OAM Modes,2509.13275,http://arxiv.org/abs/2509.13275v1,2025-09-16 17:29:57+00:00
+39,Purification of quantum trajectories in infinite dimensions,2509.13377,http://arxiv.org/abs/2509.13377v1,2025-09-16 07:20:11+00:00
+40,Quantum ground-state cooling of two librational modes of a nanorotor,2509.13398,http://arxiv.org/abs/2509.13398v1,2025-09-16 17:41:52+00:00
+41,Defining Security in Quantum Key Distribution,2509.13405,http://arxiv.org/abs/2509.13405v1,2025-09-16 18:00:01+00:00
+42,Symmetry Resolved Multipartite Entanglement Entropy,2509.13410,http://arxiv.org/abs/2509.13410v1,2025-09-16 18:00:02+00:00
+43,Quantum Dial for High-Harmonic Generation,2509.13518,http://arxiv.org/abs/2509.13518v1,2025-09-16 20:28:15+00:00
+44,Quantum speed limit for the OTOC from an open systems perspective,2509.13519,http://arxiv.org/abs/2509.13519v1,2025-09-16 20:28:49+00:00
+45,Evaluating the Limits of QAOA Parameter Transfer at High-Rounds on Sparse Ising Models With Geometrically Local Cubic Terms,2509.13528,http://arxiv.org/abs/2509.13528v1,2025-09-16 20:48:53+00:00
+46,HQCNN: A Hybrid Quantum-Classical Neural Network for Medical Image Classification,2509.14277,http://arxiv.org/abs/2509.14277v1,2025-09-16 08:02:53+00:00
+47,Resisting Quantum Key Distribution Attacks Using Quantum Machine Learning,2509.14282,http://arxiv.org/abs/2509.14282v1,2025-09-16 14:22:39+00:00
+48,Large Language Model Scaling Laws for Neural Quantum States in Quantum Chemistry,2509.12679,http://arxiv.org/abs/2509.12679v1,2025-09-16 05:04:36+00:00
+49,Uniqueness of purifications is equivalent to Haag duality,2509.12911,http://arxiv.org/abs/2509.12911v1,2025-09-16 10:05:17+00:00
+50,Symmetry-Resolved Spread Complexity,2509.12992,http://arxiv.org/abs/2509.12992v1,2025-09-16 12:03:23+00:00
+51,Mitigating the sign problem by quantum computing,2509.13017,http://arxiv.org/abs/2509.13017v2,2025-09-16 12:44:55+00:00
+52,Cyclic Variational Quantum Eigensolver: Escaping Barren Plateaus through Staircase Descent,2509.13096,http://arxiv.org/abs/2509.13096v1,2025-09-16 13:54:03+00:00
+53,Generalized Quantum Stein's Lemma and Reversibility of Quantum Resource Theories for Classical-Quantum Channels,2509.13280,http://arxiv.org/abs/2509.13280v1,2025-09-16 17:34:37+00:00
+54,QDFlow: A Python package for physics simulations of quantum dot devices,2509.13298,http://arxiv.org/abs/2509.13298v1,2025-09-16 17:54:25+00:00
+55,An effective density matrix for vacua in asymptotically flat gravity,2509.13401,http://arxiv.org/abs/2509.13401v1,2025-09-16 18:00:00+00:00
+56,Coherently enhanced decoherence and cloud substructure of atom interferometers,2509.13417,http://arxiv.org/abs/2509.13417v1,2025-09-16 18:00:16+00:00
+57,Computational complexity of Berry phase estimation in topological phases of matter,2509.13423,http://arxiv.org/abs/2509.13423v1,2025-09-16 18:01:20+00:00
+58,Simulation of bilayer Hamiltonians based on monitored quantum trajectories,2509.13440,http://arxiv.org/abs/2509.13440v1,2025-09-16 18:17:16+00:00
+59,Detector-based measurement-induced state updates in AdS/CFT,2509.13457,http://arxiv.org/abs/2509.13457v1,2025-09-16 18:48:02+00:00
+60,Effective delocalization in the one-dimensional Anderson model with stealthy disorder,2509.13502,http://arxiv.org/abs/2509.13502v1,2025-09-16 20:04:51+00:00
+61,QLook:Quantum-Driven Viewport Prediction for Virtual Reality,2509.14290,http://arxiv.org/abs/2509.14290v1,2025-09-16 22:21:44+00:00
+62,Free mutual information and higher-point OTOCs,2509.13406,http://arxiv.org/abs/2509.13406v1,2025-09-16 18:00:01+00:00
