@@ -1,0 +1,63 @@
+,title,id,arxiv_url,published
+0,NUMINA: A Natural Understanding Benchmark for Multi-dimensional Intelligence and Numerical Reasoning Abilities,2509.16656,http://arxiv.org/abs/2509.16656v1,2025-09-20 12:05:47+00:00
+1,Sycophancy Mitigation Through Reinforcement Learning with Uncertainty-Aware Adaptive Reasoning Trajectories,2509.16742,http://arxiv.org/abs/2509.16742v1,2025-09-20 17:09:14+00:00
+2,Automated Procedural Analysis via Video-Language Models for AI-assisted Nursing Skills Assessment,2509.16810,http://arxiv.org/abs/2509.16810v1,2025-09-20 21:11:33+00:00
+3,Roundtable Policy: Improving Scientific Reasoning and Narratives through Confidence-Weighted Consensus of LLMs,2509.16839,http://arxiv.org/abs/2509.16839v1,2025-09-20 23:31:53+00:00
+4,Thermal Imaging-based Real-time Fall Detection using Motion Flow and Attention-enhanced Convolutional Recurrent Architecture,2509.16479,http://arxiv.org/abs/2509.16479v1,2025-09-20 00:29:43+00:00
+5,The Oracle Has Spoken: A Multi-Aspect Evaluation of Dialogue in Pythia,2509.16487,http://arxiv.org/abs/2509.16487v1,2025-09-20 01:11:10+00:00
+6,Can an Individual Manipulate the Collective Decisions of Multi-Agents?,2509.16494,http://arxiv.org/abs/2509.16494v1,2025-09-20 01:54:20+00:00
+7,Lattice Boltzmann Model for Learning Real-World Pixel Dynamicity,2509.16527,http://arxiv.org/abs/2509.16527v1,2025-09-20 04:25:27+00:00
+8,AIPsychoBench: Understanding the Psychometric Differences between LLMs and Humans,2509.16530,http://arxiv.org/abs/2509.16530v1,2025-09-20 04:40:31+00:00
+9,No Need for Real 3D: Fusing 2D Vision with Pseudo 3D Representations for Robotic Manipulation Learning,2509.16532,http://arxiv.org/abs/2509.16532v1,2025-09-20 04:43:42+00:00
+10,InteGround: On the Evaluation of Verification and Retrieval Planning in Integrative Grounding,2509.16534,http://arxiv.org/abs/2509.16534v1,2025-09-20 04:48:24+00:00
+11,Train to Defend: First Defense Against Cryptanalytic Neural Network Parameter Extraction Attacks,2509.16546,http://arxiv.org/abs/2509.16546v1,2025-09-20 06:05:23+00:00
+12,Checking extracted rules in Neural Networks,2509.16547,http://arxiv.org/abs/2509.16547v1,2025-09-20 06:15:47+00:00
+13,Rethinking the Role of Text Complexity in Language Model Pretraining,2509.16551,http://arxiv.org/abs/2509.16551v1,2025-09-20 06:33:01+00:00
+14,SalaMAnder: Shapley-based Mathematical Expression Attribution and Metric for Chain-of-Thought Reasoning,2509.16561,http://arxiv.org/abs/2509.16561v1,2025-09-20 07:38:58+00:00
+15,V-CECE: Visual Counterfactual Explanations via Conceptual Edits,2509.16567,http://arxiv.org/abs/2509.16567v1,2025-09-20 07:53:06+00:00
+16,Zero-Shot Human Mobility Forecasting via Large Language Model with Hierarchical Reasoning,2509.16578,http://arxiv.org/abs/2509.16578v1,2025-09-20 08:46:38+00:00
+17,From Scores to Steps: Diagnosing and Improving LLM Performance in Evidence-Based Medical Calculations,2509.16584,http://arxiv.org/abs/2509.16584v1,2025-09-20 09:10:26+00:00
+18,Benchmarking Contextual and Paralinguistic Reasoning in Speech-LLMs: A Case Study with In-the-Wild Data,2509.16589,http://arxiv.org/abs/2509.16589v2,2025-09-20 09:26:40+00:00
+19,Analyzing the Effects of Supervised Fine-Tuning on Model Knowledge from Token and Parameter Levels,2509.16596,http://arxiv.org/abs/2509.16596v1,2025-09-20 09:40:32+00:00
+20,PruneCD: Contrasting Pruned Self Model to Improve Decoding Factuality,2509.16598,http://arxiv.org/abs/2509.16598v2,2025-09-20 09:47:34+00:00
+21,FakeChain: Exposing Shallow Cues in Multi-Step Deepfake Detection,2509.16602,http://arxiv.org/abs/2509.16602v1,2025-09-20 09:53:50+00:00
+22,Detection and Simulation of Urban Heat Islands Using a Fine-Tuned Geospatial Foundation Model,2509.16617,http://arxiv.org/abs/2509.16617v1,2025-09-20 10:41:33+00:00
+23,Surgical-MambaLLM: Mamba2-enhanced Multimodal Large Language Model for VQLA in Robotic Surgery,2509.16618,http://arxiv.org/abs/2509.16618v1,2025-09-20 10:42:29+00:00
+24,KungfuBot2: Learning Versatile Motion Skills for Humanoid Whole-Body Control,2509.16638,http://arxiv.org/abs/2509.16638v1,2025-09-20 11:31:14+00:00
+25,Governed By Agents: A Survey On The Role Of Agentic AI In Future Computing Environments,2509.16676,http://arxiv.org/abs/2509.16676v1,2025-09-20 13:03:11+00:00
+26,Design and Development of an Intelligent LLM-based LDAP Honeypot,2509.16682,http://arxiv.org/abs/2509.16682v1,2025-09-20 13:16:07+00:00
+27,Exploring AI Capabilities in Participatory Budgeting within Smart Cities: The Case of Sao Paulo,2509.16724,http://arxiv.org/abs/2509.16724v1,2025-09-20 15:34:50+00:00
+28,A Hybrid PCA-PR-Seq2Seq-Adam-LSTM Framework for Time-Series Power Outage Prediction,2509.16743,http://arxiv.org/abs/2509.16743v1,2025-09-20 17:13:25+00:00
+29,CAMBench-QR : A Structure-Aware Benchmark for Post-Hoc Explanations with QR Understanding,2509.16745,http://arxiv.org/abs/2509.16745v1,2025-09-20 17:13:38+00:00
+30,KuBERT: Central Kurdish BERT Model and Its Application for Sentiment Analysis,2509.16804,http://arxiv.org/abs/2509.16804v1,2025-09-20 20:44:29+00:00
+31,"Prompt-Driven Agentic Video Editing System: Autonomous Comprehension of Long-Form, Story-Driven Media",2509.16811,http://arxiv.org/abs/2509.16811v1,2025-09-20 21:22:56+00:00
+32,Semantic-Driven Topic Modeling for Analyzing Creativity in Virtual Brainstorming,2509.16835,http://arxiv.org/abs/2509.16835v1,2025-09-20 23:18:50+00:00
+33,Solving Freshness in RAG: A Simple Recency Prior and the Limits of Heuristic Trend Detection,2509.19376,http://arxiv.org/abs/2509.19376v1,2025-09-20 00:19:37+00:00
+34,Assessing Classical Machine Learning and Transformer-based Approaches for Detecting AI-Generated Research Text,2509.20375,http://arxiv.org/abs/2509.20375v1,2025-09-20 04:36:21+00:00
+35,ConceptViz: A Visual Analytics Approach for Exploring Concepts in Large Language Models,2509.20376,http://arxiv.org/abs/2509.20376v1,2025-09-20 04:57:20+00:00
+36,SKILL-RAG: Self-Knowledge Induced Learning and Filtering for Retrieval-Augmented Generation,2509.20377,http://arxiv.org/abs/2509.20377v1,2025-09-20 11:02:06+00:00
+37,Beyond Global Emotion: Fine-Grained Emotional Speech Synthesis with Dynamic Word-Level Modulation,2509.20378,http://arxiv.org/abs/2509.20378v1,2025-09-20 14:26:15+00:00
+38,USB-Rec: An Effective Framework for Improving Conversational Recommendation Capability of Large Language Model,2509.20381,http://arxiv.org/abs/2509.20381v1,2025-09-20 22:34:55+00:00
+39,Synergies between Federated Foundation Models and Smart Power Grids,2509.16496,http://arxiv.org/abs/2509.16496v1,2025-09-20 02:00:07+00:00
+40,Seeing Culture: A Benchmark for Visual Reasoning and Grounding,2509.16517,http://arxiv.org/abs/2509.16517v1,2025-09-20 03:47:49+00:00
+41,Causal Fuzzing for Verifying Machine Unlearning,2509.16525,http://arxiv.org/abs/2509.16525v1,2025-09-20 04:19:37+00:00
+42,TranTac: Leveraging Transient Tactile Signals for Contact-Rich Robotic Manipulation,2509.16550,http://arxiv.org/abs/2509.16550v1,2025-09-20 06:25:59+00:00
+43,SQS: Enhancing Sparse Perception Models via Query-based Splatting in Autonomous Driving,2509.16588,http://arxiv.org/abs/2509.16588v1,2025-09-20 09:25:19+00:00
+44,Question Answering with LLMs and Learning from Answer Sets,2509.16590,http://arxiv.org/abs/2509.16590v1,2025-09-20 09:26:44+00:00
+45,Audio-Conditioned Diffusion LLMs for ASR and Deliberation Processing,2509.16622,http://arxiv.org/abs/2509.16622v1,2025-09-20 10:48:06+00:00
+46,When Big Models Train Small Ones: Label-Free Model Parity Alignment for Efficient Visual Question Answering using Small VLMs,2509.16633,http://arxiv.org/abs/2509.16633v1,2025-09-20 11:12:23+00:00
+47,FESTA: Functionally Equivalent Sampling for Trust Assessment of Multimodal LLMs,2509.16648,http://arxiv.org/abs/2509.16648v1,2025-09-20 11:50:22+00:00
+48,AISTAT lab system for DCASE2025 Task6: Language-based audio retrieval,2509.16649,http://arxiv.org/abs/2509.16649v1,2025-09-20 11:53:18+00:00
+49,ProtoVQA: An Adaptable Prototypical Framework for Explainable Fine-Grained Visual Question Answering,2509.16680,http://arxiv.org/abs/2509.16680v1,2025-09-20 13:12:08+00:00
+50,Text-Scene: A Scene-to-Language Parsing Framework for 3D Scene Understanding,2509.16721,http://arxiv.org/abs/2509.16721v1,2025-09-20 15:10:45+00:00
+51,The Sound of Syntax: Finetuning and Comprehensive Evaluation of Language Models for Speech Pathology,2509.16765,http://arxiv.org/abs/2509.16765v1,2025-09-20 18:10:30+00:00
+52,Geometric Mixture Classifier (GMC): A Discriminative Per-Class Mixture of Hyperplanes,2509.16769,http://arxiv.org/abs/2509.16769v1,2025-09-20 18:32:05+00:00
+53,Comparing RAG and GraphRAG for Page-Level Retrieval Question Answering on Math Textbook,2509.16780,http://arxiv.org/abs/2509.16780v1,2025-09-20 19:06:49+00:00
+54,Domain-Adaptive Pre-Training for Arabic Aspect-Based Sentiment Analysis: A Comparative Study of Domain Adaptation and Fine-Tuning Strategies,2509.16788,http://arxiv.org/abs/2509.16788v1,2025-09-20 19:32:16+00:00
+55,SMART-3D: Three-Dimensional Self-Morphing Adaptive Replanning Tree,2509.16812,http://arxiv.org/abs/2509.16812v1,2025-09-20 21:30:55+00:00
+56,KANO: Kolmogorov-Arnold Neural Operator,2509.16825,http://arxiv.org/abs/2509.16825v1,2025-09-20 22:32:58+00:00
+57,Robot Learning with Sparsity and Scarcity,2509.16834,http://arxiv.org/abs/2509.16834v1,2025-09-20 23:18:41+00:00
+58,Conversational Orientation Reasoning: Egocentric-to-Allocentric Navigation with Multimodal Chain-of-Thought,2509.18200,http://arxiv.org/abs/2509.18200v1,2025-09-20 05:25:32+00:00
+59,Learning from Observation: A Survey of Recent Advances,2509.19379,http://arxiv.org/abs/2509.19379v1,2025-09-20 05:44:02+00:00
+60,ACCeLLiuM: Supervised Fine-Tuning for Automated OpenACC Pragma Generation,2509.20380,http://arxiv.org/abs/2509.20380v1,2025-09-20 20:41:32+00:00
+61,On the de-duplication of the Lakh MIDI dataset,2509.16662,http://arxiv.org/abs/2509.16662v1,2025-09-20 12:31:30+00:00
