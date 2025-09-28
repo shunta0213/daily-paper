@@ -1,0 +1,71 @@
+,title,id,arxiv_url,published
+0,Large Language Models as End-to-end Combinatorial Optimization Solvers,2509.16865,http://arxiv.org/abs/2509.16865v1,2025-09-21 01:30:30+00:00
+1,LLMs as Layout Designers: A Spatial Reasoning Perspective,2509.16891,http://arxiv.org/abs/2509.16891v1,2025-09-21 03:02:59+00:00
+2,Quantum Abduction: A New Paradigm for Reasoning under Uncertainty,2509.16958,http://arxiv.org/abs/2509.16958v1,2025-09-21 07:41:49+00:00
+3,KAHAN: Knowledge-Augmented Hierarchical Analysis and Narration for Financial Data Narration,2509.17037,http://arxiv.org/abs/2509.17037v1,2025-09-21 11:15:43+00:00
+4,From domain-landmark graph learning to problem-landmark graph generation,2509.17062,http://arxiv.org/abs/2509.17062v1,2025-09-21 12:41:56+00:00
+5,Intention-aware Hierarchical Diffusion Model for Long-term Trajectory Anomaly Detection,2509.17068,http://arxiv.org/abs/2509.17068v1,2025-09-21 12:57:22+00:00
+6,Governing Automated Strategic Intelligence,2509.17087,http://arxiv.org/abs/2509.17087v1,2025-09-21 14:04:25+00:00
+7,MCTS-EP: Empowering Embodied Planning with Online Preference Optimization,2509.17116,http://arxiv.org/abs/2509.17116v1,2025-09-21 15:17:44+00:00
+8,Shall We Play a Game? Language Models for Open-ended Wargames,2509.17192,http://arxiv.org/abs/2509.17192v1,2025-09-21 18:37:17+00:00
+9,Mind the Gap: Comparing Model- vs Agentic-Level Red Teaming with Action-Graph Observability on GPT-OSS-20B,2509.17259,http://arxiv.org/abs/2509.17259v1,2025-09-21 22:18:34+00:00
+10,Similarity Field Theory: A General Mathematical Framework for Intelligence,2509.18218,http://arxiv.org/abs/2509.18218v2,2025-09-21 22:34:00+00:00
+11,The Principles of Human-like Conscious Machine,2509.16859,http://arxiv.org/abs/2509.16859v1,2025-09-21 01:11:30+00:00
+12,"Learning from Gene Names, Expression Values and Images: Contrastive Masked Text-Image Pretraining for Spatial Transcriptomics Representation Learning",2509.16892,http://arxiv.org/abs/2509.16892v1,2025-09-21 03:05:17+00:00
+13,ME-Mamba: Multi-Expert Mamba with Efficient Knowledge Capture and Fusion for Multimodal Survival Analysis,2509.16900,http://arxiv.org/abs/2509.16900v1,2025-09-21 03:23:04+00:00
+14,FedEL: Federated Elastic Learning for Heterogeneous Devices,2509.16902,http://arxiv.org/abs/2509.16902v1,2025-09-21 03:25:46+00:00
+15,Audio-Guided Dynamic Modality Fusion with Stereo-Aware Attention for Audio-Visual Navigation,2509.16924,http://arxiv.org/abs/2509.16924v1,2025-09-21 05:11:09+00:00
+16,AirQA: A Comprehensive QA Dataset for AI Research with Instance-Level Evaluation,2509.16952,http://arxiv.org/abs/2509.16952v1,2025-09-21 07:24:17+00:00
+17,The 1st Solution for 7th LSVOS RVOS Track: SaSaSa2VA,2509.16972,http://arxiv.org/abs/2509.16972v1,2025-09-21 08:08:17+00:00
+18,PTQTP: Post-Training Quantization to Trit-Planes for Large Language Models,2509.16989,http://arxiv.org/abs/2509.16989v1,2025-09-21 09:07:20+00:00
+19,Adaptive Overclocking: Dynamic Control of Thinking Path Length via Real-Time Reasoning Signals,2509.17000,http://arxiv.org/abs/2509.17000v1,2025-09-21 09:40:27+00:00
+20,When Color-Space Decoupling Meets Diffusion for Adverse-Weather Image Restoration,2509.17024,http://arxiv.org/abs/2509.17024v1,2025-09-21 10:39:06+00:00
+21,From Easy to Hard: The MIR Benchmark for Progressive Interleaved Multi-Image Reasoning,2509.17040,http://arxiv.org/abs/2509.17040v1,2025-09-21 11:19:02+00:00
+22,TactfulToM: Do LLMs Have the Theory of Mind Ability to Understand White Lies?,2509.17054,http://arxiv.org/abs/2509.17054v2,2025-09-21 12:18:35+00:00
+23,RALLM-POI: Retrieval-Augmented LLM for Zero-shot Next POI Recommendation with Geographical Reranking,2509.17066,http://arxiv.org/abs/2509.17066v1,2025-09-21 12:52:28+00:00
+24,Informative Text-Image Alignment for Visual Affordance Learning with Foundation Models,2509.17074,http://arxiv.org/abs/2509.17074v1,2025-09-21 13:21:16+00:00
+25,Ultra-short-term solar power forecasting by deep learning and data reconstruction,2509.17095,http://arxiv.org/abs/2509.17095v1,2025-09-21 14:22:35+00:00
+26,ScenGAN: Attention-Intensive Generative Model for Uncertainty-Aware Renewable Scenario Forecasting,2509.17119,http://arxiv.org/abs/2509.17119v1,2025-09-21 15:18:51+00:00
+27,SAEC: Scene-Aware Enhanced Edge-Cloud Collaborative Industrial Vision Inspection with Multimodal LLM,2509.17136,http://arxiv.org/abs/2509.17136v1,2025-09-21 15:58:31+00:00
+28,MaskVCT: Masked Voice Codec Transformer for Zero-Shot Voice Conversion With Increased Controllability via Multiple Guidances,2509.17143,http://arxiv.org/abs/2509.17143v1,2025-09-21 16:14:51+00:00
+29,Flow-Induced Diagonal Gaussian Processes,2509.17153,http://arxiv.org/abs/2509.17153v1,2025-09-21 16:49:09+00:00
+30,ARE: Scaling Up Agent Environments and Evaluations,2509.17158,http://arxiv.org/abs/2509.17158v1,2025-09-21 16:59:45+00:00
+31,Time Series Forecasting Using a Hybrid Deep Learning Method: A Bi-LSTM Embedding Denoising Auto Encoder Transformer,2509.17165,http://arxiv.org/abs/2509.17165v1,2025-09-21 17:16:32+00:00
+32,Dendritic Resonate-and-Fire Neuron for Effective and Efficient Long Sequence Modeling,2509.17186,http://arxiv.org/abs/2509.17186v1,2025-09-21 18:15:45+00:00
+33,Ambiguous Medical Image Segmentation Using Diffusion Schrödinger Bridge,2509.17187,http://arxiv.org/abs/2509.17187v1,2025-09-21 18:16:06+00:00
+34,Echo-Path: Pathology-Conditioned Echo Video Generation,2509.17190,http://arxiv.org/abs/2509.17190v1,2025-09-21 18:31:28+00:00
+35,Evolution of Concepts in Language Model Pre-Training,2509.17196,http://arxiv.org/abs/2509.17196v1,2025-09-21 18:53:12+00:00
+36,Agentic AI for Multi-Stage Physics Experiments at a Large-Scale User Facility Particle Accelerator,2509.17255,http://arxiv.org/abs/2509.17255v1,2025-09-21 22:11:03+00:00
+37,From Prediction to Understanding: Will AI Foundation Models Transform Brain Science?,2509.17280,http://arxiv.org/abs/2509.17280v1,2025-09-21 23:39:04+00:00
+38,Variational Task Vector Composition,2509.18208,http://arxiv.org/abs/2509.18208v1,2025-09-21 02:46:02+00:00
+39,Automatic Classification of Magnetic Chirality of Solar Filaments from H-Alpha Observations,2509.18214,http://arxiv.org/abs/2509.18214v1,2025-09-21 19:55:14+00:00
+40,nDNA -- the Semantic Helix of Artificial Cognition,2509.18216,http://arxiv.org/abs/2509.18216v1,2025-09-21 20:28:18+00:00
+41,MARS: A Malignity-Aware Backdoor Defense in Federated Learning,2509.20383,http://arxiv.org/abs/2509.20383v1,2025-09-21 14:50:02+00:00
+42,ShadowServe: Interference-Free KV Cache Fetching for Distributed Prefix Caching,2509.16857,http://arxiv.org/abs/2509.16857v1,2025-09-21 00:59:45+00:00
+43,AdaptiveGuard: Towards Adaptive Runtime Safety for LLM-Powered Software,2509.16861,http://arxiv.org/abs/2509.16861v1,2025-09-21 01:22:42+00:00
+44,seqBench: A Tunable Benchmark to Quantify Sequential Reasoning Limits of LLMs,2509.16866,http://arxiv.org/abs/2509.16866v1,2025-09-21 01:32:13+00:00
+45,Dynamic Expert Specialization: Towards Catastrophic Forgetting-Free Multi-Domain MoE Adaptation,2509.16882,http://arxiv.org/abs/2509.16882v1,2025-09-21 02:30:04+00:00
+46,PGSTalker: Real-Time Audio-Driven Talking Head Generation via 3D Gaussian Splatting with Pixel-Aware Density Control,2509.16922,http://arxiv.org/abs/2509.16922v1,2025-09-21 05:01:54+00:00
+47,Cross-Attention with Confidence Weighting for Multi-Channel Audio Alignment,2509.16926,http://arxiv.org/abs/2509.16926v1,2025-09-21 05:14:06+00:00
+48,Equip Pre-ranking with Target Attention by Residual Quantization,2509.16931,http://arxiv.org/abs/2509.16931v2,2025-09-21 05:33:28+00:00
+49,Gradient Interference-Aware Graph Coloring for Multitask Learning,2509.16959,http://arxiv.org/abs/2509.16959v1,2025-09-21 07:45:53+00:00
+50,Leveraging Multiple Speech Enhancers for Non-Intrusive Intelligibility Prediction for Hearing-Impaired Listeners,2509.16979,http://arxiv.org/abs/2509.16979v1,2025-09-21 08:29:24+00:00
+51,The Transfer Neurons Hypothesis: An Underlying Mechanism for Language Latent Space Transitions in Multilingual LLMs,2509.17030,http://arxiv.org/abs/2509.17030v1,2025-09-21 10:44:16+00:00
+52,A Chain-of-thought Reasoning Breast Ultrasound Dataset Covering All Histopathology Categories,2509.17046,http://arxiv.org/abs/2509.17046v2,2025-09-21 11:59:19+00:00
+53,DiffSyn: A Generative Diffusion Approach to Materials Synthesis Planning,2509.17094,http://arxiv.org/abs/2509.17094v2,2025-09-21 14:19:47+00:00
+54,Prompt-with-Me: in-IDE Structured Prompt Management for LLM-Driven Software Engineering,2509.17096,http://arxiv.org/abs/2509.17096v1,2025-09-21 14:24:37+00:00
+55,LifeAlign: Lifelong Alignment for Large Language Models with Memory-Augmented Focalized Preference Optimization,2509.17183,http://arxiv.org/abs/2509.17183v1,2025-09-21 18:06:05+00:00
+56,SignalLLM: A General-Purpose LLM Agent Framework for Automated Signal Processing,2509.17197,http://arxiv.org/abs/2509.17197v1,2025-09-21 18:54:54+00:00
+57,Guided and Unguided Conditional Diffusion Mechanisms for Structured and Semantically-Aware 3D Point Cloud Generation,2509.17206,http://arxiv.org/abs/2509.17206v1,2025-09-21 19:19:36+00:00
+58,Point-RTD: Replaced Token Denoising for Pretraining Transformer Models on Point Clouds,2509.17207,http://arxiv.org/abs/2509.17207v1,2025-09-21 19:25:25+00:00
+59,MoEs Are Stronger than You Think: Hyper-Parallel Inference Scaling with RoE,2509.17238,http://arxiv.org/abs/2509.17238v1,2025-09-21 21:05:29+00:00
+60,Can Agents Judge Systematic Reviews Like Humans? Evaluating SLRs with LLM-based Multi-Agent System,2509.17240,http://arxiv.org/abs/2509.17240v1,2025-09-21 21:17:23+00:00
+61,Probabilistic Token Alignment for Large Language Model Fusion,2509.17276,http://arxiv.org/abs/2509.17276v1,2025-09-21 23:18:24+00:00
+62,Training the next generation of physicians for artificial intelligence-assisted clinical neuroradiology: ASNR MICCAI Brain Tumor Segmentation (BraTS) 2025 Lighthouse Challenge education platform,2509.17281,http://arxiv.org/abs/2509.17281v1,2025-09-21 23:39:32+00:00
+63,Automated Facility Enumeration for Building Compliance Checking using Door Detection and Large Language Models,2509.17283,http://arxiv.org/abs/2509.17283v1,2025-09-21 23:41:44+00:00
+64,"Change in Quantitative Bipolar Argumentation: Sufficient, Necessary, and Counterfactual Explanations",2509.18215,http://arxiv.org/abs/2509.18215v1,2025-09-21 20:26:47+00:00
+65,Data-Driven Reconstruction of Significant Wave Heights from Sparse Observations,2509.19384,http://arxiv.org/abs/2509.19384v1,2025-09-21 14:12:28+00:00
+66,Lightweight MobileNetV1+GRU for ECG Biometric Authentication: Federated and Adversarial Evaluation,2509.20382,http://arxiv.org/abs/2509.20382v1,2025-09-21 06:46:31+00:00
+67,R1-Fuzz: Specializing Language Models for Textual Fuzzing via Reinforcement Learning,2509.20384,http://arxiv.org/abs/2509.20384v1,2025-09-21 15:21:43+00:00
+68,Advancing Speech Understanding in Speech-Aware Language Models with GRPO,2509.16990,http://arxiv.org/abs/2509.16990v1,2025-09-21 09:09:36+00:00
+69,PhysHDR: When Lighting Meets Materials and Scene Geometry in HDR Reconstruction,2509.16869,http://arxiv.org/abs/2509.16869v1,2025-09-21 01:41:40+00:00
