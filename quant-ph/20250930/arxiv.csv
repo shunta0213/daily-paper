@@ -1,0 +1,60 @@
+,title,id,arxiv_url,published
+0,Characterizing Noise in Controlling Superconducting Qubits,2509.18482,http://arxiv.org/abs/2509.18482v1,2025-09-23 00:34:36+00:00
+1,Mitigating Phase Correlations in Quantum Key Distribution Using Path-Selection Modulation,2509.18490,http://arxiv.org/abs/2509.18490v1,2025-09-23 00:52:09+00:00
+2,Universality in fidelity-based quantum metrology,2509.18533,http://arxiv.org/abs/2509.18533v1,2025-09-23 01:55:23+00:00
+3,Robust quantum communication through lossy microwave links,2509.18547,http://arxiv.org/abs/2509.18547v1,2025-09-23 02:11:06+00:00
+4,Bell state measurements in quantum optics: a review of recent progress and open challenges,2509.18756,http://arxiv.org/abs/2509.18756v1,2025-09-23 07:52:44+00:00
+5,Trading modes against energy,2509.18854,http://arxiv.org/abs/2509.18854v1,2025-09-23 09:41:50+00:00
+6,Improving QAOA to find approximate QUBO solutions in O(1) shots,2509.19035,http://arxiv.org/abs/2509.19035v1,2025-09-23 14:07:55+00:00
+7,Nonadiabatic processes in dynamical controls,2509.19062,http://arxiv.org/abs/2509.19062v1,2025-09-23 14:26:44+00:00
+8,Quantum Autoencoder: An efficient approach to quantum feature map generation,2509.19157,http://arxiv.org/abs/2509.19157v1,2025-09-23 15:35:26+00:00
+9,Who Let the Diamonds Out?,2509.19179,http://arxiv.org/abs/2509.19179v1,2025-09-23 15:50:09+00:00
+10,Quantum Krylov Algorithm for Szegö Quadrature,2509.19195,http://arxiv.org/abs/2509.19195v1,2025-09-23 16:13:08+00:00
+11,Efficient and optimal quantum state discrimination via quantum belief propagation,2509.19441,http://arxiv.org/abs/2509.19441v1,2025-09-23 18:00:07+00:00
+12,Separate and efficient characterization of state-preparation and measurement errors using single-qubit operations,2509.19448,http://arxiv.org/abs/2509.19448v1,2025-09-23 18:03:10+00:00
+13,Comment on 'Collectively enhanced quantum measurements at the Heisenberg limit',2509.19518,http://arxiv.org/abs/2509.19518v1,2025-09-23 19:36:57+00:00
+14,Observables in Motion: A guide to simulating classical and quantum dynamics,2509.20403,http://arxiv.org/abs/2509.20403v1,2025-09-23 19:43:22+00:00
+15,Physics-informed time series analysis with Kolmogorov-Arnold Networks under Ehrenfest constraints,2509.18483,http://arxiv.org/abs/2509.18483v1,2025-09-23 00:37:04+00:00
+16,Re-uploading quantum data: A universal function approximator for quantum inputs,2509.18530,http://arxiv.org/abs/2509.18530v1,2025-09-23 01:50:37+00:00
+17,Exceptional-point-induced dynamic sensitivity to particle-number parity,2509.18563,http://arxiv.org/abs/2509.18563v1,2025-09-23 02:40:09+00:00
+18,A Verified Compiler for Quantum Simulation,2509.18583,http://arxiv.org/abs/2509.18583v3,2025-09-23 03:00:35+00:00
+19,Compressed Permutation Oracles,2509.18586,http://arxiv.org/abs/2509.18586v1,2025-09-23 03:13:48+00:00
+20,Octahedral dynamics and local symmetry in hybrid perovskite FAPbI3 under thermal excitation,2509.18617,http://arxiv.org/abs/2509.18617v1,2025-09-23 04:04:51+00:00
+21,Cusp solitons mediated by a topological nonlinearity,2509.18622,http://arxiv.org/abs/2509.18622v1,2025-09-23 04:15:48+00:00
+22,Scalable bayesian shadow tomography for quantum property estimation with set transformers,2509.18674,http://arxiv.org/abs/2509.18674v1,2025-09-23 05:46:26+00:00
+23,Virtual Quantum Markov Chain of four-qubit systems,2509.18803,http://arxiv.org/abs/2509.18803v1,2025-09-23 08:55:16+00:00
+24,Braiding of dynamical eigenvalues of Hermitian bosonic Kitaev chains,2509.18879,http://arxiv.org/abs/2509.18879v1,2025-09-23 10:18:49+00:00
+25,Diffusive Stochastic Master Equation (SME) with dispersive qubit/cavity coupling,2509.18925,http://arxiv.org/abs/2509.18925v1,2025-09-23 12:47:12+00:00
+26,Size-dependent critical localization,2509.18943,http://arxiv.org/abs/2509.18943v2,2025-09-23 12:56:26+00:00
+27,"Quantum Random Synthetic Skyrmion Texture Generation, a Qiskit Simulation",2509.18947,http://arxiv.org/abs/2509.18947v1,2025-09-23 12:58:12+00:00
+28,Intrinsic-perturbation induced anomalous higher-order boundary states in non-Hermitian systems,2509.18952,http://arxiv.org/abs/2509.18952v1,2025-09-23 13:00:05+00:00
+29,Quantum Annealing for Minimum Bisection Problem: A Machine Learning-based Approach for Penalty Parameter Tuning,2509.19005,http://arxiv.org/abs/2509.19005v1,2025-09-23 13:49:18+00:00
+30,Intrinsic Heisenberg Lower Bounds on Schwarzschild and Weyl-Class Spacelike Slices,2509.19099,http://arxiv.org/abs/2509.19099v1,2025-09-23 14:47:53+00:00
+31,Not All Qubits are Utilized Equally,2509.19241,http://arxiv.org/abs/2509.19241v1,2025-09-23 17:01:39+00:00
+32,Uniqueness of Complementary Recovery in Holographic Error-Correcting Codes,2509.19299,http://arxiv.org/abs/2509.19299v1,2025-09-23 17:59:16+00:00
+33,HARLI CQUINN: Higher Adjusted Randomness with Linear In Complexity QUantum INspired Networks for K-Means,2509.19395,http://arxiv.org/abs/2509.19395v2,2025-09-23 02:32:13+00:00
+34,A vapor-cavity-QED system for quantum computation and communication,2509.19432,http://arxiv.org/abs/2509.19432v1,2025-09-23 18:00:01+00:00
+35,Steady state dynamics of quantum frequency combs in microring resonators,2509.19502,http://arxiv.org/abs/2509.19502v1,2025-09-23 19:22:38+00:00
+36,InterQnet: A Heterogeneous Full-Stack Approach to Co-designing Scalable Quantum Networks,2509.19503,http://arxiv.org/abs/2509.19503v1,2025-09-23 19:22:45+00:00
+37,Rapid Autotuning of a SiGe Quantum Dot into the Single-Electron Regime with Machine Learning and RF-Reflectometry FPGA-Based Measurements,2509.19537,http://arxiv.org/abs/2509.19537v1,2025-09-23 20:03:47+00:00
+38,Photon-starved polarimetry via functional classical shadows,2509.19547,http://arxiv.org/abs/2509.19547v1,2025-09-23 20:22:32+00:00
+39,Machine learning approach to single-shot multiparameter estimation for the non-linear Schrödinger equation,2509.18479,http://arxiv.org/abs/2509.18479v1,2025-09-23 00:32:37+00:00
+40,Assessing the operating characteristics of an ion-milled phonon-mediated quantum parity detector,2509.18637,http://arxiv.org/abs/2509.18637v1,2025-09-23 04:39:48+00:00
+41,Barycentric decompositions for extensive monotone divergences,2509.18725,http://arxiv.org/abs/2509.18725v1,2025-09-23 07:13:31+00:00
+42,Quantum-memory-assisted on-demand microwave-optical transduction,2509.18834,http://arxiv.org/abs/2509.18834v1,2025-09-23 09:19:06+00:00
+43,Magnon-photon coupling in the YIG-based disk and ring microcavities,2509.18872,http://arxiv.org/abs/2509.18872v1,2025-09-23 10:10:17+00:00
+44,High harmonic generation from a Bose-Einstein condensate,2509.19022,http://arxiv.org/abs/2509.19022v1,2025-09-23 13:58:25+00:00
+45,Impact of Static Disorder and Dephasing on Quantum Transport in LH1-RC Models,2509.19059,http://arxiv.org/abs/2509.19059v1,2025-09-23 14:23:15+00:00
+46,Non-equilibrium Dynamics of Two-level Systems directly after Cryogenic Alternating Bias,2509.19223,http://arxiv.org/abs/2509.19223v1,2025-09-23 16:47:10+00:00
+47,Unifying framework for non-Hermitian and Hermitian topology in driven-dissipative systems,2509.19433,http://arxiv.org/abs/2509.19433v1,2025-09-23 18:00:02+00:00
+48,Dynamical correlation effects in twisted bilayer graphene under strain and lattice relaxation,2509.19436,http://arxiv.org/abs/2509.19436v1,2025-09-23 18:00:02+00:00
+49,Quantum Dynamics of Electron Scattering from Skyrmions,2509.19437,http://arxiv.org/abs/2509.19437v1,2025-09-23 18:00:03+00:00
+50,There and Back Again: A Gauging Nexus between Topological and Fracton Phases,2509.19440,http://arxiv.org/abs/2509.19440v1,2025-09-23 18:00:06+00:00
+51,Vacuum birefringence in the polarized X-ray emission of a radio magnetar,2509.19446,http://arxiv.org/abs/2509.19446v1,2025-09-23 18:01:21+00:00
+52,Martingale Projections and Quantum Decoherence,2509.19491,http://arxiv.org/abs/2509.19491v1,2025-09-23 18:52:56+00:00
+53,Non-local mass superpositions and optical clock interferometry in atomic ensemble quantum networks,2509.19501,http://arxiv.org/abs/2509.19501v1,2025-09-23 19:18:25+00:00
+54,Exploiting Non-Markovian Memory Effects for Robust Quantum Teleportation,2509.19578,http://arxiv.org/abs/2509.19578v2,2025-09-23 21:05:09+00:00
+55,Propagation of intense squeezed vacuum light in non-linear media,2509.19608,http://arxiv.org/abs/2509.19608v1,2025-09-23 21:55:34+00:00
+56,BALANCE: Bitrate-Adaptive Limit-Aware Netcast Content Enhancement Utilizing QUBO and Quantum Annealing,2509.19616,http://arxiv.org/abs/2509.19616v1,2025-09-23 22:11:56+00:00
+57,Connecting Quantum Computing with Classical Stochastic Simulation,2509.18614,http://arxiv.org/abs/2509.18614v1,2025-09-23 04:02:59+00:00
+58,Overcoming limitations on gate fidelity in noisy static exchange-coupled surface qubits,2509.18737,http://arxiv.org/abs/2509.18737v1,2025-09-23 07:31:23+00:00
