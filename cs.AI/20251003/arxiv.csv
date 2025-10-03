@@ -1,0 +1,101 @@
+,title,id,arxiv_url,published
+0,"Benchmarking MLLM-based Web Understanding: Reasoning, Robustness and Safety",2509.21782,http://arxiv.org/abs/2509.21782v1,2025-09-26 02:38:14+00:00
+1,D-Artemis: A Deliberative Cognitive Framework for Mobile GUI Multi-Agents,2509.21799,http://arxiv.org/abs/2509.21799v1,2025-09-26 02:56:19+00:00
+2,ProRe: A Proactive Reward System for GUI Agents via Reasoner-Actor Collaboration,2509.21823,http://arxiv.org/abs/2509.21823v1,2025-09-26 03:29:36+00:00
+3,DS-STAR: Data Science Agent via Iterative Planning and Verification,2509.21825,http://arxiv.org/abs/2509.21825v3,2025-09-26 03:38:12+00:00
+4,DeepTravel: An End-to-End Agentic Reinforcement Learning Framework for Autonomous Travel Planning Agents,2509.21842,http://arxiv.org/abs/2509.21842v1,2025-09-26 04:03:52+00:00
+5,TRACE: Learning to Compute on Graphs,2509.21886,http://arxiv.org/abs/2509.21886v1,2025-09-26 05:22:32+00:00
+6,GenesisGeo: Technical Report,2509.21896,http://arxiv.org/abs/2509.21896v1,2025-09-26 05:30:43+00:00
+7,DyRo-MCTS: A Robust Monte Carlo Tree Search Approach to Dynamic Job Shop Scheduling,2509.21902,http://arxiv.org/abs/2509.21902v1,2025-09-26 05:35:51+00:00
+8,Generalizing Multi-Objective Search via Objective-Aggregation Functions,2509.22085,http://arxiv.org/abs/2509.22085v1,2025-09-26 09:06:03+00:00
+9,Ground-Truthing AI Energy Consumption: Validating CodeCarbon Against External Measurements,2509.22092,http://arxiv.org/abs/2509.22092v1,2025-09-26 09:12:21+00:00
+10,Evaluating LLMs for Combinatorial Optimization: One-Phase and Two-Phase Heuristics for 2D Bin-Packing,2509.22255,http://arxiv.org/abs/2509.22255v3,2025-09-26 12:19:22+00:00
+11,Large Language Models as Nondeterministic Causal Models,2509.22297,http://arxiv.org/abs/2509.22297v1,2025-09-26 12:59:41+00:00
+12,"Do LLM Agents Know How to Ground, Recover, and Assess? A Benchmark for Epistemic Competence in Information-Seeking Agents",2509.22391,http://arxiv.org/abs/2509.22391v1,2025-09-26 14:18:50+00:00
+13,GeoSketch: A Neural-Symbolic Approach to Geometric Multimodal Reasoning with Auxiliary Line Construction and Affine Transformation,2509.22460,http://arxiv.org/abs/2509.22460v2,2025-09-26 15:12:04+00:00
+14,The Emergence of Altruism in Large-Language-Model Agents Society,2509.22537,http://arxiv.org/abs/2509.22537v1,2025-09-26 16:17:29+00:00
+15,StepORLM: A Self-Evolving Framework With Generative Process Supervision For Operations Research Language Models,2509.22558,http://arxiv.org/abs/2509.22558v2,2025-09-26 16:39:10+00:00
+16,UniMIC: Token-Based Multimodal Interactive Coding for Human-AI Collaboration,2509.22570,http://arxiv.org/abs/2509.22570v1,2025-09-26 16:46:12+00:00
+17,Creative Adversarial Testing (CAT): A Novel Framework for Evaluating Goal-Oriented Agentic AI Systems,2509.23006,http://arxiv.org/abs/2509.23006v1,2025-09-26 23:52:20+00:00
+18,Optimizing the non-Clifford-count in unitary synthesis using Reinforcement Learning,2509.21709,http://arxiv.org/abs/2509.21709v1,2025-09-26 00:10:02+00:00
+19,"Not My Agent, Not My Boundary? Elicitation of Personal Privacy Boundaries in AI-Delegated Information Sharing",2509.21712,http://arxiv.org/abs/2509.21712v1,2025-09-26 00:20:30+00:00
+20,Developing Strategies to Increase Capacity in AI Education,2509.21713,http://arxiv.org/abs/2509.21713v1,2025-09-26 00:23:11+00:00
+21,Uncovering Alzheimer's Disease Progression via SDE-based Spatio-Temporal Graph Deep Learning on Longitudinal Brain Networks,2509.21735,http://arxiv.org/abs/2509.21735v1,2025-09-26 01:02:34+00:00
+22,POLO: Preference-Guided Multi-Turn Reinforcement Learning for Lead Optimization,2509.21737,http://arxiv.org/abs/2509.21737v1,2025-09-26 01:06:58+00:00
+23,LFA-Net: A Lightweight Network with LiteFusion Attention for Retinal Vessel Segmentation,2509.21738,http://arxiv.org/abs/2509.21738v1,2025-09-26 01:07:05+00:00
+24,Brain PathoGraph Learning,2509.21742,http://arxiv.org/abs/2509.21742v1,2025-09-26 01:17:05+00:00
+25,Retrieval-of-Thought: Efficient Reasoning via Reusing Thoughts,2509.21743,http://arxiv.org/abs/2509.21743v1,2025-09-26 01:17:35+00:00
+26,HyperCore: Coreset Selection under Noise via Hypersphere Models,2509.21746,http://arxiv.org/abs/2509.21746v1,2025-09-26 01:24:16+00:00
+27,SubZeroCore: A Submodular Approach with Zero Training for Coreset Selection,2509.21748,http://arxiv.org/abs/2509.21748v1,2025-09-26 01:26:45+00:00
+28,Backdoor Attribution: Elucidating and Controlling Backdoor in Language Models,2509.21761,http://arxiv.org/abs/2509.21761v2,2025-09-26 01:45:25+00:00
+29,Lifelong Learning with Behavior Consolidation for Vehicle Routing,2509.21765,http://arxiv.org/abs/2509.21765v2,2025-09-26 02:03:48+00:00
+30,UltraHorizon: Benchmarking Agent Capabilities in Ultra Long-Horizon Scenarios,2509.21766,http://arxiv.org/abs/2509.21766v1,2025-09-26 02:04:00+00:00
+31,Beyond Structure: Invariant Crystal Property Prediction with Pseudo-Particle Ray Diffraction,2509.21778,http://arxiv.org/abs/2509.21778v1,2025-09-26 02:30:23+00:00
+32,Unbiased Binning: Fairness-aware Attribute Representation,2509.21785,http://arxiv.org/abs/2509.21785v1,2025-09-26 02:42:25+00:00
+33,FastGRPO: Accelerating Policy Optimization via Concurrency-aware Speculative Decoding and Online Draft Learning,2509.21792,http://arxiv.org/abs/2509.21792v1,2025-09-26 02:48:41+00:00
+34,Evaluating and Improving Cultural Awareness of Reward Models for LLM Alignment,2509.21798,http://arxiv.org/abs/2509.21798v1,2025-09-26 02:56:06+00:00
+35,ChaosNexus: A Foundation Model for Universal Chaotic System Forecasting with Multi-scale Representations,2509.21802,http://arxiv.org/abs/2509.21802v1,2025-09-26 02:59:12+00:00
+36,Axiomatic Choice and the Decision-Evaluation Paradox,2509.21836,http://arxiv.org/abs/2509.21836v1,2025-09-26 03:50:55+00:00
+37,DiTraj: training-free trajectory control for video diffusion transformer,2509.21839,http://arxiv.org/abs/2509.21839v2,2025-09-26 03:53:31+00:00
+38,Can Large Language Models Autoformalize Kinematics?,2509.21840,http://arxiv.org/abs/2509.21840v1,2025-09-26 04:01:48+00:00
+39,Graph of Agents: Principled Long Context Modeling by Emergent Multi-Agent Collaboration,2509.21848,http://arxiv.org/abs/2509.21848v1,2025-09-26 04:15:40+00:00
+40,Enhancing Low-Rank Adaptation with Structured Nonlinear Transformations,2509.21870,http://arxiv.org/abs/2509.21870v1,2025-09-26 04:54:02+00:00
+41,Unlocking the Essence of Beauty: Advanced Aesthetic Reasoning with Relative-Absolute Policy Optimization,2509.21871,http://arxiv.org/abs/2509.21871v1,2025-09-26 04:55:00+00:00
+42,Position: The Hidden Costs and Measurement Gaps of Reinforcement Learning with Verifiable Rewards,2509.21882,http://arxiv.org/abs/2509.21882v1,2025-09-26 05:06:25+00:00
+43,A Large-Scale Dataset and Citation Intent Classification in Turkish with LLMs,2509.21907,http://arxiv.org/abs/2509.21907v1,2025-09-26 05:44:04+00:00
+44,AutoSCORE: Enhancing Automated Scoring with Multi-Agent Large Language Models via Structured Component Recognition,2509.21910,http://arxiv.org/abs/2509.21910v1,2025-09-26 05:45:14+00:00
+45,EqDiff-CT: Equivariant Conditional Diffusion model for CT Image Synthesis from CBCT,2509.21913,http://arxiv.org/abs/2509.21913v1,2025-09-26 05:51:59+00:00
+46,Generation Properties of Stochastic Interpolation under Finite Training Set,2509.21925,http://arxiv.org/abs/2509.21925v1,2025-09-26 06:13:03+00:00
+47,SAGE: Scene Graph-Aware Guidance and Execution for Long-Horizon Manipulation Tasks,2509.21928,http://arxiv.org/abs/2509.21928v1,2025-09-26 06:14:55+00:00
+48,Why Chain of Thought Fails in Clinical Text Understanding,2509.21933,http://arxiv.org/abs/2509.21933v1,2025-09-26 06:18:15+00:00
+49,SemanticControl: A Training-Free Approach for Handling Loosely Aligned Visual Conditions in ControlNet,2509.21938,http://arxiv.org/abs/2509.21938v1,2025-09-26 06:22:15+00:00
+50,Outlier Detection in Plantar Pressure: Human-Centered Comparison of Statistical Parametric Mapping and Explainable Machine Learning,2509.21943,http://arxiv.org/abs/2509.21943v2,2025-09-26 06:25:02+00:00
+51,Unveiling Many Faces of Surrogate Models for Configuration Tuning: A Fitness Landscape Analysis Perspective,2509.21945,http://arxiv.org/abs/2509.21945v1,2025-09-26 06:25:19+00:00
+52,Debiasing Large Language Models in Thai Political Stance Detection via Counterfactual Calibration,2509.21946,http://arxiv.org/abs/2509.21946v1,2025-09-26 06:26:21+00:00
+53,Active Attacks: Red-teaming LLMs via Adaptive Environments,2509.21947,http://arxiv.org/abs/2509.21947v1,2025-09-26 06:27:00+00:00
+54,No-Reference Image Contrast Assessment with Customized EfficientNet-B0,2509.21967,http://arxiv.org/abs/2509.21967v1,2025-09-26 06:54:37+00:00
+55,From Superficial Outputs to Superficial Learning: Risks of Large Language Models in Education,2509.21972,http://arxiv.org/abs/2509.21972v1,2025-09-26 06:59:36+00:00
+56,Geo-R1: Improving Few-Shot Geospatial Referring Expression Understanding with Reinforcement Fine-Tuning,2509.21976,http://arxiv.org/abs/2509.21976v1,2025-09-26 07:01:12+00:00
+57,Benchmarking and Mitigate Psychological Sycophancy in Medical Vision-Language Models,2509.21979,http://arxiv.org/abs/2509.21979v1,2025-09-26 07:02:22+00:00
+58,CoBel-World: Harnessing LLM Reasoning to Build a Collaborative Belief World for Optimizing Embodied Multi-Agent Collaboration,2509.21981,http://arxiv.org/abs/2509.21981v1,2025-09-26 07:03:52+00:00
+59,RISK: A Framework for GUI Agents in E-commerce Risk Management,2509.21982,http://arxiv.org/abs/2509.21982v1,2025-09-26 07:05:01+00:00
+60,Hybrid Diffusion for Simultaneous Symbolic and Continuous Planning,2509.21983,http://arxiv.org/abs/2509.21983v1,2025-09-26 07:06:26+00:00
+61,Developing Vision-Language-Action Model from Egocentric Videos,2509.21986,http://arxiv.org/abs/2509.21986v1,2025-09-26 07:09:33+00:00
+62,Bilinear relational structure fixes reversal curse and enables consistent model editing,2509.21993,http://arxiv.org/abs/2509.21993v1,2025-09-26 07:19:39+00:00
+63,GSM-Agent: Understanding Agentic Reasoning Using Controllable Environments,2509.21998,http://arxiv.org/abs/2509.21998v2,2025-09-26 07:24:37+00:00
+64,Black-Box Hallucination Detection via Consistency Under the Uncertain Expression,2509.21999,http://arxiv.org/abs/2509.21999v1,2025-09-26 07:26:16+00:00
+65,The Thinking Spectrum: An Empirical Study of Tunable Reasoning in LLMs through Model Merging,2509.22034,http://arxiv.org/abs/2509.22034v2,2025-09-26 08:12:13+00:00
+66,Latent Diffusion : Multi-Dimension Stable Diffusion Latent Space Explorer,2509.22038,http://arxiv.org/abs/2509.22038v1,2025-09-26 08:15:58+00:00
+67,A2R: An Asymmetric Two-Stage Reasoning Framework for Parallel Reasoning,2509.22044,http://arxiv.org/abs/2509.22044v1,2025-09-26 08:27:03+00:00
+68,Fuzzy Reasoning Chain (FRC): An Innovative Reasoning Framework from Fuzziness to Clarity,2509.22054,http://arxiv.org/abs/2509.22054v1,2025-09-26 08:36:38+00:00
+69,An Adaptive ICP LiDAR Odometry Based on Reliable Initial Pose,2509.22058,http://arxiv.org/abs/2509.22058v1,2025-09-26 08:40:53+00:00
+70,The QCET Taxonomy of Standard Quality Criterion Names and Definitions for the Evaluation of NLP Systems,2509.22064,http://arxiv.org/abs/2509.22064v1,2025-09-26 08:49:03+00:00
+71,The Rogue Scalpel: Activation Steering Compromises LLM Safety,2509.22067,http://arxiv.org/abs/2509.22067v1,2025-09-26 08:49:47+00:00
+72,Action-aware Dynamic Pruning for Efficient Vision-Language-Action Manipulation,2509.22093,http://arxiv.org/abs/2509.22093v1,2025-09-26 09:13:02+00:00
+73,Reinforcement Learning for Durable Algorithmic Recourse,2509.22102,http://arxiv.org/abs/2509.22102v1,2025-09-26 09:24:12+00:00
+74,Learning More with Less: A Dynamic Dual-Level Down-Sampling Framework for Efficient Policy Optimization,2509.22115,http://arxiv.org/abs/2509.22115v1,2025-09-26 09:36:53+00:00
+75,The AI_INFN Platform: Artificial Intelligence Development in the Cloud,2509.22117,http://arxiv.org/abs/2509.22117v1,2025-09-26 09:40:51+00:00
+76,Universal Legal Article Prediction via Tight Collaboration between Supervised Classification Model and LLM,2509.22119,http://arxiv.org/abs/2509.22119v1,2025-09-26 09:42:20+00:00
+77,R-Capsule: Compressing High-Level Plans for Efficient Large Language Model Reasoning,2509.22131,http://arxiv.org/abs/2509.22131v2,2025-09-26 09:53:41+00:00
+78,Bridging Draft Policy Misalignment: Group Tree Optimization for Speculative Decoding,2509.22134,http://arxiv.org/abs/2509.22134v1,2025-09-26 09:55:35+00:00
+79,REFINE-CONTROL: A Semi-supervised Distillation Method For Conditional Image Generation,2509.22139,http://arxiv.org/abs/2509.22139v1,2025-09-26 09:59:40+00:00
+80,From Long to Lean: Performance-aware and Adaptive Chain-of-Thought Compression via Multi-round Refinement,2509.22144,http://arxiv.org/abs/2509.22144v1,2025-09-26 10:02:48+00:00
+81,Pushing Toward the Simplex Vertices: A Simple Remedy for Code Collapse in Smoothed Vector Quantization,2509.22161,http://arxiv.org/abs/2509.22161v1,2025-09-26 10:17:42+00:00
+82,Lightweight error mitigation strategies for post-training N:M activation sparsity in LLMs,2509.22166,http://arxiv.org/abs/2509.22166v1,2025-09-26 10:27:55+00:00
+83,"Teaching AI to Feel: A Collaborative, Full-Body Exploration of Emotive Communication",2509.22168,http://arxiv.org/abs/2509.22168v1,2025-09-26 10:28:56+00:00
+84,Efficiency Boost in Decentralized Optimization: Reimagining Neighborhood Aggregation with Minimal Overhead,2509.22174,http://arxiv.org/abs/2509.22174v1,2025-09-26 10:34:06+00:00
+85,Learning Equivariant Functions via Quadratic Forms,2509.22184,http://arxiv.org/abs/2509.22184v1,2025-09-26 10:44:26+00:00
+86,MimicDreamer: Aligning Human and Robot Demonstrations for Scalable VLA Training,2509.22199,http://arxiv.org/abs/2509.22199v2,2025-09-26 11:05:10+00:00
+87,The Outputs of Large Language Models are Meaningless,2509.22206,http://arxiv.org/abs/2509.22206v1,2025-09-26 11:21:22+00:00
+88,Question-Driven Analysis and Synthesis: Building Interpretable Thematic Trees with LLMs for Text Clustering and Controllable Generation,2509.22211,http://arxiv.org/abs/2509.22211v1,2025-09-26 11:27:22+00:00
+89,Impact of Collective Behaviors of Autonomous Vehicles on Urban Traffic Dynamics: A Multi-Agent Reinforcement Learning Approach,2509.22216,http://arxiv.org/abs/2509.22216v1,2025-09-26 11:29:54+00:00
+90,Automatic Discovery of One Parameter Subgroups of $SO(n)$,2509.22219,http://arxiv.org/abs/2509.22219v1,2025-09-26 11:31:38+00:00
+91,Thinking in Many Modes: How Composite Reasoning Elevates Large Language Model Performance with Limited Data,2509.22224,http://arxiv.org/abs/2509.22224v1,2025-09-26 11:38:03+00:00
+92,Polysemous Language Gaussian Splatting via Matching-based Mask Lifting,2509.22225,http://arxiv.org/abs/2509.22225v1,2025-09-26 11:38:05+00:00
+93,Fairness-Aware Reinforcement Learning (FAReL): A Framework for Transparent and Balanced Sequential Decision-Making,2509.22232,http://arxiv.org/abs/2509.22232v1,2025-09-26 11:42:14+00:00
+94,ASSESS: A Semantic and Structural Evaluation Framework for Statement Similarity,2509.22246,http://arxiv.org/abs/2509.22246v1,2025-09-26 12:02:58+00:00
+95,Safety Compliance: Rethinking LLM Safety Reasoning through the Lens of Compliance,2509.22250,http://arxiv.org/abs/2509.22250v1,2025-09-26 12:11:29+00:00
+96,Beyond Textual Context: Structural Graph Encoding with Adaptive Space Alignment to alleviate the hallucination of LLMs,2509.22251,http://arxiv.org/abs/2509.22251v1,2025-09-26 12:14:01+00:00
+97,Beyond Classification Accuracy: Neural-MedBench and the Need for Deeper Reasoning Benchmarks,2509.22258,http://arxiv.org/abs/2509.22258v1,2025-09-26 12:20:01+00:00
+98,Wavelet-Induced Rotary Encodings: RoPE Meets Graphs,2509.22259,http://arxiv.org/abs/2509.22259v2,2025-09-26 12:20:18+00:00
+99,InfiMed-Foundation: Pioneering Advanced Multimodal Medical Models with Compute-Efficient Pre-Training and Multi-Stage Fine-Tuning,2509.22261,http://arxiv.org/abs/2509.22261v1,2025-09-26 12:26:16+00:00
