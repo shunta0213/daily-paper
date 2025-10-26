@@ -1,0 +1,81 @@
+,title,id,arxiv_url,published
+0,An Agentic Framework with LLMs for Solving Complex Vehicle Routing Problems,2510.16701,http://arxiv.org/abs/2510.16701v1,2025-10-19 03:59:25+00:00
+1,Beyond Pipelines: A Survey of the Paradigm Shift toward Model-Native Agentic AI,2510.16720,http://arxiv.org/abs/2510.16720v1,2025-10-19 05:23:43+00:00
+2,ELMM: Efficient Lightweight Multimodal Large Language Models for Multimodal Knowledge Graph Completion,2510.16753,http://arxiv.org/abs/2510.16753v1,2025-10-19 08:29:43+00:00
+3,Domain-Contextualized Concept Graphs: A Computable Framework for Knowledge Representation,2510.16802,http://arxiv.org/abs/2510.16802v1,2025-10-19 11:53:10+00:00
+4,A Comparative User Evaluation of XRL Explanations using Goal Identification,2510.16956,http://arxiv.org/abs/2510.16956v1,2025-10-19 18:23:17+00:00
+5,STARK: Strategic Team of Agents for Refining Kernels,2510.16996,http://arxiv.org/abs/2510.16996v1,2025-10-19 20:41:46+00:00
+6,ToolCritic: Detecting and Correcting Tool-Use Errors in Dialogue Systems,2510.17052,http://arxiv.org/abs/2510.17052v1,2025-10-19 23:42:39+00:00
+7,Activation Manifold Projection: Liberating Task-Specific Behaviors from LLM Architectures,2510.17902,http://arxiv.org/abs/2510.17902v1,2025-10-19 10:55:05+00:00
+8,Renaissance of RNNs in Streaming Clinical Time Series: Compact Recurrence Remains Competitive with Transformers,2510.16677,http://arxiv.org/abs/2510.16677v1,2025-10-19 00:45:47+00:00
+9,Pursuing Minimal Sufficiency in Spatial Reasoning,2510.16688,http://arxiv.org/abs/2510.16688v1,2025-10-19 02:29:09+00:00
+10,Natural Language Processing for Cardiology: A Narrative Review,2510.16708,http://arxiv.org/abs/2510.16708v2,2025-10-19 04:26:51+00:00
+11,HumanCM: One Step Human Motion Prediction,2510.16709,http://arxiv.org/abs/2510.16709v2,2025-10-19 04:48:18+00:00
+12,The Chameleon Nature of LLMs: Quantifying Multi-Turn Stance Instability in Search-Enabled Language Models,2510.16712,http://arxiv.org/abs/2510.16712v1,2025-10-19 04:51:14+00:00
+13,SceneCOT: Eliciting Grounded Chain-of-Thought Reasoning in 3D Scenes,2510.16714,http://arxiv.org/abs/2510.16714v2,2025-10-19 04:57:49+00:00
+14,"A Comprehensive Survey on Reinforcement Learning-based Agentic Search: Foundations, Roles, Optimizations, Evaluations, and Applications",2510.16724,http://arxiv.org/abs/2510.16724v1,2025-10-19 06:04:53+00:00
+15,Beacon: Single-Turn Diagnosis and Mitigation of Latent Sycophancy in Large Language Models,2510.16727,http://arxiv.org/abs/2510.16727v1,2025-10-19 06:36:57+00:00
+16,SAMOSA: Sharpness Aware Minimization for Open Set Active learning,2510.16757,http://arxiv.org/abs/2510.16757v1,2025-10-19 08:58:15+00:00
+17,See or Say Graphs: Agent-Driven Scalable Graph Understanding with Vision-Language Models,2510.16769,http://arxiv.org/abs/2510.16769v1,2025-10-19 09:20:44+00:00
+18,Region in Context: Text-condition Image editing with Human-like semantic reasoning,2510.16772,http://arxiv.org/abs/2510.16772v1,2025-10-19 09:36:02+00:00
+19,Learning to play: A Multimodal Agent for 3D Game-Play,2510.16774,http://arxiv.org/abs/2510.16774v1,2025-10-19 09:45:15+00:00
+20,EMRRG: Efficient Fine-Tuning Pre-trained X-ray Mamba Networks for Radiology Report Generation,2510.16776,http://arxiv.org/abs/2510.16776v1,2025-10-19 09:54:36+00:00
+21,LC-Eval: A Bilingual Multi-Task Evaluation Benchmark for Long-Context Understanding,2510.16783,http://arxiv.org/abs/2510.16783v1,2025-10-19 10:15:42+00:00
+22,MOSAIC: Masked Objective with Selective Adaptation for In-domain Contrastive Learning,2510.16797,http://arxiv.org/abs/2510.16797v1,2025-10-19 11:24:03+00:00
+23,Mixed-Precision Quantization for Language Models: Techniques and Prospects,2510.16805,http://arxiv.org/abs/2510.16805v1,2025-10-19 12:16:40+00:00
+24,Improving Model Representation and Reducing KV Cache via Skip Connections with First Value Heads,2510.16807,http://arxiv.org/abs/2510.16807v2,2025-10-19 12:17:42+00:00
+25,Knowing the Facts but Choosing the Shortcut: Understanding How Large Language Models Compare Entities,2510.16815,http://arxiv.org/abs/2510.16815v1,2025-10-19 12:55:30+00:00
+26,"ReefNet: A Large scale, Taxonomically Enriched Dataset and Benchmark for Hard Coral Classification",2510.16822,http://arxiv.org/abs/2510.16822v1,2025-10-19 13:18:44+00:00
+27,Agentic Inequality,2510.16853,http://arxiv.org/abs/2510.16853v2,2025-10-19 14:32:46+00:00
+28,ArmFormer: Lightweight Transformer Architecture for Real-Time Multi-Class Weapon Segmentation and Classification,2510.16854,http://arxiv.org/abs/2510.16854v1,2025-10-19 14:33:20+00:00
+29,DrivAerStar: An Industrial-Grade CFD Dataset for Vehicle Aerodynamic Optimization,2510.16857,http://arxiv.org/abs/2510.16857v1,2025-10-19 14:42:32+00:00
+30,Adaptive Online Learning with LSTM Networks for Energy Price Prediction,2510.16898,http://arxiv.org/abs/2510.16898v1,2025-10-19 15:48:38+00:00
+31,SNOMED CT-powered Knowledge Graphs for Structured Clinical Data and Diagnostic Reasoning,2510.16899,http://arxiv.org/abs/2510.16899v1,2025-10-19 15:50:33+00:00
+32,VAGEN: Reinforcing World Model Reasoning for Multi-Turn VLM Agents,2510.16907,http://arxiv.org/abs/2510.16907v1,2025-10-19 16:05:07+00:00
+33,A Lightweight DL Model for Smart Grid Power Forecasting with Feature and Resolution Mismatch,2510.16911,http://arxiv.org/abs/2510.16911v1,2025-10-19 16:12:53+00:00
+34,Tutoring LLM into a Better CUDA Optimizer,2510.16933,http://arxiv.org/abs/2510.16933v1,2025-10-19 17:09:15+00:00
+35,"Quantile Regression, Variational Autoencoders, and Diffusion Models for Uncertainty Quantification: A Spatial Analysis of Sub-seasonal Wind Speed Prediction",2510.16958,http://arxiv.org/abs/2510.16958v1,2025-10-19 18:26:46+00:00
+36,CARE: Contrastive Alignment for ADL Recognition from Event-Triggered Sensor Streams,2510.16988,http://arxiv.org/abs/2510.16988v1,2025-10-19 20:11:12+00:00
+37,ReclAIm: A multi-agent framework for degradation-aware performance tuning of medical imaging AI,2510.17004,http://arxiv.org/abs/2510.17004v1,2025-10-19 21:02:01+00:00
+38,Curiosity-driven RL for symbolic equation solving,2510.17022,http://arxiv.org/abs/2510.17022v1,2025-10-19 22:04:57+00:00
+39,Long-Context Attention Benchmark: From Kernel Efficiency to Distributed Context Parallelism,2510.17896,http://arxiv.org/abs/2510.17896v1,2025-10-19 07:07:37+00:00
+40,L-MoE: End-to-End Training of a Lightweight Mixture of Low-Rank Adaptation Experts,2510.17898,http://arxiv.org/abs/2510.17898v1,2025-10-19 08:44:25+00:00
+41,DAG-Math: Graph-Guided Mathematical Reasoning in LLMs,2510.19842,http://arxiv.org/abs/2510.19842v1,2025-10-19 21:05:17+00:00
+42,All You Need is One: Capsule Prompt Tuning with a Single Vector,2510.16670,http://arxiv.org/abs/2510.16670v1,2025-10-19 00:02:59+00:00
+43,On the Granularity of Causal Effect Identifiability,2510.16703,http://arxiv.org/abs/2510.16703v1,2025-10-19 04:13:09+00:00
+44,Surrogate Modeling and Explainable Artificial Intelligence for Complex Systems: A Workflow for Automated Simulation Exploration,2510.16742,http://arxiv.org/abs/2510.16742v1,2025-10-19 07:55:52+00:00
+45,Xiaoice: Training-Free Video Understanding via Self-Supervised Spatio-Temporal Clustering of Semantic Features,2510.16781,http://arxiv.org/abs/2510.16781v1,2025-10-19 10:13:34+00:00
+46,More with Less: An Empirical Study of Turn-Control Strategies for Efficient Coding Agents,2510.16786,http://arxiv.org/abs/2510.16786v1,2025-10-19 10:32:18+00:00
+47,When Many-Shot Prompting Fails: An Empirical Study of LLM Code Translation,2510.16809,http://arxiv.org/abs/2510.16809v1,2025-10-19 12:29:13+00:00
+48,Needles in the Landscape: Semi-Supervised Pseudolabeling for Archaeological Site Discovery under Label Scarcity,2510.16814,http://arxiv.org/abs/2510.16814v1,2025-10-19 12:54:38+00:00
+49,Who's Asking? Simulating Role-Based Questions for Conversational AI Evaluation,2510.16829,http://arxiv.org/abs/2510.16829v1,2025-10-19 13:32:29+00:00
+50,Schrödinger Bridge Mamba for One-Step Speech Enhancement,2510.16834,http://arxiv.org/abs/2510.16834v1,2025-10-19 13:46:13+00:00
+51,FinSight: Towards Real-World Financial Deep Research,2510.16844,http://arxiv.org/abs/2510.16844v1,2025-10-19 14:05:35+00:00
+52,Neuronal Group Communication for Efficient Neural representation,2510.16851,http://arxiv.org/abs/2510.16851v1,2025-10-19 14:23:35+00:00
+53,DeepAnalyze: Agentic Large Language Models for Autonomous Data Science,2510.16872,http://arxiv.org/abs/2510.16872v1,2025-10-19 15:13:42+00:00
+54,Fly-CL: A Fly-Inspired Framework for Enhancing Efficient Decorrelation and Reduced Training Time in Pre-trained Model-based Continual Representation Learning,2510.16877,http://arxiv.org/abs/2510.16877v1,2025-10-19 15:21:50+00:00
+55,Utility-Diversity Aware Online Batch Selection for LLM Supervised Fine-tuning,2510.16882,http://arxiv.org/abs/2510.16882v1,2025-10-19 15:32:01+00:00
+56,Investigating Safety Vulnerabilities of Large Audio-Language Models Under Speaker Emotional Variations,2510.16893,http://arxiv.org/abs/2510.16893v1,2025-10-19 15:41:25+00:00
+57,Domain Generalizable Continual Learning,2510.16914,http://arxiv.org/abs/2510.16914v1,2025-10-19 16:16:20+00:00
+58,SAKE: Towards Editing Auditory Attribute Knowledge of Large Audio-Language Models,2510.16917,http://arxiv.org/abs/2510.16917v1,2025-10-19 16:22:09+00:00
+59,UNDREAM: Bridging Differentiable Rendering and Photorealistic Simulation for End-to-end Adversarial Attacks,2510.16923,http://arxiv.org/abs/2510.16923v1,2025-10-19 16:38:03+00:00
+60,A Primer on Kolmogorov-Arnold Networks (KANs) for Probabilistic Time Series Forecasting,2510.16940,http://arxiv.org/abs/2510.16940v1,2025-10-19 17:38:26+00:00
+61,Peering Inside the Black Box: Uncovering LLM Errors in Optimization Modelling through Component-Level Evaluation,2510.16943,http://arxiv.org/abs/2510.16943v1,2025-10-19 17:47:59+00:00
+62,Leave It to the Experts: Detecting Knowledge Distillation via MoE Expert Signatures,2510.16968,http://arxiv.org/abs/2510.16968v1,2025-10-19 19:15:08+00:00
+63,Foundation Models in Medical Image Analysis: A Systematic Review and Meta-Analysis,2510.16973,http://arxiv.org/abs/2510.16973v1,2025-10-19 19:19:23+00:00
+64,One-step Diffusion Models with Bregman Density Ratio Matching,2510.16983,http://arxiv.org/abs/2510.16983v1,2025-10-19 20:00:54+00:00
+65,Parameter-Efficient Fine-Tuning for Low-Resource Languages: A Comparative Study of LLMs for Bengali Hate Speech Detection,2510.16985,http://arxiv.org/abs/2510.16985v1,2025-10-19 20:03:22+00:00
+66,Justitia: Fair and Efficient Scheduling for LLM Applications,2510.17015,http://arxiv.org/abs/2510.17015v1,2025-10-19 21:34:34+00:00
+67,DINO-CVA: A Multimodal Goal-Conditioned Vision-to-Action Model for Autonomous Catheter Navigation,2510.17038,http://arxiv.org/abs/2510.17038v1,2025-10-19 22:59:32+00:00
+68,Video Reasoning without Training,2510.17045,http://arxiv.org/abs/2510.17045v1,2025-10-19 23:17:13+00:00
+69,Hierarchical Federated Unlearning for Large Language Models,2510.17895,http://arxiv.org/abs/2510.17895v1,2025-10-19 04:24:51+00:00
+70,Automated Algorithm Design for Auto-Tuning Optimizers,2510.17899,http://arxiv.org/abs/2510.17899v1,2025-10-19 09:38:15+00:00
+71,Are LLMs Court-Ready? Evaluating Frontier Models on Indian Legal Reasoning,2510.17900,http://arxiv.org/abs/2510.17900v1,2025-10-19 10:04:29+00:00
+72,The Sherpa.ai Blind Vertical Federated Learning Paradigm to Minimize the Number of Communications,2510.17901,http://arxiv.org/abs/2510.17901v1,2025-10-19 10:27:07+00:00
+73,BreakFun: Jailbreaking LLMs via Schema Exploitation,2510.17904,http://arxiv.org/abs/2510.17904v1,2025-10-19 11:27:44+00:00
+74,Interpretability Framework for LLMs in Undergraduate Calculus,2510.17910,http://arxiv.org/abs/2510.17910v1,2025-10-19 17:20:36+00:00
+75,TACLA: An LLM-Based Multi-Agent Tool for Transactional Analysis Training in Education,2510.17913,http://arxiv.org/abs/2510.17913v1,2025-10-19 21:39:12+00:00
+76,NeuCo-Bench: A Novel Benchmark Framework for Neural Embeddings in Earth Observation,2510.17914,http://arxiv.org/abs/2510.17914v1,2025-10-19 23:47:33+00:00
+77,Uncertainty-Aware Post-Hoc Calibration: Mitigating Confidently Incorrect Predictions Beyond Calibration Metrics,2510.17915,http://arxiv.org/abs/2510.17915v1,2025-10-19 23:55:36+00:00
+78,"End-to-end Listen, Look, Speak and Act",2510.16756,http://arxiv.org/abs/2510.16756v1,2025-10-19 08:45:46+00:00
+79,Efficient High-Accuracy PDEs Solver with the Linear Attention Neural Operator,2510.16816,http://arxiv.org/abs/2510.16816v1,2025-10-19 13:03:09+00:00
