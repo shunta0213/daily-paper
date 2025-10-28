@@ -1,0 +1,101 @@
+,title,id,arxiv_url,published
+0,ssToken: Self-modulated and Semantic-aware Token Selection for LLM Fine-tuning,2510.18250,http://arxiv.org/abs/2510.18250v1,2025-10-21 03:21:04+00:00
+1,Genesis: Evolving Attack Strategies for LLM Web Agent Red-Teaming,2510.18314,http://arxiv.org/abs/2510.18314v1,2025-10-21 05:49:37+00:00
+2,Earth AI: Unlocking Geospatial Insights with Foundation Models and Cross-Modal Reasoning,2510.18318,http://arxiv.org/abs/2510.18318v1,2025-10-21 06:05:47+00:00
+3,ShortcutBreaker: Low-Rank Noisy Bottleneck with Global Perturbation Attention for Multi-Class Unsupervised Anomaly Detection,2510.18342,http://arxiv.org/abs/2510.18342v1,2025-10-21 06:51:30+00:00
+4,Memory-Augmented State Machine Prompting: A Novel LLM Agent Framework for Real-Time Strategy Games,2510.18395,http://arxiv.org/abs/2510.18395v1,2025-10-21 08:15:04+00:00
+5,Heterogeneous Adversarial Play in Interactive Environments,2510.18407,http://arxiv.org/abs/2510.18407v1,2025-10-21 08:29:59+00:00
+6,Deep Learning-Based Control Optimization for Glass Bottle Forming,2510.18412,http://arxiv.org/abs/2510.18412v1,2025-10-21 08:42:35+00:00
+7,Med-VRAgent: A Framework for Medical Visual Reasoning-Enhanced Agents,2510.18424,http://arxiv.org/abs/2510.18424v1,2025-10-21 08:56:23+00:00
+8,Automated urban waterlogging assessment and early warning through a mixture of foundation models,2510.18425,http://arxiv.org/abs/2510.18425v1,2025-10-21 08:59:30+00:00
+9,AlphaOPT: Formulating Optimization Programs with Self-Improving LLM Experience Library,2510.18428,http://arxiv.org/abs/2510.18428v1,2025-10-21 09:03:26+00:00
+10,PlanU: Large Language Model Decision Making through Planning under Uncertainty,2510.18442,http://arxiv.org/abs/2510.18442v1,2025-10-21 09:17:50+00:00
+11,CircuitSeer: Mining High-Quality Data by Probing Mathematical Reasoning Circuits in LLMs,2510.18470,http://arxiv.org/abs/2510.18470v2,2025-10-21 09:47:00+00:00
+12,LAFA: Agentic LLM-Driven Federated Analytics over Decentralized Data Sources,2510.18477,http://arxiv.org/abs/2510.18477v1,2025-10-21 09:56:25+00:00
+13,StarBench: A Turn-Based RPG Benchmark for Agentic Multimodal Decision-Making and Information Seeking,2510.18483,http://arxiv.org/abs/2510.18483v1,2025-10-21 10:02:59+00:00
+14,Crucible: Quantifying the Potential of Control Algorithms through LLM Agents,2510.18491,http://arxiv.org/abs/2510.18491v1,2025-10-21 10:25:26+00:00
+15,Physics-guided Emulators Reveal Resilience and Fragility under Operational Latencies and Outages,2510.18535,http://arxiv.org/abs/2510.18535v1,2025-10-21 11:25:31+00:00
+16,SOCIA-Nabla: Textual Gradient Meets Multi-Agent Orchestration for Automated Simulator Generation,2510.18551,http://arxiv.org/abs/2510.18551v1,2025-10-21 12:00:00+00:00
+17,Extracting alignment data in open models,2510.18554,http://arxiv.org/abs/2510.18554v2,2025-10-21 12:06:00+00:00
+18,QuantEvolve: Automating Quantitative Strategy Discovery through Multi-Agent Evolutionary Framework,2510.18569,http://arxiv.org/abs/2510.18569v1,2025-10-21 12:22:16+00:00
+19,VAR: Visual Attention Reasoning via Structured Search and Backtracking,2510.18619,http://arxiv.org/abs/2510.18619v1,2025-10-21 13:18:44+00:00
+20,Leveraging Association Rules for Better Predictions and Better Explanations,2510.18628,http://arxiv.org/abs/2510.18628v1,2025-10-21 13:32:02+00:00
+21,Query Decomposition for RAG: Balancing Exploration-Exploitation,2510.18633,http://arxiv.org/abs/2510.18633v1,2025-10-21 13:37:11+00:00
+22,Sherlock Your Queries: Learning to Ask the Right Questions for Dialogue-Based Retrieval,2510.18659,http://arxiv.org/abs/2510.18659v1,2025-10-21 14:10:42+00:00
+23,"Test-time Verification via Optimal Transport: Coverage, ROC, & Sub-optimality",2510.18982,http://arxiv.org/abs/2510.18982v1,2025-10-21 18:05:42+00:00
+24,Timely Clinical Diagnosis through Active Test Selection,2510.18988,http://arxiv.org/abs/2510.18988v3,2025-10-21 18:10:45+00:00
+25,ActivationReasoning: Logical Reasoning in Latent Activation Spaces,2510.18184,http://arxiv.org/abs/2510.18184v1,2025-10-21 00:21:04+00:00
+26,VelocityNet: Real-Time Crowd Anomaly Detection via Person-Specific Velocity Analysis,2510.18187,http://arxiv.org/abs/2510.18187v1,2025-10-21 00:26:54+00:00
+27,RadDiagSeg-M: A Vision Language Model for Joint Diagnosis and Multi-Target Segmentation in Radiology,2510.18188,http://arxiv.org/abs/2510.18188v1,2025-10-21 00:28:13+00:00
+28,Contrastive Decoding Mitigates Score Range Bias in LLM-as-a-Judge,2510.18196,http://arxiv.org/abs/2510.18196v1,2025-10-21 00:47:11+00:00
+29,A Definition of AGI,2510.18212,http://arxiv.org/abs/2510.18212v2,2025-10-21 01:28:35+00:00
+30,EVER: Edge-Assisted Auto-Verification for Mobile MR-Aided Operation,2510.18224,http://arxiv.org/abs/2510.18224v1,2025-10-21 02:12:34+00:00
+31,Scaling Laws Meet Model Architecture: Toward Inference-Efficient LLMs,2510.18245,http://arxiv.org/abs/2510.18245v1,2025-10-21 03:08:48+00:00
+32,Illusions of reflection: open-ended task reveals systematic failures in Large Language Models' reflective reasoning,2510.18254,http://arxiv.org/abs/2510.18254v2,2025-10-21 03:24:21+00:00
+33,Hyperbolic Space Learning Method Leveraging Temporal Motion Priors for Human Mesh Recovery,2510.18256,http://arxiv.org/abs/2510.18256v1,2025-10-21 03:26:27+00:00
+34,DelvePO: Direction-Guided Self-Evolving Framework for Flexible Prompt Optimization,2510.18257,http://arxiv.org/abs/2510.18257v1,2025-10-21 03:28:53+00:00
+35,NTKMTL: Mitigating Task Imbalance in Multi-Task Learning from Neural Tangent Kernel Perspective,2510.18258,http://arxiv.org/abs/2510.18258v1,2025-10-21 03:29:40+00:00
+36,Latent-Info and Low-Dimensional Learning for Human Mesh Recovery and Parallel Optimization,2510.18267,http://arxiv.org/abs/2510.18267v1,2025-10-21 03:35:12+00:00
+37,StreamingTOM: Streaming Token Compression for Efficient Video Understanding,2510.18269,http://arxiv.org/abs/2510.18269v1,2025-10-21 03:39:41+00:00
+38,Text or Pixels? It Takes Half: On the Token Efficiency of Visual Text Inputs in Multimodal LLMs,2510.18279,http://arxiv.org/abs/2510.18279v2,2025-10-21 04:07:20+00:00
+39,From Retrieval to Generation: Unifying External and Parametric Knowledge for Medical Question Answering,2510.18297,http://arxiv.org/abs/2510.18297v1,2025-10-21 04:58:29+00:00
+40,Higher Embedding Dimension Creates a Stronger World Model for a Simple Sorting Task,2510.18315,http://arxiv.org/abs/2510.18315v1,2025-10-21 05:51:02+00:00
+41,"Scalable, Explainable and Provably Robust Anomaly Detection with One-Step Flow Matching",2510.18328,http://arxiv.org/abs/2510.18328v1,2025-10-21 06:26:38+00:00
+42,MENTOR: A Reinforcement Learning Framework for Model Enhancement via Teacher-Optimized Rewards in Small Models,2510.18383,http://arxiv.org/abs/2510.18383v1,2025-10-21 08:03:14+00:00
+43,Automated Wicket-Taking Delivery Segmentation and Weakness Detection in Cricket Videos Using OCR-Guided YOLOv8 and Trajectory Modeling,2510.18405,http://arxiv.org/abs/2510.18405v1,2025-10-21 08:27:23+00:00
+44,Learning from N-Tuple Data with M Positive Instances: Unbiased Risk Estimation and Theoretical Guarantees,2510.18406,http://arxiv.org/abs/2510.18406v1,2025-10-21 08:28:07+00:00
+45,On AI Verification in Open RAN,2510.18417,http://arxiv.org/abs/2510.18417v1,2025-10-21 08:48:26+00:00
+46,Optimistic Higher-Order Superposition,2510.18429,http://arxiv.org/abs/2510.18429v1,2025-10-21 09:05:54+00:00
+47,ScaleNet: Scaling up Pretrained Neural Networks with Incremental Parameters,2510.18431,http://arxiv.org/abs/2510.18431v2,2025-10-21 09:07:25+00:00
+48,Simple and Efficient Heterogeneous Temporal Graph Neural Network,2510.18467,http://arxiv.org/abs/2510.18467v1,2025-10-21 09:43:08+00:00
+49,Benchmarking Fairness-aware Graph Neural Networks in Knowledge Graphs,2510.18473,http://arxiv.org/abs/2510.18473v1,2025-10-21 09:51:42+00:00
+50,Probabilistic Modeling of Intentions in Socially Intelligent LLM Agents,2510.18476,http://arxiv.org/abs/2510.18476v1,2025-10-21 09:54:44+00:00
+51,AndroidControl-Curated: Revealing the True Potential of GUI Agents through Benchmark Purification,2510.18488,http://arxiv.org/abs/2510.18488v1,2025-10-21 10:11:33+00:00
+52,Counterfactual Reasoning for Steerable Pluralistic Value Alignment of Large Language Models,2510.18526,http://arxiv.org/abs/2510.18526v1,2025-10-21 11:12:45+00:00
+53,EfficientNav: Towards On-Device Object-Goal Navigation with Navigation Map Caching and Retrieval,2510.18546,http://arxiv.org/abs/2510.18546v1,2025-10-21 11:52:44+00:00
+54,WebDevJudge: Evaluating (M)LLMs as Critiques for Web Development Quality,2510.18560,http://arxiv.org/abs/2510.18560v1,2025-10-21 12:16:04+00:00
+55,Large language models for folktale type automation based on motifs: Cinderella case study,2510.18561,http://arxiv.org/abs/2510.18561v1,2025-10-21 12:18:20+00:00
+56,Kaleido: Open-Sourced Multi-Subject Reference Video Generation Model,2510.18573,http://arxiv.org/abs/2510.18573v1,2025-10-21 12:28:14+00:00
+57,The Cost-Benefit of Interdisciplinarity in AI for Mental Health,2510.18581,http://arxiv.org/abs/2510.18581v1,2025-10-21 12:34:44+00:00
+58,A Rectification-Based Approach for Distilling Boosted Trees into Decision Trees,2510.18615,http://arxiv.org/abs/2510.18615v1,2025-10-21 13:14:04+00:00
+59,Comparative Expressivity for Structured Argumentation Frameworks with Uncertain Rules and Premises,2510.18631,http://arxiv.org/abs/2510.18631v1,2025-10-21 13:36:38+00:00
+60,Think with 3D: Geometric Imagination Grounded Spatial Reasoning from Limited Views,2510.18632,http://arxiv.org/abs/2510.18632v1,2025-10-21 13:36:58+00:00
+61,Reasoning Language Model Inference Serving Unveiled: An Empirical Study,2510.18672,http://arxiv.org/abs/2510.18672v1,2025-10-21 14:25:51+00:00
+62,Exploring Membership Inference Vulnerabilities in Clinical Large Language Models,2510.18674,http://arxiv.org/abs/2510.18674v1,2025-10-21 14:27:48+00:00
+63,Fetch.ai: An Architecture for Modern Multi-Agent Systems,2510.18699,http://arxiv.org/abs/2510.18699v1,2025-10-21 14:53:56+00:00
+64,Causally Perturbed Fairness Testing,2510.18719,http://arxiv.org/abs/2510.18719v1,2025-10-21 15:20:30+00:00
+65,HarmNet: A Framework for Adaptive Multi-Turn Jailbreak Attacks on Large Language Models,2510.18728,http://arxiv.org/abs/2510.18728v1,2025-10-21 15:28:20+00:00
+66,Seg the HAB: Language-Guided Geospatial Algae Bloom Reasoning and Segmentation,2510.18751,http://arxiv.org/abs/2510.18751v1,2025-10-21 15:59:00+00:00
+67,Decoding Funded Research: Comparative Analysis of Topic Models and Uncovering the Effect of Gender and Geographic Location,2510.18803,http://arxiv.org/abs/2510.18803v1,2025-10-21 16:58:00+00:00
+68,Online SFT for LLM Reasoning: Surprising Effectiveness of Self-Tuning without Rewards,2510.18814,http://arxiv.org/abs/2510.18814v1,2025-10-21 17:15:56+00:00
+69,Fine-Tuned Thoughts: Leveraging Chain-of-Thought Reasoning for Industrial Asset Health Monitoring,2510.18817,http://arxiv.org/abs/2510.18817v1,2025-10-21 17:18:24+00:00
+70,An Explainable Hybrid AI Framework for Enhanced Tuberculosis and Symptom Detection,2510.18819,http://arxiv.org/abs/2510.18819v1,2025-10-21 17:18:55+00:00
+71,Towards Faithful and Controllable Personalization via Critique-Post-Edit Reinforcement Learning,2510.18849,http://arxiv.org/abs/2510.18849v1,2025-10-21 17:40:03+00:00
+72,DP$^2$O-SR: Direct Perceptual Preference Optimization for Real-World Image Super-Resolution,2510.18851,http://arxiv.org/abs/2510.18851v1,2025-10-21 17:43:23+00:00
+73,Every Step Evolves: Scaling Reinforcement Learning for Trillion-Scale Thinking Model,2510.18855,http://arxiv.org/abs/2510.18855v2,2025-10-21 17:46:14+00:00
+74,How Do LLMs Use Their Depth?,2510.18871,http://arxiv.org/abs/2510.18871v1,2025-10-21 17:59:05+00:00
+75,"3D Optimization for AI Inference Scaling: Balancing Accuracy, Cost, and Latency",2510.18905,http://arxiv.org/abs/2510.18905v1,2025-10-21 01:03:46+00:00
+76,Improving Topic Modeling of Social Media Short Texts with Rephrasing: A Case Study of COVID-19 Related Tweets,2510.18908,http://arxiv.org/abs/2510.18908v1,2025-10-21 03:29:38+00:00
+77,"Learning from the Best, Differently: A Diversity-Driven Rethinking on Data Selection",2510.18909,http://arxiv.org/abs/2510.18909v1,2025-10-21 03:37:31+00:00
+78,Large Connectome Model: An fMRI Foundation Model of Brain Connectomes Empowered by Brain-Environment Interaction in Multitask Learning Landscape,2510.18910,http://arxiv.org/abs/2510.18910v1,2025-10-21 03:50:51+00:00
+79,Prospects for Using Artificial Intelligence to Understand Intrinsic Kinetics of Heterogeneous Catalytic Reactions,2510.18911,http://arxiv.org/abs/2510.18911v1,2025-10-21 04:35:26+00:00
+80,Context-aware Fairness Evaluation and Mitigation in LLMs,2510.18914,http://arxiv.org/abs/2510.18914v1,2025-10-21 06:13:17+00:00
+81,MMAO-Bench: MultiModal All in One Benchmark Reveals Compositional Law between Uni-modal and Omni-modal in OmniModels,2510.18915,http://arxiv.org/abs/2510.18915v1,2025-10-21 06:14:40+00:00
+82,Misinformation Detection using Large Language Models with Explainability,2510.18918,http://arxiv.org/abs/2510.18918v1,2025-10-21 06:56:45+00:00
+83,Noise-corrected GRPO: From Noisy Rewards to Unbiased Gradients,2510.18924,http://arxiv.org/abs/2510.18924v1,2025-10-21 10:14:49+00:00
+84,Application of Reduced-Order Models for Temporal Multiscale Representations in the Prediction of Dynamical Systems,2510.18925,http://arxiv.org/abs/2510.18925v1,2025-10-21 11:46:15+00:00
+85,$Δ$t-Mamba3D: A Time-Aware Spatio-Temporal State-Space Model for Breast Cancer Risk Prediction,2510.19003,http://arxiv.org/abs/2510.19003v1,2025-10-21 18:29:17+00:00
+86,Prior-informed optimization of treatment recommendation via bandit algorithms trained on large language model-processed historical records,2510.19014,http://arxiv.org/abs/2510.19014v1,2025-10-21 18:57:00+00:00
+87,FlexiDataGen: An Adaptive LLM Framework for Dynamic Semantic Dataset Generation in Sensitive Domains,2510.19025,http://arxiv.org/abs/2510.19025v1,2025-10-21 19:07:49+00:00
+88,"""Over-the-Hood"" AI Inclusivity Bugs and How 3 AI Product Teams Found and Fixed Them",2510.19033,http://arxiv.org/abs/2510.19033v1,2025-10-21 19:24:12+00:00
+89,REPAIR Approach for Social-based City Reconstruction Planning in case of natural disasters,2510.19048,http://arxiv.org/abs/2510.19048v1,2025-10-21 20:05:18+00:00
+90,Rectifying Shortcut Behaviors in Preference-based Reward Learning,2510.19050,http://arxiv.org/abs/2510.19050v1,2025-10-21 20:08:32+00:00
+91,What Makes a Good Curriculum? Disentangling the Effects of Data Ordering on LLM Mathematical Reasoning,2510.19099,http://arxiv.org/abs/2510.19099v2,2025-10-21 21:43:38+00:00
+92,A Novel Approach to Breast Cancer Segmentation using U-Net Model with Attention Mechanisms and FedProx,2510.19118,http://arxiv.org/abs/2510.19118v1,2025-10-21 22:38:18+00:00
+93,A Cross-Environment and Cross-Embodiment Path Planning Framework via a Conditional Diffusion Model,2510.19128,http://arxiv.org/abs/2510.19128v1,2025-10-21 23:30:14+00:00
+94,Can Reasoning Models Obfuscate Reasoning? Stress-Testing Chain-of-Thought Monitorability,2510.19851,http://arxiv.org/abs/2510.19851v1,2025-10-21 18:07:10+00:00
+95,QKCV Attention: Enhancing Time Series Forecasting with Static Categorical Embeddings for Both Lightweight and Pre-trained Foundation Models,2510.20222,http://arxiv.org/abs/2510.20222v1,2025-10-21 18:15:21+00:00
+96,Integrated representational signatures strengthen specificity in brains and models,2510.20847,http://arxiv.org/abs/2510.20847v1,2025-10-21 04:37:27+00:00
+97,"FST.ai 2.0: An Explainable AI Ecosystem for Fair, Fast, and Inclusive Decision-Making in Olympic and Paralympic Taekwondo",2510.18193,http://arxiv.org/abs/2510.18193v2,2025-10-21 00:35:56+00:00
+98,VLSU: Mapping the Limits of Joint Multimodal Understanding for AI Safety,2510.18214,http://arxiv.org/abs/2510.18214v1,2025-10-21 01:30:31+00:00
+99,The Emergence of Complex Behavior in Large-Scale Ecological Environments,2510.18221,http://arxiv.org/abs/2510.18221v2,2025-10-21 02:03:25+00:00
