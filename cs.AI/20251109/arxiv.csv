@@ -1,0 +1,60 @@
+,title,id,arxiv_url,published
+0,Active Thinking Model: A Goal-Directed Self-Improving Framework for Real-World Adaptive Intelligence,2511.00758,http://arxiv.org/abs/2511.00758v1,2025-11-02 01:13:12+00:00
+1,How Focused Are LLMs? A Quantitative Study via Repetitive Deterministic Prediction Tasks,2511.00763,http://arxiv.org/abs/2511.00763v1,2025-11-02 01:42:08+00:00
+2,Count-Based Approaches Remain Strong: A Benchmark Against Transformer and LLM Pipelines on Structured EHR,2511.00782,http://arxiv.org/abs/2511.00782v1,2025-11-02 03:28:35+00:00
+3,Do Math Reasoning LLMs Help Predict the Impact of Public Transit Events?,2511.00808,http://arxiv.org/abs/2511.00808v1,2025-11-02 05:21:33+00:00
+4,AI for pRedicting Exacerbations in KIDs with aSthma (AIRE-KIDS),2511.01018,http://arxiv.org/abs/2511.01018v1,2025-11-02 17:22:44+00:00
+5,Efficient Test-Time Retrieval Augmented Generation,2511.01059,http://arxiv.org/abs/2511.01059v1,2025-11-02 19:32:39+00:00
+6,Reevaluating Self-Consistency Scaling in Multi-Agent Systems,2511.00751,http://arxiv.org/abs/2511.00751v1,2025-11-02 00:36:49+00:00
+7,Quantifying truth and authenticity in AI-assisted candidate evaluation: A multi-domain pilot analysis,2511.00774,http://arxiv.org/abs/2511.00774v2,2025-11-02 02:57:32+00:00
+8,Class-agnostic 3D Segmentation by Granularity-Consistent Automatic 2D Mask Tracking,2511.00785,http://arxiv.org/abs/2511.00785v1,2025-11-02 03:52:42+00:00
+9,Efficient Reinforcement Learning for Large Language Models with Intrinsic Exploration,2511.00794,http://arxiv.org/abs/2511.00794v1,2025-11-02 04:16:47+00:00
+10,FedOnco-Bench: A Reproducible Benchmark for Privacy-Aware Federated Tumor Segmentation with Synthetic CT Data,2511.00795,http://arxiv.org/abs/2511.00795v1,2025-11-02 04:17:14+00:00
+11,Attention Saturation and Gradient Suppression at Inflection Layers: Diagnosing and Mitigating Bottlenecks in Transformer Adaptation,2511.00797,http://arxiv.org/abs/2511.00797v1,2025-11-02 04:32:41+00:00
+12,Logic-informed reinforcement learning for cross-domain optimization of large-scale cyber-physical systems,2511.00806,http://arxiv.org/abs/2511.00806v1,2025-11-02 05:02:17+00:00
+13,Towards Ultra-Low Latency: Binarized Neural Network Architectures for In-Vehicle Network Intrusion Detection,2511.00828,http://arxiv.org/abs/2511.00828v1,2025-11-02 06:47:56+00:00
+14,Enhancing Adversarial Transferability in Visual-Language Pre-training Models via Local Shuffle and Sample-based Attack,2511.00831,http://arxiv.org/abs/2511.00831v1,2025-11-02 06:55:49+00:00
+15,Linear Differential Vision Transformer: Learning Visual Contrasts via Pairwise Differentials,2511.00833,http://arxiv.org/abs/2511.00833v1,2025-11-02 07:04:12+00:00
+16,Parameter Interpolation Adversarial Training for Robust Image Classification,2511.00836,http://arxiv.org/abs/2511.00836v1,2025-11-02 07:37:06+00:00
+17,CodeClash: Benchmarking Goal-Oriented Software Engineering,2511.00839,http://arxiv.org/abs/2511.00839v1,2025-11-02 07:42:51+00:00
+18,OmniBrainBench: A Comprehensive Multimodal Benchmark for Brain Imaging Analysis Across Multi-stage Clinical Tasks,2511.00846,http://arxiv.org/abs/2511.00846v1,2025-11-02 08:11:55+00:00
+19,Pay for The Second-Best Service: A Game-Theoretic Approach Against Dishonest LLM Providers,2511.00847,http://arxiv.org/abs/2511.00847v3,2025-11-02 08:18:20+00:00
+20,Fast Stochastic Greedy Algorithm for $k$-Submodular Cover Problem,2511.00869,http://arxiv.org/abs/2511.00869v1,2025-11-02 09:39:06+00:00
+21,KFCPO: Kronecker-Factored Approximated Constrained Policy Optimization,2511.00880,http://arxiv.org/abs/2511.00880v1,2025-11-02 10:33:57+00:00
+22,Maestro: Orchestrating Robotics Modules with Vision-Language Models for Zero-Shot Generalist Robots,2511.00917,http://arxiv.org/abs/2511.00917v1,2025-11-02 12:34:37+00:00
+23,LLMs Position Themselves as More Rational Than Humans: Emergence of AI Self-Awareness Measured Through Game Theory,2511.00926,http://arxiv.org/abs/2511.00926v2,2025-11-02 13:09:56+00:00
+24,URDF-Anything: Constructing Articulated Objects with 3D Multimodal Language Model,2511.00940,http://arxiv.org/abs/2511.00940v1,2025-11-02 13:45:51+00:00
+25,The Riddle of Reflection: Evaluating Reasoning and Self-Awareness in Multilingual LLMs using Indian Riddles,2511.00960,http://arxiv.org/abs/2511.00960v2,2025-11-02 14:40:36+00:00
+26,Using Synthetic Data to estimate the True Error is theoretically and practically doable,2511.00964,http://arxiv.org/abs/2511.00964v1,2025-11-02 15:00:12+00:00
+27,Aligning LLM agents with human learning and adjustment behavior: a dual agent approach,2511.00993,http://arxiv.org/abs/2511.00993v1,2025-11-02 16:05:33+00:00
+28,On the Emergence of Induction Heads for In-Context Learning,2511.01033,http://arxiv.org/abs/2511.01033v1,2025-11-02 18:12:06+00:00
+29,HAFixAgent: History-Aware Automated Program Repair Agent,2511.01047,http://arxiv.org/abs/2511.01047v2,2025-11-02 18:45:34+00:00
+30,Knowledge Elicitation with Large Language Models for Interpretable Cancer Stage Identification from Pathology Reports,2511.01052,http://arxiv.org/abs/2511.01052v1,2025-11-02 19:00:40+00:00
+31,Energy-Efficient Deep Learning Without Backpropagation: A Rigorous Evaluation of Forward-Only Algorithms,2511.01061,http://arxiv.org/abs/2511.01061v1,2025-11-02 19:48:44+00:00
+32,"Continual Learning, Not Training: Online Adaptation For Agents",2511.01093,http://arxiv.org/abs/2511.01093v1,2025-11-02 21:48:31+00:00
+33,Neural Green's Functions,2511.01924,http://arxiv.org/abs/2511.01924v1,2025-11-02 09:08:01+00:00
+34,A Unified Model for Human Mobility Generation in Natural Disasters,2511.01928,http://arxiv.org/abs/2511.01928v1,2025-11-02 13:55:41+00:00
+35,Dynamic Population Distribution Aware Human Trajectory Generation with Diffusion Model,2511.01929,http://arxiv.org/abs/2511.01929v1,2025-11-02 14:06:29+00:00
+36,Tool Zero: Training Tool-Augmented LLMs via Pure RL from Scratch,2511.01934,http://arxiv.org/abs/2511.01934v1,2025-11-02 16:33:45+00:00
+37,Q-Sat AI: Machine Learning-Based Decision Support for Data Saturation in Qualitative Studies,2511.01935,http://arxiv.org/abs/2511.01935v1,2025-11-02 17:18:51+00:00
+38,The Geometry of Grokking: Norm Minimization on the Zero-Loss Manifold,2511.01938,http://arxiv.org/abs/2511.01938v1,2025-11-02 18:44:42+00:00
+39,Digitizing Spermatogenesis Lineage at Nanoscale Resolution In Tissue-Level Electron Microscopy,2511.02860,http://arxiv.org/abs/2511.02860v1,2025-11-02 05:19:59+00:00
+40,Fast PINN Eigensolvers via Biconvex Reformulation,2511.00792,http://arxiv.org/abs/2511.00792v1,2025-11-02 04:04:54+00:00
+41,MULTI-Bench: A Multi-Turn Interactive Benchmark for Assessing Emotional Intelligence ability of Spoken Dialogue Models,2511.00850,http://arxiv.org/abs/2511.00850v1,2025-11-02 08:22:30+00:00
+42,Occlusion-Aware Diffusion Model for Pedestrian Intention Prediction,2511.00858,http://arxiv.org/abs/2511.00858v1,2025-11-02 08:49:07+00:00
+43,Assessing LLM Reasoning Steps via Principal Knowledge Grounding,2511.00879,http://arxiv.org/abs/2511.00879v1,2025-11-02 10:25:43+00:00
+44,Deep Generative Models for Enhanced Vitreous OCT Imaging,2511.00881,http://arxiv.org/abs/2511.00881v2,2025-11-02 10:36:59+00:00
+45,Android Malware Detection: A Machine Leaning Approach,2511.00894,http://arxiv.org/abs/2511.00894v1,2025-11-02 11:26:31+00:00
+46,Dynamic Logic of Trust-Based Beliefs,2511.00899,http://arxiv.org/abs/2511.00899v1,2025-11-02 11:36:10+00:00
+47,Learning with Category-Equivariant Representations for Human Activity Recognition,2511.00900,http://arxiv.org/abs/2511.00900v1,2025-11-02 11:37:36+00:00
+48,The Hidden Power of Normalization: Exponential Capacity Control in Deep Neural Networks,2511.00958,http://arxiv.org/abs/2511.00958v1,2025-11-02 14:38:20+00:00
+49,Keys in the Weights: Transformer Authentication Using Model-Bound Latent Representations,2511.00973,http://arxiv.org/abs/2511.00973v1,2025-11-02 15:29:44+00:00
+50,ORANGE: An Online Reflection ANd GEneration framework with Domain Knowledge for Text-to-SQL,2511.00985,http://arxiv.org/abs/2511.00985v2,2025-11-02 15:57:18+00:00
+51,Seed-Induced Uniqueness in Transformer Models: Subspace Alignment Governs Subliminal Transfer,2511.01023,http://arxiv.org/abs/2511.01023v1,2025-11-02 17:34:43+00:00
+52,GeoToken: Hierarchical Geolocalization of Images via Next Token Prediction,2511.01082,http://arxiv.org/abs/2511.01082v1,2025-11-02 21:30:06+00:00
+53,SliceVision-F2I: A Synthetic Feature-to-Image Dataset for Visual Pattern Representation on Network Slices,2511.01087,http://arxiv.org/abs/2511.01087v1,2025-11-02 21:37:38+00:00
+54,DeepContour: A Hybrid Deep Learning Framework for Accelerating Generalized Eigenvalue Problem Solving via Efficient Contour Design,2511.01927,http://arxiv.org/abs/2511.01927v1,2025-11-02 12:58:58+00:00
+55,Deciphering Personalization: Towards Fine-Grained Explainability in Natural Language for Personalized Image Generation Models,2511.01932,http://arxiv.org/abs/2511.01932v1,2025-11-02 16:08:24+00:00
+56,Shorter but not Worse: Frugal Reasoning via Easy Samples as Length Regularizers in Math RLVR,2511.01937,http://arxiv.org/abs/2511.01937v1,2025-11-02 17:29:16+00:00
+57,GUI-AIMA: Aligning Intrinsic Multimodal Attention with a Context Anchor for GUI Grounding,2511.00810,http://arxiv.org/abs/2511.00810v1,2025-11-02 05:34:21+00:00
+58,"OceanAI: A Conversational Platform for Accurate, Transparent, Near-Real-Time Oceanographic Insights",2511.01019,http://arxiv.org/abs/2511.01019v2,2025-11-02 17:23:58+00:00
