@@ -1,0 +1,79 @@
+,title,id,arxiv_url,published
+0,CoMA: Complementary Masking and Hierarchical Dynamic Multi-Window Self-Attention in a Unified Pre-training Framework,2511.05929,http://arxiv.org/abs/2511.05929v1,2025-11-08 08:43:41+00:00
+1,"Towards a Humanized Social-Media Ecosystem: AI-Augmented HCI Design Patterns for Safety, Agency & Well-Being",2511.05875,http://arxiv.org/abs/2511.05875v1,2025-11-08 06:22:15+00:00
+2,EGG-SR: Embedding Symbolic Equivalence into Symbolic Regression via Equality Graph,2511.05849,http://arxiv.org/abs/2511.05849v1,2025-11-08 04:39:11+00:00
+3,Sign language recognition from skeletal data using graph and recurrent neural networks,2511.05772,http://arxiv.org/abs/2511.05772v1,2025-11-08 00:04:42+00:00
+4,LLM Attention Transplant for Transfer Learning of Tabular Data Across Disparate Domains,2511.06161,http://arxiv.org/abs/2511.06161v1,2025-11-08 23:05:31+00:00
+5,Klear-AgentForge: Forging Agentic Intelligence through Posttraining Scaling,2511.05951,http://arxiv.org/abs/2511.05951v1,2025-11-08 09:47:27+00:00
+6,Hybrid CNN-ViT Framework for Motion-Blurred Scene Text Restoration,2511.06087,http://arxiv.org/abs/2511.06087v1,2025-11-08 17:48:58+00:00
+7,An Epistemic Perspective on Agent Awareness,2511.05977,http://arxiv.org/abs/2511.05977v1,2025-11-08 11:50:25+00:00
+8,"When Object-Centric World Models Meet Policy Learning: From Pixels to Policies, and Where It Breaks",2511.06136,http://arxiv.org/abs/2511.06136v2,2025-11-08 21:09:44+00:00
+9,ScRPO: From Errors to Insights,2511.06065,http://arxiv.org/abs/2511.06065v2,2025-11-08 16:30:44+00:00
+10,DRAGON: Guard LLM Unlearning in Context via Negative Detection and Reasoning,2511.05784,http://arxiv.org/abs/2511.05784v2,2025-11-08 01:13:28+00:00
+11,Artificial intelligence and the Gulf Cooperation Council workforce adapting to the future of work,2511.05927,http://arxiv.org/abs/2511.05927v1,2025-11-08 08:42:14+00:00
+12,Quantifying Edits Decay in Fine-tuned LLMs,2511.05852,http://arxiv.org/abs/2511.05852v2,2025-11-08 04:58:03+00:00
+13,"Retrieval-Augmented Generation in Medicine: A Scoping Review of Technical Implementations, Clinical Applications, and Ethical Considerations",2511.05901,http://arxiv.org/abs/2511.05901v2,2025-11-08 07:52:47+00:00
+14,Injecting Falsehoods: Adversarial Man-in-the-Middle Attacks Undermining Factual Recall in LLMs,2511.05919,http://arxiv.org/abs/2511.05919v1,2025-11-08 08:30:19+00:00
+15,Physics-Informed Neural Networks for Real-Time Gas Crossover Prediction in PEM Electrolyzers: First Application with Multi-Membrane Validation,2511.05879,http://arxiv.org/abs/2511.05879v1,2025-11-08 06:41:39+00:00
+16,Adaptation and Fine-tuning with TabPFN for Travelling Salesman Problem,2511.05872,http://arxiv.org/abs/2511.05872v1,2025-11-08 06:16:11+00:00
+17,EMOD: A Unified EEG Emotion Representation Framework Leveraging V-A Guided Contrastive Learning,2511.05863,http://arxiv.org/abs/2511.05863v1,2025-11-08 05:37:16+00:00
+18,MOSS: Efficient and Accurate FP8 LLM Training with Microscaling and Automatic Scaling,2511.05811,http://arxiv.org/abs/2511.05811v1,2025-11-08 02:51:26+00:00
+19,When AI Meets the Web: Prompt Injection Risks in Third-Party AI Chatbot Plugins,2511.05797,http://arxiv.org/abs/2511.05797v1,2025-11-08 02:02:24+00:00
+20,Large Language Models Develop Novel Social Biases Through Adaptive Exploration,2511.06148,http://arxiv.org/abs/2511.06148v1,2025-11-08 21:58:26+00:00
+21,Adapting Web Agents with Synthetic Supervision,2511.06101,http://arxiv.org/abs/2511.06101v1,2025-11-08 18:45:33+00:00
+22,"Simulating Students with Large Language Models: A Review of Architecture, Mechanisms, and Role Modelling in Education with Generative AI",2511.06078,http://arxiv.org/abs/2511.06078v1,2025-11-08 17:23:13+00:00
+23,How Particle-System Random Batch Methods Enhance Graph Transformer: Memory Efficiency and Parallel Computing Strategy,2511.06044,http://arxiv.org/abs/2511.06044v1,2025-11-08 15:34:15+00:00
+24,A Remarkably Efficient Paradigm to Multimodal Large Language Models for Sequential Recommendation,2511.05885,http://arxiv.org/abs/2511.05885v2,2025-11-08 06:51:38+00:00
+25,The Polite Liar: Epistemic Pathology in Language Models,2511.07477,http://arxiv.org/abs/2511.07477v1,2025-11-08 21:02:52+00:00
+26,The Future of AI in the GCC Post-NPM Landscape: A Comparative Analysis of Kuwait and the UAE,2511.05932,http://arxiv.org/abs/2511.05932v1,2025-11-08 08:54:27+00:00
+27,MALinZero: Efficient Low-Dimensional Search for Mastering Complex Multi-Agent Planning,2511.06142,http://arxiv.org/abs/2511.06142v1,2025-11-08 21:27:09+00:00
+28,Evaluation of retrieval-based QA on QUEST-LOFT,2511.06125,http://arxiv.org/abs/2511.06125v1,2025-11-08 20:30:45+00:00
+29,Advancing Ocean State Estimation with efficient and scalable AI,2511.06041,http://arxiv.org/abs/2511.06041v1,2025-11-08 15:24:23+00:00
+30,MiVID: Multi-Strategic Self-Supervision for Video Frame Interpolation using Diffusion Model,2511.06019,http://arxiv.org/abs/2511.06019v1,2025-11-08 14:10:04+00:00
+31,One-Shot Knowledge Transfer for Scalable Person Re-Identification,2511.06016,http://arxiv.org/abs/2511.06016v1,2025-11-08 14:06:23+00:00
+32,Self-Abstraction from Grounded Experience for Plan-Guided Policy Refinement,2511.05931,http://arxiv.org/abs/2511.05931v1,2025-11-08 08:49:38+00:00
+33,IDALC: A Semi-Supervised Framework for Intent Detection and Active Learning based Correction,2511.05921,http://arxiv.org/abs/2511.05921v1,2025-11-08 08:32:59+00:00
+34,NILC: Discovering New Intents with LLM-assisted Clustering,2511.05913,http://arxiv.org/abs/2511.05913v1,2025-11-08 08:18:44+00:00
+35,Unveiling Modality Bias: Automated Sample-Specific Analysis for Multimodal Misinformation Benchmarks,2511.05883,http://arxiv.org/abs/2511.05883v1,2025-11-08 06:48:19+00:00
+36,An Empirical Study of Reasoning Steps in Thinking Code LLMs,2511.05874,http://arxiv.org/abs/2511.05874v1,2025-11-08 06:18:48+00:00
+37,Can a Small Model Learn to Look Before It Leaps? Dynamic Learning and Proactive Correction for Hallucination Detection,2511.05854,http://arxiv.org/abs/2511.05854v1,2025-11-08 05:05:38+00:00
+38,Retrieval Quality at Context Limit,2511.05850,http://arxiv.org/abs/2511.05850v1,2025-11-08 04:54:29+00:00
+39,In-depth Analysis on Caching and Pre-fetching in Mixture of Experts Offloading,2511.05814,http://arxiv.org/abs/2511.05814v1,2025-11-08 03:04:11+00:00
+40,Measuring Model Performance in the Presence of an Intervention,2511.05805,http://arxiv.org/abs/2511.05805v1,2025-11-08 02:24:16+00:00
+41,VLAD-Grasp: Zero-shot Grasp Detection via Vision-Language Models,2511.05791,http://arxiv.org/abs/2511.05791v1,2025-11-08 01:47:40+00:00
+42,SymLight: Exploring Interpretable and Deployable Symbolic Policies for Traffic Signal Control,2511.05790,http://arxiv.org/abs/2511.05790v1,2025-11-08 01:45:49+00:00
+43,Runtime Safety Monitoring of Deep Neural Networks for Perception: A Survey,2511.05982,http://arxiv.org/abs/2511.05982v1,2025-11-08 12:06:54+00:00
+44,10 Open Challenges Steering the Future of Vision-Language-Action Models,2511.05936,http://arxiv.org/abs/2511.05936v1,2025-11-08 09:02:13+00:00
+45,SWE-fficiency: Can Language Models Optimize Real-World Repositories on Real Workloads?,2511.06090,http://arxiv.org/abs/2511.06090v2,2025-11-08 17:55:09+00:00
+46,EndoIR: Degradation-Agnostic All-in-One Endoscopic Image Restoration via Noise-Aware Routing Diffusion,2511.05873,http://arxiv.org/abs/2511.05873v2,2025-11-08 06:17:51+00:00
+47,Ontology Learning and Knowledge Graph Construction: A Comparison of Approaches and Their Impact on RAG Performance,2511.05991,http://arxiv.org/abs/2511.05991v1,2025-11-08 12:38:45+00:00
+48,Models Got Talent: Identifying High Performing Wearable Human Activity Recognition Models Without Training,2511.06157,http://arxiv.org/abs/2511.06157v1,2025-11-08 22:38:14+00:00
+49,Maestro: Learning to Collaborate via Conditional Listwise Policy Optimization for Multi-Agent LLMs,2511.06134,http://arxiv.org/abs/2511.06134v1,2025-11-08 21:01:27+00:00
+50,ITPP: Learning Disentangled Event Dynamics in Marked Temporal Point Processes,2511.06032,http://arxiv.org/abs/2511.06032v1,2025-11-08 15:00:25+00:00
+51,MoSKA: Mixture of Shared KV Attention for Efficient Long-Sequence LLM Inference,2511.06010,http://arxiv.org/abs/2511.06010v1,2025-11-08 13:40:16+00:00
+52,Revisiting Entropy in Reinforcement Learning for Large Reasoning Models,2511.05993,http://arxiv.org/abs/2511.05993v1,2025-11-08 12:50:41+00:00
+53,Kunlun Anomaly Troubleshooter: Enabling Kernel-Level Anomaly Detection and Causal Reasoning for Large Model Distributed Inference,2511.05978,http://arxiv.org/abs/2511.05978v1,2025-11-08 11:53:08+00:00
+54,Adaptive Agent Selection and Interaction Network for Image-to-point cloud Registration,2511.05965,http://arxiv.org/abs/2511.05965v1,2025-11-08 10:50:43+00:00
+55,IoT-based Fresh Produce Supply Chain Under Uncertainty: An Adaptive Optimization Framework,2511.05920,http://arxiv.org/abs/2511.05920v1,2025-11-08 08:31:23+00:00
+56,The Imperfect Learner: Incorporating Developmental Trajectories in Memory-based Student Simulation,2511.05903,http://arxiv.org/abs/2511.05903v1,2025-11-08 08:05:43+00:00
+57,CGCE: Classifier-Guided Concept Erasure in Generative Models,2511.05865,http://arxiv.org/abs/2511.05865v1,2025-11-08 05:38:18+00:00
+58,Predicting the Future by Retrieving the Past,2511.05859,http://arxiv.org/abs/2511.05859v1,2025-11-08 05:24:45+00:00
+59,Understanding Cross Task Generalization in Handwriting-Based Alzheimer's Screening via Vision Language Adaptation,2511.05841,http://arxiv.org/abs/2511.05841v1,2025-11-08 04:13:01+00:00
+60,WAR-Re: Web API Recommendation with Semantic Reasoning,2511.05820,http://arxiv.org/abs/2511.05820v1,2025-11-08 03:09:31+00:00
+61,Beyond the Lower Bound: Bridging Regret Minimization and Best Arm Identification in Lexicographic Bandits,2511.05802,http://arxiv.org/abs/2511.05802v1,2025-11-08 02:22:33+00:00
+62,Evaluating Implicit Biases in LLM Reasoning through Logic Grid Puzzles,2511.06160,http://arxiv.org/abs/2511.06160v1,2025-11-08 22:51:59+00:00
+63,Exploring Category-level Articulated Object Pose Tracking on SE(3) Manifolds,2511.05996,http://arxiv.org/abs/2511.05996v1,2025-11-08 12:56:21+00:00
+64,Referring Expressions as a Lens into Spatial Language Grounding in Vision-Language Models,2511.06146,http://arxiv.org/abs/2511.06146v1,2025-11-08 21:43:09+00:00
+65,A Privacy-Preserving Federated Learning Method with Homomorphic Encryption in Omics Data,2511.06064,http://arxiv.org/abs/2511.06064v1,2025-11-08 16:18:42+00:00
+66,S2ML: Spatio-Spectral Mutual Learning for Depth Completion,2511.06033,http://arxiv.org/abs/2511.06033v1,2025-11-08 15:01:55+00:00
+67,DiA-gnostic VLVAE: Disentangled Alignment-Constrained Vision Language Variational AutoEncoder for Robust Radiology Reporting with Missing Modalities,2511.05968,http://arxiv.org/abs/2511.05968v1,2025-11-08 11:08:27+00:00
+68,Adapted Foundation Models for Breast MRI Triaging in Contrast-Enhanced and Non-Contrast Enhanced Protocols,2511.05967,http://arxiv.org/abs/2511.05967v1,2025-11-08 11:01:22+00:00
+69,A PDE Perspective on Generative Diffusion Models,2511.05940,http://arxiv.org/abs/2511.05940v1,2025-11-08 09:19:25+00:00
+70,GABFusion: Rethinking Feature Fusion for Low-Bit Quantization of Multi-Task Networks,2511.05898,http://arxiv.org/abs/2511.05898v1,2025-11-08 07:45:21+00:00
+71,Policy Gradient-Based EMT-in-the-Loop Learning to Mitigate Sub-Synchronous Control Interactions,2511.05822,http://arxiv.org/abs/2511.05822v1,2025-11-08 03:12:29+00:00
+72,DiagnoLLM: A Hybrid Bayesian Neural Language Framework for Interpretable Disease Diagnosis,2511.05810,http://arxiv.org/abs/2511.05810v1,2025-11-08 02:51:21+00:00
+73,Enhancing Diffusion Model Guidance through Calibration and Regularization,2511.05844,http://arxiv.org/abs/2511.05844v2,2025-11-08 04:23:42+00:00
+74,Hilbert-Guided Block-Sparse Local Attention,2511.05832,http://arxiv.org/abs/2511.05832v1,2025-11-08 03:43:13+00:00
+75,Stemming Hallucination in Language Models Using a Licensing Oracle,2511.06073,http://arxiv.org/abs/2511.06073v1,2025-11-08 17:07:57+00:00
+76,Reinforcement Learning Improves Traversal of Hierarchical Knowledge in LLMs,2511.05933,http://arxiv.org/abs/2511.05933v1,2025-11-08 08:56:29+00:00
+77,Interpretable Recognition of Cognitive Distortions in Natural Language Texts,2511.05969,http://arxiv.org/abs/2511.05969v1,2025-11-08 11:13:29+00:00
