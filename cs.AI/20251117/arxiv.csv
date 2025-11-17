@@ -1,0 +1,101 @@
+,title,id,arxiv_url,published
+0,TabRAG: Tabular Document Retrieval via Structured Language Representations,2511.06582,http://arxiv.org/abs/2511.06582v1,2025-11-10 00:05:58+00:00
+1,Physically-Grounded Goal Imagination: Physics-Informed Variational Autoencoder for Self-Supervised Reinforcement Learning,2511.06745,http://arxiv.org/abs/2511.06745v1,2025-11-10 06:18:38+00:00
+2,TNT: Improving Chunkwise Training for Test-Time Memorization,2511.07343,http://arxiv.org/abs/2511.07343v1,2025-11-10 17:45:09+00:00
+3,LMM-IQA: Image Quality Assessment for Low-Dose CT Imaging,2511.07298,http://arxiv.org/abs/2511.07298v1,2025-11-10 16:56:11+00:00
+4,Enabling Off-Policy Imitation Learning with Deep Actor Critic Stabilization,2511.07288,http://arxiv.org/abs/2511.07288v1,2025-11-10 16:35:50+00:00
+5,AdaRec: Adaptive Recommendation with LLMs via Narrative Profiling and Dual-Channel Reasoning,2511.07166,http://arxiv.org/abs/2511.07166v1,2025-11-10 14:59:27+00:00
+6,On the Joint Minimization of Regularization Loss Functions in Deep Variational Bayesian Methods for Attribute-Controlled Symbolic Music Generation,2511.07118,http://arxiv.org/abs/2511.07118v1,2025-11-10 14:09:25+00:00
+7,Pandar128 dataset for lane line detection,2511.07084,http://arxiv.org/abs/2511.07084v1,2025-11-10 13:18:36+00:00
+8,Improving Region Representation Learning from Urban Imagery with Noisy Long-Caption Supervision,2511.07062,http://arxiv.org/abs/2511.07062v1,2025-11-10 12:53:32+00:00
+9,Diffolio: A Diffusion Model for Multivariate Probabilistic Financial Time-Series Forecasting and Portfolio Construction,2511.07014,http://arxiv.org/abs/2511.07014v1,2025-11-10 12:05:32+00:00
+10,Learning to Fast Unrank in Collaborative Filtering Recommendation,2511.06803,http://arxiv.org/abs/2511.06803v1,2025-11-10 07:45:15+00:00
+11,Robust Causal Discovery under Imperfect Structural Constraints,2511.06790,http://arxiv.org/abs/2511.06790v1,2025-11-10 07:27:08+00:00
+12,On the Mechanisms of Collaborative Learning in VAE Recommenders,2511.06781,http://arxiv.org/abs/2511.06781v1,2025-11-10 07:13:58+00:00
+13,SRNN: Spatiotemporal Relational Neural Network for Intuitive Physics Understanding,2511.06761,http://arxiv.org/abs/2511.06761v1,2025-11-10 06:43:42+00:00
+14,Surgical Agent Orchestration Platform for Voice-directed Patient Data Interaction,2511.07392,http://arxiv.org/abs/2511.07392v2,2025-11-10 18:47:24+00:00
+15,Machine-Learning Accelerated Calculations of Reduced Density Matrices,2511.07367,http://arxiv.org/abs/2511.07367v1,2025-11-10 18:23:34+00:00
+16,SMiLE: Provably Enforcing Global Relational Properties in Neural Networks,2511.07208,http://arxiv.org/abs/2511.07208v1,2025-11-10 15:33:32+00:00
+17,Designing and Evaluating Malinowski's Lens: An AI-Native Educational Game for Ethnographic Learning,2511.07682,http://arxiv.org/abs/2511.07682v1,2025-11-10 23:03:01+00:00
+18,AI-Driven Contribution Evaluation and Conflict Resolution: A Framework & Design for Group Workload Investigation,2511.07667,http://arxiv.org/abs/2511.07667v1,2025-11-10 22:22:55+00:00
+19,Private-RAG: Answering Multiple Queries with LLMs while Keeping Your Data Private,2511.07637,http://arxiv.org/abs/2511.07637v1,2025-11-10 21:12:32+00:00
+20,Leveraging the Power of AI and Social Interactions to Restore Trust in Public Polls,2511.07593,http://arxiv.org/abs/2511.07593v1,2025-11-10 20:06:32+00:00
+21,FedRW: Efficient Privacy-Preserving Data Reweighting for Enhancing Federated Learning of Language Models,2511.07505,http://arxiv.org/abs/2511.07505v1,2025-11-10 18:29:55+00:00
+22,"Do LLMs Feel? Teaching Emotion Recognition with Prompts, Retrieval, and Curriculum Learning",2511.07061,http://arxiv.org/abs/2511.07061v2,2025-11-10 12:52:11+00:00
+23,TiS-TSL: Image-Label Supervised Surgical Video Stereo Matching via Time-Switchable Teacher-Student Learning,2511.06817,http://arxiv.org/abs/2511.06817v3,2025-11-10 08:01:26+00:00
+24,Stress Testing Factual Consistency Metrics for Long-Document Summarization,2511.07689,http://arxiv.org/abs/2511.07689v1,2025-11-10 23:24:25+00:00
+25,ResearchRubrics: A Benchmark of Prompts and Rubrics For Evaluating Deep Research Agents,2511.07685,http://arxiv.org/abs/2511.07685v1,2025-11-10 23:07:14+00:00
+26,LLM Driven Processes to Foster Explainable AI,2511.07086,http://arxiv.org/abs/2511.07086v1,2025-11-10 13:20:00+00:00
+27,SPUR: A Plug-and-Play Framework for Integrating Spatial Audio Understanding and Reasoning into Large Audio-Language Models,2511.06606,http://arxiv.org/abs/2511.06606v1,2025-11-10 01:29:26+00:00
+28,LoRA on the Go: Instance-level Dynamic LoRA Selection and Merging,2511.07129,http://arxiv.org/abs/2511.07129v1,2025-11-10 14:13:10+00:00
+29,E2E-VGuard: Adversarial Prevention for Production LLM-based End-To-End Speech Synthesis,2511.07099,http://arxiv.org/abs/2511.07099v1,2025-11-10 13:38:53+00:00
+30,Boosting Fine-Grained Urban Flow Inference via Lightweight Architecture and Focalized Optimization,2511.07098,http://arxiv.org/abs/2511.07098v1,2025-11-10 13:38:26+00:00
+31,S$^2$Drug: Bridging Protein Sequence and 3D Structure in Contrastive Representation Learning for Virtual Screening,2511.07006,http://arxiv.org/abs/2511.07006v1,2025-11-10 11:57:47+00:00
+32,On The Presence of Double-Descent in Deep Reinforcement Learning,2511.06895,http://arxiv.org/abs/2511.06895v1,2025-11-10 09:45:03+00:00
+33,Deep learning EPI-TIRF cross-modality enables background subtraction and axial super-resolution for widefield fluorescence microscopy,2511.06853,http://arxiv.org/abs/2511.06853v1,2025-11-10 08:52:56+00:00
+34,Beyond Plain Demos: A Demo-centric Anchoring Paradigm for In-Context Learning in Alzheimer's Disease Detection,2511.06826,http://arxiv.org/abs/2511.06826v1,2025-11-10 08:13:42+00:00
+35,MathSE: Improving Multimodal Mathematical Reasoning via Self-Evolving Iterative Reflection and Reward-Guided Fine-Tuning,2511.06805,http://arxiv.org/abs/2511.06805v1,2025-11-10 07:46:19+00:00
+36,Resource Efficient Sleep Staging via Multi-Level Masking and Prompt Learning,2511.06785,http://arxiv.org/abs/2511.06785v1,2025-11-10 07:19:26+00:00
+37,Structural Enforcement of Statistical Rigor in AI-Driven Discovery: A Functional Architecture,2511.06701,http://arxiv.org/abs/2511.06701v1,2025-11-10 04:42:30+00:00
+38,Place Matters: Comparing LLM Hallucination Rates for Place-Based Legal Queries,2511.06700,http://arxiv.org/abs/2511.06700v1,2025-11-10 04:42:00+00:00
+39,Lightning Grasp: High Performance Procedural Grasp Synthesis with Contact Fields,2511.07418,http://arxiv.org/abs/2511.07418v1,2025-11-10 18:59:44+00:00
+40,Using Vision Language Models as Closed-Loop Symbolic Planners for Robotic Applications: A Control-Theoretic Perspective,2511.07410,http://arxiv.org/abs/2511.07410v1,2025-11-10 18:56:56+00:00
+41,Consistency Is Not Always Correct: Towards Understanding the Role of Exploration in Post-Training Reasoning,2511.07368,http://arxiv.org/abs/2511.07368v1,2025-11-10 18:25:26+00:00
+42,When Bias Pretends to Be Truth: How Spurious Correlations Undermine Hallucination Detection in LLMs,2511.07318,http://arxiv.org/abs/2511.07318v1,2025-11-10 17:19:27+00:00
+43,Superhuman AI for Stratego Using Self-Play Reinforcement Learning and Test-Time Search,2511.07312,http://arxiv.org/abs/2511.07312v1,2025-11-10 17:13:41+00:00
+44,Verifying rich robustness properties for neural networks,2511.07293,http://arxiv.org/abs/2511.07293v1,2025-11-10 16:43:02+00:00
+45,Evaluating Online Moderation Via LLM-Powered Counterfactual Simulations,2511.07204,http://arxiv.org/abs/2511.07204v1,2025-11-10 15:31:59+00:00
+46,Fluence Map Prediction with Deep Learning: A Transformer-based Approach,2511.08645,http://arxiv.org/abs/2511.08645v1,2025-11-10 19:24:14+00:00
+47,Energy Consumption of Dataframe Libraries for End-to-End Deep Learning Pipelines:A Comparative Analysis,2511.08644,http://arxiv.org/abs/2511.08644v1,2025-11-10 19:06:00+00:00
+48,Predict and Resist: Long-Term Accident Anticipation under Sensor Noise,2511.08640,http://arxiv.org/abs/2511.08640v1,2025-11-10 11:41:43+00:00
+49,Resilient by Design -- Active Inference for Distributed Continuum Intelligence,2511.07202,http://arxiv.org/abs/2511.07202v1,2025-11-10 15:30:44+00:00
+50,Transformers Provably Learn Chain-of-Thought Reasoning with Length Generalization,2511.07378,http://arxiv.org/abs/2511.07378v1,2025-11-10 18:40:24+00:00
+51,Proceedings of the 2025 XCSP3 Competition,2511.06918,http://arxiv.org/abs/2511.06918v1,2025-11-10 10:12:04+00:00
+52,Sampling and Loss Weights in Multi-Domain Training,2511.06913,http://arxiv.org/abs/2511.06913v1,2025-11-10 10:08:53+00:00
+53,A Self-Improving Architecture for Dynamic Safety in Large Language Models,2511.07645,http://arxiv.org/abs/2511.07645v1,2025-11-10 21:39:40+00:00
+54,LLM Output Drift: Cross-Provider Validation & Mitigation for Financial Workflows,2511.07585,http://arxiv.org/abs/2511.07585v1,2025-11-10 19:54:00+00:00
+55,Procedural Knowledge Improves Agentic LLM Workflows,2511.07568,http://arxiv.org/abs/2511.07568v1,2025-11-10 19:27:57+00:00
+56,Active Learning for Animal Re-Identification with Ambiguity-Aware Sampling,2511.06658,http://arxiv.org/abs/2511.06658v2,2025-11-10 03:13:40+00:00
+57,Saliency Map-Guided Knowledge Discovery for Subclass Identification with LLM-Based Symbolic Approximations,2511.07126,http://arxiv.org/abs/2511.07126v1,2025-11-10 14:11:49+00:00
+58,Diagnosing and Breaking Amplitude Suppression in Seismic Phase Picking Through Adversarial Shape Learning,2511.06731,http://arxiv.org/abs/2511.06731v1,2025-11-10 05:52:43+00:00
+59,MVU-Eval: Towards Multi-Video Understanding Evaluation for Multimodal LLMs,2511.07250,http://arxiv.org/abs/2511.07250v2,2025-11-10 16:02:33+00:00
+60,Sim4Seg: Boosting Multimodal Multi-disease Medical Diagnosis Segmentation with Region-Aware Vision-Language Similarity Masks,2511.06665,http://arxiv.org/abs/2511.06665v1,2025-11-10 03:22:42+00:00
+61,CaberNet: Causal Representation Learning for Cross-Domain HVAC Energy Prediction,2511.06634,http://arxiv.org/abs/2511.06634v1,2025-11-10 02:21:43+00:00
+62,Pedagogical Reflections on the Holistic Cognitive Development (HCD) Framework and AI-Augmented Learning in Creative Computing,2511.06779,http://arxiv.org/abs/2511.06779v1,2025-11-10 07:07:37+00:00
+63,GEWDiff: Geometric Enhanced Wavelet-based Diffusion Model for Hyperspectral Image Super-resolution,2511.07103,http://arxiv.org/abs/2511.07103v1,2025-11-10 13:44:16+00:00
+64,Data Complexity of Querying Description Logic Knowledge Bases under Cost-Based Semantics,2511.07095,http://arxiv.org/abs/2511.07095v1,2025-11-10 13:34:24+00:00
+65,Language Generation with Infinite Contamination,2511.07417,http://arxiv.org/abs/2511.07417v1,2025-11-10 18:59:39+00:00
+66,Explainable Cross-Disease Reasoning for Cardiovascular Risk Assessment from LDCT,2511.06625,http://arxiv.org/abs/2511.06625v2,2025-11-10 02:04:46+00:00
+67,Counterfactual Explanation for Multivariate Time Series Forecasting with Exogenous Variables,2511.06906,http://arxiv.org/abs/2511.06906v1,2025-11-10 10:00:28+00:00
+68,RPTS: Tree-Structured Reasoning Process Scoring for Faithful Multimodal Evaluation,2511.06899,http://arxiv.org/abs/2511.06899v1,2025-11-10 09:48:07+00:00
+69,COGNOS: Universal Enhancement for Time Series Anomaly Detection via Constrained Gaussian-Noise Optimization and Smoothing,2511.06894,http://arxiv.org/abs/2511.06894v1,2025-11-10 09:43:48+00:00
+70,DeepBooTS: Dual-Stream Residual Boosting for Drift-Resilient Time-Series Forecasting,2511.06893,http://arxiv.org/abs/2511.06893v1,2025-11-10 09:43:47+00:00
+71,Controllable Flow Matching for Online Reinforcement Learning,2511.06816,http://arxiv.org/abs/2511.06816v1,2025-11-10 08:01:20+00:00
+72,AgentSUMO: An Agentic Framework for Interactive Simulation Scenario Generation in SUMO via Large Language Models,2511.06804,http://arxiv.org/abs/2511.06804v1,2025-11-10 07:46:12+00:00
+73,Cross-Modal Unlearning via Influential Neuron Path Editing in Multimodal Large Language Models,2511.06793,http://arxiv.org/abs/2511.06793v1,2025-11-10 07:31:20+00:00
+74,Implicit Federated In-context Learning For Task-Specific LLM Fine-Tuning,2511.06757,http://arxiv.org/abs/2511.06757v1,2025-11-10 06:34:29+00:00
+75,Revisiting the Data Sampling in Multimodal Post-training from a Difficulty-Distinguish View,2511.06722,http://arxiv.org/abs/2511.06722v1,2025-11-10 05:31:59+00:00
+76,"Sensor Calibration Model Balancing Accuracy, Real-time, and Efficiency",2511.06715,http://arxiv.org/abs/2511.06715v1,2025-11-10 05:16:20+00:00
+77,Textual Self-attention Network: Test-Time Preference Optimization through Textual Gradient-based Attention,2511.06682,http://arxiv.org/abs/2511.06682v1,2025-11-10 04:01:46+00:00
+78,Conditional Diffusion as Latent Constraints for Controllable Symbolic Music Generation,2511.07156,http://arxiv.org/abs/2511.07156v1,2025-11-10 14:46:10+00:00
+79,Sample-efficient quantum error mitigation via classical learning surrogates,2511.07092,http://arxiv.org/abs/2511.07092v1,2025-11-10 13:29:29+00:00
+80,How Bias Binds: Measuring Hidden Associations for Bias Control in Text-to-Image Compositions,2511.07091,http://arxiv.org/abs/2511.07091v1,2025-11-10 13:27:05+00:00
+81,TrueCity: Real and Simulated Urban Data for Cross-Domain 3D Scene Understanding,2511.07007,http://arxiv.org/abs/2511.07007v1,2025-11-10 11:57:50+00:00
+82,Hybrid Autoencoders for Tabular Data: Leveraging Model-Based Augmentation in Low-Label Settings,2511.06961,http://arxiv.org/abs/2511.06961v1,2025-11-10 11:08:39+00:00
+83,FoCLIP: A Feature-Space Misalignment Framework for CLIP-Based Image Manipulation and Detection,2511.06947,http://arxiv.org/abs/2511.06947v1,2025-11-10 10:54:35+00:00
+84,From Attribution to Action: Jointly ALIGNing Predictions and Explanations,2511.06944,http://arxiv.org/abs/2511.06944v1,2025-11-10 10:52:17+00:00
+85,SpatialThinker: Reinforcing 3D Reasoning in Multimodal LLMs via Spatial Rewards,2511.07403,http://arxiv.org/abs/2511.07403v1,2025-11-10 18:52:47+00:00
+86,Real-Time LiDAR Super-Resolution via Frequency-Aware Multi-Scale Fusion,2511.07377,http://arxiv.org/abs/2511.07377v1,2025-11-10 18:38:15+00:00
+87,Self-Evaluating LLMs for Multi-Step Tasks: Stepwise Confidence Estimation for Failure Detection,2511.07364,http://arxiv.org/abs/2511.07364v1,2025-11-10 18:19:51+00:00
+88,Discourse Graph Guided Document Translation with Large Language Models,2511.07230,http://arxiv.org/abs/2511.07230v1,2025-11-10 15:48:01+00:00
+89,NoteEx: Interactive Visual Context Manipulation for LLM-Assisted Exploratory Data Analysis in Computational Notebooks,2511.07223,http://arxiv.org/abs/2511.07223v1,2025-11-10 15:44:55+00:00
+90,"Twenty-Five Years of MIR Research: Achievements, Practices, Evaluations, and Future Challenges",2511.07205,http://arxiv.org/abs/2511.07205v1,2025-11-10 15:32:23+00:00
+91,"FinRpt: Dataset, Evaluation System and LLM-based Multi-agent Framework for Equity Research Report Generation",2511.07322,http://arxiv.org/abs/2511.07322v2,2025-11-10 17:22:32+00:00
+92,Hard vs. Noise: Resolving Hard-Noisy Sample Confusion in Recommender Systems via Large Language Models,2511.07295,http://arxiv.org/abs/2511.07295v2,2025-11-10 16:51:03+00:00
+93,Spilling the Beans: Teaching LLMs to Self-Report Their Hidden Objectives,2511.06626,http://arxiv.org/abs/2511.06626v2,2025-11-10 02:09:44+00:00
+94,Towards AI-Assisted Generation of Military Training Scenarios,2511.07690,http://arxiv.org/abs/2511.07690v1,2025-11-10 23:24:35+00:00
+95,AIA Forecaster: Technical Report,2511.07678,http://arxiv.org/abs/2511.07678v1,2025-11-10 22:45:07+00:00
+96,Speech Separation for Hearing-Impaired Children in the Classroom,2511.07677,http://arxiv.org/abs/2511.07677v1,2025-11-10 22:44:28+00:00
+97,Cortex AISQL: A Production SQL Engine for Unstructured Data,2511.07663,http://arxiv.org/abs/2511.07663v1,2025-11-10 22:14:13+00:00
+98,DeepPersona: A Generative Engine for Scaling Deep Synthetic Personas,2511.07338,http://arxiv.org/abs/2511.07338v2,2025-11-10 17:37:56+00:00
+99,FractalCloud: A Fractal-Inspired Architecture for Efficient Large-Scale Point Cloud Processing,2511.07665,http://arxiv.org/abs/2511.07665v1,2025-11-10 22:19:37+00:00
