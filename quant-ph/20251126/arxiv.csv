@@ -1,0 +1,50 @@
+,title,id,arxiv_url,published
+0,Efficient quantum state preparation of multivariate functions using tensor networks,2511.15674,http://arxiv.org/abs/2511.15674v1,2025-11-19 18:18:27+00:00
+1,Real-time Scattering in φ^4 Theory using Matrix Product States,2511.15697,http://arxiv.org/abs/2511.15697v1,2025-11-19 18:55:00+00:00
+2,Work-minimizing protocols in driven-dissipative quantum systems: An impulse-ansatz approach,2511.15084,http://arxiv.org/abs/2511.15084v1,2025-11-19 03:49:17+00:00
+3,Design and Optimization of Adaptive Diversity Schemes in Quantum MIMO Channels,2511.15563,http://arxiv.org/abs/2511.15563v1,2025-11-19 15:58:10+00:00
+4,Stochastic unravelings for trace-nonpreserving open quantum system dynamics,2511.15516,http://arxiv.org/abs/2511.15516v1,2025-11-19 15:10:27+00:00
+5,Bell Inequality Violation with Vacuum-One-Photon Number Superposition States,2511.15413,http://arxiv.org/abs/2511.15413v1,2025-11-19 13:12:55+00:00
+6,Reversing Quantum Noise: Quantum Reverse Diffusion for Pauli Channels,2511.15919,http://arxiv.org/abs/2511.15919v1,2025-11-19 22:57:38+00:00
+7,Nonclassicality of a Macroscopic Qubit-Ensemble via Parity Measurement Induced Disturbance,2511.15880,http://arxiv.org/abs/2511.15880v1,2025-11-19 21:15:54+00:00
+8,Floquet Bosonic Kitaev Chain,2511.15804,http://arxiv.org/abs/2511.15804v1,2025-11-19 19:00:58+00:00
+9,Parity anomalies in 2+1-dimensional Aharonov-Bohm type configurations,2511.15765,http://arxiv.org/abs/2511.15765v1,2025-11-19 15:51:13+00:00
+10,QTIS: A QAOA-Based Quantum Time Interval Scheduler,2511.15590,http://arxiv.org/abs/2511.15590v1,2025-11-19 16:29:14+00:00
+11,Axiomatising the dagger category of complex Hilbert spaces,2511.15410,http://arxiv.org/abs/2511.15410v2,2025-11-19 13:07:16+00:00
+12,Navigating Quantum Missteps in Agent-Based Modeling: A Schelling Model Case Study,2511.15642,http://arxiv.org/abs/2511.15642v1,2025-11-19 17:24:43+00:00
+13,Tensor-network approach to quantum optical state evolution beyond the Fock basis,2511.15295,http://arxiv.org/abs/2511.15295v2,2025-11-19 09:58:18+00:00
+14,Overview of Routing Approaches in Quantum Key Distribution Networks,2511.15465,http://arxiv.org/abs/2511.15465v1,2025-11-19 14:24:15+00:00
+15,Fidelity-Preserving Quantum Encoding for Quantum Neural Networks,2511.15363,http://arxiv.org/abs/2511.15363v1,2025-11-19 11:44:39+00:00
+16,Gleason's Theorem for a Qubit as Part of a Composite System,2511.15607,http://arxiv.org/abs/2511.15607v1,2025-11-19 16:53:58+00:00
+17,Calibration of single-photon cameras using radioluminescent light sources,2511.15302,http://arxiv.org/abs/2511.15302v1,2025-11-19 10:13:26+00:00
+18,Intelligent Inverse Design of Multi-Layer Metasurface Cavities for Dual Resonance Enhancement of Nanodiamond Single Photon Emitters,2511.15170,http://arxiv.org/abs/2511.15170v1,2025-11-19 06:48:40+00:00
+19,Generation of 10-dB squeezed light from a broadband waveguide optical parametric amplifier with improved phase locking method,2511.15082,http://arxiv.org/abs/2511.15082v2,2025-11-19 03:43:44+00:00
+20,Automorphism in Gauge Theories: Higher Symmetries and Transversal Non-Clifford Logical Gates,2511.15783,http://arxiv.org/abs/2511.15783v1,2025-11-19 19:00:00+00:00
+21,Mixed state tomography reduces to pure state tomography,2511.15806,http://arxiv.org/abs/2511.15806v1,2025-11-19 19:01:11+00:00
+22,Experimental demonstration of non-local magic in a superconducting quantum processor,2511.15576,http://arxiv.org/abs/2511.15576v1,2025-11-19 16:08:03+00:00
+23,Exponential Suppression of Transport in Electric Quantum Walks,2511.15664,http://arxiv.org/abs/2511.15664v1,2025-11-19 18:00:18+00:00
+24,Time series learning in a many-body Rydberg system with emergent collective nonlinearity,2511.15047,http://arxiv.org/abs/2511.15047v1,2025-11-19 02:38:04+00:00
+25,Quantum measurement tomography with mini-batch stochastic gradient descent,2511.15682,http://arxiv.org/abs/2511.15682v1,2025-11-19 18:30:15+00:00
+26,Relativistic Covariance and Nonlinear Quantum Mechanics: Tomonaga-Schwinger Analysis,2511.15935,http://arxiv.org/abs/2511.15935v1,2025-11-19 23:56:32+00:00
+27,Generation of spin-squeezed states using dipole-coupled spins,2511.15931,http://arxiv.org/abs/2511.15931v1,2025-11-19 23:45:01+00:00
+28,k-Uniform complete hypergraph states stabilizers in terms of local operators,2511.15911,http://arxiv.org/abs/2511.15911v1,2025-11-19 22:30:31+00:00
+29,Constraint-preserving quantum algorithm for the multi-frequency antenna placement problem,2511.15566,http://arxiv.org/abs/2511.15566v1,2025-11-19 15:59:20+00:00
+30,Thermalizing channel states for rapid qubit heating,2511.15314,http://arxiv.org/abs/2511.15314v1,2025-11-19 10:26:58+00:00
+31,Note on Logical Gates by Gauge Field Formalism of Quantum Error Correction,2511.15224,http://arxiv.org/abs/2511.15224v1,2025-11-19 08:23:50+00:00
+32,QSentry: Backdoor Detection for Quantum Neural Networks via Measurement Clustering,2511.15376,http://arxiv.org/abs/2511.15376v1,2025-11-19 12:08:11+00:00
+33,"Characterizing entanglement at finite temperature: how does a ""classical"" paramagnet become a quantum spin liquid?",2511.15144,http://arxiv.org/abs/2511.15144v1,2025-11-19 05:50:11+00:00
+34,Topological Quantum Transducers in a Hybrid Rydberg Atom System,2511.15439,http://arxiv.org/abs/2511.15439v1,2025-11-19 13:56:33+00:00
+35,Explicit Connections Between Krylov and Nielsen Complexity,2511.15799,http://arxiv.org/abs/2511.15799v1,2025-11-19 19:00:07+00:00
+36,"How ""Quantum"" is your Quantum Computer? Macrorealism-based Benchmarking via Mid-Circuit Parity Measurements",2511.15881,http://arxiv.org/abs/2511.15881v1,2025-11-19 21:15:54+00:00
+37,Quantum-Assisted Graph Domination Games,2511.15802,http://arxiv.org/abs/2511.15802v1,2025-11-19 19:00:08+00:00
+38,The impact of multimode sources on DLCZ type quantum repeaters,2511.15591,http://arxiv.org/abs/2511.15591v1,2025-11-19 16:31:13+00:00
+39,Optomechanical disk resonator in the quantum ground state of motion,2511.15492,http://arxiv.org/abs/2511.15492v1,2025-11-19 14:48:07+00:00
+40,Refraction Hall Effect,2511.15337,http://arxiv.org/abs/2511.15337v1,2025-11-19 10:57:16+00:00
+41,"QADR: A Scalable, Quantum-Resistant Protocol for Anonymous Data Reporting",2511.15272,http://arxiv.org/abs/2511.15272v1,2025-11-19 09:37:19+00:00
+42,Vehicle Routing Problems via Quantum Graph Attention Network Deep Reinforcement Learning,2511.15175,http://arxiv.org/abs/2511.15175v1,2025-11-19 06:54:38+00:00
+43,Radial Fast Entangling Gates Under Micromotion in Trapped-Ion Quantum Computers,2511.15148,http://arxiv.org/abs/2511.15148v1,2025-11-19 06:05:31+00:00
+44,Beyond Trotterization: Variational Product Formulas for Quantum Simulation,2511.15124,http://arxiv.org/abs/2511.15124v1,2025-11-19 05:03:15+00:00
+45,Fail fast: techniques to probe rare events in quantum error correction,2511.15177,http://arxiv.org/abs/2511.15177v1,2025-11-19 06:57:29+00:00
+46,Cyclone: Designing Efficient and Highly Parallel QCCD Architectural Codesigns for Fault Tolerant Quantum Memory,2511.15910,http://arxiv.org/abs/2511.15910v1,2025-11-19 22:26:21+00:00
+47,Inhomogeneous SSH models and the doubling of orthogonal polynomials,2511.15527,http://arxiv.org/abs/2511.15527v1,2025-11-19 15:23:37+00:00
+48,Engineering multi-mode bosonic squeezed states using Monte-Carlo optimization,2511.15805,http://arxiv.org/abs/2511.15805v1,2025-11-19 19:01:02+00:00
