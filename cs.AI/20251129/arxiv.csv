@@ -1,0 +1,64 @@
+,title,id,arxiv_url,published
+0,Enhancing Large Language Models for Automated Homework Assessment in Undergraduate Circuit Analysis,2511.18221,http://arxiv.org/abs/2511.18221v1,2025-11-22 23:43:00+00:00
+1,The Workflow as Medium: A Framework for Navigating Human-AI Co-Creation,2511.18182,http://arxiv.org/abs/2511.18182v1,2025-11-22 20:36:13+00:00
+2,UnfoldLDM: Deep Unfolding-based Blind Image Restoration with Latent Diffusion Priors,2511.18152,http://arxiv.org/abs/2511.18152v1,2025-11-22 18:44:01+00:00
+3,A New Error Temporal Difference Algorithm for Deep Reinforcement Learning in Microgrid Optimization,2511.18093,http://arxiv.org/abs/2511.18093v1,2025-11-22 15:29:18+00:00
+4,Fidelity-Aware Recommendation Explanations via Stochastic Path Integration,2511.18047,http://arxiv.org/abs/2511.18047v1,2025-11-22 12:59:04+00:00
+5,Modeling Retinal Ganglion Cells with Neural Differential Equations,2511.18014,http://arxiv.org/abs/2511.18014v1,2025-11-22 10:28:36+00:00
+6,Rectifying Soft-Label Entangled Bias in Long-Tailed Dataset Distillation,2511.17914,http://arxiv.org/abs/2511.17914v1,2025-11-22 04:37:27+00:00
+7,Decoupled Audio-Visual Dataset Distillation,2511.17890,http://arxiv.org/abs/2511.17890v1,2025-11-22 02:36:50+00:00
+8,A superpersuasive autonomous policy debating system,2511.17854,http://arxiv.org/abs/2511.17854v1,2025-11-22 00:45:01+00:00
+9,Quantifying Modality Contributions via Disentangling Multimodal Representations,2511.19470,http://arxiv.org/abs/2511.19470v1,2025-11-22 05:02:58+00:00
+10,Tracking and Segmenting Anything in Any Modality,2511.19475,http://arxiv.org/abs/2511.19475v1,2025-11-22 09:09:22+00:00
+11,A Novel and Practical Universal Adversarial Perturbations against Deep Reinforcement Learning based Intrusion Detection Systems,2511.18223,http://arxiv.org/abs/2511.18223v1,2025-11-22 23:52:01+00:00
+12,Graph Neural Networks vs Convolutional Neural Networks for Graph Domination Number Prediction,2511.18150,http://arxiv.org/abs/2511.18150v1,2025-11-22 18:34:32+00:00
+13,"Bias Is a Subspace, Not a Coordinate: A Geometric Rethinking of Post-hoc Debiasing in Vision-Language Models",2511.18123,http://arxiv.org/abs/2511.18123v1,2025-11-22 17:04:30+00:00
+14,Diffusion-based Surrogate Model for Time-varying Underwater Acoustic Channels,2511.18078,http://arxiv.org/abs/2511.18078v1,2025-11-22 14:25:21+00:00
+15,Privacy Auditing of Multi-domain Graph Pre-trained Model under Membership Inference Attacks,2511.17989,http://arxiv.org/abs/2511.17989v1,2025-11-22 09:04:58+00:00
+16,Escaping Optimization Stagnation: Taking Steps Beyond Task Arithmetic via Difference Vectors,2511.17987,http://arxiv.org/abs/2511.17987v1,2025-11-22 09:01:05+00:00
+17,Leveraging Evidence-Guided LLMs to Enhance Trustworthy Depression Diagnosis,2511.17947,http://arxiv.org/abs/2511.17947v1,2025-11-22 07:08:23+00:00
+18,Measuring the Impact of Lexical Training Data Coverage on Hallucination Detection in Large Language Models,2511.17946,http://arxiv.org/abs/2511.17946v1,2025-11-22 06:59:55+00:00
+19,ChemVTS-Bench: Evaluating Visual-Textual-Symbolic Reasoning of Multimodal Large Language Models in Chemistry,2511.17909,http://arxiv.org/abs/2511.17909v1,2025-11-22 04:24:24+00:00
+20,MEDIC: a network for monitoring data quality in collider experiments,2511.18172,http://arxiv.org/abs/2511.18172v1,2025-11-22 19:53:24+00:00
+21,Continually Evolving Skill Knowledge in Vision Language Action Model,2511.18085,http://arxiv.org/abs/2511.18085v2,2025-11-22 15:00:08+00:00
+22,FAST: Topology-Aware Frequency-Domain Distribution Matching for Coreset Selection,2511.19476,http://arxiv.org/abs/2511.19476v1,2025-11-22 09:24:57+00:00
+23,Towards a General Framework for HTN Modeling with LLMs,2511.18165,http://arxiv.org/abs/2511.18165v1,2025-11-22 19:27:35+00:00
+24,VCU-Bridge: Hierarchical Visual Connotation Understanding via Semantic Bridging,2511.18121,http://arxiv.org/abs/2511.18121v1,2025-11-22 17:01:03+00:00
+25,MASTEST: A LLM-Based Multi-Agent System For RESTful API Tests,2511.18038,http://arxiv.org/abs/2511.18038v1,2025-11-22 12:33:13+00:00
+26,Extracting Interaction-Aware Monosemantic Concepts in Recommender Systems,2511.18024,http://arxiv.org/abs/2511.18024v1,2025-11-22 11:27:32+00:00
+27,Neural Graph Navigation for Intelligent Subgraph Matching,2511.17939,http://arxiv.org/abs/2511.17939v1,2025-11-22 06:40:46+00:00
+28,Alignment Faking - the Train -> Deploy Asymmetry: Through a Game-Theoretic Lens with Bayesian-Stackelberg Equilibria,2511.17937,http://arxiv.org/abs/2511.17937v1,2025-11-22 06:30:51+00:00
+29,AnimAgents: Coordinating Multi-Stage Animation Pre-Production with Human-Multi-Agent Collaboration,2511.17906,http://arxiv.org/abs/2511.17906v1,2025-11-22 04:03:32+00:00
+30,Statistically-Guided Dual-Domain Meta-Learning with Adaptive Multi-Prototype Aggregation for Distributed Fiber Optic Sensing,2511.17902,http://arxiv.org/abs/2511.17902v1,2025-11-22 03:39:13+00:00
+31,Training Emergent Joint Associations: A Reinforcement Learning Approach to Creative Thinking in Language Models,2511.17876,http://arxiv.org/abs/2511.17876v1,2025-11-22 02:10:27+00:00
+32,QuickLAP: Quick Language-Action Preference Learning for Autonomous Driving Agents,2511.17855,http://arxiv.org/abs/2511.17855v1,2025-11-22 00:45:33+00:00
+33,Exploiting the Experts: Unauthorized Compression in MoE-LLMs,2511.19480,http://arxiv.org/abs/2511.19480v1,2025-11-22 20:08:29+00:00
+34,WavefrontDiffusion: Dynamic Decoding Schedule or Improved Reasoning,2511.19473,http://arxiv.org/abs/2511.19473v1,2025-11-22 07:33:00+00:00
+35,Not Quite Anything: Overcoming SAMs Limitations for 3D Medical Imaging,2511.19471,http://arxiv.org/abs/2511.19471v1,2025-11-22 05:29:27+00:00
+36,How Far Can LLMs Emulate Human Behavior?: A Strategic Analysis via the Buy-and-Sell Negotiation Game,2511.17990,http://arxiv.org/abs/2511.17990v1,2025-11-22 09:07:29+00:00
+37,Plan-X: Instruct Video Generation via Semantic Planning,2511.17986,http://arxiv.org/abs/2511.17986v1,2025-11-22 08:59:09+00:00
+38,"Towards Effective, Stealthy, and Persistent Backdoor Attacks Targeting Graph Foundation Models",2511.17982,http://arxiv.org/abs/2511.17982v1,2025-11-22 08:52:09+00:00
+39,VITAL: Vision-Encoder-centered Pre-training for LMMs in Visual Quality Assessment,2511.17962,http://arxiv.org/abs/2511.17962v1,2025-11-22 07:55:21+00:00
+40,Towards Automating Data Access Permissions in AI Agents,2511.17959,http://arxiv.org/abs/2511.17959v1,2025-11-22 07:50:43+00:00
+41,MambaTAD: When State-Space Models Meet Long-Range Temporal Action Detection,2511.17929,http://arxiv.org/abs/2511.17929v1,2025-11-22 06:04:29+00:00
+42,Towards Efficient LLM-aware Heterogeneous Graph Learning,2511.17923,http://arxiv.org/abs/2511.17923v1,2025-11-22 05:38:03+00:00
+43,Principled Context Engineering for RAG: Statistical Guarantees via Conformal Prediction,2511.17908,http://arxiv.org/abs/2511.17908v1,2025-11-22 04:17:06+00:00
+44,ARIAL: An Agentic Framework for Document VQA with Precise Answer Localization,2511.18192,http://arxiv.org/abs/2511.18192v1,2025-11-22 21:09:28+00:00
+45,MOMA-AC: A preference-driven actor-critic framework for continuous multi-objective multi-agent reinforcement learning,2511.18181,http://arxiv.org/abs/2511.18181v1,2025-11-22 20:24:51+00:00
+46,Nested Unfolding Network for Real-World Concealed Object Segmentation,2511.18164,http://arxiv.org/abs/2511.18164v1,2025-11-22 19:25:48+00:00
+47,Paper2SysArch: Structure-Constrained System Architecture Generation from Scientific Papers,2511.18036,http://arxiv.org/abs/2511.18036v1,2025-11-22 12:24:30+00:00
+48,Hierarchical biomarker thresholding: a model-agnostic framework for stability,2511.18030,http://arxiv.org/abs/2511.18030v1,2025-11-22 11:46:26+00:00
+49,"Save, Revisit, Retain: A Scalable Framework for Enhancing User Retention in Large-Scale Recommender Systems",2511.18013,http://arxiv.org/abs/2511.18013v1,2025-11-22 10:27:20+00:00
+50,SCALER: SAM-Enhanced Collaborative Learning for Label-Deficient Concealed Object Segmentation,2511.18136,http://arxiv.org/abs/2511.18136v1,2025-11-22 17:48:17+00:00
+51,The Alignment Paradox of Medical Large Language Models in Infertility Care: Decoupling Algorithmic Improvement from Clinical Decision-making Quality,2511.18084,http://arxiv.org/abs/2511.18084v1,2025-11-22 14:48:54+00:00
+52,Reinforcement Learning for Portfolio Optimization with a Financial Goal and Defined Time Horizons,2511.18076,http://arxiv.org/abs/2511.18076v1,2025-11-22 14:21:06+00:00
+53,IE-Critic-R1: Advancing the Explanatory Measurement of Text-Driven Image Editing for Human Perception Alignment,2511.18055,http://arxiv.org/abs/2511.18055v1,2025-11-22 13:16:58+00:00
+54,Hybrid LSTM and PPO Networks for Dynamic Portfolio Optimization,2511.17963,http://arxiv.org/abs/2511.17963v1,2025-11-22 07:57:03+00:00
+55,PA-FAS: Towards Interpretable and Generalizable Multimodal Face Anti-Spoofing via Path-Augmented Reinforcement Learning,2511.17927,http://arxiv.org/abs/2511.17927v1,2025-11-22 05:55:08+00:00
+56,MGA-VQA: Secure and Interpretable Graph-Augmented Visual Question Answering with Memory-Guided Protection Against Unauthorized Knowledge Use,2511.17881,http://arxiv.org/abs/2511.17881v1,2025-11-22 02:17:42+00:00
+57,A Low-Code Methodology for Developing AI Kiosks: a Case Study with the DIZEST Platform,2511.17853,http://arxiv.org/abs/2511.17853v1,2025-11-22 00:40:02+00:00
+58,Reward Engineering for Spatial Epidemic Simulations: A Reinforcement Learning Platform for Individual Behavioral Learning,2511.18000,http://arxiv.org/abs/2511.18000v1,2025-11-22 10:02:37+00:00
+59,BPMN to PDDL: Translating Business Workflows for AI Planning,2511.18171,http://arxiv.org/abs/2511.18171v1,2025-11-22 19:51:23+00:00
+60,Comprehensive Design Space Exploration for Tensorized Neural Network Hardware Accelerators,2511.17971,http://arxiv.org/abs/2511.17971v2,2025-11-22 08:18:40+00:00
+61,"Pistachio: Towards Synthetic, Balanced, and Long-Form Video Anomaly Benchmarks",2511.19474,http://arxiv.org/abs/2511.19474v2,2025-11-22 07:37:21+00:00
+62,PrefixGPT: Prefix Adder Optimization by a Generative Pre-trained Transformer,2511.19472,http://arxiv.org/abs/2511.19472v2,2025-11-22 06:43:43+00:00
