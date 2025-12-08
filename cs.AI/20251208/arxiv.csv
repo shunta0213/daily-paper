@@ -1,0 +1,101 @@
+,title,id,arxiv_url,published
+0,Dynamic Correction of Erroneous State Estimates via Diffusion Bayesian Exploration,2512.03102,http://arxiv.org/abs/2512.03102v1,2025-12-01 22:08:26+00:00
+1,Ensemble Privacy Defense for Knowledge-Intensive LLMs against Membership Inference Attacks,2512.03100,http://arxiv.org/abs/2512.03100v1,2025-12-01 18:12:18+00:00
+2,Community Quality and Influence Maximization: An Empirical Study,2512.03095,http://arxiv.org/abs/2512.03095v1,2025-12-01 09:59:04+00:00
+3,Graph Distance as Surprise: Free Energy Minimization in Knowledge Graph Reasoning,2512.01878,http://arxiv.org/abs/2512.01878v1,2025-12-01 16:59:28+00:00
+4,Cross-Lingual Interleaving for Speech Language Models,2512.01865,http://arxiv.org/abs/2512.01865v1,2025-12-01 16:48:05+00:00
+5,Mitigating Gender Bias in Depression Detection via Counterfactual Inference,2512.01834,http://arxiv.org/abs/2512.01834v1,2025-12-01 16:14:20+00:00
+6,From Black Hole to Galaxy: Neural Operator: Framework for Accretion and Feedback Dynamics,2512.01576,http://arxiv.org/abs/2512.01576v1,2025-12-01 11:47:49+00:00
+7,LEC: Linear Expectation Constraints for False-Discovery Control in Selective Prediction and Routing Systems,2512.01556,http://arxiv.org/abs/2512.01556v1,2025-12-01 11:27:09+00:00
+8,LPCD: Unified Framework from Layer-Wise to Submodule Quantization,2512.01546,http://arxiv.org/abs/2512.01546v1,2025-12-01 11:21:18+00:00
+9,Deep Unsupervised Anomaly Detection in Brain Imaging: Large-Scale Benchmarking and Bias Analysis,2512.01534,http://arxiv.org/abs/2512.01534v1,2025-12-01 11:03:27+00:00
+10,Formal Verification of Noisy Quantum Reinforcement Learning Policies,2512.01502,http://arxiv.org/abs/2512.01502v1,2025-12-01 10:26:33+00:00
+11,PSA-MF: Personality-Sentiment Aligned Multi-Level Fusion for Multimodal Sentiment Analysis,2512.01442,http://arxiv.org/abs/2512.01442v1,2025-12-01 09:24:59+00:00
+12,Tangram: Accelerating Serverless LLM Loading through GPU Memory Reuse and Affinity,2512.01357,http://arxiv.org/abs/2512.01357v1,2025-12-01 07:10:34+00:00
+13,EmoRAG: Evaluating RAG Robustness to Symbolic Perturbations,2512.01335,http://arxiv.org/abs/2512.01335v1,2025-12-01 06:53:49+00:00
+14,Data-Driven Learnability Transition of Measurement-Induced Entanglement,2512.01317,http://arxiv.org/abs/2512.01317v1,2025-12-01 06:18:08+00:00
+15,Accelerating Large-Scale Reasoning Model Inference with Sparse Self-Speculative Decoding,2512.01278,http://arxiv.org/abs/2512.01278v1,2025-12-01 04:50:55+00:00
+16,SUPERChem: A Multimodal Reasoning Benchmark in Chemistry,2512.01274,http://arxiv.org/abs/2512.01274v1,2025-12-01 04:46:35+00:00
+17,Sentiment Analysis and Emotion Classification using Machine Learning Techniques for Nagamese Language - A Low-resource Language,2512.01256,http://arxiv.org/abs/2512.01256v1,2025-12-01 04:01:29+00:00
+18,Generative Adversarial Gumbel MCTS for Abstract Visual Composition Generation,2512.01242,http://arxiv.org/abs/2512.01242v1,2025-12-01 03:38:44+00:00
+19,"First, do NOHARM: towards clinically safe large language models",2512.01241,http://arxiv.org/abs/2512.01241v1,2025-12-01 03:33:16+00:00
+20,Unsupervised decoding of encoded reasoning using language model interpretability,2512.01222,http://arxiv.org/abs/2512.01222v1,2025-12-01 03:05:20+00:00
+21,Neural Network Optimal Power Flow via Energy Gradient Flow and Unified Dynamics,2512.01219,http://arxiv.org/abs/2512.01219v1,2025-12-01 02:59:47+00:00
+22,"Do Large Language Models Walk Their Talk? Measuring the Gap Between Implicit Associations, Self-Report, and Behavioral Altruism",2512.01568,http://arxiv.org/abs/2512.01568v1,2025-12-01 11:43:02+00:00
+23,Diffusion Model in Latent Space for Medical Image Segmentation Task,2512.01292,http://arxiv.org/abs/2512.01292v2,2025-12-01 05:26:43+00:00
+24,DialogGuard: Multi-Agent Psychosocial Safety Evaluation of Sensitive LLM Responses,2512.02282,http://arxiv.org/abs/2512.02282v1,2025-12-01 23:53:45+00:00
+25,Flowchart2Mermaid: A Vision-Language Model Powered System for Converting Flowcharts into Editable Diagram Code,2512.02170,http://arxiv.org/abs/2512.02170v2,2025-12-01 20:07:59+00:00
+26,ZIP-RC: Optimizing Test-Time Compute via Zero-Overhead Joint Reward-Cost Prediction,2512.01457,http://arxiv.org/abs/2512.01457v2,2025-12-01 09:44:31+00:00
+27,Stabilizing Reinforcement Learning with LLMs: Formulation and Practices,2512.01374,http://arxiv.org/abs/2512.01374v3,2025-12-01 07:45:39+00:00
+28,AI-Enabled grading with near-domain data for scaling feedback with human-level accuracy,2512.04113,http://arxiv.org/abs/2512.04113v1,2025-12-01 05:11:37+00:00
+29,Open-Set Domain Adaptation Under Background Distribution Shift: Challenges and A Provably Efficient Solution,2512.01152,http://arxiv.org/abs/2512.01152v2,2025-12-01 00:08:18+00:00
+30,S$^2$-MLLM: Boosting Spatial Reasoning Capability of MLLMs for 3D Visual Grounding with Structural Guidance,2512.01223,http://arxiv.org/abs/2512.01223v1,2025-12-01 03:08:34+00:00
+31,Knowledge Graph Augmented Large Language Models for Disease Prediction,2512.01210,http://arxiv.org/abs/2512.01210v2,2025-12-01 02:49:17+00:00
+32,PromptBridge: Cross-Model Prompt Transfer for Large Language Models,2512.01420,http://arxiv.org/abs/2512.01420v1,2025-12-01 08:55:45+00:00
+33,Bridging the Gap: Toward Cognitive Autonomy in Artificial Intelligence,2512.02280,http://arxiv.org/abs/2512.02280v1,2025-12-01 23:51:08+00:00
+34,Real-World Reinforcement Learning of Active Perception Behaviors,2512.01188,http://arxiv.org/abs/2512.01188v1,2025-12-01 02:05:20+00:00
+35,"Conversion rate prediction in online advertising: modeling techniques, performance evaluation and future directions",2512.01171,http://arxiv.org/abs/2512.01171v1,2025-12-01 01:02:35+00:00
+36,Multi-Path Collaborative Reasoning via Reinforcement Learning,2512.01485,http://arxiv.org/abs/2512.01485v1,2025-12-01 10:05:46+00:00
+37,Rice-VL: Evaluating Vision-Language Models for Cultural Understanding Across ASEAN Countries,2512.01419,http://arxiv.org/abs/2512.01419v1,2025-12-01 08:55:41+00:00
+38,Consistency Flow Model Achieves One-step Denoising Error Correction Codes,2512.01389,http://arxiv.org/abs/2512.01389v1,2025-12-01 08:07:51+00:00
+39,Benchmarking Overton Pluralism in LLMs,2512.01351,http://arxiv.org/abs/2512.01351v1,2025-12-01 07:04:20+00:00
+40,Rethinking Intracranial Aneurysm Vessel Segmentation: A Perspective from Computational Fluid Dynamics Applications,2512.01319,http://arxiv.org/abs/2512.01319v1,2025-12-01 06:23:07+00:00
+41,Generative Modeling with Continuous Flows: Sample Complexity of Flow Matching,2512.01286,http://arxiv.org/abs/2512.01286v1,2025-12-01 05:14:25+00:00
+42,Benchmarking LLM Agents for Wealth-Management Workflows,2512.02230,http://arxiv.org/abs/2512.02230v1,2025-12-01 21:56:21+00:00
+43,Enforcing Orderedness to Improve Feature Consistency,2512.02194,http://arxiv.org/abs/2512.02194v1,2025-12-01 20:39:19+00:00
+44,Story2MIDI: Emotionally Aligned Music Generation from Text,2512.02192,http://arxiv.org/abs/2512.02192v1,2025-12-01 20:35:18+00:00
+45,"H-Neurons: On the Existence, Impact, and Origin of Hallucination-Associated Neurons in LLMs",2512.01797,http://arxiv.org/abs/2512.01797v2,2025-12-01 15:32:14+00:00
+46,The Necessity of Imperfection:Reversing Model Collapse via Simulating Cognitive Boundedness,2512.01354,http://arxiv.org/abs/2512.01354v2,2025-12-01 07:09:38+00:00
+47,EfficientFlow: Efficient Equivariant Flow Policy Learning for Embodied AI,2512.02020,http://arxiv.org/abs/2512.02020v1,2025-12-01 18:59:59+00:00
+48,GrndCtrl: Grounding World Models via Self-Supervised Reward Alignment,2512.01952,http://arxiv.org/abs/2512.01952v1,2025-12-01 18:03:29+00:00
+49,Real-World Robot Control by Deep Active Inference With a Temporally Hierarchical World Model,2512.01924,http://arxiv.org/abs/2512.01924v1,2025-12-01 17:41:01+00:00
+50,Deconstructing Generative Diversity: An Information Bottleneck Analysis of Discrete Latent Generative Models,2512.01831,http://arxiv.org/abs/2512.01831v1,2025-12-01 16:13:23+00:00
+51,InnoGym: Benchmarking the Innovation Potential of AI Agents,2512.01822,http://arxiv.org/abs/2512.01822v1,2025-12-01 16:03:04+00:00
+52,Who Judges the Judge? LLM Jury-on-Demand: Building Trustworthy LLM Evaluation Systems,2512.01786,http://arxiv.org/abs/2512.01786v1,2025-12-01 15:26:20+00:00
+53,Learning the Boundary of Solvability: Aligning LLMs to Detect Unsolvable Problems,2512.01661,http://arxiv.org/abs/2512.01661v1,2025-12-01 13:32:59+00:00
+54,CLIP-RL: Aligning Language and Policy Representations for Task Transfer in Reinforcement Learning,2512.01616,http://arxiv.org/abs/2512.01616v1,2025-12-01 12:37:01+00:00
+55,RoleMotion: A Large-Scale Dataset towards Robust Scene-Specific Role-Playing Motion Synthesis with Fine-grained Descriptions,2512.01582,http://arxiv.org/abs/2512.01582v1,2025-12-01 11:59:03+00:00
+56,Reconstructing Multi-Scale Physical Fields from Extremely Sparse Measurements with an Autoencoder-Diffusion Cascade,2512.01572,http://arxiv.org/abs/2512.01572v1,2025-12-01 11:46:14+00:00
+57,Comparing Baseline and Day-1 Diffusion MRI Using Multimodal Deep Embeddings for Stroke Outcome Prediction,2512.02088,http://arxiv.org/abs/2512.02088v1,2025-12-01 13:56:44+00:00
+58,QGShap: Quantum Acceleration for Faithful GNN Explanations,2512.03099,http://arxiv.org/abs/2512.03099v1,2025-12-01 16:19:15+00:00
+59,Humanity in the Age of AI: Reassessing 2025's Existential-Risk Narratives,2512.04119,http://arxiv.org/abs/2512.04119v1,2025-12-01 19:37:27+00:00
+60,Artificial Intelligence Competence of K-12 Students Shapes Their AI Risk Perception: A Co-occurrence Network Analysis,2512.04115,http://arxiv.org/abs/2512.04115v1,2025-12-01 12:40:24+00:00
+61,A TinyML Reinforcement Learning Approach for Energy-Efficient Light Control in Low-Cost Greenhouse Systems,2512.01167,http://arxiv.org/abs/2512.01167v1,2025-12-01 00:58:05+00:00
+62,ICAD-LLM: One-for-All Anomaly Detection via In-Context Learning with Large Language Models,2512.01672,http://arxiv.org/abs/2512.01672v1,2025-12-01 13:41:30+00:00
+63,Automated Risk-of-Bias Assessment of Randomized Controlled Trials: A First Look at a GEPA-trained Programmatic Prompting Framework,2512.01452,http://arxiv.org/abs/2512.01452v1,2025-12-01 09:39:13+00:00
+64,"A Selective Temporal Hamming distance to find patterns in state transition event timeseries, at scale",2512.01440,http://arxiv.org/abs/2512.01440v1,2025-12-01 09:24:20+00:00
+65,Structured Spectral Reasoning for Frequency-Adaptive Multimodal Recommendation,2512.01372,http://arxiv.org/abs/2512.01372v1,2025-12-01 07:39:28+00:00
+66,RoboDriveVLM: A Novel Benchmark and Baseline towards Robust Vision-Language Models for Autonomous Driving,2512.01300,http://arxiv.org/abs/2512.01300v1,2025-12-01 05:44:06+00:00
+67,Learning Sim-to-Real Humanoid Locomotion in 15 Minutes,2512.01996,http://arxiv.org/abs/2512.01996v1,2025-12-01 18:55:17+00:00
+68,LLM CHESS: Benchmarking Reasoning and Instruction-Following in LLMs through Chess,2512.01992,http://arxiv.org/abs/2512.01992v1,2025-12-01 18:51:08+00:00
+69,Chain-of-Ground: Improving GUI Grounding via Iterative Reasoning and Reference Feedback,2512.01979,http://arxiv.org/abs/2512.01979v1,2025-12-01 18:37:19+00:00
+70,An Empirical Study of Agent Developer Practices in AI Agent Frameworks,2512.01939,http://arxiv.org/abs/2512.01939v1,2025-12-01 17:52:15+00:00
+71,Exploring Human Perceptions of AI Responses: Insights from a Mixed-Methods Study on Risk Mitigation in Generative Models,2512.01892,http://arxiv.org/abs/2512.01892v1,2025-12-01 17:12:28+00:00
+72,Topological Order in Deep State,2512.01863,http://arxiv.org/abs/2512.01863v1,2025-12-01 16:46:39+00:00
+73,Envision: Benchmarking Unified Understanding & Generation for Causal World Process Insights,2512.01816,http://arxiv.org/abs/2512.01816v1,2025-12-01 15:52:31+00:00
+74,fMRI2GES: Co-speech Gesture Reconstruction from fMRI Signal with Dual Brain Decoding Alignment,2512.01189,http://arxiv.org/abs/2512.01189v1,2025-12-01 02:09:44+00:00
+75,TempPerturb-Eval: On the Joint Effects of Internal Temperature and External Perturbations in RAG Robustness,2512.01183,http://arxiv.org/abs/2512.01183v1,2025-12-01 01:46:36+00:00
+76,"Toward a benchmark for CTR prediction in online advertising: datasets, evaluation protocols and perspectives",2512.01179,http://arxiv.org/abs/2512.01179v1,2025-12-01 01:36:55+00:00
+77,Data assimilation and discrepancy modeling with shallow recurrent decoders,2512.01170,http://arxiv.org/abs/2512.01170v1,2025-12-01 01:01:48+00:00
+78,2D-ThermAl: Physics-Informed Framework for Thermal Analysis of Circuits using Generative AI,2512.01163,http://arxiv.org/abs/2512.01163v1,2025-12-01 00:45:26+00:00
+79,Testing Transformer Learnability on the Arithmetic Sequence of Rooted Trees,2512.01870,http://arxiv.org/abs/2512.01870v1,2025-12-01 16:51:38+00:00
+80,Agreement-Constrained Probabilistic Minimum Bayes Risk Decoding,2512.01316,http://arxiv.org/abs/2512.01316v1,2025-12-01 06:16:47+00:00
+81,Q2D2: A Geometry-Aware Audio Codec Leveraging Two-Dimensional Quantization,2512.01537,http://arxiv.org/abs/2512.01537v1,2025-12-01 11:06:38+00:00
+82,Bin2Vec: Interpretable and Auditable Multi-View Binary Analysis for Code Plagiarism Detection,2512.02197,http://arxiv.org/abs/2512.02197v1,2025-12-01 20:42:16+00:00
+83,CLEF: Clinically-Guided Contrastive Learning for Electrocardiogram Foundation Models,2512.02180,http://arxiv.org/abs/2512.02180v1,2025-12-01 20:21:44+00:00
+84,Teaching an Online Multi-Institutional Research Level Software Engineering Course with Industry - an Experience Report,2512.01523,http://arxiv.org/abs/2512.01523v1,2025-12-01 10:46:43+00:00
+85,A Knowledge-Based Language Model: Deducing Grammatical Knowledge in a Multi-Agent Language Acquisition Simulation,2512.02195,http://arxiv.org/abs/2512.02195v1,2025-12-01 20:40:36+00:00
+86,BHRAM-IL: A Benchmark for Hallucination Recognition and Assessment in Multiple Indian Languages,2512.01852,http://arxiv.org/abs/2512.01852v1,2025-12-01 16:37:34+00:00
+87,DETAIL Matters: Measuring the Impact of Prompt Specificity on Reasoning in Large Language Models,2512.02246,http://arxiv.org/abs/2512.02246v1,2025-12-01 22:28:39+00:00
+88,Young children's anthropomorphism of an AI chatbot: Brain activation and the role of parent co-presence,2512.02179,http://arxiv.org/abs/2512.02179v2,2025-12-01 20:21:08+00:00
+89,RoaD: Rollouts as Demonstrations for Closed-Loop Supervised Fine-Tuning of Autonomous Driving Policies,2512.01993,http://arxiv.org/abs/2512.01993v1,2025-12-01 18:52:03+00:00
+90,AI-Driven Optimization under Uncertainty for Mineral Processing Operations,2512.01977,http://arxiv.org/abs/2512.01977v1,2025-12-01 18:35:54+00:00
+91,Learned-Rule-Augmented Large Language Model Evaluators,2512.01958,http://arxiv.org/abs/2512.01958v1,2025-12-01 18:08:45+00:00
+92,Agentic Policy Optimization via Instruction-Policy Co-Evolution,2512.01945,http://arxiv.org/abs/2512.01945v1,2025-12-01 17:56:29+00:00
+93,Orchestration Framework for Financial Agents: From Algorithmic Trading to Agentic Trading,2512.02227,http://arxiv.org/abs/2512.02227v1,2025-12-01 21:50:22+00:00
+94,Improved Training Mechanism for Reinforcement Learning via Online Model Selection,2512.02214,http://arxiv.org/abs/2512.02214v1,2025-12-01 21:25:46+00:00
+95,"STRIDE: A Systematic Framework for Selecting AI Modalities -- Agentic AI, AI Assistants, or LLM Calls",2512.02228,http://arxiv.org/abs/2512.02228v1,2025-12-01 21:54:07+00:00
+96,"Probabilistic Neuro-Symbolic Reasoning for Sparse Historical Data: A Framework Integrating Bayesian Inference, Causal Models, and Game-Theoretic Allocation",2512.01723,http://arxiv.org/abs/2512.01723v1,2025-12-01 14:35:04+00:00
+97,StreamGaze: Gaze-Guided Temporal Reasoning and Proactive Understanding in Streaming Videos,2512.01707,http://arxiv.org/abs/2512.01707v1,2025-12-01 14:15:44+00:00
+98,HalluGraph: Auditable Hallucination Detection for Legal RAG Systems via Knowledge Graph Alignment,2512.01659,http://arxiv.org/abs/2512.01659v1,2025-12-01 13:31:06+00:00
+99,Dual Randomized Smoothing: Beyond Global Noise Variance,2512.01782,http://arxiv.org/abs/2512.01782v1,2025-12-01 15:23:00+00:00
