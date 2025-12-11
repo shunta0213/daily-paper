@@ -1,0 +1,101 @@
+,title,id,arxiv_url,published
+0,GeoPE:A Unified Geometric Positional Embedding for Structured Tensors,2512.04963,http://arxiv.org/abs/2512.04963v1,2025-12-04 16:31:12+00:00
+1,ReflexFlow: Rethinking Learning Objective for Exposure Bias Alleviation in Flow Matching,2512.04904,http://arxiv.org/abs/2512.04904v1,2025-12-04 15:34:44+00:00
+2,From Symptoms to Systems: An Expert-Guided Approach to Understanding Risks of Generative AI for Eating Disorders,2512.04843,http://arxiv.org/abs/2512.04843v1,2025-12-04 14:27:38+00:00
+3,SoK: a Comprehensive Causality Analysis Framework for Large Language Model Security,2512.04841,http://arxiv.org/abs/2512.04841v1,2025-12-04 14:25:15+00:00
+4,"287,872 Supermassive Black Holes Masses: Deep Learning Approaching Reverberation Mapping Accuracy",2512.04803,http://arxiv.org/abs/2512.04803v1,2025-12-04 13:55:04+00:00
+5,ASTRIDE: A Security Threat Modeling Platform for Agentic-AI Applications,2512.04785,http://arxiv.org/abs/2512.04785v1,2025-12-04 13:32:40+00:00
+6,YingMusic-Singer: Zero-shot Singing Voice Synthesis and Editing with Annotation-free Melody Guidance,2512.04779,http://arxiv.org/abs/2512.04779v1,2025-12-04 13:25:33+00:00
+7,"Embodied Co-Design for Rapidly Evolving Agents: Taxonomy, Frontiers, and Challenges",2512.04770,http://arxiv.org/abs/2512.04770v1,2025-12-04 13:12:50+00:00
+8,Human Cognitive Biases in Explanation-Based Interaction: The Case of Within and Between Session Order Effect,2512.04764,http://arxiv.org/abs/2512.04764v1,2025-12-04 12:59:54+00:00
+9,OsmT: Bridging OpenStreetMap Queries and Natural Language with Open-source Tag-aware Language Models,2512.04738,http://arxiv.org/abs/2512.04738v1,2025-12-04 12:24:36+00:00
+10,Playing the Player: A Heuristic Framework for Adaptive Poker AI,2512.04714,http://arxiv.org/abs/2512.04714v1,2025-12-04 12:01:44+00:00
+11,Mitigating Object and Action Hallucinations in Multimodal LLMs via Self-Augmented Contrastive Alignment,2512.04356,http://arxiv.org/abs/2512.04356v1,2025-12-04 01:05:16+00:00
+12,The Ethics of Generative AI,2512.04598,http://arxiv.org/abs/2512.04598v1,2025-12-04 09:18:06+00:00
+13,PhyVLLM: Physics-Guided Video Language Model with Motion-Appearance Disentanglement,2512.04532,http://arxiv.org/abs/2512.04532v1,2025-12-04 07:28:56+00:00
+14,Solving LLM Repetition Problem in Production: A Comprehensive Study of Multiple Solutions,2512.04419,http://arxiv.org/abs/2512.04419v1,2025-12-04 03:30:18+00:00
+15,Executable Governance for AI: Translating Policies into Rules Using LLMs,2512.04408,http://arxiv.org/abs/2512.04408v1,2025-12-04 03:11:54+00:00
+16,Towards A Cultural Intelligence and Values Inferences Quality Benchmark for Community Values and Common Knowledge,2512.05176,http://arxiv.org/abs/2512.05176v1,2025-12-04 17:15:47+00:00
+17,Bridging Traditional Machine Learning and Large Language Models: A Two-Part Course Design for Modern AI Education,2512.05167,http://arxiv.org/abs/2512.05167v1,2025-12-04 15:10:37+00:00
+18,How to Tame Your LLM: Semantic Collapse in Continuous Systems,2512.05162,http://arxiv.org/abs/2512.05162v1,2025-12-04 11:33:02+00:00
+19,GTM: Simulating the World of Tools for AI Agents,2512.04535,http://arxiv.org/abs/2512.04535v2,2025-12-04 07:33:04+00:00
+20,TaskEval: Synthesised Evaluation for Foundation-Model Tasks,2512.04442,http://arxiv.org/abs/2512.04442v1,2025-12-04 04:19:24+00:00
+21,WhatsCode: Large-Scale GenAI Deployment for Developer Efficiency at WhatsApp,2512.05314,http://arxiv.org/abs/2512.05314v1,2025-12-04 23:25:06+00:00
+22,BioMedGPT-Mol: Multi-task Learning for Molecular Understanding and Generation,2512.04629,http://arxiv.org/abs/2512.04629v1,2025-12-04 10:00:16+00:00
+23,Persona-based Multi-Agent Collaboration for Brainstorming,2512.04488,http://arxiv.org/abs/2512.04488v1,2025-12-04 05:46:13+00:00
+24,Topology Matters: Measuring Memory Leakage in Multi-Agent LLMs,2512.04668,http://arxiv.org/abs/2512.04668v2,2025-12-04 11:00:49+00:00
+25,Physics-Guided Deepfake Detection for Voice Authentication Systems,2512.06040,http://arxiv.org/abs/2512.06040v1,2025-12-04 23:37:18+00:00
+26,MARL Warehouse Robots,2512.04463,http://arxiv.org/abs/2512.04463v2,2025-12-04 05:11:36+00:00
+27,GraphBench: Next-generation graph learning benchmarking,2512.04475,http://arxiv.org/abs/2512.04475v1,2025-12-04 05:30:31+00:00
+28,Structured Document Translation via Format Reinforcement Learning,2512.05100,http://arxiv.org/abs/2512.05100v1,2025-12-04 18:58:30+00:00
+29,SA-IQA: Redefining Image Quality Assessment for Spatial Aesthetics with Multi-Dimensional Rewards,2512.05098,http://arxiv.org/abs/2512.05098v1,2025-12-04 18:58:18+00:00
+30,David vs. Goliath: Can Small Models Win Big with Agentic AI in Hardware Design?,2512.05073,http://arxiv.org/abs/2512.05073v1,2025-12-04 18:37:29+00:00
+31,Meta-Learning for Quantum Optimization via Quantum Sequence Model,2512.05058,http://arxiv.org/abs/2512.05058v1,2025-12-04 18:13:45+00:00
+32,Model-Free Assessment of Simulator Fidelity via Quantile Curves,2512.05024,http://arxiv.org/abs/2512.05024v1,2025-12-04 17:39:51+00:00
+33,Toward Continuous Neurocognitive Monitoring: Integrating Speech AI with Relational Graph Transformers for Rare Neurological Diseases,2512.04938,http://arxiv.org/abs/2512.04938v1,2025-12-04 16:06:50+00:00
+34,STELLA: Guiding Large Language Models for Time Series Forecasting with Semantic Abstractions,2512.04871,http://arxiv.org/abs/2512.04871v1,2025-12-04 14:56:36+00:00
+35,Are LLMs Truly Multilingual? Exploring Zero-Shot Multilingual Capability of LLMs for Information Retrieval: An Italian Healthcare Use Case,2512.04834,http://arxiv.org/abs/2512.04834v1,2025-12-04 14:17:46+00:00
+36,Setting up for failure: automatic discovery of the neural mechanisms of cognitive errors,2512.04808,http://arxiv.org/abs/2512.04808v1,2025-12-04 14:00:32+00:00
+37,UnwrapDiff: Conditional Diffusion for Robust InSAR Phase Unwrapping,2512.04749,http://arxiv.org/abs/2512.04749v1,2025-12-04 12:38:00+00:00
+38,Towards an AI Fluid Scientist: LLM-Powered Scientific Discovery in Experimental Fluid Mechanics,2512.04716,http://arxiv.org/abs/2512.04716v1,2025-12-04 12:02:35+00:00
+39,Semi Centralized Training Decentralized Execution Architecture for Multi Agent Deep Reinforcement Learning in Traffic Signal Control,2512.04653,http://arxiv.org/abs/2512.04653v1,2025-12-04 10:26:43+00:00
+40,SEASON: Mitigating Temporal Hallucination in Video Large Language Models via Self-Diagnostic Contrastive Decoding,2512.04643,http://arxiv.org/abs/2512.04643v1,2025-12-04 10:17:20+00:00
+41,Multi-Loss Learning for Speech Emotion Recognition with Energy-Adaptive Mixup and Frame-Level Attention,2512.04551,http://arxiv.org/abs/2512.04551v1,2025-12-04 08:04:45+00:00
+42,AdmTree: Compressing Lengthy Context with Adaptive Semantic Trees,2512.04550,http://arxiv.org/abs/2512.04550v1,2025-12-04 08:04:19+00:00
+43,Detection of Intoxicated Individuals from Facial Video Sequences via a Recurrent Fusion Model,2512.04536,http://arxiv.org/abs/2512.04536v1,2025-12-04 07:34:04+00:00
+44,GuidNoise: Single-Pair Guided Diffusion for Generalized Noise Synthesis,2512.04456,http://arxiv.org/abs/2512.04456v1,2025-12-04 05:00:00+00:00
+45,Open-Ended Goal Inference through Actions and Language for Human-Robot Collaboration,2512.04453,http://arxiv.org/abs/2512.04453v1,2025-12-04 04:51:25+00:00
+46,Dual-Stream Spectral Decoupling Distillation for Remote Sensing Object Detection,2512.04413,http://arxiv.org/abs/2512.04413v1,2025-12-04 03:18:42+00:00
+47,Towards 6G Native-AI Edge Networks: A Semantic-Aware and Agentic Intelligence Paradigm,2512.04405,http://arxiv.org/abs/2512.04405v1,2025-12-04 03:09:33+00:00
+48,Adversarial Limits of Quantum Certification: When Eve Defeats Detection,2512.04391,http://arxiv.org/abs/2512.04391v1,2025-12-04 02:24:04+00:00
+49,MASE: Interpretable NLP Models via Model-Agnostic Saliency Estimation,2512.04386,http://arxiv.org/abs/2512.04386v1,2025-12-04 02:20:06+00:00
+50,Counting Without Running: Evaluating LLMs' Reasoning About Code Complexity,2512.04355,http://arxiv.org/abs/2512.04355v1,2025-12-04 01:03:20+00:00
+51,Evolutionary Architecture Search through Grammar-Based Sequence Alignment,2512.04992,http://arxiv.org/abs/2512.04992v1,2025-12-04 16:57:49+00:00
+52,The SAM2-to-SAM3 Gap in the Segment Anything Model Family: Why Prompt-Based Expertise Fails in Concept-Driven Image Segmentation,2512.06032,http://arxiv.org/abs/2512.06032v1,2025-12-04 16:27:18+00:00
+53,Semantic Faithfulness and Entropy Production Measures to Tame Your LLM Demons and Manage Hallucinations,2512.05156,http://arxiv.org/abs/2512.05156v2,2025-12-04 03:47:37+00:00
+54,AI-Assisted Game Management Decisions: A Fuzzy Logic Approach to Real-Time Soccer Substitutions,2512.04480,http://arxiv.org/abs/2512.04480v2,2025-12-04 05:33:28+00:00
+55,Beyond Detection: A Comprehensive Benchmark and Study on Representation Learning for Fine-Grained Webshell Family Classification,2512.05288,http://arxiv.org/abs/2512.05288v1,2025-12-04 22:26:30+00:00
+56,XR-DT: Extended Reality-Enhanced Digital Twin for Agentic Mobile Robots,2512.05270,http://arxiv.org/abs/2512.05270v1,2025-12-04 21:49:14+00:00
+57,Uncertainty-Aware Data-Efficient AI: An Information-Theoretic Perspective,2512.05267,http://arxiv.org/abs/2512.05267v1,2025-12-04 21:44:22+00:00
+58,Fine-Tuning BERT for Domain-Specific Question Answering: Toward Educational NLP Resources at University Scale,2512.05179,http://arxiv.org/abs/2512.05179v1,2025-12-04 18:27:46+00:00
+59,From Task Executors to Research Partners: Evaluating AI Co-Pilots Through Workflow Integration in Biomedical Research,2512.04854,http://arxiv.org/abs/2512.04854v1,2025-12-04 14:37:46+00:00
+60,The Universal Weight Subspace Hypothesis,2512.05117,http://arxiv.org/abs/2512.05117v2,2025-12-04 18:59:58+00:00
+61,PrefGen: Multimodal Preference Learning for Preference-Conditioned Image Generation,2512.06020,http://arxiv.org/abs/2512.06020v1,2025-12-04 02:57:29+00:00
+62,SlideGen: Collaborative Multimodal Agents for Scientific Slide Generation,2512.04529,http://arxiv.org/abs/2512.04529v2,2025-12-04 07:22:16+00:00
+63,Semantic Soft Bootstrapping: Long Context Reasoning in LLMs without Reinforcement Learning,2512.05105,http://arxiv.org/abs/2512.05105v1,2025-12-04 18:59:18+00:00
+64,Reflection Removal through Efficient Adaptation of Diffusion Transformers,2512.05000,http://arxiv.org/abs/2512.05000v1,2025-12-04 17:12:39+00:00
+65,Strategic Self-Improvement for Competitive Agents in AI Labour Markets,2512.04988,http://arxiv.org/abs/2512.04988v1,2025-12-04 16:57:28+00:00
+66,Balanced Few-Shot Episodic Learning for Accurate Retinal Disease Diagnosis,2512.04967,http://arxiv.org/abs/2512.04967v1,2025-12-04 16:35:54+00:00
+67,Realizable Abstractions: Near-Optimal Hierarchical Reinforcement Learning,2512.04958,http://arxiv.org/abs/2512.04958v1,2025-12-04 16:26:56+00:00
+68,Declarative Synthesis and Multi-Objective Optimization of Stripboard Circuit Layouts Using Answer Set Programming,2512.04910,http://arxiv.org/abs/2512.04910v1,2025-12-04 15:37:59+00:00
+69,Mitigating Catastrophic Forgetting in Target Language Adaptation of LLMs via Source-Shielded Updates,2512.04844,http://arxiv.org/abs/2512.04844v1,2025-12-04 14:28:14+00:00
+70,SIMA 2: A Generalist Embodied Agent for Virtual Worlds,2512.04797,http://arxiv.org/abs/2512.04797v1,2025-12-04 13:46:11+00:00
+71,Using Machine Learning to Take Stay-or-Go Decisions in Data-driven Drone Missions,2512.04773,http://arxiv.org/abs/2512.04773v1,2025-12-04 13:21:24+00:00
+72,E3AD: An Emotion-Aware Vision-Language-Action Model for Human-Centric End-to-End Autonomous Driving,2512.04733,http://arxiv.org/abs/2512.04733v1,2025-12-04 12:17:25+00:00
+73,Sequential Enumeration in Large Language Models,2512.04727,http://arxiv.org/abs/2512.04727v1,2025-12-04 12:10:24+00:00
+74,Generative AI for Self-Adaptive Systems: State of the Art and Research Roadmap,2512.04680,http://arxiv.org/abs/2512.04680v1,2025-12-04 11:13:43+00:00
+75,Neural Decoding of Overt Speech from ECoG Using Vision Transformers and Contrastive Representation Learning,2512.04618,http://arxiv.org/abs/2512.04618v1,2025-12-04 09:47:15+00:00
+76,RRPO: Robust Reward Policy Optimization for LLM-based Emotional TTS,2512.04552,http://arxiv.org/abs/2512.04552v1,2025-12-04 08:12:49+00:00
+77,"UW-BioNLP at ChemoTimelines 2025: Thinking, Fine-Tuning, and Dictionary-Enhanced LLM Systems for Chemotherapy Timeline Extraction",2512.04518,http://arxiv.org/abs/2512.04518v1,2025-12-04 06:59:59+00:00
+78,Mathematical Framing for Different Agent Strategies,2512.04469,http://arxiv.org/abs/2512.04469v1,2025-12-04 05:22:54+00:00
+79,Algorithmic Thinking Theory,2512.04923,http://arxiv.org/abs/2512.04923v1,2025-12-04 15:55:55+00:00
+80,Explainable Parkinsons Disease Gait Recognition Using Multimodal RGB-D Fusion and Large Language Models,2512.04425,http://arxiv.org/abs/2512.04425v1,2025-12-04 03:43:43+00:00
+81,SignRoundV2: Closing the Performance Gap in Extremely Low-Bit Post-Training Quantization for LLMs,2512.04746,http://arxiv.org/abs/2512.04746v1,2025-12-04 12:35:10+00:00
+82,Semore: VLM-guided Enhanced Semantic Motion Representations for Visual Reinforcement Learning,2512.05172,http://arxiv.org/abs/2512.05172v1,2025-12-04 16:54:41+00:00
+83,Robustness Test for AI Forecasting of Hurricane Florence Using FourCastNetv2 and Random Perturbations of the Initial Condition,2512.05323,http://arxiv.org/abs/2512.05323v1,2025-12-04 23:47:21+00:00
+84,To Think or Not to Think: The Hidden Cost of Meta-Training with Excessive CoT Examples,2512.05318,http://arxiv.org/abs/2512.05318v1,2025-12-04 23:28:23+00:00
+85,Resolving Zadehs Paradox Axiomatic Possibility Theory as a Foundation for Reliable Artificial Intelligence,2512.05257,http://arxiv.org/abs/2512.05257v1,2025-12-04 21:13:16+00:00
+86,MAR-FL: A Communication Efficient Peer-to-Peer Federated Learning System,2512.05234,http://arxiv.org/abs/2512.05234v1,2025-12-04 20:25:43+00:00
+87,TV2TV: A Unified Framework for Interleaved Language and Video Generation,2512.05103,http://arxiv.org/abs/2512.05103v2,2025-12-04 18:59:09+00:00
+88,DataGovBench: Benchmarking LLM Agents for Real-World Data Governance Workflows,2512.04416,http://arxiv.org/abs/2512.04416v2,2025-12-04 03:25:12+00:00
+89,A Survey of Bugs in AI-Generated Code,2512.05239,http://arxiv.org/abs/2512.05239v1,2025-12-04 20:35:59+00:00
+90,Are Your Agents Upward Deceivers?,2512.04864,http://arxiv.org/abs/2512.04864v1,2025-12-04 14:47:05+00:00
+91,Language Models as Semantic Teachers: Post-Training Alignment for Medical Audio Understanding,2512.04847,http://arxiv.org/abs/2512.04847v1,2025-12-04 14:30:58+00:00
+92,Large Speech Model Enabled Semantic Communication,2512.04711,http://arxiv.org/abs/2512.04711v1,2025-12-04 11:58:08+00:00
+93,TimesNet-Gen: Deep Learning-based Site Specific Strong Motion Generation,2512.04694,http://arxiv.org/abs/2512.04694v1,2025-12-04 11:44:13+00:00
+94,Towards Ethical Multi-Agent Systems of Large Language Models: A Mechanistic Interpretability Perspective,2512.04691,http://arxiv.org/abs/2512.04691v1,2025-12-04 11:41:44+00:00
+95,When GenAI Meets Fake News: Understanding Image Cascade Dynamics on Reddit,2512.04639,http://arxiv.org/abs/2512.04639v1,2025-12-04 10:13:37+00:00
+96,Turbo-Muon: Accelerating Orthogonality-Based Optimization with Pre-Conditioning,2512.04632,http://arxiv.org/abs/2512.04632v1,2025-12-04 10:06:22+00:00
+97,ShadowDraw: From Any Object to Shadow-Drawing Compositional Art,2512.05110,http://arxiv.org/abs/2512.05110v1,2025-12-04 18:59:51+00:00
+98,CARL: Critical Action Focused Reinforcement Learning for Multi-Step Agent,2512.04949,http://arxiv.org/abs/2512.04949v1,2025-12-04 16:15:46+00:00
+99,Chameleon: Adaptive Adversarial Agents for Scaling-Based Visual Prompt Injection in Multimodal AI Systems,2512.04895,http://arxiv.org/abs/2512.04895v1,2025-12-04 15:22:28+00:00
