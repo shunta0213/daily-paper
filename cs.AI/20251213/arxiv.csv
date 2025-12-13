@@ -1,0 +1,53 @@
+,title,id,arxiv_url,published
+0,Securing the Model Context Protocol: Defending LLMs Against Tool Poisoning and Adversarial Attacks,2512.06556,http://arxiv.org/abs/2512.06556v1,2025-12-06 20:07:58+00:00
+1,BEACON: A Unified Behavioral-Tactical Framework for Explainable Cybercrime Analysis with Large Language Models,2512.06555,http://arxiv.org/abs/2512.06555v1,2025-12-06 19:59:24+00:00
+2,Vec-LUT: Vector Table Lookup for Parallel Ultra-Low-Bit LLM Inference on Edge Devices,2512.06443,http://arxiv.org/abs/2512.06443v1,2025-12-06 14:14:01+00:00
+3,Why They Disagree: Decoding Differences in Opinions about AI Risk on the Lex Fridman Podcast,2512.06350,http://arxiv.org/abs/2512.06350v1,2025-12-06 08:48:30+00:00
+4,Auto-exploration for online reinforcement learning,2512.06244,http://arxiv.org/abs/2512.06244v1,2025-12-06 02:04:50+00:00
+5,AI Application in Anti-Money Laundering for Sustainable and Transparent Financial Systems,2512.06240,http://arxiv.org/abs/2512.06240v1,2025-12-06 01:37:24+00:00
+6,Rethinking Training Dynamics in Scale-wise Autoregressive Generation,2512.06421,http://arxiv.org/abs/2512.06421v1,2025-12-06 12:41:42+00:00
+7,UncertaintyZoo: A Unified Toolkit for Quantifying Predictive Uncertainty in Deep Learning Systems,2512.06406,http://arxiv.org/abs/2512.06406v1,2025-12-06 11:45:50+00:00
+8,AgenticCyber: A GenAI-Powered Multi-Agent System for Multimodal Threat Detection and Adaptive Response in Cybersecurity,2512.06396,http://arxiv.org/abs/2512.06396v1,2025-12-06 10:59:21+00:00
+9,"Less Is More for Multi-Step Logical Reasoning of LLM Generalisation Under Rule Removal, Paraphrasing, and Compression",2512.06393,http://arxiv.org/abs/2512.06393v1,2025-12-06 10:49:50+00:00
+10,Protecting Bystander Privacy via Selective Hearing in LALMs,2512.06380,http://arxiv.org/abs/2512.06380v1,2025-12-06 10:24:04+00:00
+11,DaGRPO: Rectifying Gradient Conflict in Reasoning via Distinctiveness-Aware Group Relative Policy Optimization,2512.06337,http://arxiv.org/abs/2512.06337v1,2025-12-06 07:51:36+00:00
+12,Exploiting Spatiotemporal Properties for Efficient Event-Driven Human Pose Estimation,2512.06306,http://arxiv.org/abs/2512.06306v1,2025-12-06 05:32:13+00:00
+13,How Sharp and Bias-Robust is a Model? Dual Evaluation Perspectives on Knowledge Graph Completion,2512.06296,http://arxiv.org/abs/2512.06296v1,2025-12-06 04:49:29+00:00
+14,Towards Efficient Hypergraph and Multi-LLM Agent Recommender Systems,2512.06590,http://arxiv.org/abs/2512.06590v1,2025-12-06 23:04:49+00:00
+15,Deep Manifold Part 2: Neural Network Mathematics,2512.06563,http://arxiv.org/abs/2512.06563v1,2025-12-06 20:44:24+00:00
+16,Proportional integral derivative booster for neural networks-based time-series prediction: Case of water demand prediction,2512.06357,http://arxiv.org/abs/2512.06357v2,2025-12-06 09:08:05+00:00
+17,3DID: Direct 3D Inverse Design for Aerodynamics with Physics-Aware Optimization,2512.08987,http://arxiv.org/abs/2512.08987v1,2025-12-06 13:09:03+00:00
+18,Metaphor-based Jailbreaking Attacks on Text-to-Image Models,2512.10766,http://arxiv.org/abs/2512.10766v1,2025-12-06 12:38:00+00:00
+19,The Effect of Belief Boxes and Open-mindedness on Persuasion,2512.06573,http://arxiv.org/abs/2512.06573v1,2025-12-06 21:31:51+00:00
+20,Novel Deep Learning Architectures for Classification and Segmentation of Brain Tumors from MRI Images,2512.06531,http://arxiv.org/abs/2512.06531v1,2025-12-06 18:49:57+00:00
+21,Method of UAV Inspection of Photovoltaic Modules Using Thermal and RGB Data Fusion,2512.06504,http://arxiv.org/abs/2512.06504v1,2025-12-06 17:28:22+00:00
+22,"Echo-CoPilot: A Multi-View, Multi-Task Agent for Echocardiography Interpretation and Reporting",2512.09944,http://arxiv.org/abs/2512.09944v1,2025-12-06 23:27:54+00:00
+23,When Gender is Hard to See: Multi-Attribute Support for Long-Range Recognition,2512.06426,http://arxiv.org/abs/2512.06426v1,2025-12-06 13:12:07+00:00
+24,GENIUS: An Agentic AI Framework for Autonomous Design and Execution of Simulation Protocols,2512.06404,http://arxiv.org/abs/2512.06404v1,2025-12-06 11:28:35+00:00
+25,When Distance Distracts: Representation Distance Bias in BT-Loss for Reward Models,2512.06343,http://arxiv.org/abs/2512.06343v1,2025-12-06 08:15:37+00:00
+26,Chemistry Integrated Language Model using Hierarchical Molecular Representation for Polymer Informatics,2512.06301,http://arxiv.org/abs/2512.06301v1,2025-12-06 05:07:11+00:00
+27,Entropic Confinement and Mode Connectivity in Overparameterized Neural Networks,2512.06297,http://arxiv.org/abs/2512.06297v1,2025-12-06 04:50:32+00:00
+28,Unleashing the Intrinsic Visual Representation Capability of Multimodal Large Language Models,2512.06281,http://arxiv.org/abs/2512.06281v1,2025-12-06 04:20:13+00:00
+29,ChargingBoul: A Competitive Negotiating Agent with Novel Opponent Modeling,2512.06595,http://arxiv.org/abs/2512.06595v1,2025-12-06 23:32:11+00:00
+30,A-3PO: Accelerating Asynchronous LLM Training with Staleness-aware Proximal Policy Approximation,2512.06547,http://arxiv.org/abs/2512.06547v1,2025-12-06 19:37:39+00:00
+31,PRIMRose: Insights into the Per-Residue Energy Metrics of Proteins with Double InDel Mutations using Deep Learning,2512.06496,http://arxiv.org/abs/2512.06496v1,2025-12-06 16:57:56+00:00
+32,Classifying German Language Proficiency Levels Using Large Language Models,2512.06483,http://arxiv.org/abs/2512.06483v1,2025-12-06 16:15:45+00:00
+33,Instance Dependent Testing of Samplers using Interval Conditioning,2512.06458,http://arxiv.org/abs/2512.06458v1,2025-12-06 14:45:56+00:00
+34,Explainable Fundus Image Curation and Lesion Detection in Diabetic Retinopathy,2512.08986,http://arxiv.org/abs/2512.08986v1,2025-12-06 11:36:00+00:00
+35,Networked Restless Multi-Arm Bandits with Reinforcement Learning,2512.06274,http://arxiv.org/abs/2512.06274v1,2025-12-06 03:53:25+00:00
+36,Beyond Satisfaction: From Placebic to Actionable Explanations For Enhanced Understandability,2512.06591,http://arxiv.org/abs/2512.06591v1,2025-12-06 23:06:18+00:00
+37,QL-LSTM: A Parameter-Efficient LSTM for Stable Long-Sequence Modeling,2512.06582,http://arxiv.org/abs/2512.06582v1,2025-12-06 22:29:19+00:00
+38,SUGAR: A Sweeter Spot for Generative Unlearning of Many Identities,2512.06562,http://arxiv.org/abs/2512.06562v1,2025-12-06 20:42:38+00:00
+39,Beyond Token-level Supervision: Unlocking the Potential of Decoding-based Regression via Reinforcement Learning,2512.06533,http://arxiv.org/abs/2512.06533v1,2025-12-06 18:57:38+00:00
+40,"ShadowWolf -- Automatic Labelling, Evaluation and Model Training Optimised for Camera Trap Wildlife Images",2512.06521,http://arxiv.org/abs/2512.06521v1,2025-12-06 18:17:53+00:00
+41,"AI as ""Co-founder"": GenAI for Entrepreneurship",2512.06506,http://arxiv.org/abs/2512.06506v1,2025-12-06 17:36:36+00:00
+42,Why Goal-Conditioned Reinforcement Learning Works: Relation to Dual Control,2512.06471,http://arxiv.org/abs/2512.06471v1,2025-12-06 15:28:35+00:00
+43,Smart Spatial Planning in Egypt: An Algorithm-Driven Approach to Public Service Evaluation in Qena City,2512.06431,http://arxiv.org/abs/2512.06431v1,2025-12-06 13:36:57+00:00
+44,Web Technologies Security in the AI Era: A Survey of CDN-Enhanced Defenses,2512.06390,http://arxiv.org/abs/2512.06390v1,2025-12-06 10:42:14+00:00
+45,Degrading Voice: A Comprehensive Overview of Robust Voice Conversion Through Input Manipulation,2512.06304,http://arxiv.org/abs/2512.06304v1,2025-12-06 05:17:07+00:00
+46,RefBench-PRO: Perceptual and Reasoning Oriented Benchmark for Referring Expression Comprehension,2512.06276,http://arxiv.org/abs/2512.06276v1,2025-12-06 03:59:21+00:00
+47,Who Will Top the Charts? Multimodal Music Popularity Prediction via Adaptive Fusion of Modality Experts and Temporal Engagement Modeling,2512.06259,http://arxiv.org/abs/2512.06259v1,2025-12-06 03:07:43+00:00
+48,Convergence of Outputs When Two Large Language Models Interact in a Multi-Agentic Setup,2512.06256,http://arxiv.org/abs/2512.06256v1,2025-12-06 03:00:24+00:00
+49,DUET: Agentic Design Understanding via Experimentation and Testing,2512.06247,http://arxiv.org/abs/2512.06247v1,2025-12-06 02:16:28+00:00
+50,RAG-HAR: Retrieval Augmented Generation-based Human Activity Recognition,2512.08984,http://arxiv.org/abs/2512.08984v1,2025-12-06 01:53:02+00:00
+51,"RLAX: Large-Scale, Distributed Reinforcement Learning for Large Language Models on TPUs",2512.06392,http://arxiv.org/abs/2512.06392v2,2025-12-06 10:48:51+00:00
