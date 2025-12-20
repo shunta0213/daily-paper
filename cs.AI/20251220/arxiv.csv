@@ -1,0 +1,54 @@
+,title,id,arxiv_url,published
+0,GRC-Net: Gram Residual Co-attention Net for epilepsy prediction,2512.12273,http://arxiv.org/abs/2512.12273v1,2025-12-13 10:29:28+00:00
+1,Semantic Distance Measurement based on Multi-Kernel Gaussian Processes,2512.12238,http://arxiv.org/abs/2512.12238v1,2025-12-13 08:34:00+00:00
+2,ALERT Open Dataset and Input-Size-Agnostic Vision Transformer for Driver Activity Recognition using IR-UWB,2512.12206,http://arxiv.org/abs/2512.12206v1,2025-12-13 06:33:02+00:00
+3,Thermal RGB Fusion for Micro-UAV Wildfire Perimeter Tracking with Minimal Comms,2512.12199,http://arxiv.org/abs/2512.12199v1,2025-12-13 06:08:28+00:00
+4,Rethinking Label Consistency of In-Context Learning: An Implicit Transductive Label Propagation Perspective,2512.12175,http://arxiv.org/abs/2512.12175v1,2025-12-13 04:41:31+00:00
+5,Extending the Context of Pretrained LLMs by Dropping Their Positional Embeddings,2512.12167,http://arxiv.org/abs/2512.12167v1,2025-12-13 04:23:47+00:00
+6,MeltwaterBench: Deep learning for spatiotemporal downscaling of surface meltwater,2512.12142,http://arxiv.org/abs/2512.12142v1,2025-12-13 02:43:05+00:00
+7,BaRISTA: Brain Scale Informed Spatiotemporal Representation of Human Intracranial Neural Activity,2512.12135,http://arxiv.org/abs/2512.12135v1,2025-12-13 02:19:33+00:00
+8,Exploring the Design Space of Transition Matching,2512.12465,http://arxiv.org/abs/2512.12465v1,2025-12-13 21:34:47+00:00
+9,Dynamical modeling of nonlinear latent factors in multiscale neural activity with real-time inference,2512.12462,http://arxiv.org/abs/2512.12462v1,2025-12-13 21:20:21+00:00
+10,"AI Transparency Atlas: Framework, Scoring, and Real-Time Model Card Evaluation Pipeline",2512.12443,http://arxiv.org/abs/2512.12443v1,2025-12-13 19:48:44+00:00
+11,Emergence: Overcoming Privileged Information Bias in Asymmetric Embodied Agents via Active Querying,2512.15776,http://arxiv.org/abs/2512.15776v1,2025-12-13 17:17:51+00:00
+12,Enhanced Web User Interface Design Via Cross-Device Responsiveness Assessment Using An Improved HCI-INTEGRATED DL Schemes,2512.15775,http://arxiv.org/abs/2512.15775v1,2025-12-13 15:58:07+00:00
+13,"Made-in China, Thinking in America:U.S. Values Persist in Chinese LLMs",2512.13723,http://arxiv.org/abs/2512.13723v1,2025-12-13 02:52:57+00:00
+14,Adversarially Probing Cross-Family Sound Symbolism in 27 Languages,2512.12245,http://arxiv.org/abs/2512.12245v1,2025-12-13 09:06:50+00:00
+15,A Geometric Theory of Cognition,2512.12225,http://arxiv.org/abs/2512.12225v1,2025-12-13 07:39:53+00:00
+16,Training Versatile Coding Agents in Synthetic Environments,2512.12216,http://arxiv.org/abs/2512.12216v1,2025-12-13 07:02:28+00:00
+17,Floorplan2Guide: LLM-Guided Floorplan Parsing for BLV Indoor Navigation,2512.12177,http://arxiv.org/abs/2512.12177v1,2025-12-13 04:49:26+00:00
+18,A Benchmark Dataset for Spatially Aligned Road Damage Assessment in Small Uncrewed Aerial Systems Disaster Imagery,2512.12128,http://arxiv.org/abs/2512.12128v1,2025-12-13 01:42:49+00:00
+19,MetaHGNIE: Meta-Path Induced Hypergraph Contrastive Learning in Heterogeneous Knowledge Graphs,2512.12477,http://arxiv.org/abs/2512.12477v1,2025-12-13 22:21:33+00:00
+20,SCIR: A Self-Correcting Iterative Refinement Framework for Enhanced Information Extraction Based on Schema,2512.12337,http://arxiv.org/abs/2512.12337v1,2025-12-13 14:07:25+00:00
+21,Fractional Differential Equation Physics-Informed Neural Network and Its Application in Battery State Estimation,2512.12285,http://arxiv.org/abs/2512.12285v1,2025-12-13 11:11:03+00:00
+22,Measuring What Matters: Scenario-Driven Evaluation for Trajectory Predictors in Autonomous Driving,2512.12211,http://arxiv.org/abs/2512.12211v1,2025-12-13 06:48:32+00:00
+23,Feeling the Strength but Not the Source: Partial Introspection in LLMs,2512.12411,http://arxiv.org/abs/2512.12411v1,2025-12-13 17:51:13+00:00
+24,TENG++: Time-Evolving Natural Gradient for Solving PDEs With Deep Neural Nets under General Boundary Conditions,2512.15771,http://arxiv.org/abs/2512.15771v1,2025-12-13 02:32:45+00:00
+25,Mage: Cracking Elliptic Curve Cryptography with Cross-Axis Transformers,2512.12483,http://arxiv.org/abs/2512.12483v2,2025-12-13 22:45:35+00:00
+26,Time-Constrained Recommendations: Reinforcement Learning Strategies for E-Commerce,2512.13726,http://arxiv.org/abs/2512.13726v1,2025-12-13 20:32:47+00:00
+27,Compressed Causal Reasoning: Quantization and GraphRAG Effects on Interventional and Counterfactual Accuracy,2512.13725,http://arxiv.org/abs/2512.13725v1,2025-12-13 17:54:15+00:00
+28,"Multiscale Cross-Modal Mapping of Molecular, Pathologic, and Radiologic Phenotypes in Lipid-Deficient Clear Cell Renal CellCarcinoma",2512.14750,http://arxiv.org/abs/2512.14750v1,2025-12-13 23:49:41+00:00
+29,CurvaDion: Curvature-Adaptive Distributed Orthonormalization,2512.13728,http://arxiv.org/abs/2512.13728v1,2025-12-13 22:38:51+00:00
+30,Dynamic Homophily with Imperfect Recall: Modeling Resilience in Adversarial Networks,2512.12332,http://arxiv.org/abs/2512.12332v1,2025-12-13 13:45:27+00:00
+31,UniMark: Artificial Intelligence Generated Content Identification Toolkit,2512.12324,http://arxiv.org/abs/2512.12324v1,2025-12-13 13:30:48+00:00
+32,V-Rex: Real-Time Streaming Video LLM Acceleration via Dynamic KV Cache Retrieval,2512.12284,http://arxiv.org/abs/2512.12284v1,2025-12-13 11:02:04+00:00
+33,Comparison of different segmentation algorithms on brain volume and fractal dimension in infant brain MRIs,2512.12222,http://arxiv.org/abs/2512.12222v1,2025-12-13 07:23:32+00:00
+34,AI-Driven Real-Time Kick Classification in Olympic Taekwondo Using Sensor Fusion,2512.12474,http://arxiv.org/abs/2512.12474v1,2025-12-13 22:17:51+00:00
+35,Rough Sets for Explainability of Spectral Graph Clustering,2512.12436,http://arxiv.org/abs/2512.12436v1,2025-12-13 19:29:04+00:00
+36,"Understanding Critical Thinking in Generative Artificial Intelligence Use: Development, Validation, and Correlates of the Critical Thinking in AI Use Scale",2512.12413,http://arxiv.org/abs/2512.12413v1,2025-12-13 17:56:12+00:00
+37,Accurate de novo sequencing of the modified proteome with OmniNovo,2512.12272,http://arxiv.org/abs/2512.12272v1,2025-12-13 10:27:14+00:00
+38,Diffusion Language Model Inference with Monte Carlo Tree Search,2512.12168,http://arxiv.org/abs/2512.12168v1,2025-12-13 04:30:02+00:00
+39,"MixtureKit: A General Framework for Composing, Training, and Visualizing Mixture-of-Experts Models",2512.12121,http://arxiv.org/abs/2512.12121v1,2025-12-13 01:22:10+00:00
+40,TA-KAND: Two-stage Attention Triple Enhancement and U-KAN based Diffusion For Few-shot Knowledge Graph Completion,2512.12182,http://arxiv.org/abs/2512.12182v1,2025-12-13 05:04:59+00:00
+41,Composite Classifier-Free Guidance for Multi-Modal Conditioning in Wind Dynamics Super-Resolution,2512.13729,http://arxiv.org/abs/2512.13729v1,2025-12-13 22:44:41+00:00
+42,"Graph AI generates neurological hypotheses validated in molecular, organoid, and clinical systems",2512.13724,http://arxiv.org/abs/2512.13724v1,2025-12-13 06:55:20+00:00
+43,Cross-Modal Representational Knowledge Distillation for Enhanced Spike-Informed LFP Modeling,2512.12461,http://arxiv.org/abs/2512.12461v1,2025-12-13 21:20:13+00:00
+44,A Graph Attention Network-Based Framework for Reconstructing Missing LiDAR Beams,2512.12410,http://arxiv.org/abs/2512.12410v1,2025-12-13 17:50:57+00:00
+45,Entropy Collapse: A Universal Failure Mode of Intelligent Systems,2512.12381,http://arxiv.org/abs/2512.12381v1,2025-12-13 16:12:27+00:00
+46,Quantum-Aware Generative AI for Materials Discovery: A Framework for Robust Exploration Beyond DFT Biases,2512.12288,http://arxiv.org/abs/2512.12288v1,2025-12-13 11:17:21+00:00
+47,A Multi-Axial Mindset for Ontology Design Lessons from Wikidata's Polyhierarchical Structure,2512.12260,http://arxiv.org/abs/2512.12260v1,2025-12-13 09:59:22+00:00
+48,Stochastic Volatility Modelling with LSTM Networks: A Hybrid Approach for S&P 500 Index Volatility Forecasting,2512.12250,http://arxiv.org/abs/2512.12250v1,2025-12-13 09:21:43+00:00
+49,"Not All Transparency Is Equal: Source Presentation Effects on Attention, Interaction, and Persuasion in Conversational Search",2512.12207,http://arxiv.org/abs/2512.12207v1,2025-12-13 06:39:45+00:00
+50,Epistemoverse: Toward an AI-Driven Knowledge Metaverse for Intellectual Heritage Preservation,2512.12201,http://arxiv.org/abs/2512.12201v1,2025-12-13 06:18:50+00:00
+51,TS-DP: Reinforcement Speculative Decoding For Temporal Adaptive Diffusion Policy Acceleration,2512.15773,http://arxiv.org/abs/2512.15773v1,2025-12-13 07:53:14+00:00
+52,A Neuro-Symbolic Framework for Accountability in Public-Sector AI,2512.12109,http://arxiv.org/abs/2512.12109v2,2025-12-13 00:53:26+00:00
