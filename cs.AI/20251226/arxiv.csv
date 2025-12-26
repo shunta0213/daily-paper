@@ -1,0 +1,101 @@
+,title,id,arxiv_url,published
+0,A Benchmark for Ultra-High-Resolution Remote Sensing MLLMs,2512.17319,http://arxiv.org/abs/2512.17319v1,2025-12-19 08:07:51+00:00
+1,Verifiability-First Agents: Provable Observability and Lightweight Audit Agents for Controlling Autonomous LLM Systems,2512.17259,http://arxiv.org/abs/2512.17259v1,2025-12-19 06:12:43+00:00
+2,AlignDP: Hybrid Differential Privacy with Rarity-Aware Protection for LLMs,2512.17251,http://arxiv.org/abs/2512.17251v1,2025-12-19 05:36:23+00:00
+3,The Role of Islamic Ethics in Preventing the Abuse of Artificial Intelligence (AI) Based Deepfakes,2512.17218,http://arxiv.org/abs/2512.17218v1,2025-12-19 04:05:41+00:00
+4,PILAR: Personalizing Augmented Reality Interactions with LLM-based Human-Centric and Trustworthy Explanations for Daily Use Cases,2512.17172,http://arxiv.org/abs/2512.17172v1,2025-12-19 02:19:38+00:00
+5,Adversarial Robustness of Vision in Open Foundation Models,2512.17902,http://arxiv.org/abs/2512.17902v1,2025-12-19 18:59:16+00:00
+6,Planning as Descent: Goal-Conditioned Latent Trajectory Synthesis in Learned Energy Landscapes,2512.17846,http://arxiv.org/abs/2512.17846v1,2025-12-19 17:49:13+00:00
+7,MedNeXt-v2: Scaling 3D ConvNeXts for Large-Scale Supervised Representation Learning in Medical Image Segmentation,2512.17774,http://arxiv.org/abs/2512.17774v1,2025-12-19 16:45:23+00:00
+8,An Empirical Study of Sampling Hyperparameters in Diffusion-Based Super-Resolution,2512.17675,http://arxiv.org/abs/2512.17675v1,2025-12-19 15:17:12+00:00
+9,MAD-OOD: A Deep Learning Cluster-Driven Framework for an Out-of-Distribution Malware Detection and Classification,2512.17594,http://arxiv.org/abs/2512.17594v1,2025-12-19 14:02:37+00:00
+10,A unified FLAIR hyperintensity segmentation model for various CNS tumor types and acquisition time points,2512.17566,http://arxiv.org/abs/2512.17566v1,2025-12-19 13:33:43+00:00
+11,Robust-R1: Degradation-Aware Reasoning for Robust Visual Understanding,2512.17532,http://arxiv.org/abs/2512.17532v1,2025-12-19 12:56:17+00:00
+12,"SafeBench-Seq: A Homology-Clustered, CPU-Only Baseline for Protein Hazard Screening with Physicochemical/Composition Features and Cluster-Aware Confidence Intervals",2512.17527,http://arxiv.org/abs/2512.17527v1,2025-12-19 12:51:31+00:00
+13,InsertAnywhere: Bridging 4D Scene Geometry and Diffusion Models for Realistic Video Object Insertion,2512.17504,http://arxiv.org/abs/2512.17504v1,2025-12-19 12:14:36+00:00
+14,Behavioural Effects of Agentic Messaging: A Case Study on a Financial Service Application,2512.17462,http://arxiv.org/abs/2512.17462v1,2025-12-19 11:25:18+00:00
+15,When De-noising Hurts: A Systematic Study of Speech Enhancement Effects on Modern Medical ASR Systems,2512.17562,http://arxiv.org/abs/2512.17562v1,2025-12-19 13:32:19+00:00
+16,Holistic Evaluation of State-of-the-Art LLMs for Code Generation,2512.18131,http://arxiv.org/abs/2512.18131v1,2025-12-19 23:29:05+00:00
+17,"Efficient Mixture-of-Agents Serving via Tree-Structured Routing, Adaptive Pruning, and Dependency-Aware Prefill-Decode Overlap",2512.18126,http://arxiv.org/abs/2512.18126v1,2025-12-19 23:06:58+00:00
+18,A Hybrid Inductive-Transductive Network for Traffic Flow Imputation on Unsampled Locations,2512.17984,http://arxiv.org/abs/2512.17984v1,2025-12-19 14:14:40+00:00
+19,Securing Agentic AI Systems -- A Multilayer Security Framework,2512.18043,http://arxiv.org/abs/2512.18043v1,2025-12-19 20:22:25+00:00
+20,QMBench: A Research Level Benchmark for Quantum Materials Research,2512.19753,http://arxiv.org/abs/2512.19753v1,2025-12-19 00:57:43+00:00
+21,Conservative Bias in Multi-Teacher Learning: Why Agents Prefer Low-Reward Advisors,2512.17180,http://arxiv.org/abs/2512.17180v2,2025-12-19 02:38:04+00:00
+22,Disentangling Fact from Sentiment: A Dynamic Conflict-Consensus Framework for Multimodal Fake News Detection,2512.20670,http://arxiv.org/abs/2512.20670v1,2025-12-19 10:20:32+00:00
+23,Forward Only Learning for Orthogonal Neural Networks of any Depth,2512.20668,http://arxiv.org/abs/2512.20668v1,2025-12-19 10:03:34+00:00
+24,From Fake Focus to Real Precision: Confusion-Driven Adversarial Attention Learning in Transformers,2512.20661,http://arxiv.org/abs/2512.20661v1,2025-12-19 01:48:25+00:00
+25,Subjective Question Generation and Answer Evaluation using NLP,2512.17289,http://arxiv.org/abs/2512.17289v1,2025-12-19 07:11:50+00:00
+26,WDFFU-Mamba: A Wavelet-guided Dual-attention Feature Fusion Mamba for Breast Tumor Segmentation in Ultrasound Images,2512.17278,http://arxiv.org/abs/2512.17278v1,2025-12-19 06:50:03+00:00
+27,From Priors to Predictions: Explaining and Visualizing Human Reasoning in a Graph Neural Network Framework,2512.17255,http://arxiv.org/abs/2512.17255v1,2025-12-19 05:56:48+00:00
+28,Research on Dead Reckoning Algorithm for Self-Propelled Pipeline Robots in Three-Dimensional Complex Pipelines,2512.17215,http://arxiv.org/abs/2512.17215v1,2025-12-19 03:58:02+00:00
+29,Fose: Fusion of One-Step Diffusion and End-to-End Network for Pansharpening,2512.17202,http://arxiv.org/abs/2512.17202v1,2025-12-19 03:28:39+00:00
+30,UmniBench: Unified Understand and Generation Model Oriented Omni-dimensional Benchmark,2512.17196,http://arxiv.org/abs/2512.17196v1,2025-12-19 03:20:59+00:00
+31,Systemic Risk Radar: A Multi-Layer Graph Framework for Early Market Crash Warning,2512.17185,http://arxiv.org/abs/2512.17185v1,2025-12-19 03:00:09+00:00
+32,Trust-Region Adaptive Policy Optimization,2512.17636,http://arxiv.org/abs/2512.17636v1,2025-12-19 14:37:07+00:00
+33,Towards Explainable Conversational AI for Early Diagnosis with Large Language Models,2512.17559,http://arxiv.org/abs/2512.17559v1,2025-12-19 13:28:50+00:00
+34,Weighted Stochastic Differential Equation to Implement Wasserstein-Fisher-Rao Gradient Flow,2512.17878,http://arxiv.org/abs/2512.17878v1,2025-12-19 18:31:27+00:00
+35,Pix2NPHM: Learning to Regress NPHM Reconstructions From a Single Image,2512.17773,http://arxiv.org/abs/2512.17773v1,2025-12-19 16:44:32+00:00
+36,Bangla MedER: Multi-BERT Ensemble Approach for the Recognition of Bangla Medical Entity,2512.17769,http://arxiv.org/abs/2512.17769v1,2025-12-19 16:41:16+00:00
+37,Diversity Recommendation via Causal Deconfounding of Co-purchase Relations and Counterfactual Exposure,2512.17733,http://arxiv.org/abs/2512.17733v1,2025-12-19 16:09:29+00:00
+38,"Digital and Web Forensics Model Cards, V1",2512.17722,http://arxiv.org/abs/2512.17722v1,2025-12-19 15:56:12+00:00
+39,Learning What to Write: Write-Gated KV for Efficient Long-Context Inference,2512.17452,http://arxiv.org/abs/2512.17452v2,2025-12-19 11:08:58+00:00
+40,Re-assessing the evidence for mental rotation abilities in children using computational models,2512.17972,http://arxiv.org/abs/2512.17972v1,2025-12-19 08:25:00+00:00
+41,Convolutional-neural-operator-based transfer learning for solving PDEs,2512.17969,http://arxiv.org/abs/2512.17969v1,2025-12-19 03:55:20+00:00
+42,A Critical Review of Monte Carlo Algorithms Balancing Performance and Probabilistic Accuracy with AI Augmented Framework,2512.17968,http://arxiv.org/abs/2512.17968v1,2025-12-19 01:20:36+00:00
+43,Large Language Models as Pokémon Battle Agents: Strategic Play and Content Generation,2512.17308,http://arxiv.org/abs/2512.17308v1,2025-12-19 07:46:29+00:00
+44,Exploring the Effect of Basis Rotation on NQS Performance,2512.17893,http://arxiv.org/abs/2512.17893v1,2025-12-19 18:49:33+00:00
+45,About Time: Model-free Reinforcement Learning with Timed Reward Machines,2512.17637,http://arxiv.org/abs/2512.17637v1,2025-12-19 14:39:03+00:00
+46,"Unifying Causal Reinforcement Learning: Survey, Taxonomy, Algorithms and Applications",2512.18135,http://arxiv.org/abs/2512.18135v1,2025-12-19 23:37:22+00:00
+47,Rethinking Multi-Agent Intelligence Through the Lens of Small-World Networks,2512.18094,http://arxiv.org/abs/2512.18094v1,2025-12-19 22:05:43+00:00
+48,Conflict-Driven Clause Learning with VSIDS Heuristics for Discrete Facility Layout,2512.18034,http://arxiv.org/abs/2512.18034v1,2025-12-19 20:03:37+00:00
+49,A Dataset and Benchmarks for Atrial Fibrillation Detection from Electrocardiograms of Intensive Care Unit Patients,2512.18031,http://arxiv.org/abs/2512.18031v1,2025-12-19 19:51:00+00:00
+50,Dialectics for Artificial Intelligence,2512.17373,http://arxiv.org/abs/2512.17373v2,2025-12-19 09:17:21+00:00
+51,ScoutGPT: Capturing Player Impact from Team Action Sequences Using GPT-Based Framework,2512.17266,http://arxiv.org/abs/2512.17266v2,2025-12-19 06:30:11+00:00
+52,Interpretable Plant Leaf Disease Detection Using Attention-Enhanced CNN,2512.17864,http://arxiv.org/abs/2512.17864v2,2025-12-19 18:11:15+00:00
+53,Eidoku: A Neuro-Symbolic Verification Gate for LLM Reasoning via Structural Constraint Satisfaction,2512.20664,http://arxiv.org/abs/2512.20664v1,2025-12-19 05:29:43+00:00
+54,More Consistent Accuracy PINN via Alternating Easy-Hard Training,2512.17607,http://arxiv.org/abs/2512.17607v1,2025-12-19 14:12:17+00:00
+55,"Fair Voting Methods as a Catalyst for Democratic Resilience: A Trilogy on Legitimacy, Impact and AI Safeguarding",2512.17461,http://arxiv.org/abs/2512.17461v1,2025-12-19 11:24:26+00:00
+56,A lightweight Spatial-Temporal Graph Neural Network for Long-term Time Series Forecasting,2512.17453,http://arxiv.org/abs/2512.17453v1,2025-12-19 11:12:20+00:00
+57,RadImageNet-VQA: A Large-Scale CT and MRI Dataset for Radiologic Visual Question Answering,2512.17396,http://arxiv.org/abs/2512.17396v1,2025-12-19 09:47:54+00:00
+58,M2RU: Memristive Minion Recurrent Unit for Continual Learning at the Edge,2512.17299,http://arxiv.org/abs/2512.17299v1,2025-12-19 07:27:30+00:00
+59,Incorporating Error Level Noise Embedding for Improving LLM-Assisted Robustness in Persian Speech Recognition,2512.17247,http://arxiv.org/abs/2512.17247v1,2025-12-19 05:26:50+00:00
+60,Privacy-Preserving Synthetic Dataset of Individual Daily Trajectories for City-Scale Mobility Analytics,2512.17239,http://arxiv.org/abs/2512.17239v1,2025-12-19 04:59:41+00:00
+61,MMRAG-RFT: Two-stage Reinforcement Fine-tuning for Explainable Multi-modal Retrieval-augmented Generation,2512.17194,http://arxiv.org/abs/2512.17194v1,2025-12-19 03:19:54+00:00
+62,Easy Adaptation: An Efficient Task-Specific Knowledge Injection Method for Large Models in Resource-Constrained Environments,2512.17771,http://arxiv.org/abs/2512.17771v1,2025-12-19 16:43:07+00:00
+63,Re-Depth Anything: Test-Time Depth Refinement via Self-Supervised Re-lighting,2512.17908,http://arxiv.org/abs/2512.17908v1,2025-12-19 18:59:56+00:00
+64,Characterising Behavioural Families and Dynamics of Promotional Twitter Bots via Sequence-Based Modelling,2512.18077,http://arxiv.org/abs/2512.18077v1,2025-12-19 21:30:21+00:00
+65,FOODER: Real-time Facial Authentication and Expression Recognition,2512.18057,http://arxiv.org/abs/2512.18057v1,2025-12-19 20:51:20+00:00
+66,Specification and Detection of LLM Code Smells,2512.18020,http://arxiv.org/abs/2512.18020v1,2025-12-19 19:24:56+00:00
+67,Seeing Justice Clearly: Handwritten Legal Document Translation with OCR and Vision-Language Models,2512.18004,http://arxiv.org/abs/2512.18004v1,2025-12-19 19:06:14+00:00
+68,ReGal: A First Look at PPO-based Legal AI for Judgment Prediction and Summarization in India,2512.18014,http://arxiv.org/abs/2512.18014v1,2025-12-19 19:13:41+00:00
+69,Bridging the AI Trustworthiness Gap between Functions and Norms,2512.20671,http://arxiv.org/abs/2512.20671v1,2025-12-19 14:06:57+00:00
+70,Dominating vs. Dominated: Generative Collapse in Diffusion Models,2512.20666,http://arxiv.org/abs/2512.20666v1,2025-12-19 06:36:15+00:00
+71,SCOPE: Sequential Causal Optimization of Process Interventions,2512.17629,http://arxiv.org/abs/2512.17629v2,2025-12-19 14:33:02+00:00
+72,Adaptive Agents in Spatial Double-Auction Markets: Modeling the Emergence of Industrial Symbiosis,2512.17979,http://arxiv.org/abs/2512.17979v1,2025-12-19 13:24:43+00:00
+73,MGRegBench: A Novel Benchmark Dataset with Anatomical Landmarks for Mammography Image Registration,2512.17605,http://arxiv.org/abs/2512.17605v1,2025-12-19 14:10:36+00:00
+74,ClothHMR: 3D Mesh Recovery of Humans in Diverse Clothing from Single Image,2512.17545,http://arxiv.org/abs/2512.17545v1,2025-12-19 13:10:31+00:00
+75,Key-Conditioned Orthonormal Transform Gating (K-OTG): Multi-Key Access Control with Hidden-State Scrambling for LoRA-Tuned Models,2512.17519,http://arxiv.org/abs/2512.17519v1,2025-12-19 12:42:53+00:00
+76,Translating the Rashomon Effect to Sequential Decision-Making Tasks,2512.17470,http://arxiv.org/abs/2512.17470v1,2025-12-19 11:33:30+00:00
+77,Assessing Long-Term Electricity Market Design for Ambitious Decarbonization Targets using Multi-Agent Reinforcement Learning,2512.17444,http://arxiv.org/abs/2512.17444v1,2025-12-19 10:56:34+00:00
+78,Optimisation of Aircraft Maintenance Schedules,2512.17412,http://arxiv.org/abs/2512.17412v1,2025-12-19 10:06:09+00:00
+79,Detection and Analysis of Sensitive and Illegal Content on the Ethereum Blockchain Using Machine Learning Techniques,2512.17411,http://arxiv.org/abs/2512.17411v1,2025-12-19 10:04:52+00:00
+80,Humanlike AI Design Increases Anthropomorphism but Yields Divergent Outcomes on Engagement and Trust Globally,2512.17898,http://arxiv.org/abs/2512.17898v1,2025-12-19 18:57:53+00:00
+81,AnyTask: an Automated Task and Data Generation Framework for Advancing Sim-to-Real Policy Learning,2512.17853,http://arxiv.org/abs/2512.17853v1,2025-12-19 17:55:48+00:00
+82,InfSplign: Inference-Time Spatial Alignment of Text-to-Image Diffusion Models,2512.17851,http://arxiv.org/abs/2512.17851v1,2025-12-19 17:52:43+00:00
+83,Intelligent Knowledge Mining Framework: Bridging AI Analysis and Trustworthy Preservation,2512.17795,http://arxiv.org/abs/2512.17795v1,2025-12-19 17:01:03+00:00
+84,AncientBench: Towards Comprehensive Evaluation on Excavated and Transmitted Chinese Corpora,2512.17756,http://arxiv.org/abs/2512.17756v1,2025-12-19 16:28:57+00:00
+85,STAR: Semantic-Traffic Alignment and Retrieval for Zero-Shot HTTPS Website Fingerprinting,2512.17667,http://arxiv.org/abs/2512.17667v1,2025-12-19 15:12:01+00:00
+86,Adaptive Graph Pruning with Sudden-Events Evaluation for Traffic Prediction using Online Semi-Decentralized ST-GNNs,2512.17352,http://arxiv.org/abs/2512.17352v1,2025-12-19 08:48:36+00:00
+87,AutoMetrics: Approximate Human Judgements with Automatically Generated Evaluators,2512.17267,http://arxiv.org/abs/2512.17267v1,2025-12-19 06:32:46+00:00
+88,SDUM: A Scalable Deep Unrolled Model for Universal MRI Reconstruction,2512.17137,http://arxiv.org/abs/2512.17137v1,2025-12-19 00:09:32+00:00
+89,Parameter-Efficient Fine-Tuning for HAR: Integrating LoRA and QLoRA into Transformer Models,2512.17983,http://arxiv.org/abs/2512.17983v1,2025-12-19 14:12:43+00:00
+90,ShareChat: A Dataset of Chatbot Conversations in the Wild,2512.17843,http://arxiv.org/abs/2512.17843v1,2025-12-19 17:47:53+00:00
+91,A Systematic Reproducibility Study of BSARec for Sequential Recommendation,2512.17442,http://arxiv.org/abs/2512.17442v1,2025-12-19 10:54:42+00:00
+92,CodeGEMM: A Codebook-Centric Approach to Efficient GEMM in Quantized LLMs,2512.17970,http://arxiv.org/abs/2512.17970v1,2025-12-19 06:16:32+00:00
+93,Uncertainty-Gated Region-Level Retrieval for Robust Semantic Segmentation,2512.18082,http://arxiv.org/abs/2512.18082v1,2025-12-19 21:39:22+00:00
+94,LLM-based Behaviour Driven Development for Hardware Design,2512.17814,http://arxiv.org/abs/2512.17814v2,2025-12-19 17:19:08+00:00
+95,Grad: Guided Relation Diffusion Generation for Graph Augmentation in Graph Fraud Detection,2512.18133,http://arxiv.org/abs/2512.18133v1,2025-12-19 23:32:36+00:00
+96,Faithful and Stable Neuron Explanations for Trustworthy Mechanistic Interpretability,2512.18092,http://arxiv.org/abs/2512.18092v1,2025-12-19 21:55:17+00:00
+97,"The Subject of Emergent Misalignment in Superintelligence: An Anthropological, Cognitive Neuropsychological, Machine-Learning, and Ontological Perspective",2512.17989,http://arxiv.org/abs/2512.17989v1,2025-12-19 17:43:25+00:00
+98,When Reasoning Meets Its Laws,2512.17901,http://arxiv.org/abs/2512.17901v1,2025-12-19 18:59:11+00:00
+99,RadarGen: Automotive Radar Point Cloud Generation from Cameras,2512.17897,http://arxiv.org/abs/2512.17897v1,2025-12-19 18:57:33+00:00
