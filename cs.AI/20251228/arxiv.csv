@@ -1,0 +1,52 @@
+,title,id,arxiv_url,published
+0,PIPCFR: Pseudo-outcome Imputation with Post-treatment Variables for Individual Treatment Effect Estimation,2512.18737,http://arxiv.org/abs/2512.18737v1,2025-12-21 13:57:26+00:00
+1,"$M^3-Verse$: A ""Spot the Difference"" Challenge for Large Multimodal Models",2512.18735,http://arxiv.org/abs/2512.18735v1,2025-12-21 13:50:26+00:00
+2,KeenKT: Knowledge Mastery-State Disambiguation for Knowledge Tracing,2512.18709,http://arxiv.org/abs/2512.18709v1,2025-12-21 12:01:10+00:00
+3,Remoe: Towards Efficient and Low-Cost MoE Inference in Serverless Computing,2512.18674,http://arxiv.org/abs/2512.18674v1,2025-12-21 10:27:50+00:00
+4,A Multi-agent Text2SQL Framework using Small Language Models and Execution Feedback,2512.18622,http://arxiv.org/abs/2512.18622v1,2025-12-21 06:43:47+00:00
+5,Modality-Dependent Memory Mechanisms in Cross-Modal Neuromorphic Computing,2512.18575,http://arxiv.org/abs/2512.18575v1,2025-12-21 03:18:42+00:00
+6,ESearch-R1: Learning Cost-Aware MLLM Agents for Interactive Embodied Search via Reinforcement Learning,2512.18571,http://arxiv.org/abs/2512.18571v1,2025-12-21 02:45:08+00:00
+7,An Empirical Study of Developer-Provided Context for AI Coding Assistants in Open-Source Projects,2512.18925,http://arxiv.org/abs/2512.18925v1,2025-12-21 23:51:02+00:00
+8,Can LLMs Estimate Student Struggles? Human-AI Difficulty Alignment with Proficiency Simulation for Item Difficulty Prediction,2512.18880,http://arxiv.org/abs/2512.18880v1,2025-12-21 20:41:36+00:00
+9,CORE: Concept-Oriented Reinforcement for Bridging the Definition-Application Gap in Mathematical Reasoning,2512.18857,http://arxiv.org/abs/2512.18857v1,2025-12-21 19:01:35+00:00
+10,Controllable Probabilistic Forecasting with Stochastic Decomposition Layers,2512.18815,http://arxiv.org/abs/2512.18815v1,2025-12-21 17:10:00+00:00
+11,Smark: A Watermark for Text-to-Speech Diffusion Models via Discrete Wavelet Transform,2512.18791,http://arxiv.org/abs/2512.18791v1,2025-12-21 16:07:08+00:00
+12,PTTA: A Pure Text-to-Animation Framework for High-Quality Creation,2512.18614,http://arxiv.org/abs/2512.18614v1,2025-12-21 06:17:28+00:00
+13,How Many Experts Are Enough? Towards Optimal Semantic Specialization for Mixture-of-Experts,2512.19765,http://arxiv.org/abs/2512.19765v1,2025-12-21 05:37:42+00:00
+14,ARC: Leveraging Compositional Representations for Cross-Problem Learning on VRPs,2512.18633,http://arxiv.org/abs/2512.18633v1,2025-12-21 08:06:27+00:00
+15,Assignment-Routing Optimization: Solvers for Problems Under Constraints,2512.18618,http://arxiv.org/abs/2512.18618v1,2025-12-21 06:32:31+00:00
+16,DASH: Deception-Augmented Shared Mental Model for a Human-Machine Teaming System,2512.18616,http://arxiv.org/abs/2512.18616v1,2025-12-21 06:20:48+00:00
+17,Text2Graph VPR: A Text-to-Graph Expert System for Explainable Place Recognition in Changing Environments,2512.18613,http://arxiv.org/abs/2512.18613v1,2025-12-21 06:16:20+00:00
+18,From Scratch to Fine-Tuned: A Comparative Study of Transformer Training Strategies for Legal Machine Translation,2512.18593,http://arxiv.org/abs/2512.18593v1,2025-12-21 04:45:31+00:00
+19,Placenta Accreta Spectrum Detection Using an MRI-based Hybrid CNN-Transformer Model,2512.18573,http://arxiv.org/abs/2512.18573v1,2025-12-21 02:59:47+00:00
+20,Toward Training Superintelligent Software Agents through Self-Play SWE-RL,2512.18552,http://arxiv.org/abs/2512.18552v1,2025-12-21 00:49:40+00:00
+21,Multimodal Bayesian Network for Robust Assessment of Casualties in Autonomous Triage,2512.18908,http://arxiv.org/abs/2512.18908v1,2025-12-21 22:59:58+00:00
+22,CrashChat: A Multimodal Large Language Model for Multitask Traffic Crash Video Analysis,2512.18878,http://arxiv.org/abs/2512.18878v1,2025-12-21 20:39:31+00:00
+23,FedVideoMAE: Efficient Privacy-Preserving Federated Video Moderation,2512.18809,http://arxiv.org/abs/2512.18809v1,2025-12-21 17:01:44+00:00
+24,The Dead Salmons of AI Interpretability,2512.18792,http://arxiv.org/abs/2512.18792v1,2025-12-21 16:07:44+00:00
+25,IPCV: Information-Preserving Compression for MLLM Visual Encoders,2512.18747,http://arxiv.org/abs/2512.18747v1,2025-12-21 14:28:28+00:00
+26,Counterfactual Basis Extension and Representational Geometry: An MDL-Constrained Model of Conceptual Growth,2512.18732,http://arxiv.org/abs/2512.18732v1,2025-12-21 13:39:00+00:00
+27,ASTIF: Adaptive Semantic-Temporal Integration for Cryptocurrency Price Forecasting,2512.18661,http://arxiv.org/abs/2512.18661v1,2025-12-21 09:17:36+00:00
+28,Geometric-Photometric Event-based 3D Gaussian Ray Tracing,2512.18640,http://arxiv.org/abs/2512.18640v1,2025-12-21 08:31:02+00:00
+29,Fusion of Multiscale Features Via Centralized Sparse-attention Network for EEG Decoding,2512.18689,http://arxiv.org/abs/2512.18689v2,2025-12-21 10:55:32+00:00
+30,Social Comparison without Explicit Inference of Others' Reward Values: A Constructive Approach Using a Probabilistic Generative Model,2512.18687,http://arxiv.org/abs/2512.18687v2,2025-12-21 10:48:40+00:00
+31,IntelliCode: A Multi-Agent LLM Tutoring System with Centralized Learner Modeling,2512.18669,http://arxiv.org/abs/2512.18669v1,2025-12-21 10:07:06+00:00
+32,Automatic Adaptation to Concept Complexity and Subjective Natural Concepts: A Cognitive Model based on Chunking,2512.18665,http://arxiv.org/abs/2512.18665v1,2025-12-21 09:43:20+00:00
+33,LLM-CAS: Dynamic Neuron Perturbation for Real-Time Hallucination Correction,2512.18623,http://arxiv.org/abs/2512.18623v1,2025-12-21 06:54:34+00:00
+34,ChronoDreamer: Action-Conditioned World Model as an Online Simulator for Robotic Planning,2512.18619,http://arxiv.org/abs/2512.18619v1,2025-12-21 06:36:03+00:00
+35,Reflective Confidence: Correcting Reasoning Flaws via Online Self-Correction,2512.18605,http://arxiv.org/abs/2512.18605v1,2025-12-21 05:35:07+00:00
+36,AI Code in the Wild: Measuring Security Risks and Ecosystem Shifts of AI-Generated Code in Modern Software,2512.18567,http://arxiv.org/abs/2512.18567v1,2025-12-21 02:26:29+00:00
+37,Vox Deorum: A Hybrid LLM Architecture for 4X / Grand Strategy Game AI -- Lessons from Civilization V,2512.18564,http://arxiv.org/abs/2512.18564v1,2025-12-21 02:15:09+00:00
+38,Enhancing Medical Large Vision-Language Models via Alignment Distillation,2512.18554,http://arxiv.org/abs/2512.18554v1,2025-12-21 00:57:13+00:00
+39,Gabliteration: Adaptive Multi-Directional Neural Weight Modification for Selective Behavioral Alteration in Large Language Models,2512.18901,http://arxiv.org/abs/2512.18901v1,2025-12-21 22:12:54+00:00
+40,Hyperbolic Graph Embeddings: a Survey and an Evaluation on Anomaly Detection,2512.18826,http://arxiv.org/abs/2512.18826v1,2025-12-21 17:19:29+00:00
+41,Reliable Audio Deepfake Detection in Variable Conditions via Quantum-Kernel SVMs,2512.18797,http://arxiv.org/abs/2512.18797v1,2025-12-21 16:31:05+00:00
+42,MEEA: Mere Exposure Effect-Driven Confrontational Optimization for LLM Jailbreaking,2512.18755,http://arxiv.org/abs/2512.18755v1,2025-12-21 14:43:26+00:00
+43,"Psychometric Validation of the Sophotechnic Mediation Scale and a New Understanding of the Development of GenAI Mastery: Lessons from 3,932 Adult Brazilian Workers",2512.18871,http://arxiv.org/abs/2512.18871v3,2025-12-21 20:11:07+00:00
+44,HARBOR: Holistic Adaptive Risk assessment model for BehaviORal healthcare,2512.18829,http://arxiv.org/abs/2512.18829v1,2025-12-21 17:27:10+00:00
+45,Explainable and Fine-Grained Safeguarding of LLM Multi-Agent Systems via Bi-Level Graph Anomaly Detection,2512.18733,http://arxiv.org/abs/2512.18733v1,2025-12-21 13:46:36+00:00
+46,CauTraj: A Causal-Knowledge-Guided Framework for Lane-Changing Trajectory Planning of Autonomous Vehicles,2512.18703,http://arxiv.org/abs/2512.18703v1,2025-12-21 11:44:32+00:00
+47,"The Interaction Bottleneck of Deep Neural Networks: Discovery, Proof, and Modulation",2512.18607,http://arxiv.org/abs/2512.18607v1,2025-12-21 05:55:11+00:00
+48,Adaptive Accountability in Networked MAS: Tracing and Mitigating Emergent Norms at Scale,2512.18561,http://arxiv.org/abs/2512.18561v1,2025-12-21 02:04:47+00:00
+49,Structural Reinforcement Learning for Heterogeneous Agent Macroeconomics,2512.18892,http://arxiv.org/abs/2512.18892v1,2025-12-21 21:22:12+00:00
+50,Code2Doc: A Quality-First Curated Dataset for Code Documentation,2512.18748,http://arxiv.org/abs/2512.18748v2,2025-12-21 14:28:51+00:00
