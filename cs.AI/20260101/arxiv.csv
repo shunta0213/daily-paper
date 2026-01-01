@@ -1,0 +1,60 @@
+,title,id,arxiv_url,published
+0,DBAW-PIKAN: Dynamic Balance Adaptive Weight Kolmogorov-Arnold Neural Network for Solving Partial Differential Equations,2512.22283,http://arxiv.org/abs/2512.22283v1,2025-12-25 06:47:14+00:00
+1,The Illusion of Clinical Reasoning: A Benchmark Reveals the Pervasive Gap in Vision-Language Models for Clinical Competency,2512.22275,http://arxiv.org/abs/2512.22275v1,2025-12-25 03:33:22+00:00
+2,An Information Theoretic Perspective on Agentic System Design,2512.21720,http://arxiv.org/abs/2512.21720v1,2025-12-25 15:45:31+00:00
+3,Five Years of SciCap: What We Learned and Future Directions for Scientific Figure Captioning,2512.21789,http://arxiv.org/abs/2512.21789v1,2025-12-25 21:39:10+00:00
+4,AMS-IO-Bench and AMS-IO-Agent: Benchmarking and Structured Reasoning for Analog and Mixed-Signal Integrated Circuit Input/Output Design,2512.21613,http://arxiv.org/abs/2512.21613v1,2025-12-25 10:20:55+00:00
+5,A Medical Multimodal Diagnostic Framework Integrating Vision-Language Models and Logic Tree Reasoning,2512.21583,http://arxiv.org/abs/2512.21583v1,2025-12-25 09:01:06+00:00
+6,"Human-AI Interaction Alignment: Designing, Evaluating, and Evolving Value-Centered AI For Reciprocal Human-AI Futures",2512.21551,http://arxiv.org/abs/2512.21551v1,2025-12-25 07:45:38+00:00
+7,DiverseGRPO: Mitigating Mode Collapse in Image Generation via Diversity-Aware GRPO,2512.21514,http://arxiv.org/abs/2512.21514v1,2025-12-25 05:37:37+00:00
+8,Intelligent recognition of GPR road hidden defect images based on feature fusion and attention mechanism,2512.21452,http://arxiv.org/abs/2512.21452v1,2025-12-25 00:29:58+00:00
+9,Multi-agent Adaptive Mechanism Design,2512.21794,http://arxiv.org/abs/2512.21794v1,2025-12-25 21:59:51+00:00
+10,Compliance Rating Scheme: A Data Provenance Framework for Generative AI Datasets,2512.21775,http://arxiv.org/abs/2512.21775v1,2025-12-25 20:13:46+00:00
+11,Zero-Shot to Zero-Lies: Detecting Bengali Deepfake Audio through Transfer Learning,2512.21702,http://arxiv.org/abs/2512.21702v1,2025-12-25 14:53:40+00:00
+12,Towards Responsible and Explainable AI Agents with Consensus-Driven Reasoning,2512.21699,http://arxiv.org/abs/2512.21699v1,2025-12-25 14:49:25+00:00
+13,BeHGAN: Bengali Handwritten Word Generation from Plain Text Using Generative Adversarial Networks,2512.21694,http://arxiv.org/abs/2512.21694v1,2025-12-25 14:38:12+00:00
+14,Comparative Analysis of Deep Learning Models for Perception in Autonomous Vehicles,2512.21673,http://arxiv.org/abs/2512.21673v1,2025-12-25 13:33:23+00:00
+15,Structural Induced Exploration for Balanced and Scalable Multi-Robot Path Planning,2512.21654,http://arxiv.org/abs/2512.21654v1,2025-12-25 12:53:24+00:00
+16,Variance-Aware Prior-Based Tree Policies for Monte Carlo Tree Search,2512.21648,http://arxiv.org/abs/2512.21648v1,2025-12-25 12:25:26+00:00
+17,Deep Generative Models for Synthetic Financial Data: Applications to Portfolio and Risk Modeling,2512.21798,http://arxiv.org/abs/2512.21798v2,2025-12-25 22:28:32+00:00
+18,How Do Agents Perform Code Optimization? An Empirical Study,2512.21757,http://arxiv.org/abs/2512.21757v1,2025-12-25 18:20:25+00:00
+19,Do Latent Tokens Think? A Causal and Adversarial Analysis of Chain-of-Continuous-Thought,2512.21711,http://arxiv.org/abs/2512.21711v1,2025-12-25 15:14:53+00:00
+20,Detecting AI-Generated Paraphrases in Bengali: A Comparative Study of Zero-Shot and Fine-Tuned Transformers,2512.21709,http://arxiv.org/abs/2512.21709v1,2025-12-25 15:04:29+00:00
+21,Enabling Ultra-Fast Cardiovascular Imaging Across Heterogeneous Clinical Environments with a Generalist Foundation Model and Multimodal Database,2512.21652,http://arxiv.org/abs/2512.21652v1,2025-12-25 12:47:50+00:00
+22,Selective LLM-Guided Regularization for Enhancing Recommendation Models,2512.21526,http://arxiv.org/abs/2512.21526v1,2025-12-25 06:30:00+00:00
+23,Oogiri-Master: Benchmarking Humor Understanding via Oogiri,2512.21494,http://arxiv.org/abs/2512.21494v1,2025-12-25 03:59:20+00:00
+24,LogicLens: Visual-Logical Co-Reasoning for Text-Centric Forgery Analysis,2512.21482,http://arxiv.org/abs/2512.21482v1,2025-12-25 03:02:27+00:00
+25,GPF-Net: Gated Progressive Fusion Learning for Polyp Re-Identification,2512.21476,http://arxiv.org/abs/2512.21476v1,2025-12-25 02:40:46+00:00
+26,InstructMoLE: Instruction-Guided Mixture of Low-rank Experts for Multi-Conditional Image Generation,2512.21788,http://arxiv.org/abs/2512.21788v1,2025-12-25 21:37:12+00:00
+27,When Algorithms Manage Humans: A Double Machine Learning Approach to Estimating Nonlinear Effects of Algorithmic Control on Gig Worker Performance and Wellbeing,2512.22290,http://arxiv.org/abs/2512.22290v1,2025-12-25 12:45:15+00:00
+28,Co-GRPO: Co-Optimized Group Relative Policy Optimization for Masked Diffusion Model,2512.22288,http://arxiv.org/abs/2512.22288v1,2025-12-25 12:06:04+00:00
+29,S&P 500 Stock's Movement Prediction using CNN,2512.21804,http://arxiv.org/abs/2512.21804v1,2025-12-25 23:10:07+00:00
+30,CellMamba: Adaptive Mamba for Accurate and Efficient Cell Detection,2512.21803,http://arxiv.org/abs/2512.21803v1,2025-12-25 23:05:11+00:00
+31,Inference-based GAN Video Generation,2512.21776,http://arxiv.org/abs/2512.21776v1,2025-12-25 20:14:38+00:00
+32,A-QCF-Net: An Adaptive Quaternion Cross-Fusion Network for Multimodal Liver Tumor Segmentation from Unpaired Datasets,2512.21760,http://arxiv.org/abs/2512.21760v1,2025-12-25 18:42:21+00:00
+33,HELP: Hierarchical Embodied Language Planner for Household Tasks,2512.21723,http://arxiv.org/abs/2512.21723v1,2025-12-25 15:54:08+00:00
+34,"Multiconnectivity for SAGIN: Current Trends, Challenges, AI-driven Solutions, and Opportunities",2512.21717,http://arxiv.org/abs/2512.21717v1,2025-12-25 15:40:52+00:00
+35,Exploration of Reproducible Generated Image Detection,2512.21562,http://arxiv.org/abs/2512.21562v1,2025-12-25 08:16:41+00:00
+36,Hierarchy-Aware Fine-Tuning of Vision-Language Models,2512.21529,http://arxiv.org/abs/2512.21529v1,2025-12-25 06:44:33+00:00
+37,Efficient MoE Inference with Fine-Grained Scheduling of Disaggregated Expert Parallelism,2512.21487,http://arxiv.org/abs/2512.21487v1,2025-12-25 03:22:03+00:00
+38,Cluster Aggregated GAN (CAG): A Cluster-Based Hybrid Model for Appliance Pattern Generation,2512.22287,http://arxiv.org/abs/2512.22287v1,2025-12-25 11:55:13+00:00
+39,LLM-I2I: Boost Your Small Item2Item Recommendation Model with Large Language Model,2512.21595,http://arxiv.org/abs/2512.21595v1,2025-12-25 09:22:56+00:00
+40,Residual Prior Diffusion: A Probabilistic Framework Integrating Coarse Latent Priors with Diffusion Models,2512.21593,http://arxiv.org/abs/2512.21593v1,2025-12-25 09:19:10+00:00
+41,NEMO-4-PAYPAL: Leveraging NVIDIA's Nemo Framework for empowering PayPal's Commerce Agent,2512.21578,http://arxiv.org/abs/2512.21578v1,2025-12-25 08:47:32+00:00
+42,CATCH: A Controllable Theme Detection Framework with Contextualized Clustering and Hierarchical Generation,2512.21715,http://arxiv.org/abs/2512.21715v1,2025-12-25 15:33:25+00:00
+43,Enabling Conversational Behavior Reasoning Capabilities in Full-Duplex Speech,2512.21706,http://arxiv.org/abs/2512.21706v1,2025-12-25 15:00:50+00:00
+44,Near-Optimal Coalition Structures in Polynomial Time,2512.21657,http://arxiv.org/abs/2512.21657v1,2025-12-25 12:56:37+00:00
+45,TrackTeller: Temporal Multimodal 3D Grounding for Behavior-Dependent Object References,2512.21641,http://arxiv.org/abs/2512.21641v1,2025-12-25 12:02:56+00:00
+46,"Democratizing Drug Discovery with an Orchestrated, Knowledge-Driven Multi-Agent Team for User-Guided Therapeutic Design",2512.21623,http://arxiv.org/abs/2512.21623v1,2025-12-25 11:03:04+00:00
+47,A Three-Level Alignment Framework for Large-Scale 3D Retrieval and Controlled 4D Generation,2512.22294,http://arxiv.org/abs/2512.22294v1,2025-12-25 20:27:24+00:00
+48,Multi-Head Spectral-Adaptive Graph Anomaly Detection,2512.22291,http://arxiv.org/abs/2512.22291v1,2025-12-25 14:55:43+00:00
+49,"A Unified Definition of Hallucination, Or: It's the World Model, Stupid",2512.21577,http://arxiv.org/abs/2512.21577v1,2025-12-25 08:42:18+00:00
+50,Towards Long-window Anchoring in Vision-Language Model Distillation,2512.21576,http://arxiv.org/abs/2512.21576v1,2025-12-25 08:39:14+00:00
+51,Bidirectional Human-AI Alignment in Education for Trustworthy Learning Environments,2512.21552,http://arxiv.org/abs/2512.21552v1,2025-12-25 07:50:56+00:00
+52,Leash: Adaptive Length Penalty and Reward Shaping for Efficient Large Reasoning Model,2512.21540,http://arxiv.org/abs/2512.21540v1,2025-12-25 07:16:26+00:00
+53,MotionTeller: Multi-modal Integration of Wearable Time-Series with LLMs for Health and Behavioral Understanding,2512.21506,http://arxiv.org/abs/2512.21506v1,2025-12-25 04:37:07+00:00
+54,Accelerating Scientific Discovery with Autonomous Goal-evolving Agents,2512.21782,http://arxiv.org/abs/2512.21782v1,2025-12-25 20:54:41+00:00
+55,A Model of Causal Explanation on Neural Networks for Tabular Data,2512.21746,http://arxiv.org/abs/2512.21746v1,2025-12-25 17:47:57+00:00
+56,RIPCN: A Road Impedance Principal Component Network for Probabilistic Traffic Flow Forecasting,2512.21685,http://arxiv.org/abs/2512.21685v1,2025-12-25 14:08:50+00:00
+57,Multiple-play Stochastic Bandits with Prioritized Arm Capacity Sharing,2512.21626,http://arxiv.org/abs/2512.21626v1,2025-12-25 11:19:09+00:00
+58,Valori: A Deterministic Memory Substrate for AI Systems,2512.22280,http://arxiv.org/abs/2512.22280v1,2025-12-25 06:04:04+00:00
