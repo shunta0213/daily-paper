@@ -1,0 +1,47 @@
+,title,id,arxiv_url,published
+0,RollArt: Scaling Agentic RL Training via Disaggregated Infrastructure,2512.22560,http://arxiv.org/abs/2512.22560v1,2025-12-27 11:14:23+00:00
+1,Hierarchical Pedagogical Oversight: A Multi-Agent Adversarial Framework for Reliable AI Tutoring,2512.22496,http://arxiv.org/abs/2512.22496v1,2025-12-27 06:42:07+00:00
+2,Bright 4B: Scaling Hyperspherical Learning for Segmentation in 3D Brightfield Microscopy,2512.22423,http://arxiv.org/abs/2512.22423v1,2025-12-27 01:10:47+00:00
+3,Memento-II: Learning by Stateful Reflective Memory,2512.22716,http://arxiv.org/abs/2512.22716v1,2025-12-27 22:15:03+00:00
+4,"Fragile Knowledge, Robust Instruction-Following: The Width Pruning Dichotomy in Llama-3.2",2512.22671,http://arxiv.org/abs/2512.22671v1,2025-12-27 18:09:57+00:00
+5,Unleashing Foundation Vision Models: Adaptive Transfer for Diverse Data-Limited Scientific Domains,2512.22664,http://arxiv.org/abs/2512.22664v1,2025-12-27 17:32:59+00:00
+6,Geometric Scaling of Bayesian Inference in LLMs,2512.23752,http://arxiv.org/abs/2512.23752v1,2025-12-27 05:29:55+00:00
+7,GHaLIB: A Multilingual Framework for Hope Speech Detection in Low-Resource Languages,2512.22705,http://arxiv.org/abs/2512.22705v1,2025-12-27 21:23:17+00:00
+8,Conformal Prediction Sets for Next-Token Prediction in Large Language Models: Balancing Coverage Guarantees with Set Efficiency,2512.22682,http://arxiv.org/abs/2512.22682v1,2025-12-27 19:08:54+00:00
+9,The Wisdom of Deliberating AI Crowds: Does Deliberation Improve LLM-Based Forecasting?,2512.22625,http://arxiv.org/abs/2512.22625v1,2025-12-27 15:45:21+00:00
+10,Chord Recognition with Deep Learning,2512.22621,http://arxiv.org/abs/2512.22621v1,2025-12-27 15:20:16+00:00
+11,Towards Reliable Evaluation of Adversarial Robustness for Spiking Neural Networks,2512.22522,http://arxiv.org/abs/2512.22522v1,2025-12-27 08:43:06+00:00
+12,AMBIT: Augmenting Mobility Baselines with Interpretable Trees,2512.22466,http://arxiv.org/abs/2512.22466v1,2025-12-27 04:59:16+00:00
+13,Generalized Regularized Evidential Deep Learning Models: Theory and Comprehensive Evaluation,2512.23753,http://arxiv.org/abs/2512.23753v1,2025-12-27 11:26:18+00:00
+14,The Bayesian Geometry of Transformer Attention,2512.22471,http://arxiv.org/abs/2512.22471v1,2025-12-27 05:28:58+00:00
+15,Learning with the $p$-adics,2512.22692,http://arxiv.org/abs/2512.22692v1,2025-12-27 19:40:42+00:00
+16,Scaling Unverifiable Rewards: A Case Study on Visual Insights,2512.22650,http://arxiv.org/abs/2512.22650v1,2025-12-27 17:01:38+00:00
+17,LLM Agents as VC investors: Predicting Startup Success via RolePlay-Based Collective Simulation,2512.22608,http://arxiv.org/abs/2512.22608v1,2025-12-27 14:34:44+00:00
+18,Geometry-Aware Optimization for Respiratory Sound Classification: Enhancing Sensitivity with SAM-Optimized Audio Spectrogram Transformers,2512.22564,http://arxiv.org/abs/2512.22564v1,2025-12-27 11:39:36+00:00
+19,Learning When Not to Attend Globally,2512.22562,http://arxiv.org/abs/2512.22562v1,2025-12-27 11:21:40+00:00
+20,Self-Rewarded Multimodal Coherent Reasoning Across Diverse Visual Domains,2512.22545,http://arxiv.org/abs/2512.22545v1,2025-12-27 10:14:14+00:00
+21,CoAgent: Collaborative Planning and Consistency Agent for Coherent Video Generation,2512.22536,http://arxiv.org/abs/2512.22536v1,2025-12-27 09:38:34+00:00
+22,"Multi-AI Agent Framework Reveals the ""Oxide Gatekeeper"" in Aluminum Nanoparticle Oxidation",2512.22529,http://arxiv.org/abs/2512.22529v1,2025-12-27 09:21:21+00:00
+23,DarkPatterns-LLM: A Multi-Layer Benchmark for Detecting Manipulative and Harmful AI Behavior,2512.22470,http://arxiv.org/abs/2512.22470v1,2025-12-27 05:05:46+00:00
+24,HiFi-RAG: Hierarchical Content Filtering and Two-Pass Generation for Open-Domain RAG,2512.22442,http://arxiv.org/abs/2512.22442v1,2025-12-27 02:37:40+00:00
+25,SuperiorGAT: Graph Attention Networks for Sparse LiDAR Point Cloud Reconstruction in Autonomous Systems,2512.22439,http://arxiv.org/abs/2512.22439v2,2025-12-27 02:25:00+00:00
+26,DICE: Discrete Interpretable Comparative Evaluation with Probabilistic Scoring for Retrieval-Augmented Generation,2512.22629,http://arxiv.org/abs/2512.22629v1,2025-12-27 16:02:00+00:00
+27,Learning Multi-Modal Mobility Dynamics for Generalized Next Location Recommendation,2512.22605,http://arxiv.org/abs/2512.22605v1,2025-12-27 14:23:04+00:00
+28,SANet: A Semantic-aware Agentic AI Networking Framework for Cross-layer Optimization in 6G,2512.22579,http://arxiv.org/abs/2512.22579v1,2025-12-27 12:42:47+00:00
+29,"Lessons from Neuroscience for AI: How integrating Actions, Compositional Structure and Episodic Memory could enable Safe, Interpretable and Human-Like AI",2512.22568,http://arxiv.org/abs/2512.22568v1,2025-12-27 11:54:54+00:00
+30,Predicting LLM Correctness in Prosthodontics Using Metadata and Hallucination Signals,2512.22508,http://arxiv.org/abs/2512.22508v1,2025-12-27 07:51:50+00:00
+31,SPECTRE: Spectral Pre-training Embeddings with Cylindrical Temporal Rotary Position Encoding for Fine-Grained sEMG-Based Movement Decoding,2512.22481,http://arxiv.org/abs/2512.22481v1,2025-12-27 05:55:06+00:00
+32,Towards Robust Optical-SAR Object Detection under Missing Modalities: A Dynamic Quality-Aware Fusion Framework,2512.22447,http://arxiv.org/abs/2512.22447v1,2025-12-27 03:16:48+00:00
+33,Monadic Context Engineering,2512.22431,http://arxiv.org/abs/2512.22431v1,2025-12-27 01:52:06+00:00
+34,Nightjar: Dynamic Adaptive Speculative Decoding for Large Language Models Serving,2512.22420,http://arxiv.org/abs/2512.22420v1,2025-12-27 00:57:55+00:00
+35,Gradient Dynamics of Attention: How Cross-Entropy Sculpts Bayesian Manifolds,2512.22473,http://arxiv.org/abs/2512.22473v1,2025-12-27 05:31:44+00:00
+36,TimePerceiver: An Encoder-Decoder Framework for Generalized Time-Series Forecasting,2512.22550,http://arxiv.org/abs/2512.22550v1,2025-12-27 10:34:22+00:00
+37,Role-Based Fault Tolerance System for LLM RL Post-Training,2512.22492,http://arxiv.org/abs/2512.22492v1,2025-12-27 06:30:18+00:00
+38,ManchuTTS: Towards High-Quality Manchu Speech Synthesis via Flow Matching and Hierarchical Text Representation,2512.22491,http://arxiv.org/abs/2512.22491v1,2025-12-27 06:21:35+00:00
+39,FluenceFormer: Transformer-Driven Multi-Beam Fluence Map Regression for Radiotherapy Planning,2512.22425,http://arxiv.org/abs/2512.22425v1,2025-12-27 01:12:15+00:00
+40,Emergence of Human to Robot Transfer in Vision-Language-Action Models,2512.22414,http://arxiv.org/abs/2512.22414v1,2025-12-27 00:13:11+00:00
+41,TravelBench: A Real-World Benchmark for Multi-Turn and Tool-Augmented Travel Planning,2512.22673,http://arxiv.org/abs/2512.22673v1,2025-12-27 18:25:14+00:00
+42,Investigating Deep Learning Models for Ejection Fraction Estimation from Echocardiography Videos,2512.22657,http://arxiv.org/abs/2512.22657v1,2025-12-27 17:11:17+00:00
+43,"Tyee: A Unified, Modular, and Fully-Integrated Configurable Toolkit for Intelligent Physiological Health Care",2512.22601,http://arxiv.org/abs/2512.22601v1,2025-12-27 14:14:01+00:00
+44,Leveraging Machine Learning for Early Detection of Lung Diseases,2512.23757,http://arxiv.org/abs/2512.23757v1,2025-12-27 16:50:23+00:00
+45,HINTS: Extraction of Human Insights from Time-Series Without External Sources,2512.23755,http://arxiv.org/abs/2512.23755v1,2025-12-27 15:13:12+00:00
