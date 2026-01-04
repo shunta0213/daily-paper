@@ -1,0 +1,47 @@
+,title,id,arxiv_url,published
+0,A Neural Network-Based Real-time Casing Collar Recognition System for Downhole Instruments,2512.22901,http://arxiv.org/abs/2512.22901v1,2025-12-28 12:19:36+00:00
+1,SAMP-HDRL: Segmented Allocation with Momentum-Adjusted Utility for Multi-agent Portfolio Management via Hierarchical Deep Reinforcement Learning,2512.22895,http://arxiv.org/abs/2512.22895v1,2025-12-28 11:56:39+00:00
+2,Agentic AI for Cyber Resilience: A New Security Paradigm and Its System-Theoretic Foundations,2512.22883,http://arxiv.org/abs/2512.22883v1,2025-12-28 11:17:36+00:00
+3,Drift-Based Dataset Stability Benchmark,2512.23762,http://arxiv.org/abs/2512.23762v1,2025-12-28 22:02:19+00:00
+4,Deep Learning for Art Market Valuation,2512.23078,http://arxiv.org/abs/2512.23078v1,2025-12-28 21:04:09+00:00
+5,Trust Region Masking for Long-Horizon LLM Reinforcement Learning,2512.23075,http://arxiv.org/abs/2512.23075v1,2025-12-28 20:41:59+00:00
+6,Problems With Large Language Models for Learner Modelling: Why LLMs Alone Fall Short for Responsible Tutoring in K--12 Education,2512.23036,http://arxiv.org/abs/2512.23036v1,2025-12-28 18:26:22+00:00
+7,APO: Alpha-Divergence Preference Optimization,2512.22953,http://arxiv.org/abs/2512.22953v1,2025-12-28 14:51:03+00:00
+8,Sat-EnQ: Satisficing Ensembles of Weak Q-Learners for Reliable and Compute-Efficient Reinforcement Learning,2512.22910,http://arxiv.org/abs/2512.22910v1,2025-12-28 12:41:09+00:00
+9,HiSciBench: A Hierarchical Multi-disciplinary Benchmark for Scientific Intelligence from Reading to Discovery,2512.22899,http://arxiv.org/abs/2512.22899v1,2025-12-28 12:08:05+00:00
+10,FasterPy: An LLM-based Code Execution Efficiency Optimization Framework,2512.22827,http://arxiv.org/abs/2512.22827v1,2025-12-28 07:43:08+00:00
+11,EgoReAct: Egocentric Video-Driven 3D Human Reaction Generation,2512.22808,http://arxiv.org/abs/2512.22808v1,2025-12-28 06:44:05+00:00
+12,Understanding the Mechanisms of Fast Hyperparameter Transfer,2512.22768,http://arxiv.org/abs/2512.22768v1,2025-12-28 04:13:00+00:00
+13,How Much Data Is Enough? Uniform Convergence Bounds for Generative & Vision-Language Models under Low-Dimensional Structure,2512.23109,http://arxiv.org/abs/2512.23109v1,2025-12-28 23:16:22+00:00
+14,Taming the Tail: Stable LLM Reinforcement Learning via Dynamic Vocabulary Pruning,2512.23087,http://arxiv.org/abs/2512.23087v1,2025-12-28 21:44:07+00:00
+15,"Adapting, Fast and Slow: Transportable Circuits for Few-Shot Learning",2512.22777,http://arxiv.org/abs/2512.22777v1,2025-12-28 04:38:43+00:00
+16,Next Best View Selections for Semantic and Dynamic 3D Gaussian Splatting,2512.22771,http://arxiv.org/abs/2512.22771v1,2025-12-28 04:19:25+00:00
+17,Harnessing Large Language Models for Biomedical Named Entity Recognition,2512.22738,http://arxiv.org/abs/2512.22738v1,2025-12-28 01:34:23+00:00
+18,Is Chain-of-Thought Really Not Explainability? Chain-of-Thought Can Be Faithful without Hint Verbalization,2512.23032,http://arxiv.org/abs/2512.23032v1,2025-12-28 18:18:02+00:00
+19,Heterogeneity in Multi-Agent Reinforcement Learning,2512.22941,http://arxiv.org/abs/2512.22941v1,2025-12-28 14:07:31+00:00
+20,SwinTF3D: A Lightweight Multimodal Fusion Approach for Text-Guided 3D Medical Image Segmentation,2512.22878,http://arxiv.org/abs/2512.22878v1,2025-12-28 11:00:05+00:00
+21,AutoForge: Automated Environment Synthesis for Agentic Reinforcement Learning,2512.22857,http://arxiv.org/abs/2512.22857v1,2025-12-28 09:43:11+00:00
+22,Reach-Avoid Differential game with Reachability Analysis for UAVs: A decomposition approach,2512.22793,http://arxiv.org/abs/2512.22793v1,2025-12-28 05:34:11+00:00
+23,GRExplainer: A Universal Explanation Method for Temporal Graph Neural Networks,2512.22772,http://arxiv.org/abs/2512.22772v1,2025-12-28 04:24:59+00:00
+24,Robust LLM-based Column Type Annotation via Prompt Augmentation with LoRA Tuning,2512.22742,http://arxiv.org/abs/2512.22742v1,2025-12-28 02:04:17+00:00
+25,The Reward Model Selection Crisis in Personalized Alignment,2512.23067,http://arxiv.org/abs/2512.23067v1,2025-12-28 20:27:15+00:00
+26,An Architecture-Led Hybrid Report on Body Language Detection Project,2512.23028,http://arxiv.org/abs/2512.23028v1,2025-12-28 18:03:00+00:00
+27,Geometric Structural Knowledge Graph Foundation Model,2512.22931,http://arxiv.org/abs/2512.22931v1,2025-12-28 13:53:23+00:00
+28,Reinforcement Networks: novel framework for collaborative Multi-Agent Reinforcement Learning tasks,2512.22876,http://arxiv.org/abs/2512.22876v1,2025-12-28 10:56:20+00:00
+29,"The body is not there to compute: Comment on ""Informational embodiment: Computational role of information structure in codes and robots"" by Pitti et al",2512.22868,http://arxiv.org/abs/2512.22868v1,2025-12-28 10:44:53+00:00
+30,JADAI: Jointly Amortizing Adaptive Design and Bayesian Inference,2512.22999,http://arxiv.org/abs/2512.22999v1,2025-12-28 16:54:43+00:00
+31,"Benchmark Success, Clinical Failure: When Reinforcement Learning Optimizes for Benchmarks, Not Patients",2512.23090,http://arxiv.org/abs/2512.23090v1,2025-12-28 21:57:42+00:00
+32,MedSAM-based lung masking for multi-label chest X-ray classification,2512.23089,http://arxiv.org/abs/2512.23089v1,2025-12-28 21:56:41+00:00
+33,OpenGround: Active Cognition-based Reasoning for Open-World 3D Visual Grounding,2512.23020,http://arxiv.org/abs/2512.23020v2,2025-12-28 17:44:20+00:00
+34,LENS: LLM-Enabled Narrative Synthesis for Mental Health by Aligning Multimodal Sensing with Language Models,2512.23025,http://arxiv.org/abs/2512.23025v1,2025-12-28 18:00:57+00:00
+35,"Audited Skill-Graph Self-Improvement for Agentic LLMs via Verifiable Rewards, Experience Synthesis, and Continual Memory",2512.23760,http://arxiv.org/abs/2512.23760v1,2025-12-28 19:39:47+00:00
+36,Multimodal Fact-Checking: An Agent-based Approach,2512.22933,http://arxiv.org/abs/2512.22933v2,2025-12-28 13:58:33+00:00
+37,MoR: Mixture Of Representations For Mixed-Precision Training,2512.22804,http://arxiv.org/abs/2512.22804v1,2025-12-28 06:28:50+00:00
+38,CNSight: Evaluation of Clinical Note Segmentation Tools,2512.22795,http://arxiv.org/abs/2512.22795v1,2025-12-28 05:40:15+00:00
+39,SNM-Net: A Universal Framework for Robust Open-Set Gas Recognition via Spherical Normalization and Mahalanobis Distance,2512.22792,http://arxiv.org/abs/2512.22792v1,2025-12-28 05:33:05+00:00
+40,Active Constraint Learning in High Dimensions from Demonstrations,2512.22757,http://arxiv.org/abs/2512.22757v1,2025-12-28 03:06:05+00:00
+41,FoldAct: Efficient and Stable Context Folding for Long-Horizon Search Agents,2512.22733,http://arxiv.org/abs/2512.22733v1,2025-12-28 00:24:01+00:00
+42,A Note on Hybrid Online Reinforcement and Imitation Learning for LLMs: Formulations and Algorithms,2512.23097,http://arxiv.org/abs/2512.23097v1,2025-12-28 22:25:27+00:00
+43,Multimodal Functional Maximum Correlation for Emotion Recognition,2512.23076,http://arxiv.org/abs/2512.23076v1,2025-12-28 20:48:02+00:00
+44,Viability and Performance of a Private LLM Server for SMBs: A Benchmark Analysis of Qwen3-30B on Consumer-Grade Hardware,2512.23029,http://arxiv.org/abs/2512.23029v1,2025-12-28 18:08:01+00:00
+45,DECEPTICON: How Dark Patterns Manipulate Web Agents,2512.22894,http://arxiv.org/abs/2512.22894v1,2025-12-28 11:55:20+00:00
