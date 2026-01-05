@@ -1,0 +1,101 @@
+,title,id,arxiv_url,published
+0,EquaCode: A Multi-Strategy Jailbreak Approach for Large Language Models via Equation Solving and Code Completion,2512.23173,http://arxiv.org/abs/2512.23173v1,2025-12-29 03:28:30+00:00
+1,SPIRAL: Symbolic LLM Planning via Grounded and Reflective Search,2512.23167,http://arxiv.org/abs/2512.23167v1,2025-12-29 03:19:42+00:00
+2,Reservoir Computing inspired Matrix Multiplication-free Language Model,2512.23145,http://arxiv.org/abs/2512.23145v1,2025-12-29 02:20:37+00:00
+3,Le Cam Distortion: A Decision-Theoretic Framework for Robust Transfer Learning,2512.23617,http://arxiv.org/abs/2512.23617v1,2025-12-29 17:21:44+00:00
+4,Alpha-R1: Alpha Screening with LLM Reasoning via Reinforcement Learning,2512.23515,http://arxiv.org/abs/2512.23515v1,2025-12-29 14:50:23+00:00
+5,Joint Link Adaptation and Device Scheduling Approach for URLLC Industrial IoT Network: A DRL-based Method with Bayesian Optimization,2512.23493,http://arxiv.org/abs/2512.23493v1,2025-12-29 14:32:34+00:00
+6,The Gaining Paths to Investment Success: Information-Driven LLM Graph Reasoning for Venture Capital Prediction,2512.23489,http://arxiv.org/abs/2512.23489v1,2025-12-29 14:20:31+00:00
+7,Agentic AI for Autonomous Defense in Software Supply Chain Security: Beyond Provenance to Vulnerability Mitigation,2512.23480,http://arxiv.org/abs/2512.23480v1,2025-12-29 14:06:09+00:00
+8,MedGemma vs GPT-4: Open-Source and Proprietary Zero-shot Medical Disease Classification from Images,2512.23304,http://arxiv.org/abs/2512.23304v1,2025-12-29 08:48:36+00:00
+9,InSPO: Unlocking Intrinsic Self-Reflection for LLM Preference Optimization,2512.23126,http://arxiv.org/abs/2512.23126v2,2025-12-29 00:59:23+00:00
+10,From Correctness to Collaboration: Toward a Human-Centered Framework for Evaluating AI Agent Behavior in Software Engineering,2512.23844,http://arxiv.org/abs/2512.23844v1,2025-12-29 20:18:57+00:00
+11,FineFT: Efficient and Risk-Aware Ensemble Reinforcement Learning for Futures Trading,2512.23773,http://arxiv.org/abs/2512.23773v1,2025-12-29 11:56:33+00:00
+12,Uncovering Discrimination Clusters: Quantifying and Explaining Systematic Fairness Violations,2512.23769,http://arxiv.org/abs/2512.23769v1,2025-12-29 06:44:07+00:00
+13,The World Is Bigger! A Computationally-Embedded Perspective on the Big World Hypothesis,2512.23419,http://arxiv.org/abs/2512.23419v1,2025-12-29 12:31:46+00:00
+14,MindWatcher: Toward Smarter Multimodal Tool-Integrated Reasoning,2512.23412,http://arxiv.org/abs/2512.23412v1,2025-12-29 12:16:12+00:00
+15,Theoretical Foundations of Scaling Law in Familial Models,2512.23407,http://arxiv.org/abs/2512.23407v1,2025-12-29 12:01:58+00:00
+16,Securing the AI Supply Chain: What Can We Learn From Developer-Reported Security Issues and Solutions of AI Projects?,2512.23385,http://arxiv.org/abs/2512.23385v1,2025-12-29 11:22:11+00:00
+17,Safety-Biased Policy Optimisation: Towards Hard-Constrained Reinforcement Learning via Trust Regions,2512.23770,http://arxiv.org/abs/2512.23770v1,2025-12-29 07:15:07+00:00
+18,Physics-Informed Neural Networks for Device and Circuit Modeling: A Case Study of NeuroSPICE,2512.23624,http://arxiv.org/abs/2512.23624v2,2025-12-29 17:28:35+00:00
+19,ForCM: Forest Cover Mapping from Multispectral Sentinel-2 Image by Integrating Deep Learning with Object-Based Image Analysis,2512.23196,http://arxiv.org/abs/2512.23196v1,2025-12-29 04:23:50+00:00
+20,"Scoring, Reasoning, and Selecting the Best! Ensembling Large Language Models via a Peer-Review Process",2512.23213,http://arxiv.org/abs/2512.23213v1,2025-12-29 05:25:49+00:00
+21,Why We Need a New Framework for Emotional Intelligence in AI,2512.23163,http://arxiv.org/abs/2512.23163v1,2025-12-29 03:05:05+00:00
+22,Constraint programming model and biased random-key genetic algorithm for the single-machine coupled task scheduling problem with exact delays to minimize the makespan,2512.23150,http://arxiv.org/abs/2512.23150v1,2025-12-29 02:27:45+00:00
+23,An Inference-Based Architecture for Intent and Affordance Saturation in Decision-Making,2512.23144,http://arxiv.org/abs/2512.23144v1,2025-12-29 02:13:34+00:00
+24,It's a TRAP! Task-Redirecting Agent Persuasion Benchmark for Web Agents,2512.23128,http://arxiv.org/abs/2512.23128v1,2025-12-29 01:09:10+00:00
+25,Replay Failures as Successes: Sample-Efficient Reinforcement Learning for Instruction Following,2512.23457,http://arxiv.org/abs/2512.23457v1,2025-12-29 13:31:08+00:00
+26,Toward Trustworthy Agentic AI: A Multimodal Framework for Preventing Prompt Injection Attacks,2512.23557,http://arxiv.org/abs/2512.23557v1,2025-12-29 15:54:33+00:00
+27,PathFound: An Agentic Multimodal Model Activating Evidence-seeking Pathological Diagnosis,2512.23545,http://arxiv.org/abs/2512.23545v1,2025-12-29 15:34:27+00:00
+28,FRoD: Full-Rank Efficient Fine-Tuning with Rotational Degrees for Fast Convergence,2512.23485,http://arxiv.org/abs/2512.23485v1,2025-12-29 14:13:45+00:00
+29,"ML Compass: Navigating Capability, Cost, and Compliance Trade-offs in AI Model Deployment",2512.23487,http://arxiv.org/abs/2512.23487v1,2025-12-29 14:19:48+00:00
+30,A unified framework for detecting point and collective anomalies in operating system logs via collaborative transformers,2512.23380,http://arxiv.org/abs/2512.23380v1,2025-12-29 11:18:34+00:00
+31,"CubeBench: Diagnosing Interactive, Long-Horizon Spatial Reasoning Under Partial Observations",2512.23328,http://arxiv.org/abs/2512.23328v2,2025-12-29 09:25:56+00:00
+32,KernelEvolve: Scaling Agentic Kernel Coding for Heterogeneous AI Accelerators at Meta,2512.23236,http://arxiv.org/abs/2512.23236v2,2025-12-29 06:31:55+00:00
+33,Efficient Deep Learning for Short-Term Solar Irradiance Time Series Forecasting: A Benchmark Study in Ho Chi Minh City,2512.23898,http://arxiv.org/abs/2512.23898v1,2025-12-29 23:22:25+00:00
+34,Breaking Audio Large Language Models by Attacking Only the Encoder: A Universal Targeted Latent-Space Audio Attack,2512.23881,http://arxiv.org/abs/2512.23881v1,2025-12-29 21:56:13+00:00
+35,"Artificial Intelligence for All? Brazilian Teachers on Ethics, Equity, and the Everyday Challenges of AI in Education",2512.23834,http://arxiv.org/abs/2512.23834v1,2025-12-29 19:58:09+00:00
+36,"StressRoBERTa: Cross-Condition Transfer Learning from Depression, Anxiety, and PTSD to Stress Detection",2512.23813,http://arxiv.org/abs/2512.23813v1,2025-12-29 19:16:14+00:00
+37,Entropy-Aware Speculative Decoding Toward Improved LLM Reasoning,2512.23765,http://arxiv.org/abs/2512.23765v1,2025-12-29 00:45:19+00:00
+38,BOAD: Discovering Hierarchical Software Engineering Agents via Bandit Optimization,2512.23631,http://arxiv.org/abs/2512.23631v1,2025-12-29 17:41:11+00:00
+39,Not too long do read: Evaluating LLM-generated extreme scientific summaries,2512.23206,http://arxiv.org/abs/2512.23206v1,2025-12-29 05:03:02+00:00
+40,AGRO-SQL: Agentic Group-Relative Optimization with High-Fidelity Data Synthesis,2512.23366,http://arxiv.org/abs/2512.23366v1,2025-12-29 10:49:35+00:00
+41,Eliminating Inductive Bias in Reward Models with Information-Theoretic Guidance,2512.23461,http://arxiv.org/abs/2512.23461v1,2025-12-29 13:39:41+00:00
+42,On Conformant Planning and Model-Checking of $\exists^*\forall^*$ Hyperproperties,2512.23324,http://arxiv.org/abs/2512.23324v1,2025-12-29 09:20:29+00:00
+43,Splitwise: Collaborative Edge-Cloud Inference for LLMs via Lyapunov-Assisted DRL,2512.23310,http://arxiv.org/abs/2512.23310v1,2025-12-29 08:57:58+00:00
+44,Holi-DETR: Holistic Fashion Item Detection Leveraging Contextual Information,2512.23221,http://arxiv.org/abs/2512.23221v1,2025-12-29 05:55:01+00:00
+45,Exploring Syn-to-Real Domain Adaptation for Military Target Detection,2512.23208,http://arxiv.org/abs/2512.23208v1,2025-12-29 05:05:41+00:00
+46,EIR: Enhanced Image Representations for Medical Report Generation,2512.23185,http://arxiv.org/abs/2512.23185v1,2025-12-29 03:51:16+00:00
+47,UniHetero: Could Generation Enhance Understanding for Vision-Language-Model at Large Data Scale?,2512.23512,http://arxiv.org/abs/2512.23512v2,2025-12-29 14:49:50+00:00
+48,Seeking Late Night Life Lines: Experiences of Conversational AI Use in Mental Health Crisis,2512.23859,http://arxiv.org/abs/2512.23859v1,2025-12-29 20:52:17+00:00
+49,Security Without Detection: Economic Denial as a Primitive for Edge and IoT Defense,2512.23849,http://arxiv.org/abs/2512.23849v1,2025-12-29 20:28:46+00:00
+50,Adversarial Lens: Exploiting Attention Layers to Generate Adversarial Examples for Evaluation,2512.23837,http://arxiv.org/abs/2512.23837v1,2025-12-29 19:59:52+00:00
+51,Explaining News Bias Detection: A Comparative SHAP Analysis of Transformer Model Decision Mechanisms,2512.23835,http://arxiv.org/abs/2512.23835v1,2025-12-29 19:58:11+00:00
+52,Zero-Trust Agentic Federated Learning for Secure IIoT Defense Systems,2512.23809,http://arxiv.org/abs/2512.23809v1,2025-12-29 19:07:11+00:00
+53,Prompt-Induced Over-Generation as Denial-of-Service: A Black-Box Attack-Side Benchmark,2512.23779,http://arxiv.org/abs/2512.23779v1,2025-12-29 13:42:08+00:00
+54,Enabling Physical AI at the Edge: Hardware-Accelerated Recovery of System Dynamics,2512.23767,http://arxiv.org/abs/2512.23767v1,2025-12-29 04:51:51+00:00
+55,Theory of Mind for Explainable Human-Robot Interaction,2512.23482,http://arxiv.org/abs/2512.23482v2,2025-12-29 14:09:05+00:00
+56,Distilled HuBERT for Mobile Speech Emotion Recognition: A Cross-Corpus Validation Study,2512.23435,http://arxiv.org/abs/2512.23435v2,2025-12-29 12:53:39+00:00
+57,Regret-Based Federated Causal Discovery with Unknown Interventions,2512.23626,http://arxiv.org/abs/2512.23626v1,2025-12-29 17:30:01+00:00
+58,Explainable Neural Inverse Kinematics for Obstacle-Aware Robotic Manipulation: A Comparative Analysis of IKNet Variants,2512.23312,http://arxiv.org/abs/2512.23312v1,2025-12-29 09:02:02+00:00
+59,Agentic Physical AI toward a Domain-Specific Foundation Model for Nuclear Reactor Control,2512.23292,http://arxiv.org/abs/2512.23292v1,2025-12-29 08:26:27+00:00
+60,Anomaly Detection by Effectively Leveraging Synthetic Images,2512.23227,http://arxiv.org/abs/2512.23227v1,2025-12-29 06:06:30+00:00
+61,TCEval: Using Thermal Comfort to Assess Cognitive and Perceptual Abilities of AI,2512.23217,http://arxiv.org/abs/2512.23217v1,2025-12-29 05:41:25+00:00
+62,PathoSyn: Imaging-Pathology MRI Synthesis via Disentangled Deviation Diffusion,2512.23130,http://arxiv.org/abs/2512.23130v1,2025-12-29 01:13:50+00:00
+63,Probing the Limits of Compressive Memory: A Study of Infini-Attention in Small-Scale Pretraining,2512.23862,http://arxiv.org/abs/2512.23862v1,2025-12-29 21:02:14+00:00
+64,Lifelong Domain Adaptive 3D Human Pose Estimation,2512.23860,http://arxiv.org/abs/2512.23860v1,2025-12-29 20:56:06+00:00
+65,The Drill-Down and Fabricate Test (DDFT): A Protocol for Measuring Epistemic Robustness in Language Models,2512.23850,http://arxiv.org/abs/2512.23850v1,2025-12-29 20:29:09+00:00
+66,A Survey on Graph Neural Networks for Fraud Detection in Ride Hailing Platforms,2512.23777,http://arxiv.org/abs/2512.23777v1,2025-12-29 13:26:06+00:00
+67,Improved Bounds for Private and Robust Alignment,2512.23816,http://arxiv.org/abs/2512.23816v1,2025-12-29 19:20:35+00:00
+68,CoFi-Dec: Hallucination-Resistant Decoding via Coarse-to-Fine Generative Feedback in Large Vision-Language Models,2512.23453,http://arxiv.org/abs/2512.23453v1,2025-12-29 13:23:20+00:00
+69,PINNs for Electromagnetic Wave Propagation,2512.23396,http://arxiv.org/abs/2512.23396v1,2025-12-29 11:36:26+00:00
+70,The Law of Multi-Model Collaboration: Scaling Limits of Model Ensembling for Large Language Models,2512.23340,http://arxiv.org/abs/2512.23340v1,2025-12-29 09:55:12+00:00
+71,Multilingual Hidden Prompt Injection Attacks on LLM-Based Academic Reviewing,2512.23684,http://arxiv.org/abs/2512.23684v1,2025-12-29 18:43:05+00:00
+72,Semantic Tree Inference on Text Corpa using a Nested Density Approach together with Large Language Model Embeddings,2512.23471,http://arxiv.org/abs/2512.23471v1,2025-12-29 13:55:23+00:00
+73,Interpretable Safety Alignment via SAE-Constructed Low-Rank Subspace Adaptation,2512.23260,http://arxiv.org/abs/2512.23260v1,2025-12-29 07:39:49+00:00
+74,ViLaCD-R1: A Vision-Language Framework for Semantic Change Detection in Remote Sensing,2512.23244,http://arxiv.org/abs/2512.23244v1,2025-12-29 06:58:46+00:00
+75,Physics-Inspired Modeling and Content Adaptive Routing in an Infrared Gas Leak Detection Network,2512.23234,http://arxiv.org/abs/2512.23234v1,2025-12-29 06:28:20+00:00
+76,From Model Choice to Model Belief: Establishing a New Measure for LLM-Based Research,2512.23184,http://arxiv.org/abs/2512.23184v1,2025-12-29 03:50:40+00:00
+77,Web World Models,2512.23676,http://arxiv.org/abs/2512.23676v1,2025-12-29 18:31:45+00:00
+78,Nested Browser-Use Learning for Agentic Information Seeking,2512.23647,http://arxiv.org/abs/2512.23647v1,2025-12-29 17:59:14+00:00
+79,AI tutoring can safely and effectively support students: An exploratory RCT in UK classrooms,2512.23633,http://arxiv.org/abs/2512.23633v1,2025-12-29 17:44:03+00:00
+80,VL-RouterBench: A Benchmark for Vision-Language Model Routing,2512.23562,http://arxiv.org/abs/2512.23562v1,2025-12-29 16:01:19+00:00
+81,Lie to Me: Knowledge Graphs for Robust Hallucination Self-Detection in LLMs,2512.23547,http://arxiv.org/abs/2512.23547v1,2025-12-29 15:41:13+00:00
+82,AnyMS: Bottom-up Attention Decoupling for Layout-guided and Training-free Multi-subject Customization,2512.23537,http://arxiv.org/abs/2512.23537v1,2025-12-29 15:26:25+00:00
+83,"Why AI Safety Requires Uncertainty, Incomplete Preferences, and Non-Archimedean Utilities",2512.23508,http://arxiv.org/abs/2512.23508v1,2025-12-29 14:47:05+00:00
+84,HY-Motion 1.0: Scaling Flow Matching Models for Text-To-Motion Generation,2512.23464,http://arxiv.org/abs/2512.23464v1,2025-12-29 13:46:24+00:00
+85,Act2Goal: From World Model To General Goal-conditioned Policy,2512.23541,http://arxiv.org/abs/2512.23541v1,2025-12-29 15:28:42+00:00
+86,RxnBench: A Multimodal Benchmark for Evaluating Large Language Models on Chemical Reaction Understanding from Scientific Literature,2512.23565,http://arxiv.org/abs/2512.23565v2,2025-12-29 16:05:38+00:00
+87,Fuzzy-Logic and Deep Learning for Environmental Condition-Aware Road Surface Classification,2512.23436,http://arxiv.org/abs/2512.23436v1,2025-12-29 12:54:48+00:00
+88,AKG kernel Agent: A Multi-Agent Framework for Cross-Platform Kernel Synthesis,2512.23424,http://arxiv.org/abs/2512.23424v1,2025-12-29 12:42:05+00:00
+89,Directly Constructing Low-Dimensional Solution Subspaces in Deep Neural Networks,2512.23410,http://arxiv.org/abs/2512.23410v1,2025-12-29 12:13:15+00:00
+90,Post-Training Quantization of OpenPangu Models for Efficient Deployment on Atlas A2,2512.23367,http://arxiv.org/abs/2512.23367v1,2025-12-29 10:50:23+00:00
+91,ECG-RAMBA: Zero-Shot ECG Generalization by Morphology-Rhythm Disentanglement and Long-Range Modeling,2512.23347,http://arxiv.org/abs/2512.23347v1,2025-12-29 10:14:52+00:00
+92,AI Meets Brain: Memory Systems from Cognitive Neuroscience to Autonomous Agents,2512.23343,http://arxiv.org/abs/2512.23343v1,2025-12-29 10:01:32+00:00
+93,Divergent-Convergent Thinking in Large Language Models for Creative Problem Generation,2512.23601,http://arxiv.org/abs/2512.23601v1,2025-12-29 16:53:48+00:00
+94,CASCADE: Cumulative Agentic Skill Creation through Autonomous Development and Evolution,2512.23880,http://arxiv.org/abs/2512.23880v1,2025-12-29 21:50:23+00:00
+95,SoulX-LiveTalk: Real-Time Infinite Streaming of Audio-Driven Avatars via Self-Correcting Bidirectional Distillation,2512.23379,http://arxiv.org/abs/2512.23379v2,2025-12-29 11:18:24+00:00
+96,How Large Language Models Systematically Misrepresent American Climate Opinions,2512.23889,http://arxiv.org/abs/2512.23889v1,2025-12-29 22:29:10+00:00
+97,Autoregressive long-horizon prediction of plasma edge dynamics,2512.23884,http://arxiv.org/abs/2512.23884v1,2025-12-29 22:19:27+00:00
+98,Retrieval Augmented Question Answering: When Should LLMs Admit Ignorance?,2512.23836,http://arxiv.org/abs/2512.23836v1,2025-12-29 19:59:10+00:00
+99,Video-Based Performance Evaluation for ECR Drills in Synthetic Training Environments,2512.23819,http://arxiv.org/abs/2512.23819v1,2025-12-29 19:30:41+00:00
