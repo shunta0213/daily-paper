@@ -1,0 +1,64 @@
+,title,id,arxiv_url,published
+0,"EHRSummarizer: A Privacy-Aware, FHIR-Native Architecture for Structured Clinical Summarization of Electronic Health Records",2601.01668,http://arxiv.org/abs/2601.01668v1,2026-01-04 21:10:42+00:00
+1,CONSENT: A Negotiation Framework for Leveraging User Flexibility in Vehicle-to-Building Charging under Uncertainty,2601.01581,http://arxiv.org/abs/2601.01581v1,2026-01-04 15:59:52+00:00
+2,HanoiWorld : A Joint Embedding Predictive Architecture BasedWorld Model for Autonomous Vehicle Controller,2601.01577,http://arxiv.org/abs/2601.01577v1,2026-01-04 15:49:46+00:00
+3,OpenNovelty: An LLM-powered Agentic System for Verifiable Scholarly Novelty Assessment,2601.01576,http://arxiv.org/abs/2601.01576v1,2026-01-04 15:48:51+00:00
+4,Bayesian Orchestration of Multi-LLM Agents for Cost-Aware Sequential Decision-Making,2601.01522,http://arxiv.org/abs/2601.01522v1,2026-01-04 13:19:27+00:00
+5,Rethinking Multimodal Few-Shot 3D Point Cloud Segmentation: From Fused Refinement to Decoupled Arbitration,2601.01456,http://arxiv.org/abs/2601.01456v1,2026-01-04 09:53:49+00:00
+6,Bayesian Subspace Gradient Estimation for Zeroth-Order Optimization of Large Language Models,2601.01452,http://arxiv.org/abs/2601.01452v1,2026-01-04 09:35:11+00:00
+7,Online Estimation and Manipulation of Articulated Objects,2601.01438,http://arxiv.org/abs/2601.01438v1,2026-01-04 08:52:56+00:00
+8,KGCE: Knowledge-Augmented Dual-Graph Evaluator for Cross-Platform Educational Agent Benchmarking with Multimodal Language Models,2601.01366,http://arxiv.org/abs/2601.01366v1,2026-01-04 04:39:39+00:00
+9,SmoothSync: Dual-Stream Diffusion Transformers for Jitter-Robust Beat-Synchronized Gesture Generation from Quantized Audio,2601.04236,http://arxiv.org/abs/2601.04236v1,2026-01-04 09:53:07+00:00
+10,MOSS Transcribe Diarize: Accurate Transcription with Speaker Diarization,2601.01554,http://arxiv.org/abs/2601.01554v3,2026-01-04 15:01:10+00:00
+11,Reliable Grid Forecasting: State Space Models for Safety-Critical Energy Systems,2601.01410,http://arxiv.org/abs/2601.01410v3,2026-01-04 07:30:50+00:00
+12,Bridging the Data Gap: Creating a Hindi Text Summarization Dataset from the English XSUM,2601.01543,http://arxiv.org/abs/2601.01543v1,2026-01-04 14:38:58+00:00
+13,Reading Between the Lines: Deconfounding Causal Estimates using Text Embeddings and Deep Learning,2601.01511,http://arxiv.org/abs/2601.01511v1,2026-01-04 12:36:45+00:00
+14,Data Complexity-aware Deep Model Performance Forecasting,2601.01383,http://arxiv.org/abs/2601.01383v1,2026-01-04 05:31:04+00:00
+15,UltraEval-Audio: A Unified Framework for Comprehensive Evaluation of Audio Foundation Models,2601.01373,http://arxiv.org/abs/2601.01373v1,2026-01-04 04:54:12+00:00
+16,Adversarial Instance Generation and Robust Training for Neural Combinatorial Optimization with Multiple Objectives,2601.01665,http://arxiv.org/abs/2601.01665v1,2026-01-04 20:57:43+00:00
+17,Length-Aware Adversarial Training for Variable-Length Trajectories: Digital Twins for Mall Shopper Paths,2601.01663,http://arxiv.org/abs/2601.01663v1,2026-01-04 20:52:07+00:00
+18,"UniCrop: A Universal, Multi-Source Data Engineering Pipeline for Scalable Crop Yield Prediction",2601.01655,http://arxiv.org/abs/2601.01655v1,2026-01-04 20:17:32+00:00
+19,Learning Resilient Elections with Adversarial GNNs,2601.01653,http://arxiv.org/abs/2601.01653v1,2026-01-04 20:12:14+00:00
+20,A construction of an optimal base for conditional attribute and attributional condition implications in triadic contexts,2601.01467,http://arxiv.org/abs/2601.01467v1,2026-01-04 10:21:06+00:00
+21,Watch Wider and Think Deeper: Collaborative Cross-modal Chain-of-Thought for Complex Visual Reasoning,2601.02422,http://arxiv.org/abs/2601.02422v1,2026-01-04 02:50:55+00:00
+22,FastV-RAG: Towards Fast and Fine-Grained Video QA with Retrieval-Augmented Generation,2601.01513,http://arxiv.org/abs/2601.01513v2,2026-01-04 12:46:35+00:00
+23,MM-Sonate: Multimodal Controllable Audio-Video Generation with Zero-Shot Voice Cloning,2601.01568,http://arxiv.org/abs/2601.01568v2,2026-01-04 15:26:15+00:00
+24,JMedEthicBench: A Multi-Turn Conversational Benchmark for Evaluating Medical Safety in Japanese Large Language Models,2601.01627,http://arxiv.org/abs/2601.01627v1,2026-01-04 18:18:18+00:00
+25,From Theory of Mind to Theory of Environment: Counterfactual Simulation of Latent Environmental Dynamics,2601.01599,http://arxiv.org/abs/2601.01599v1,2026-01-04 17:00:04+00:00
+26,NitroGen: An Open Foundation Model for Generalist Gaming Agents,2601.02427,http://arxiv.org/abs/2601.02427v1,2026-01-04 16:24:50+00:00
+27,Aletheia: Quantifying Cognitive Conviction in Reasoning Models via Regularized Inverse Confusion Matrix,2601.01532,http://arxiv.org/abs/2601.01532v1,2026-01-04 13:57:32+00:00
+28,The Optimal Sample Complexity of Linear Contracts,2601.01496,http://arxiv.org/abs/2601.01496v1,2026-01-04 11:45:17+00:00
+29,Distortion Instead of Hallucination: The Effect of Reasoning Under Strict Constraints,2601.01490,http://arxiv.org/abs/2601.01490v1,2026-01-04 11:35:39+00:00
+30,SwinIFS: Landmark Guided Swin Transformer For Identity Preserving Face Super Resolution,2601.01406,http://arxiv.org/abs/2601.01406v1,2026-01-04 07:04:46+00:00
+31,From Classification to Generation: An Open-Ended Paradigm for Adverse Drug Reaction Prediction Based on Graph-Motif Feature Fusion,2601.01347,http://arxiv.org/abs/2601.01347v1,2026-01-04 03:35:41+00:00
+32,LinMU: Multimodal Understanding Made Linear,2601.01322,http://arxiv.org/abs/2601.01322v1,2026-01-04 01:17:36+00:00
+33,Digital Twin AI: Opportunities and Challenges from Large Language Models to World Models,2601.01321,http://arxiv.org/abs/2601.01321v1,2026-01-04 01:17:09+00:00
+34,Adaptive Hierarchical Evaluation of LLMs and SAST tools for CWE Prediction in Python,2601.01320,http://arxiv.org/abs/2601.01320v1,2026-01-04 01:13:37+00:00
+35,Lying with Truths: Open-Channel Multi-Agent Collusion for Belief Manipulation via Generative Montage,2601.01685,http://arxiv.org/abs/2601.01685v1,2026-01-04 22:50:23+00:00
+36,FALCON: Few-Shot Adversarial Learning for Cross-Domain Medical Image Segmentation,2601.01687,http://arxiv.org/abs/2601.01687v1,2026-01-04 22:57:49+00:00
+37,Exposing Hidden Interfaces: LLM-Guided Type Inference for Reverse Engineering macOS Private Frameworks,2601.01673,http://arxiv.org/abs/2601.01673v1,2026-01-04 21:44:55+00:00
+38,REE-TTT: Highly Adaptive Radar Echo Extrapolation Based on Test-Time Training,2601.01605,http://arxiv.org/abs/2601.01605v1,2026-01-04 17:06:48+00:00
+39,EscherVerse: An Open World Benchmark and Dataset for Teleo-Spatial Intelligence with Physical-Dynamic and Intent-Driven Understanding,2601.01547,http://arxiv.org/abs/2601.01547v1,2026-01-04 14:42:39+00:00
+40,DrivingGen: A Comprehensive Benchmark for Generative Video World Models in Autonomous Driving,2601.01528,http://arxiv.org/abs/2601.01528v1,2026-01-04 13:36:21+00:00
+41,DeepInv: A Novel Self-supervised Learning Approach for Fast and Accurate Diffusion Inversion,2601.01487,http://arxiv.org/abs/2601.01487v1,2026-01-04 11:27:26+00:00
+42,ParkGaussian: Surround-view 3D Gaussian Splatting for Autonomous Parking,2601.01386,http://arxiv.org/abs/2601.01386v1,2026-01-04 05:54:13+00:00
+43,Empowering Small Language Models with Factual Hallucination-Aware Reasoning for Financial Classification,2601.01378,http://arxiv.org/abs/2601.01378v1,2026-01-04 05:09:11+00:00
+44,A unified multimodal understanding and generation model for cross-disciplinary scientific research,2601.01363,http://arxiv.org/abs/2601.01363v1,2026-01-04 04:31:38+00:00
+45,Actively Obtaining Environmental Feedback for Autonomous Action Evaluation Without Predefined Measurements,2601.04235,http://arxiv.org/abs/2601.04235v1,2026-01-04 09:52:56+00:00
+46,Automated Post-Incident Policy Gap Analysis via Threat-Informed Evidence Mapping using Large Language Models,2601.03287,http://arxiv.org/abs/2601.03287v1,2026-01-04 01:39:20+00:00
+47,SAGE-32B: Agentic Reasoning via Iterative Distillation,2601.04237,http://arxiv.org/abs/2601.04237v1,2026-01-04 16:41:58+00:00
+48,Utilizing Earth Foundation Models to Enhance the Simulation Performance of Hydrological Models with AlphaEarth Embeddings,2601.01558,http://arxiv.org/abs/2601.01558v1,2026-01-04 15:14:16+00:00
+49,Improving Behavioral Alignment in LLM Social Simulations via Context Formation and Navigation,2601.01546,http://arxiv.org/abs/2601.01546v1,2026-01-04 14:42:00+00:00
+50,A Graph-based Framework for Online Time Series Anomaly Detection Using Model Ensemble,2601.01403,http://arxiv.org/abs/2601.01403v1,2026-01-04 06:51:46+00:00
+51,Scale-Adaptive Power Flow Analysis with Local Topology Slicing and Multi-Task Graph Learning,2601.01387,http://arxiv.org/abs/2601.01387v1,2026-01-04 05:59:41+00:00
+52,Slot-ID: Identity-Preserving Video Generation from Reference Videos via Slot-Based Temporal Identity Encoding,2601.01352,http://arxiv.org/abs/2601.01352v1,2026-01-04 03:41:55+00:00
+53,Beyond Gemini-3-Pro: Revisiting LLM Routing and Aggregation at Scale,2601.01330,http://arxiv.org/abs/2601.01330v1,2026-01-04 02:05:52+00:00
+54,Quantifying Local Strain Field and Deformation in Active Contraction of Bladder Using a Pretrained Transformer Model: A Speckle-Free Approach,2601.01315,http://arxiv.org/abs/2601.01315v1,2026-01-04 00:52:27+00:00
+55,Structured Decomposition for LLM Reasoning: Cross-Domain Validation and Semantic Web Integration,2601.01609,http://arxiv.org/abs/2601.01609v1,2026-01-04 17:19:20+00:00
+56,The Two-Stage Decision-Sampling Hypothesis: Understanding the Emergence of Self-Reflection in RL-Trained LLMs,2601.01580,http://arxiv.org/abs/2601.01580v1,2026-01-04 15:59:15+00:00
+57,CaveAgent: Transforming LLMs into Stateful Runtime Operators,2601.01569,http://arxiv.org/abs/2601.01569v1,2026-01-04 15:32:47+00:00
+58,A Dynamic Retrieval-Augmented Generation System with Selective Memory and Remembrance,2601.02428,http://arxiv.org/abs/2601.02428v1,2026-01-04 21:51:41+00:00
+59,A large-scale nanocrystal database with aligned synthesis and properties enabling generative inverse design,2601.02424,http://arxiv.org/abs/2601.02424v1,2026-01-04 07:27:40+00:00
+60,Accelerating Storage-Based Training for Graph Neural Networks,2601.01473,http://arxiv.org/abs/2601.01473v2,2026-01-04 10:37:14+00:00
+61,Formal Analysis of AGI Decision-Theoretic Models and the Confrontation Question,2601.04234,http://arxiv.org/abs/2601.04234v1,2026-01-04 08:02:00+00:00
+62,Logics-STEM: Empowering LLM Reasoning via Failure-Driven Post-Training and Document Knowledge Enhancement,2601.01562,http://arxiv.org/abs/2601.01562v2,2026-01-04 15:23:18+00:00
