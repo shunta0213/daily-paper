@@ -1,0 +1,101 @@
+,title,id,arxiv_url,published
+0,OpenMic: A Multi-Agent-Based Stand-Up Comedy Generation System,2601.08288,http://arxiv.org/abs/2601.08288v1,2026-01-13 07:26:23+00:00
+1,Greedy Is Enough: Sparse Action Discovery in Agentic LLMs,2601.08280,http://arxiv.org/abs/2601.08280v1,2026-01-13 07:15:32+00:00
+2,T3: Benchmarking Sycophancy and Skepticism in Causal Judgment,2601.08258,http://arxiv.org/abs/2601.08258v1,2026-01-13 06:29:56+00:00
+3,SwiftMem: Fast Agentic Memory via Query-aware Indexing,2601.08160,http://arxiv.org/abs/2601.08160v1,2026-01-13 02:51:04+00:00
+4,How Do Optical Flow and Textual Prompts Collaborate to Assist in Audio-Visual Semantic Segmentation?,2601.08133,http://arxiv.org/abs/2601.08133v1,2026-01-13 01:53:20+00:00
+5,Local-Global Feature Fusion for Subject-Independent EEG Emotion Recognition,2601.08094,http://arxiv.org/abs/2601.08094v1,2026-01-13 00:27:01+00:00
+6,Rewriting Video: Text-Driven Reauthoring of Video Footage,2601.08565,http://arxiv.org/abs/2601.08565v1,2026-01-13 13:49:05+00:00
+7,VideoHEDGE: Entropy-Based Hallucination Detection for Video-VLMs via Semantic Clustering and Spatiotemporal Perturbations,2601.08557,http://arxiv.org/abs/2601.08557v1,2026-01-13 13:42:05+00:00
+8,Contrastive and Multi-Task Learning on Noisy Brain Signals with Nonlinear Dynamical Signatures,2601.08549,http://arxiv.org/abs/2601.08549v1,2026-01-13 13:36:38+00:00
+9,SUMMPILOT: Bridging Efficiency and Customization for Interactive Summarization System,2601.08475,http://arxiv.org/abs/2601.08475v1,2026-01-13 12:07:21+00:00
+10,M3-BENCH: Process-Aware Evaluation of LLM Agents Social Behaviors in Mixed-Motive Games,2601.08462,http://arxiv.org/abs/2601.08462v1,2026-01-13 11:38:51+00:00
+11,Hybrid Distillation with CoT Guidance for Edge-Drone Control Code Generation,2601.08412,http://arxiv.org/abs/2601.08412v1,2026-01-13 10:31:09+00:00
+12,A Qualitative Model to Reason about Object Rotations (QOR) applied to solve the Cube Comparison Test (CCT),2601.08382,http://arxiv.org/abs/2601.08382v1,2026-01-13 09:43:43+00:00
+13,Thematic Working Group 5 -- Artificial Intelligence (AI) literacy for teaching and learning: design and implementation,2601.08380,http://arxiv.org/abs/2601.08380v1,2026-01-13 09:43:00+00:00
+14,APEX-SWE,2601.08806,http://arxiv.org/abs/2601.08806v1,2026-01-13 18:44:08+00:00
+15,Reliable Graph-RAG for Codebases: AST-Derived Graphs vs LLM-Extracted Knowledge Graphs,2601.08773,http://arxiv.org/abs/2601.08773v1,2026-01-13 18:03:41+00:00
+16,"All Required, In Order: Phase-Level Evaluation for AI-Human Dialogue in Healthcare and Beyond",2601.08690,http://arxiv.org/abs/2601.08690v1,2026-01-13 16:15:38+00:00
+17,Why AI Alignment Failure Is Structural: Learned Human Interaction Structures and AGI as an Endogenous Evolutionary Shock,2601.08673,http://arxiv.org/abs/2601.08673v1,2026-01-13 15:53:26+00:00
+18,ViDoRe V3: A Comprehensive Evaluation of Retrieval Augmented Generation in Complex Real-World Scenarios,2601.08620,http://arxiv.org/abs/2601.08620v1,2026-01-13 15:00:33+00:00
+19,VeriTaS: The First Dynamic Benchmark for Multimodal Automated Fact-Checking,2601.08611,http://arxiv.org/abs/2601.08611v1,2026-01-13 14:56:40+00:00
+20,ExpSeek: Self-Triggered Experience Seeking for Web Agents,2601.08605,http://arxiv.org/abs/2601.08605v1,2026-01-13 14:48:34+00:00
+21,"Moral Lenses, Political Coordinates: Towards Ideological Positioning of Morally Conditioned LLMs",2601.08634,http://arxiv.org/abs/2601.08634v1,2026-01-13 15:09:34+00:00
+22,Enhancing Sentiment Classification and Irony Detection in Large Language Models through Advanced Prompt Engineering Techniques,2601.08302,http://arxiv.org/abs/2601.08302v1,2026-01-13 07:45:36+00:00
+23,To Retrieve or To Think? An Agentic Approach for Context Evolution,2601.08747,http://arxiv.org/abs/2601.08747v2,2026-01-13 17:25:57+00:00
+24,Regulatory gray areas of LLM Terms,2601.08415,http://arxiv.org/abs/2601.08415v2,2026-01-13 10:34:46+00:00
+25,ART: Action-based Reasoning Task Benchmarking for Medical AI Agents,2601.08988,http://arxiv.org/abs/2601.08988v1,2026-01-13 21:26:11+00:00
+26,MemRec: Collaborative Memory-Augmented Agentic Recommender System,2601.08816,http://arxiv.org/abs/2601.08816v1,2026-01-13 18:51:16+00:00
+27,Imagine-then-Plan: Agent Learning from Adaptive Lookahead with World Models,2601.08955,http://arxiv.org/abs/2601.08955v1,2026-01-13 19:49:58+00:00
+28,Enhancing Image Quality Assessment Ability of LMMs via Retrieval-Augmented Generation,2601.08311,http://arxiv.org/abs/2601.08311v1,2026-01-13 08:00:02+00:00
+29,ORBIT: On-policy Exploration-Exploitation for Controllable Multi-Budget Reasoning,2601.08310,http://arxiv.org/abs/2601.08310v1,2026-01-13 07:57:48+00:00
+30,ToolACE-MCP: Generalizing History-Aware Routing from MCP Tools to the Agent Web,2601.08276,http://arxiv.org/abs/2601.08276v1,2026-01-13 07:07:39+00:00
+31,On Evaluation of Unsupervised Feature Selection for Pattern Classification,2601.08257,http://arxiv.org/abs/2601.08257v1,2026-01-13 06:28:59+00:00
+32,The End of Reward Engineering: How LLMs Are Redefining Multi-Agent Coordination,2601.08237,http://arxiv.org/abs/2601.08237v1,2026-01-13 05:47:18+00:00
+33,Knowledge-based learning in Text-RAG and Image-RAG,2601.08226,http://arxiv.org/abs/2601.08226v1,2026-01-13 05:14:18+00:00
+34,Project Synapse: A Hierarchical Multi-Agent Framework with Hybrid Memory for Autonomous Resolution of Last-Mile Delivery Disruptions,2601.08156,http://arxiv.org/abs/2601.08156v1,2026-01-13 02:38:27+00:00
+35,Embedded AI Companion System on Edge Devices,2601.08128,http://arxiv.org/abs/2601.08128v1,2026-01-13 01:50:06+00:00
+36,How vehicles change lanes after encountering crashes: Empirical analysis and modeling,2601.08125,http://arxiv.org/abs/2601.08125v1,2026-01-13 01:37:54+00:00
+37,Modeling LLM Agent Reviewer Dynamics in Elo-Ranked Review System,2601.08829,http://arxiv.org/abs/2601.08829v1,2026-01-13 18:59:17+00:00
+38,Motion Attribution for Video Generation,2601.08828,http://arxiv.org/abs/2601.08828v1,2026-01-13 18:59:09+00:00
+39,Sketch-Based Facade Renovation With Generative AI: A Streamlined Framework for Bypassing As-Built Modelling in Industrial Adaptive Reuse,2601.08531,http://arxiv.org/abs/2601.08531v1,2026-01-13 13:17:09+00:00
+40,"STAGE: A Benchmark for Knowledge Graph Construction, Question Answering, and In-Script Role-Playing over Movie Screenplays",2601.08510,http://arxiv.org/abs/2601.08510v1,2026-01-13 12:50:58+00:00
+41,What If TSF: A Benchmark for Reframing Forecasting as Scenario-Guided Multimodal Forecasting,2601.08509,http://arxiv.org/abs/2601.08509v1,2026-01-13 12:47:43+00:00
+42,Temporal Fusion Nexus: A task-agnostic multi-modal embedding model for clinical narratives and irregular time series in post-kidney transplant care,2601.08503,http://arxiv.org/abs/2601.08503v1,2026-01-13 12:38:33+00:00
+43,An Under-Explored Application for Explainable Multimodal Misogyny Detection in code-mixed Hindi-English,2601.08457,http://arxiv.org/abs/2601.08457v1,2026-01-13 11:31:55+00:00
+44,Owen-Shapley Policy Optimization (OSPO): A Principled RL Algorithm for Generative Search LLMs,2601.08403,http://arxiv.org/abs/2601.08403v1,2026-01-13 10:17:46+00:00
+45,PATS: Personality-Aware Teaching Strategies with Large Language Model Tutors,2601.08402,http://arxiv.org/abs/2601.08402v1,2026-01-13 10:17:26+00:00
+46,An Explainable Two Stage Deep Learning Framework for Pericoronitis Assessment in Panoramic Radiographs Using YOLOv8 and ResNet-50,2601.08401,http://arxiv.org/abs/2601.08401v1,2026-01-13 10:15:45+00:00
+47,IGAN: A New Inception-based Model for Stable and High-Fidelity Image Synthesis Using Generative Adversarial Networks,2601.08332,http://arxiv.org/abs/2601.08332v1,2026-01-13 08:42:46+00:00
+48,AtomMem : Learnable Dynamic Agentic Memory with Atomic Memory Operation,2601.08323,http://arxiv.org/abs/2601.08323v1,2026-01-13 08:22:28+00:00
+49,Reasoning Matters for 3D Visual Grounding,2601.08811,http://arxiv.org/abs/2601.08811v1,2026-01-13 18:48:41+00:00
+50,Multiplex Thinking: Reasoning via Token-wise Branch-and-Merge,2601.08808,http://arxiv.org/abs/2601.08808v1,2026-01-13 18:48:00+00:00
+51,Grid-Aware Charging and Operational Optimization for Mixed-Fleet Public Transit,2601.08753,http://arxiv.org/abs/2601.08753v1,2026-01-13 17:30:25+00:00
+52,Lessons from the Field: An Adaptable Lifecycle Approach to Applied Dialogue Summarization,2601.08682,http://arxiv.org/abs/2601.08682v1,2026-01-13 16:04:11+00:00
+53,TRACE: Reconstruction-Based Anomaly Detection in Ensemble and Time-Dependent Simulations,2601.08659,http://arxiv.org/abs/2601.08659v1,2026-01-13 15:36:52+00:00
+54,Resisting Manipulative Bots in Memecoin Copy Trading: A Multi-Agent Approach with Chain-of-Thought Reasoning,2601.08641,http://arxiv.org/abs/2601.08641v1,2026-01-13 15:13:41+00:00
+55,SafeRedir: Prompt Embedding Redirection for Robust Unlearning in Image Generation Models,2601.08623,http://arxiv.org/abs/2601.08623v1,2026-01-13 15:01:38+00:00
+56,Meta-learning to Address Data Shift in Time Series Classification,2601.09018,http://arxiv.org/abs/2601.09018v1,2026-01-13 22:38:43+00:00
+57,ConvoLearn: A Dataset of Constructivist Tutor-Student Dialogue,2601.08950,http://arxiv.org/abs/2601.08950v1,2026-01-13 19:40:28+00:00
+58,Navigating Ideation Space: Decomposed Conceptual Representations for Positioning Scientific Ideas,2601.08901,http://arxiv.org/abs/2601.08901v1,2026-01-13 18:56:11+00:00
+59,Advancing ESG Intelligence: An Expert-level Agent and Comprehensive Benchmark for Sustainable Finance,2601.08676,http://arxiv.org/abs/2601.08676v2,2026-01-13 15:58:29+00:00
+60,An Axiomatic Approach to General Intelligence: SANC(E3) -- Self-organizing Active Network of Concepts with Energy E3,2601.08224,http://arxiv.org/abs/2601.08224v1,2026-01-13 05:06:07+00:00
+61,Learner-Tailored Program Repair: A Solution Generator with Iterative Edit-Driven Retrieval Enhancement,2601.08545,http://arxiv.org/abs/2601.08545v1,2026-01-13 13:31:11+00:00
+62,CD^2: Constrained Dataset Distillation for Few-Shot Class-Incremental Learning,2601.08519,http://arxiv.org/abs/2601.08519v1,2026-01-13 13:01:14+00:00
+63,Decoding Order Matters in Autoregressive Speech Synthesis,2601.08450,http://arxiv.org/abs/2601.08450v1,2026-01-13 11:21:36+00:00
+64,Beyond Linearization: Attributed Table Graphs for Table Reasoning,2601.08444,http://arxiv.org/abs/2601.08444v1,2026-01-13 11:14:43+00:00
+65,YaPO: Learnable Sparse Activation Steering Vectors for Domain Adaptation,2601.08441,http://arxiv.org/abs/2601.08441v1,2026-01-13 11:10:13+00:00
+66,Taxon: Hierarchical Tax Code Prediction with Semantically Aligned LLM Expert Guidance,2601.08418,http://arxiv.org/abs/2601.08418v1,2026-01-13 10:41:23+00:00
+67,Training-Free Distribution Adaptation for Diffusion Models via Maximum Mean Discrepancy Guidance,2601.08379,http://arxiv.org/abs/2601.08379v1,2026-01-13 09:42:57+00:00
+68,Real-Time Localization Framework for Autonomous Basketball Robots,2601.08713,http://arxiv.org/abs/2601.08713v1,2026-01-13 16:40:18+00:00
+69,Evaluating the Ability of Explanations to Disambiguate Models in a Rashomon Set,2601.08703,http://arxiv.org/abs/2601.08703v1,2026-01-13 16:31:11+00:00
+70,MEMEWEAVER: Inter-Meme Graph Reasoning for Sexism and Misogyny Detection,2601.08684,http://arxiv.org/abs/2601.08684v1,2026-01-13 16:06:41+00:00
+71,PersonaDual: Balancing Personalization and Objectivity via Adaptive Reasoning,2601.08679,http://arxiv.org/abs/2601.08679v1,2026-01-13 16:02:35+00:00
+72,GADPN: Graph Adaptive Denoising and Perturbation Networks via Singular Value Decomposition,2601.08230,http://arxiv.org/abs/2601.08230v1,2026-01-13 05:25:32+00:00
+73,DNF: Dual-Layer Nested Fingerprinting for Large Language Model Intellectual Property Protection,2601.08223,http://arxiv.org/abs/2601.08223v1,2026-01-13 05:05:37+00:00
+74,Adapting Rules of Official International Mahjong for Online Players,2601.08211,http://arxiv.org/abs/2601.08211v1,2026-01-13 04:36:05+00:00
+75,Autonomous Materials Exploration by Integrating Automated Phase Identification and AI-Assisted Human Reasoning,2601.08185,http://arxiv.org/abs/2601.08185v1,2026-01-13 03:30:14+00:00
+76,Instruction-Driven 3D Facial Expression Generation and Transition,2601.08179,http://arxiv.org/abs/2601.08179v1,2026-01-13 03:12:48+00:00
+77,Enriching Semantic Profiles into Knowledge Graph for Recommender Systems Using Large Language Models,2601.08148,http://arxiv.org/abs/2601.08148v1,2026-01-13 02:23:32+00:00
+78,Mechanisms are Transferable: Data-Efficient Low-Resource Adaptation via Circuit-Targeted Supervised Fine-Tuning,2601.08146,http://arxiv.org/abs/2601.08146v1,2026-01-13 02:20:53+00:00
+79,MirrorBench: An Extensible Framework to Evaluate User-Proxy Agents for Human-Likeness,2601.08118,http://arxiv.org/abs/2601.08118v1,2026-01-13 01:16:13+00:00
+80,PluriHarms: Benchmarking the Full Spectrum of Human Judgments on AI Harm,2601.08951,http://arxiv.org/abs/2601.08951v1,2026-01-13 19:41:11+00:00
+81,XGBoost Forecasting of NEPSE Index Log Returns with Walk Forward Validation,2601.08896,http://arxiv.org/abs/2601.08896v1,2026-01-13 15:22:08+00:00
+82,GI-Bench: A Panoramic Benchmark Revealing the Knowledge-Experience Dissociation of Multimodal Large Language Models in Gastrointestinal Endoscopy Against Clinical Standards,2601.08183,http://arxiv.org/abs/2601.08183v2,2026-01-13 03:23:11+00:00
+83,"Synthetic Data for Veterinary EHR De-identification: Benefits, Limits, and Safety Trade-offs Under Fixed Compute",2601.09756,http://arxiv.org/abs/2601.09756v1,2026-01-13 19:35:25+00:00
+84,Heterogeneous computing platform for real-time robotics,2601.09755,http://arxiv.org/abs/2601.09755v1,2026-01-13 11:48:25+00:00
+85,"Critically Engaged Pragmatism: A Scientific Norm and Social, Pragmatist Epistemology for AI Science Evaluation Tools",2601.09753,http://arxiv.org/abs/2601.09753v1,2026-01-13 02:02:27+00:00
+86,TranslateGemma Technical Report,2601.09012,http://arxiv.org/abs/2601.09012v2,2026-01-13 22:23:24+00:00
+87,MPCI-Bench: A Benchmark for Multimodal Pairwise Contextual Integrity Evaluation of Language Model Agents,2601.08235,http://arxiv.org/abs/2601.08235v2,2026-01-13 05:39:43+00:00
+88,Towards a Self-Driving Trigger at the LHC: Adaptive Response in Real Time,2601.08910,http://arxiv.org/abs/2601.08910v1,2026-01-13 19:00:02+00:00
+89,AI as Entertainment,2601.08768,http://arxiv.org/abs/2601.08768v1,2026-01-13 17:55:34+00:00
+90,TableCache: Primary Foreign Key Guided KV Cache Precomputation for Low Latency Text-to-SQL,2601.08743,http://arxiv.org/abs/2601.08743v1,2026-01-13 17:20:55+00:00
+91,TerraFormer: Automated Infrastructure-as-Code with LLMs Fine-Tuned via Policy-Guided Verifier Feedback,2601.08734,http://arxiv.org/abs/2601.08734v1,2026-01-13 17:08:30+00:00
+92,Parallel Context-of-Experts Decoding for Retrieval Augmented Generation,2601.08670,http://arxiv.org/abs/2601.08670v1,2026-01-13 15:46:59+00:00
+93,Prism: Towards Lowering User Cognitive Load in LLMs via Complex Intent Understanding,2601.08653,http://arxiv.org/abs/2601.08653v1,2026-01-13 15:30:48+00:00
+94,WaterCopilot: An AI-Driven Virtual Assistant for Water Management,2601.08559,http://arxiv.org/abs/2601.08559v1,2026-01-13 13:44:00+00:00
+95,Divide and Conquer: Static-Dynamic Collaboration for Few-Shot Class-Incremental Learning,2601.08448,http://arxiv.org/abs/2601.08448v1,2026-01-13 11:18:43+00:00
+96,Creativity in AI as Emergence from Domain-Limited Generative Models,2601.08388,http://arxiv.org/abs/2601.08388v1,2026-01-13 09:52:14+00:00
+97,Deconstructing Pre-training: Knowledge Attribution Analysis in MoE and Dense Models,2601.08383,http://arxiv.org/abs/2601.08383v1,2026-01-13 09:44:00+00:00
+98,Semantic Laundering in AI Agent Architectures: Why Tool Boundaries Do Not Confer Epistemic Warrant,2601.08333,http://arxiv.org/abs/2601.08333v1,2026-01-13 08:45:17+00:00
+99,Sparsity Is Necessary: Polynomial-Time Stability for Agentic LLMs in Large Action Spaces,2601.08271,http://arxiv.org/abs/2601.08271v1,2026-01-13 06:56:53+00:00
