@@ -1,0 +1,76 @@
+,title,id,arxiv_url,published
+0,Actionable Advice from Reviews via Mixture of LoRA Experts: A Two-LLM Pipeline for Issue Extraction and Business Recommendations,2601.12338,http://arxiv.org/abs/2601.12338v1,2026-01-18 10:11:29+00:00
+1,Survival is the Only Reward: Sustainable Self-Training Through Environment-Mediated Selection,2601.12310,http://arxiv.org/abs/2601.12310v1,2026-01-18 08:35:56+00:00
+2,TimeGMM: Single-Pass Probabilistic Forecasting via Adaptive Gaussian Mixture Models with Reversible Normalization,2601.12288,http://arxiv.org/abs/2601.12288v1,2026-01-18 07:02:13+00:00
+3,CytoCLIP: Learning Cytoarchitectural Characteristics in Developing Human Brain Using Contrastive Language Image Pre-Training,2601.12282,http://arxiv.org/abs/2601.12282v1,2026-01-18 06:42:24+00:00
+4,Multimodal Generative Engine Optimization: Rank Manipulation for Vision-Language Model Rankers,2601.12263,http://arxiv.org/abs/2601.12263v1,2026-01-18 04:58:28+00:00
+5,"An Innovative Framework for Breast Cancer Detection Using Pyramid Adaptive Atrous Convolution, Transformer Integration, and Multi-Scale Feature Fusion",2601.12249,http://arxiv.org/abs/2601.12249v1,2026-01-18 03:55:33+00:00
+6,AQUA-Bench: Beyond Finding Answers to Knowing When There Are None in Audio Question Answering,2601.12248,http://arxiv.org/abs/2601.12248v1,2026-01-18 03:55:28+00:00
+7,Speculative Sampling with Reinforcement Learning,2601.12212,http://arxiv.org/abs/2601.12212v1,2026-01-18 01:31:29+00:00
+8,Do MLLMs See What We See? Analyzing Visualization Literacy Barriers in AI Systems,2601.12585,http://arxiv.org/abs/2601.12585v1,2026-01-18 21:08:23+00:00
+9,Agentic Reasoning for Large Language Models,2601.12538,http://arxiv.org/abs/2601.12538v1,2026-01-18 18:58:23+00:00
+10,Improving Low-Resource Machine Translation via Round-Trip Reinforcement Learning,2601.12535,http://arxiv.org/abs/2601.12535v1,2026-01-18 18:44:49+00:00
+11,Failure Modes in Multi-Hop QA: The Weakest Link Law and the Recognition Bottleneck,2601.12499,http://arxiv.org/abs/2601.12499v1,2026-01-18 17:16:04+00:00
+12,Are LLMs Smarter Than Chimpanzees? An Evaluation on Perspective Taking and Knowledge State Estimation,2601.12410,http://arxiv.org/abs/2601.12410v1,2026-01-18 13:53:24+00:00
+13,NADIR: Differential Attention Flow for Non-Autoregressive Transliteration in Indic Languages,2601.12389,http://arxiv.org/abs/2601.12389v1,2026-01-18 12:56:47+00:00
+14,"Creating Disability Story Videos with Generative AI: Motivation, Expression, and Sharing",2601.12617,http://arxiv.org/abs/2601.12617v1,2026-01-18 23:18:34+00:00
+15,Encoding Emotion Through Self-Supervised Eye Movement Reconstruction,2601.12534,http://arxiv.org/abs/2601.12534v2,2026-01-18 18:37:41+00:00
+16,A Cloud-based Multi-Agentic Workflow for Science,2601.12607,http://arxiv.org/abs/2601.12607v1,2026-01-18 22:37:09+00:00
+17,MemeLens: Multilingual Multitask VLMs for Memes,2601.12539,http://arxiv.org/abs/2601.12539v1,2026-01-18 19:01:03+00:00
+18,Efficient Privacy-Preserving Retrieval Augmented Generation with Distance-Preserving Encryption,2601.12331,http://arxiv.org/abs/2601.12331v1,2026-01-18 09:29:50+00:00
+19,MARO: Learning Stronger Reasoning from Social Interaction,2601.12323,http://arxiv.org/abs/2601.12323v1,2026-01-18 09:10:08+00:00
+20,Beyond Human Annotation: Recent Advances in Data Generation Methods for Document Intelligence,2601.12318,http://arxiv.org/abs/2601.12318v1,2026-01-18 09:01:18+00:00
+21,Docs2Synth: A Synthetic Data Trained Retriever Framework for Scanned Visually Rich Documents Understanding,2601.12260,http://arxiv.org/abs/2601.12260v1,2026-01-18 04:45:09+00:00
+22,Soft Shadow Diffusion (SSD): Physics-inspired Learning for 3D Computational Periscopy,2601.12257,http://arxiv.org/abs/2601.12257v1,2026-01-18 04:40:00+00:00
+23,Proc3D: Procedural 3D Generation and Parametric Editing of 3D Shapes with Large Language Models,2601.12234,http://arxiv.org/abs/2601.12234v1,2026-01-18 03:08:08+00:00
+24,"Artificial Intelligence in Materials Science and Engineering: Current Landscape, Key Challenges, and Future Trajectorie",2601.12554,http://arxiv.org/abs/2601.12554v1,2026-01-18 19:36:10+00:00
+25,Purification Before Fusion: Toward Mask-Free Speech Enhancement for Robust Audio-Visual Speech Recognition,2601.12436,http://arxiv.org/abs/2601.12436v1,2026-01-18 14:46:08+00:00
+26,Explainable Machine Learning for Pediatric Dental Risk Stratification Using Socio-Demographic Determinants,2601.12405,http://arxiv.org/abs/2601.12405v1,2026-01-18 13:40:41+00:00
+27,Weaknesses of Facial Emotion Recognition Systems,2601.12402,http://arxiv.org/abs/2601.12402v1,2026-01-18 13:27:01+00:00
+28,A Scalable Entity-Based Framework for Auditing Bias in LLMs,2601.12374,http://arxiv.org/abs/2601.12374v1,2026-01-18 12:07:31+00:00
+29,From Prompts to Pavement: LMMs-based Agentic Behavior-Tree Generation Framework for Autonomous Vehicles,2601.12358,http://arxiv.org/abs/2601.12358v1,2026-01-18 11:32:29+00:00
+30,SimpleMatch: A Simple and Strong Baseline for Semantic Correspondence,2601.12357,http://arxiv.org/abs/2601.12357v1,2026-01-18 11:31:46+00:00
+31,Zero-Permission Manipulation: Can We Trust Large Multimodal Model Powered GUI Agents?,2601.12349,http://arxiv.org/abs/2601.12349v1,2026-01-18 10:54:54+00:00
+32,Orthogonalized Policy Optimization:Decoupling Sampling Geometry from Optimization Geometry in RLHF,2601.12415,http://arxiv.org/abs/2601.12415v2,2026-01-18 13:57:44+00:00
+33,DDSA: Dual-Domain Strategic Attack for Spatial-Temporal Efficiency in Adversarial Robustness Testing,2601.14302,http://arxiv.org/abs/2601.14302v1,2026-01-18 03:14:22+00:00
+34,Time-Continuous Modeling for Temporal Affective Pattern Recognition in LLMs,2601.12341,http://arxiv.org/abs/2601.12341v1,2026-01-18 10:16:26+00:00
+35,GazeFormer-MoE: Context-Aware Gaze Estimation via CLIP and MoE Transformer,2601.12316,http://arxiv.org/abs/2601.12316v1,2026-01-18 08:54:02+00:00
+36,A Two-Stage Globally-Diverse Adversarial Attack for Vision-Language Pre-training Models,2601.12304,http://arxiv.org/abs/2601.12304v1,2026-01-18 08:05:33+00:00
+37,Conversational Context Classification: A Representation Engineering Approach,2601.12286,http://arxiv.org/abs/2601.12286v1,2026-01-18 06:47:35+00:00
+38,FutureX-Pro: Extending Future Prediction to High-Value Vertical Domains,2601.12259,http://arxiv.org/abs/2601.12259v1,2026-01-18 04:44:49+00:00
+39,Optimal Power Allocation and Sub-Optimal Channel Assignment for Downlink NOMA Systems Using Deep Reinforcement Learning,2601.12242,http://arxiv.org/abs/2601.12242v1,2026-01-18 03:37:40+00:00
+40,Wavelet-Driven Masked Multiscale Reconstruction for PPG Foundation Models,2601.12215,http://arxiv.org/abs/2601.12215v1,2026-01-18 01:34:47+00:00
+41,SLAP: Scalable Language-Audio Pretraining with Variable-Duration Audio and Multi-Objective Training,2601.12594,http://arxiv.org/abs/2601.12594v1,2026-01-18 21:36:19+00:00
+42,"Agentic Artificial Intelligence (AI): Architectures, Taxonomies, and Evaluation of Large Language Model Agents",2601.12560,http://arxiv.org/abs/2601.12560v1,2026-01-18 19:51:16+00:00
+43,"Life, Machine Learning, and the Search for Habitability: Predicting Biosignature Fluxes for the Habitable Worlds Observatory",2601.12557,http://arxiv.org/abs/2601.12557v1,2026-01-18 19:43:48+00:00
+44,Benchmarking Concept-Spilling Across Languages in LLMs,2601.12549,http://arxiv.org/abs/2601.12549v1,2026-01-18 19:28:26+00:00
+45,How Clinicians Think and What AI Can Learn From It,2601.12547,http://arxiv.org/abs/2601.12547v1,2026-01-18 19:19:41+00:00
+46,Cooperative Multi-agent RL with Communication Constraints,2601.12518,http://arxiv.org/abs/2601.12518v1,2026-01-18 18:05:23+00:00
+47,Adversarial Defense in Vision-Language Models: An Overview,2601.12443,http://arxiv.org/abs/2601.12443v1,2026-01-18 14:57:51+00:00
+48,Patch-Level Tokenization with CNN Encoders and Attention for Improved Transformer Time-Series Forecasting,2601.12467,http://arxiv.org/abs/2601.12467v2,2026-01-18 16:16:01+00:00
+49,Prometheus Mind: Retrofitting Memory to Frozen Language Models,2601.15324,http://arxiv.org/abs/2601.15324v1,2026-01-18 20:29:07+00:00
+50,Rethinking the AI Scientist: Interactive Multi-Agent Workflows for Scientific Discovery,2601.12542,http://arxiv.org/abs/2601.12542v1,2026-01-18 19:12:41+00:00
+51,Incentivizing In-depth Reasoning over Long Contexts with Process Advantage Shaping,2601.12465,http://arxiv.org/abs/2601.12465v1,2026-01-18 16:10:04+00:00
+52,AgenTRIM: Tool Risk Mitigation for Agentic AI,2601.12449,http://arxiv.org/abs/2601.12449v1,2026-01-18 15:10:18+00:00
+53,Beyond the Dirac Delta: Mitigating Diversity Collapse in Reinforcement Fine-Tuning for Versatile Image Generation,2601.12401,http://arxiv.org/abs/2601.12401v1,2026-01-18 13:25:43+00:00
+54,Improving Large Molecular Language Model via Relation-aware Multimodal Collaboration,2601.12256,http://arxiv.org/abs/2601.12256v1,2026-01-18 04:38:19+00:00
+55,"Where It Moves, It Matters: Referring Surgical Instrument Segmentation via Motion",2601.12224,http://arxiv.org/abs/2601.12224v1,2026-01-18 02:14:08+00:00
+56,IceWatch: Forecasting Glacial Lake Outburst Floods (GLOFs) using Multimodal Deep Learning,2601.12330,http://arxiv.org/abs/2601.12330v1,2026-01-18 09:29:40+00:00
+57,Constraint-Aware Neurosymbolic Uncertainty Quantification with Bayesian Deep Learning for Scientific Discovery,2601.12442,http://arxiv.org/abs/2601.12442v1,2026-01-18 14:57:35+00:00
+58,Harmonizing the Arabic Audio Space with Data Scheduling,2601.12494,http://arxiv.org/abs/2601.12494v1,2026-01-18 17:08:31+00:00
+59,Primate-like perceptual decision making emerges through deep recurrent reinforcement learning,2601.12577,http://arxiv.org/abs/2601.12577v1,2026-01-18 20:43:53+00:00
+60,How Well Do LLMs Predict Human Behavior? A Measure of their Pretrained Knowledge,2601.12343,http://arxiv.org/abs/2601.12343v1,2026-01-18 10:28:54+00:00
+61,Ontology-aligned structuring and reuse of multimodal materials data and workflows towards automatic reproduction,2601.12582,http://arxiv.org/abs/2601.12582v1,2026-01-18 20:51:23+00:00
+62,Knowing When to Abstain: Medical LLMs Under Clinical Uncertainty,2601.12471,http://arxiv.org/abs/2601.12471v2,2026-01-18 16:19:29+00:00
+63,The Expert Validation Framework (EVF): Enabling Domain Expert Control in AI Engineering,2601.12327,http://arxiv.org/abs/2601.12327v1,2026-01-18 09:20:21+00:00
+64,Explanova: Automatically Discover Data Insights in N \times M Table via XAI Combined LLM Workflow,2601.12317,http://arxiv.org/abs/2601.12317v1,2026-01-18 09:00:03+00:00
+65,ToolPRMBench: Evaluating and Advancing Process Reward Models for Tool-using Agents,2601.12294,http://arxiv.org/abs/2601.12294v1,2026-01-18 07:48:36+00:00
+66,Simulated Annealing Enhances Theory-of-Mind Reasoning in Autoregressive Language Models,2601.12269,http://arxiv.org/abs/2601.12269v1,2026-01-18 05:51:30+00:00
+67,Less is More: Label-Guided Summarization of Procedural and Instructional Videos,2601.12243,http://arxiv.org/abs/2601.12243v1,2026-01-18 03:41:48+00:00
+68,Do Neural Codecs Generalize? A Controlled Study Across Unseen Languages and Non-Speech Tasks,2601.12205,http://arxiv.org/abs/2601.12205v1,2026-01-18 00:53:11+00:00
+69,An Optimized Decision Tree-Based Framework for Explainable IoT Anomaly Detection,2601.14305,http://arxiv.org/abs/2601.14305v1,2026-01-18 08:48:53+00:00
+70,Predictive Prototyping: Evaluating Design Concepts with ChatGPT,2601.12276,http://arxiv.org/abs/2601.12276v2,2026-01-18 06:26:03+00:00
+71,Improved Bug Localization with AI Agents Leveraging Hypothesis and Dynamic Cognition,2601.12522,http://arxiv.org/abs/2601.12522v1,2026-01-18 18:12:21+00:00
+72,Large Language Model for OWL Proofs,2601.12444,http://arxiv.org/abs/2601.12444v1,2026-01-18 14:57:57+00:00
+73,PsychēChat: An Empathic Framework Focused on Emotion Shift Tracking and Safety Risk Analysis in Psychological Counseling,2601.12392,http://arxiv.org/abs/2601.12392v1,2026-01-18 13:06:13+00:00
+74,"Plan, Verify and Fill: A Structured Parallel Decoding Approach for Diffusion Language Models",2601.12247,http://arxiv.org/abs/2601.12247v1,2026-01-18 03:53:01+00:00
