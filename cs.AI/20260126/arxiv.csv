@@ -1,0 +1,101 @@
+,title,id,arxiv_url,published
+0,ArchAgent: Scalable Legacy Software Architecture Recovery with LLMs,2601.13007,http://arxiv.org/abs/2601.13007v1,2026-01-19 12:39:05+00:00
+1,Beyond Accuracy: Characterizing Code Comprehension Capabilities in (Large) Language Models,2601.12951,http://arxiv.org/abs/2601.12951v1,2026-01-19 10:58:24+00:00
+2,Membership Inference Test: Auditing Training Data in Object Classification Models,2601.12929,http://arxiv.org/abs/2601.12929v1,2026-01-19 10:30:53+00:00
+3,ForeDiffusion: Foresight-Conditioned Diffusion Policy via Future View Construction for Robot Manipulation,2601.12925,http://arxiv.org/abs/2601.12925v1,2026-01-19 10:28:42+00:00
+4,YOLO26: An Analysis of NMS-Free End to End Framework for Real-Time Object Detection,2601.12882,http://arxiv.org/abs/2601.12882v1,2026-01-19 09:36:08+00:00
+5,Left-Right Symmetry Breaking in CLIP-style Vision-Language Models Trained on Synthetic Spatial-Relation Data,2601.12809,http://arxiv.org/abs/2601.12809v1,2026-01-19 08:16:11+00:00
+6,TreeWriter: AI-Assisted Hierarchical Planning and Writing for Long-Form Documents,2601.12740,http://arxiv.org/abs/2601.12740v1,2026-01-19 05:39:35+00:00
+7,Neurosymbolic LoRA: Why and When to Tune Weights vs. Rewrite Prompts,2601.12711,http://arxiv.org/abs/2601.12711v1,2026-01-19 04:24:49+00:00
+8,Exploiting Test-Time Augmentation in Federated Learning for Brain Tumor MRI Classification,2601.12671,http://arxiv.org/abs/2601.12671v1,2026-01-19 02:32:50+00:00
+9,AI Skills Improve Job Prospects: Causal Evidence from a Hiring Experiment,2601.13286,http://arxiv.org/abs/2601.13286v1,2026-01-19 18:37:28+00:00
+10,CURE-Med: Curriculum-Informed Reinforcement Learning for Multilingual Medical Reasoning,2601.13262,http://arxiv.org/abs/2601.13262v1,2026-01-19 17:51:00+00:00
+11,Aligning Agentic World Models via Knowledgeable Experience Learning,2601.13247,http://arxiv.org/abs/2601.13247v1,2026-01-19 17:33:31+00:00
+12,KOCO-BENCH: Can Large Language Models Leverage Domain Knowledge in Software Development?,2601.13240,http://arxiv.org/abs/2601.13240v1,2026-01-19 17:20:16+00:00
+13,A Semantic Decoupling-Based Two-Stage Rainy-Day Attack for Revealing Weather Robustness Deficiencies in Vision-Language Models,2601.13238,http://arxiv.org/abs/2601.13238v1,2026-01-19 17:16:30+00:00
+14,Pixelwise Uncertainty Quantification of Accelerated MRI Reconstruction,2601.13236,http://arxiv.org/abs/2601.13236v1,2026-01-19 17:12:28+00:00
+15,Incorporating Q&A Nuggets into Retrieval-Augmented Generation,2601.13222,http://arxiv.org/abs/2601.13222v1,2026-01-19 16:57:33+00:00
+16,"From 100,000+ images to winning the first brain MRI foundation model challenges: Sharing lessons and models",2601.13166,http://arxiv.org/abs/2601.13166v1,2026-01-19 15:43:51+00:00
+17,Integrating Virtual Reality and Large Language Models for Team-Based Non-Technical Skills Training and Evaluation in the Operating Room,2601.13406,http://arxiv.org/abs/2601.13406v1,2026-01-19 21:34:00+00:00
+18,Deep Image Prior with L0 Gradient Regularizer for Image Smoothing,2601.13400,http://arxiv.org/abs/2601.13400v1,2026-01-19 21:10:32+00:00
+19,CooperBench: Why Coding Agents Cannot be Your Teammates Yet,2601.13295,http://arxiv.org/abs/2601.13295v1,2026-01-19 18:48:37+00:00
+20,A Learnable Wavelet Transformer for Long-Short Equity Trading and Risk-Adjusted Return Optimization,2601.13435,http://arxiv.org/abs/2601.13435v1,2026-01-19 22:41:31+00:00
+21,Analysis of Long Range Dependency Understanding in State Space Models,2601.13048,http://arxiv.org/abs/2601.13048v1,2026-01-19 13:39:42+00:00
+22,"Tracing the Data Trail: A Survey of Data Provenance, Transparency and Traceability in LLMs",2601.14311,http://arxiv.org/abs/2601.14311v1,2026-01-19 09:14:00+00:00
+23,ECGomics: An Open Platform for AI-ECG Digital Biomarker Discovery,2601.15326,http://arxiv.org/abs/2601.15326v1,2026-01-19 07:55:23+00:00
+24,SCULPT: Constraint-Guided Pruned MCTS that Carves Efficient Paths for Mathematical Reasoning,2601.12842,http://arxiv.org/abs/2601.12842v1,2026-01-19 08:55:46+00:00
+25,AirHunt: Bridging VLM Semantics and Continuous Planning for Efficient Aerial Object Navigation,2601.12742,http://arxiv.org/abs/2601.12742v1,2026-01-19 05:50:03+00:00
+26,An Evolutionary Framework for Automatic Optimization Benchmark Generation via Large Language Models,2601.12723,http://arxiv.org/abs/2601.12723v1,2026-01-19 04:58:15+00:00
+27,Generalizable Hyperparameter Optimization for Federated Learning on Non-IID Cancer Images,2601.12664,http://arxiv.org/abs/2601.12664v1,2026-01-19 02:24:24+00:00
+28,HT-GNN: Hyper-Temporal Graph Neural Network for Customer Lifetime Value Prediction in Baidu Ads,2601.13013,http://arxiv.org/abs/2601.13013v1,2026-01-19 12:47:31+00:00
+29,From Prefix Cache to Fusion RAG Cache: Accelerating LLM Inference in Retrieval-Augmented Generation,2601.12904,http://arxiv.org/abs/2601.12904v1,2026-01-19 09:59:39+00:00
+30,Labels or Preferences? Budget-Constrained Learning with Human Judgments over AI-Generated Outputs,2601.13458,http://arxiv.org/abs/2601.13458v1,2026-01-19 23:23:29+00:00
+31,Using deep learning for predicting cleansing quality of colon capsule endoscopy images,2601.13412,http://arxiv.org/abs/2601.13412v1,2026-01-19 21:48:41+00:00
+32,"A Lightweight Modular Framework for Constructing Autonomous Agents Driven by Large Language Models: Design, Implementation, and Applications in AgentForge",2601.13383,http://arxiv.org/abs/2601.13383v1,2026-01-19 20:33:26+00:00
+33,The Geometry of Thought: How Scale Restructures Reasoning In Large Language Models,2601.13358,http://arxiv.org/abs/2601.13358v1,2026-01-19 19:53:37+00:00
+34,LLM-as-RNN: A Recurrent Language Model for Memory Updates and Sequence Prediction,2601.13352,http://arxiv.org/abs/2601.13352v1,2026-01-19 19:41:39+00:00
+35,IntAgent: NWDAF-Based Intent LLM Agent Towards Advanced Next Generation Networks,2601.13114,http://arxiv.org/abs/2601.13114v1,2026-01-19 14:55:48+00:00
+36,MOSLD-Bench: Multilingual Open-Set Learning and Discovery Benchmark for Text Categorization,2601.13437,http://arxiv.org/abs/2601.13437v1,2026-01-19 22:49:41+00:00
+37,Hierarchical Sparse Circuit Extraction from Billion-Parameter Language Models through Scalable Attribution Graph Decomposition,2601.12879,http://arxiv.org/abs/2601.12879v1,2026-01-19 09:34:10+00:00
+38,Can LLMs Compress (and Decompress)? Evaluating Code Understanding and Execution via Invertibility,2601.13398,http://arxiv.org/abs/2601.13398v1,2026-01-19 21:09:48+00:00
+39,Online Continual Learning for Time Series: a Natural Score-driven Approach,2601.12931,http://arxiv.org/abs/2601.12931v1,2026-01-19 10:31:01+00:00
+40,Teaching LLMs to Learn Tool Trialing and Execution through Environment Interaction,2601.12762,http://arxiv.org/abs/2601.12762v1,2026-01-19 06:46:33+00:00
+41,A Graph Prompt Fine-Tuning Method for WSN Spatio-Temporal Correlation Anomaly Detection,2601.12745,http://arxiv.org/abs/2601.12745v1,2026-01-19 05:58:53+00:00
+42,Logic-Guided Multistage Inference for Explainable Multidefendant Judgment Prediction,2601.12688,http://arxiv.org/abs/2601.12688v1,2026-01-19 03:20:36+00:00
+43,Topology-Aware Multiscale Mixture of Experts for Efficient Molecular Property Prediction,2601.12637,http://arxiv.org/abs/2601.12637v1,2026-01-19 00:54:24+00:00
+44,Paid Voices vs. Public Feeds: Interpretable Cross-Platform Theme Modeling of Climate Discourse,2601.13317,http://arxiv.org/abs/2601.13317v1,2026-01-19 19:00:56+00:00
+45,Stop Taking Tokenizers for Granted: They Are Core Design Decisions in Large Language Models,2601.13260,http://arxiv.org/abs/2601.13260v1,2026-01-19 17:50:36+00:00
+46,RAG: A Random-Forest-Based Generative Design Framework for Uncertainty-Aware Design of Metamaterials with Complex Functional Response Requirements,2601.13233,http://arxiv.org/abs/2601.13233v1,2026-01-19 17:06:12+00:00
+47,Beyond Single-shot Writing: Deep Research Agents are Unreliable at Multi-turn Report Revision,2601.13217,http://arxiv.org/abs/2601.13217v1,2026-01-19 16:48:45+00:00
+48,"Prompt Injection Mitigation with Agentic AI, Nested Learning, and AI Sustainability via Semantic Caching",2601.13186,http://arxiv.org/abs/2601.13186v1,2026-01-19 16:10:11+00:00
+49,TVWorld: Foundations for Remote-Control TV Agents,2601.13142,http://arxiv.org/abs/2601.13142v1,2026-01-19 15:24:32+00:00
+50,MagicGUI-RMS: A Multi-Agent Reward Model System for Self-Evolving GUI Agents via Automated Feedback Reflux,2601.13060,http://arxiv.org/abs/2601.13060v1,2026-01-19 13:50:43+00:00
+51,TinyML-Enabled IoT for Sustainable Precision Irrigation,2601.13054,http://arxiv.org/abs/2601.13054v1,2026-01-19 13:43:28+00:00
+52,Active Inference-Driven World Modeling for Adaptive UAV Swarm Trajectory Design,2601.12939,http://arxiv.org/abs/2601.12939v1,2026-01-19 10:47:26+00:00
+53,SpatialBench-UC: Uncertainty-Aware Evaluation of Spatial Prompt Following in Text-to-Image Generation,2601.13462,http://arxiv.org/abs/2601.13462v1,2026-01-19 23:37:10+00:00
+54,Reasoning with Pixel-level Precision: QVLM Architecture and SQuID Dataset for Quantitative Geospatial Analytics,2601.13401,http://arxiv.org/abs/2601.13401v1,2026-01-19 21:14:34+00:00
+55,VISPA: Pluralistic Alignment via Automatic Value Selection and Activation,2601.12758,http://arxiv.org/abs/2601.12758v1,2026-01-19 06:38:52+00:00
+56,"Cognition spaces: natural, artificial, and hybrid",2601.12837,http://arxiv.org/abs/2601.12837v1,2026-01-19 08:50:18+00:00
+57,SL-CBM: Enhancing Concept Bottleneck Models with Semantic Locality for Better Interpretability,2601.12804,http://arxiv.org/abs/2601.12804v1,2026-01-19 08:05:28+00:00
+58,Explanation Multiplicity in SHAP: Characterization and Assessment,2601.12654,http://arxiv.org/abs/2601.12654v1,2026-01-19 02:01:18+00:00
+59,The Post-Turing Condition: Conceptualising Artificial Subjectivity and Synthetic Sociality,2601.12938,http://arxiv.org/abs/2601.12938v1,2026-01-19 10:46:52+00:00
+60,MirrorGuard: Toward Secure Computer-Use Agents via Simulation-to-Real Reasoning Correction,2601.12822,http://arxiv.org/abs/2601.12822v1,2026-01-19 08:32:09+00:00
+61,PAIR-SAFE: A Paired-Agent Approach for Runtime Auditing and Refining AI-Mediated Mental Health Support,2601.12754,http://arxiv.org/abs/2601.12754v1,2026-01-19 06:20:57+00:00
+62,Vision Language Models for Optimization-Driven Intent Processing in Autonomous Networks,2601.12744,http://arxiv.org/abs/2601.12744v1,2026-01-19 05:57:58+00:00
+63,A Shared Geometry of Difficulty in Multilingual Language Models,2601.12731,http://arxiv.org/abs/2601.12731v1,2026-01-19 05:21:21+00:00
+64,Teaching Large Reasoning Models Effective Reflection,2601.12720,http://arxiv.org/abs/2601.12720v1,2026-01-19 04:51:53+00:00
+65,"MedConsultBench: A Full-Cycle, Fine-Grained, Process-Aware Benchmark for Medical Consultation Agents",2601.12661,http://arxiv.org/abs/2601.12661v1,2026-01-19 02:18:10+00:00
+66,Intelligent Documentation in Medical Education: Can AI Replace Manual Case Logging?,2601.12648,http://arxiv.org/abs/2601.12648v1,2026-01-19 01:45:51+00:00
+67,"Unbounded Harms, Bounded Law: Liability in the Age of Borderless AI",2601.12646,http://arxiv.org/abs/2601.12646v1,2026-01-19 01:44:14+00:00
+68,Improving the Safety and Trustworthiness of Medical AI via Multi-Agent Evaluation Loops,2601.13268,http://arxiv.org/abs/2601.13268v1,2026-01-19 18:10:34+00:00
+69,Real-Time Deadlines Reveal Temporal Awareness Failures in LLM Strategic Dialogues,2601.13206,http://arxiv.org/abs/2601.13206v1,2026-01-19 16:31:07+00:00
+70,Scientific production in the era of Large Language Models,2601.13187,http://arxiv.org/abs/2601.13187v1,2026-01-19 16:10:22+00:00
+71,CORE-T: COherent REtrieval of Tables for Text-to-SQL,2601.13111,http://arxiv.org/abs/2601.13111v1,2026-01-19 14:51:23+00:00
+72,Organ-Aware Attention Improves CT Triage and Classification,2601.13385,http://arxiv.org/abs/2601.13385v1,2026-01-19 20:37:45+00:00
+73,"Bounded Minds, Generative Machines: Envisioning Conversational AI that Works with Human Heuristics and Reduces Bias Risk",2601.13376,http://arxiv.org/abs/2601.13376v1,2026-01-19 20:23:28+00:00
+74,"The AI Genie Phenomenon and Three Types of AI Chatbot Addiction: Escapist Roleplays, Pseudosocial Companions, and Epistemic Rabbit Holes",2601.13348,http://arxiv.org/abs/2601.13348v1,2026-01-19 19:33:58+00:00
+75,Your Privacy Depends on Others: Collusion Vulnerabilities in Individual Differential Privacy,2601.12922,http://arxiv.org/abs/2601.12922v1,2026-01-19 10:26:12+00:00
+76,AdaNODEs: Test Time Adaptation for Time Series Forecasting Using Neural ODEs,2601.12893,http://arxiv.org/abs/2601.12893v1,2026-01-19 09:46:54+00:00
+77,Mining Citywide Dengue Spread Patterns in Singapore Through Hotspot Dynamics from Open Web Data,2601.12856,http://arxiv.org/abs/2601.12856v1,2026-01-19 09:10:50+00:00
+78,AI-generated data contamination erodes pathological variability and diagnostic reliability,2601.12946,http://arxiv.org/abs/2601.12946v2,2026-01-19 10:54:03+00:00
+79,Context and Transcripts Improve Detection of Deepfake Audios of Public Figures,2601.13464,http://arxiv.org/abs/2601.13464v1,2026-01-19 23:40:05+00:00
+80,AI-exhibited Personality Traits Can Shape Human Self-concept through Conversations,2601.12727,http://arxiv.org/abs/2601.12727v1,2026-01-19 05:16:57+00:00
+81,The Cost of EFX: Generalized-Mean Welfare and Complexity Dichotomies with Few Surplus Items,2601.12849,http://arxiv.org/abs/2601.12849v1,2026-01-19 09:02:32+00:00
+82,METIS: Mentoring Engine for Thoughtful Inquiry & Solutions,2601.13075,http://arxiv.org/abs/2601.13075v1,2026-01-19 14:10:35+00:00
+83,CORVUS: Red-Teaming Hallucination Detectors via Internal Signal Camouflage in Large Language Models,2601.14310,http://arxiv.org/abs/2601.14310v1,2026-01-19 08:07:03+00:00
+84,SciHorizon-GENE: Benchmarking LLM for Life Sciences Inference from Gene Knowledge to Functional Understanding,2601.12805,http://arxiv.org/abs/2601.12805v2,2026-01-19 08:06:35+00:00
+85,Graph Neural Networks are Heuristics,2601.13465,http://arxiv.org/abs/2601.13465v1,2026-01-19 23:40:08+00:00
+86,Explicit Cognitive Allocation: A Principle for Governed and Auditable Inference in Large Language Models,2601.13443,http://arxiv.org/abs/2601.13443v1,2026-01-19 23:00:14+00:00
+87,TrustEnergy: A Unified Framework for Accurate and Reliable User-level Energy Usage Prediction,2601.13422,http://arxiv.org/abs/2601.13422v1,2026-01-19 22:09:08+00:00
+88,Local-to-Global Logical Explanations for Deep Vision Models,2601.13404,http://arxiv.org/abs/2601.13404v1,2026-01-19 21:21:58+00:00
+89,Beyond Memorization: Testing LLM Reasoning on Unseen Theory of Computation Tasks,2601.13392,http://arxiv.org/abs/2601.13392v1,2026-01-19 21:00:31+00:00
+90,PASs-MoE: Mitigating Misaligned Co-drift among Router and Experts via Pathway Activation Subspaces for Continual Learning,2601.13020,http://arxiv.org/abs/2601.13020v1,2026-01-19 12:57:11+00:00
+91,Bi-Attention HateXplain : Taking into account the sequential aspect of data during explainability in a multi-task context,2601.13018,http://arxiv.org/abs/2601.13018v1,2026-01-19 12:52:18+00:00
+92,On the Evidentiary Limits of Membership Inference for Copyright Auditing,2601.12937,http://arxiv.org/abs/2601.12937v1,2026-01-19 10:46:51+00:00
+93,Actionable Interpretability Must Be Defined in Terms of Symmetries,2601.12913,http://arxiv.org/abs/2601.12913v1,2026-01-19 10:10:17+00:00
+94,Human Emotion Verification by Action Languages via Answer Set Programming,2601.12912,http://arxiv.org/abs/2601.12912v1,2026-01-19 10:06:21+00:00
+95,SciCoQA: Quality Assurance for Scientific Paper--Code Alignment,2601.12910,http://arxiv.org/abs/2601.12910v1,2026-01-19 10:04:33+00:00
+96,Communication Methods in Multi-Agent Reinforcement Learning,2601.12886,http://arxiv.org/abs/2601.12886v1,2026-01-19 09:39:00+00:00
+97,PepEDiff: Zero-Shot Peptide Binder Design via Protein Embedding Diffusion,2601.13327,http://arxiv.org/abs/2601.13327v1,2026-01-19 19:07:32+00:00
+98,RubRIX: Rubric-Driven Risk Mitigation in Caregiver-AI Interactions,2601.13235,http://arxiv.org/abs/2601.13235v1,2026-01-19 17:10:49+00:00
+99,Autoregressive Models Rival Diffusion Models at ANY-ORDER Generation,2601.13228,http://arxiv.org/abs/2601.13228v1,2026-01-19 17:03:48+00:00
