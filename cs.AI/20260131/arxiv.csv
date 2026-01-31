@@ -1,0 +1,62 @@
+,title,id,arxiv_url,published
+0,BrainDistill: Implantable Motor Decoding with Task-Specific Knowledge Distillation,2601.17625,http://arxiv.org/abs/2601.17625v1,2026-01-24 23:01:43+00:00
+1,Human-Aligned Enhancement of Programming Answers with LLMs Guided by User Feedback,2601.17604,http://arxiv.org/abs/2601.17604v1,2026-01-24 21:50:36+00:00
+2,Bridging Expectation Signals: LLM-Based Experiments and a Behavioral Kalman Filter Framework,2601.17527,http://arxiv.org/abs/2601.17527v1,2026-01-24 16:56:42+00:00
+3,Automatic Stability and Recovery for Neural Network Training,2601.17483,http://arxiv.org/abs/2601.17483v1,2026-01-24 15:14:54+00:00
+4,Lattice: Generative Guardrails for Conversational Agents,2601.17481,http://arxiv.org/abs/2601.17481v1,2026-01-24 15:10:21+00:00
+5,Unintended Memorization of Sensitive Information in Fine-Tuned Language Models,2601.17480,http://arxiv.org/abs/2601.17480v1,2026-01-24 15:08:45+00:00
+6,ReLE: A Scalable System and Structured Benchmark for Diagnosing Capability Anisotropy in Chinese LLMs,2601.17399,http://arxiv.org/abs/2601.17399v1,2026-01-24 09:57:59+00:00
+7,Parameter Efficient Fine Tuning Llama 3.1 for Answering Arabic Legal Questions: A Case Study on Jordanian Laws,2601.17364,http://arxiv.org/abs/2601.17364v1,2026-01-24 08:17:26+00:00
+8,"Meta-Judging with Large Language Models: Concepts, Methods, and Challenges",2601.17312,http://arxiv.org/abs/2601.17312v1,2026-01-24 05:41:50+00:00
+9,The Viscosity of Logic: Phase Transitions and Hysteresis in DPO Alignment,2601.17260,http://arxiv.org/abs/2601.17260v1,2026-01-24 02:19:20+00:00
+10,Conformal Feedback Alignment: Quantifying Answer-Level Reliability for Robust LLM Alignment,2601.17329,http://arxiv.org/abs/2601.17329v1,2026-01-24 06:23:18+00:00
+11,The 17% Gap: Quantifying Epistemic Decay in AI-Assisted Survey Papers,2601.17431,http://arxiv.org/abs/2601.17431v1,2026-01-24 12:00:55+00:00
+12,ONRW: Optimizing inversion noise for high-quality and robust watermark,2601.17388,http://arxiv.org/abs/2601.17388v1,2026-01-24 09:22:29+00:00
+13,Physical Prompt Injection Attacks on Large Vision-Language Models,2601.17383,http://arxiv.org/abs/2601.17383v1,2026-01-24 09:13:28+00:00
+14,Robust Privacy: Inference-Time Privacy through Certified Robustness,2601.17360,http://arxiv.org/abs/2601.17360v1,2026-01-24 08:13:08+00:00
+15,Spectral Geometry for Deep Learning: Compression and Hallucination Detection via Random Matrix Theory,2601.17357,http://arxiv.org/abs/2601.17357v1,2026-01-24 08:07:22+00:00
+16,ClinNet: Evidential Ordinal Regression with Bilateral Asymmetry and Prototype Memory for Knee Osteoarthritis Grading,2601.17315,http://arxiv.org/abs/2601.17315v1,2026-01-24 05:49:41+00:00
+17,High-Fidelity Longitudinal Patient Simulation Using Real-World Data,2601.17310,http://arxiv.org/abs/2601.17310v1,2026-01-24 05:27:49+00:00
+18,Decentralized Multi-Agent Swarms for Autonomous Grid Security in Industrial IoT: A Consensus-based Approach,2601.17303,http://arxiv.org/abs/2601.17303v1,2026-01-24 04:25:36+00:00
+19,Dynamic Meta-Ensemble Framework for Efficient and Accurate Deep Learning in Plant Leaf Disease Detection on Resource-Constrained Edge Devices,2601.17290,http://arxiv.org/abs/2601.17290v1,2026-01-24 03:57:49+00:00
+20,Intelligence Requires Grounding But Not Embodiment,2601.17588,http://arxiv.org/abs/2601.17588v1,2026-01-24 20:57:43+00:00
+21,Improving User Privacy in Personalized Generation: Client-Side Retrieval-Augmented Modification of Server-Side Generated Speculations,2601.17569,http://arxiv.org/abs/2601.17569v1,2026-01-24 19:46:40+00:00
+22,Cognitive Platform Engineering for Autonomous Cloud Operations,2601.17542,http://arxiv.org/abs/2601.17542v1,2026-01-24 18:17:49+00:00
+23,Clustering-driven Memory Compression for On-device Large Language Models,2601.17443,http://arxiv.org/abs/2601.17443v1,2026-01-24 12:31:15+00:00
+24,Data-driven Clustering and Merging of Adapters for On-device Large Language Models,2601.17441,http://arxiv.org/abs/2601.17441v1,2026-01-24 12:25:46+00:00
+25,Lossy Image Compression -- A Frequent Sequence Mining perspective employing efficient Clustering,2601.18821,http://arxiv.org/abs/2601.18821v1,2026-01-24 20:44:55+00:00
+26,Prompt and Circumstances: Evaluating the Efficacy of Human Prompt Inference in AI-Generated Art,2601.17379,http://arxiv.org/abs/2601.17379v1,2026-01-24 09:03:38+00:00
+27,TheoremForge: Scaling up Formal Data Synthesis with Low-Budget Agentic Workflow,2601.17332,http://arxiv.org/abs/2601.17332v1,2026-01-24 06:28:11+00:00
+28,Coronary Artery Segmentation and Vessel-Type Classification in X-Ray Angiography,2601.17429,http://arxiv.org/abs/2601.17429v1,2026-01-24 11:56:49+00:00
+29,A Syllogistic Probe: Tracing the Evolution of Logic Reasoning in Large Language Models,2601.17426,http://arxiv.org/abs/2601.17426v1,2026-01-24 11:51:52+00:00
+30,Diversified Scaling Inference in Time Series Foundation Models,2601.17376,http://arxiv.org/abs/2601.17376v1,2026-01-24 08:53:42+00:00
+31,Are We Evaluating the Edit Locality of LLM Model Editing Properly?,2601.17343,http://arxiv.org/abs/2601.17343v1,2026-01-24 07:07:21+00:00
+32,"The Relativity of AGI: Distributional Axioms, Fragility, and Undecidability",2601.17335,http://arxiv.org/abs/2601.17335v1,2026-01-24 06:32:19+00:00
+33,Phase Transition for Budgeted Multi-Agent Synergy,2601.17311,http://arxiv.org/abs/2601.17311v1,2026-01-24 05:32:50+00:00
+34,On the Insecurity of Keystroke-Based AI Authorship Detection: Timing-Forgery Attacks Against Motor-Signal Verification,2601.17280,http://arxiv.org/abs/2601.17280v1,2026-01-24 03:39:38+00:00
+35,Latent-Space Contrastive Reinforcement Learning for Stable and Efficient LLM Reasoning,2601.17275,http://arxiv.org/abs/2601.17275v1,2026-01-24 03:18:22+00:00
+36,GenAI-Net: A Generative AI Framework for Automated Biomolecular Network Design,2601.17582,http://arxiv.org/abs/2601.17582v1,2026-01-24 20:27:47+00:00
+37,Real-Time Trend Prediction via Continually-Aligned LLM Query Generation,2601.17567,http://arxiv.org/abs/2601.17567v1,2026-01-24 19:37:11+00:00
+38,Towards Generalisable Imitation Learning Through Conditioned Transition Estimation and Online Behaviour Alignment,2601.17563,http://arxiv.org/abs/2601.17563v1,2026-01-24 19:20:58+00:00
+39,Less is More for RAG: Information Gain Pruning for Generator-Aligned Reranking and Evidence Selection,2601.17532,http://arxiv.org/abs/2601.17532v1,2026-01-24 17:14:10+00:00
+40,"""Rebuilding"" Statistics in the Age of AI: A Town Hall Discussion on Culture, Infrastructure, and Training",2601.17510,http://arxiv.org/abs/2601.17510v1,2026-01-24 16:15:04+00:00
+41,Prompt Driven Development with Claude Code: Building a Complete TUI Framework for the Ring Programming Language,2601.17584,http://arxiv.org/abs/2601.17584v1,2026-01-24 20:45:13+00:00
+42,Status Hierarchies in Language Models,2601.17577,http://arxiv.org/abs/2601.17577v1,2026-01-24 20:12:47+00:00
+43,Reconstructing Training Data from Adapter-based Federated Large Language Models,2601.17533,http://arxiv.org/abs/2601.17533v1,2026-01-24 17:15:16+00:00
+44,PEARL: Prototype-Enhanced Alignment for Label-Efficient Representation Learning with Deployment-Driven Insights from Digital Governance Communication Systems,2601.17495,http://arxiv.org/abs/2601.17495v1,2026-01-24 15:46:02+00:00
+45,Towards a Declarative Agentic Layer for Intelligent Agents in MCP-Based Server Ecosystems,2601.17435,http://arxiv.org/abs/2601.17435v1,2026-01-24 12:15:49+00:00
+46,Res-MIA: A Training-Free Resolution-Based Membership Inference Attack on Federated Learning Models,2601.17378,http://arxiv.org/abs/2601.17378v1,2026-01-24 08:58:39+00:00
+47,NeRF-MIR: Towards High-Quality Restoration of Masked Images with Neural Radiance Fields,2601.17350,http://arxiv.org/abs/2601.17350v1,2026-01-24 07:32:06+00:00
+48,Multi-Agent Learning Path Planning via LLMs,2601.17346,http://arxiv.org/abs/2601.17346v1,2026-01-24 07:13:08+00:00
+49,Discovery of Feasible 3D Printing Configurations for Metal Alloys via AI-driven Adaptive Experimental Design,2601.17587,http://arxiv.org/abs/2601.17587v1,2026-01-24 20:57:27+00:00
+50,JaxARC: A High-Performance JAX-based Environment for Abstraction and Reasoning Research,2601.17564,http://arxiv.org/abs/2601.17564v1,2026-01-24 19:27:07+00:00
+51,Breaking the Protocol: Security Analysis of the Model Context Protocol Specification and Prompt Injection Vulnerabilities in Tool-Integrated LLM Agents,2601.17549,http://arxiv.org/abs/2601.17549v1,2026-01-24 18:40:17+00:00
+52,Embodiment-Induced Coordination Regimes in Tabular Multi-Agent Q-Learning,2601.17454,http://arxiv.org/abs/2601.17454v1,2026-01-24 13:09:01+00:00
+53,GO-OSC and VASH: Geometry-Aware Representation Learning for Early Degradation Detection in Oscillatory Systems,2601.17396,http://arxiv.org/abs/2601.17396v1,2026-01-24 09:35:57+00:00
+54,Do readers prefer AI-generated Italian short stories?,2601.17363,http://arxiv.org/abs/2601.17363v1,2026-01-24 08:15:13+00:00
+55,Auditing Disability Representation in Vision-Language Models,2601.17348,http://arxiv.org/abs/2601.17348v1,2026-01-24 07:25:43+00:00
+56,Mind the Ambiguity: Aleatoric Uncertainty Quantification in LLMs for Safe Medical Question Answering,2601.17284,http://arxiv.org/abs/2601.17284v1,2026-01-24 03:44:08+00:00
+57,FinMetaMind: A Tech Blueprint on NLQ Systems for Financial Knowledge Search,2601.17333,http://arxiv.org/abs/2601.17333v1,2026-01-24 06:30:26+00:00
+58,How AI Coding Agents Modify Code: A Large-Scale Study of GitHub Pull Requests,2601.17581,http://arxiv.org/abs/2601.17581v2,2026-01-24 20:27:04+00:00
+59,NCSAM Noise-Compensated Sharpness-Aware Minimization for Noisy Label Learning,2601.19947,http://arxiv.org/abs/2601.19947v1,2026-01-24 11:10:29+00:00
+60,Elastic Attention: Test-time Adaptive Sparsity Ratios for Efficient Transformers,2601.17367,http://arxiv.org/abs/2601.17367v2,2026-01-24 08:22:07+00:00
