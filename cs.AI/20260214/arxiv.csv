@@ -1,0 +1,86 @@
+,title,id,arxiv_url,published
+0,Astro: Activation-guided Structured Regularization for Outlier-Robust LLM Post-Training Quantization,2602.07596,http://arxiv.org/abs/2602.07596v1,2026-02-07 15:50:18+00:00
+1,"TeleBoost: A Systematic Alignment Framework for High-Fidelity, Controllable, and Robust Video Generation",2602.07595,http://arxiv.org/abs/2602.07595v1,2026-02-07 15:49:25+00:00
+2,Are Reasoning LLMs Robust to Interventions on Their Chain-of-Thought?,2602.07470,http://arxiv.org/abs/2602.07470v1,2026-02-07 10:02:58+00:00
+3,TextOp: Real-time Interactive Text-Driven Humanoid Robot Motion Generation and Control,2602.07439,http://arxiv.org/abs/2602.07439v1,2026-02-07 08:42:11+00:00
+4,Multi-Agent Systems Shape Social Norms for Prosocial Behavior Change,2602.07433,http://arxiv.org/abs/2602.07433v1,2026-02-07 08:23:54+00:00
+5,VGAS: Value-Guided Action-Chunk Selection for Few-Shot Vision-Language-Action Adaptation,2602.07399,http://arxiv.org/abs/2602.07399v1,2026-02-07 06:31:53+00:00
+6,Scout Before You Attend: Sketch-and-Walk Sparse Attention for Efficient LLM Inference,2602.07397,http://arxiv.org/abs/2602.07397v1,2026-02-07 06:27:11+00:00
+7,Intent Mismatch Causes LLMs to Get Lost in Multi-Turn Conversation,2602.07338,http://arxiv.org/abs/2602.07338v1,2026-02-07 03:41:04+00:00
+8,Beyond Accuracy: Risk-Sensitive Evaluation of Hallucinated Medical Advice,2602.07319,http://arxiv.org/abs/2602.07319v1,2026-02-07 02:25:44+00:00
+9,KRONE: Hierarchical and Modular Log Anomaly Detection,2602.07303,http://arxiv.org/abs/2602.07303v1,2026-02-07 01:30:19+00:00
+10,Principled Synthetic Data Enables the First Scaling Laws for LLMs in Recommendation,2602.07298,http://arxiv.org/abs/2602.07298v1,2026-02-07 01:15:15+00:00
+11,Spectral Gating Networks,2602.07679,http://arxiv.org/abs/2602.07679v1,2026-02-07 20:00:49+00:00
+12,From Dead Pixels to Editable Slides: Infographic Reconstruction into Native Google Slides via Vision-Language Region Understanding,2602.07645,http://arxiv.org/abs/2602.07645v1,2026-02-07 17:58:17+00:00
+13,SERE: Similarity-based Expert Re-routing for Efficient Batch Decoding in MoE Models,2602.07616,http://arxiv.org/abs/2602.07616v1,2026-02-07 16:51:16+00:00
+14,The Moltbook Illusion: Separating Human Influence from Emergent Behavior in AI Agent Societies,2602.07432,http://arxiv.org/abs/2602.07432v2,2026-02-07 08:17:21+00:00
+15,Mapping Drivers of Greenness: Spatial Variable Selection for MODIS Vegetation Indices,2602.07681,http://arxiv.org/abs/2602.07681v2,2026-02-07 20:05:46+00:00
+16,Surprisal-Guided Selection: Compute-Optimal Test-Time Strategies for Execution-Grounded Code Generation,2602.07670,http://arxiv.org/abs/2602.07670v1,2026-02-07 19:29:07+00:00
+17,"SoK: DARPA's AI Cyber Challenge (AIxCC): Competition Design, Architectures, and Lessons Learned",2602.07666,http://arxiv.org/abs/2602.07666v1,2026-02-07 19:21:27+00:00
+18,Continuous Program Search,2602.07659,http://arxiv.org/abs/2602.07659v1,2026-02-07 18:41:14+00:00
+19,SleepMaMi: A Universal Sleep Foundation Model for Integrating Macro- and Micro-structures,2602.07628,http://arxiv.org/abs/2602.07628v1,2026-02-07 17:17:45+00:00
+20,AD-MIR: Bridging the Gap from Perception to Persuasion in Advertising Video Understanding via Structured Reasoning,2602.07625,http://arxiv.org/abs/2602.07625v1,2026-02-07 17:14:06+00:00
+21,VISOR: VIsual Spatial Object Reasoning for Language-driven Object Navigation,2602.07555,http://arxiv.org/abs/2602.07555v1,2026-02-07 14:01:29+00:00
+22,Fine-Grained Cat Breed Recognition with Global Context Vision Transformer,2602.07534,http://arxiv.org/abs/2602.07534v1,2026-02-07 13:13:47+00:00
+23,Pull Requests as a Training Signal for Repo-Level Code Editing,2602.07457,http://arxiv.org/abs/2602.07457v1,2026-02-07 09:22:25+00:00
+24,The Laplacian Keyboard: Beyond the Linear Span,2602.07730,http://arxiv.org/abs/2602.07730v1,2026-02-07 23:25:29+00:00
+25,Efficient Table Retrieval and Understanding with Multimodal Large Language Models,2602.07642,http://arxiv.org/abs/2602.07642v1,2026-02-07 17:50:33+00:00
+26,How does longer temporal context enhance multimodal narrative video processing in the brain?,2602.07570,http://arxiv.org/abs/2602.07570v1,2026-02-07 14:34:00+00:00
+27,NAAMSE: Framework for Evolutionary Security Evaluation of Agents,2602.07391,http://arxiv.org/abs/2602.07391v1,2026-02-07 06:13:02+00:00
+28,W&D:Scaling Parallel Tool Calling for Efficient Deep Research Agents,2602.07359,http://arxiv.org/abs/2602.07359v1,2026-02-07 04:49:53+00:00
+29,High Fidelity Textual User Representation over Heterogeneous Sources via Reinforcement Learning,2602.07333,http://arxiv.org/abs/2602.07333v1,2026-02-07 03:27:55+00:00
+30,LUCID-SAE: Learning Unified Vision-Language Sparse Codes for Interpretable Concept Discovery,2602.07311,http://arxiv.org/abs/2602.07311v1,2026-02-07 02:01:25+00:00
+31,Fine-R1: Make Multi-modal LLMs Excel in Fine-Grained Visual Recognition by Chain-of-Thought Reasoning,2602.07605,http://arxiv.org/abs/2602.07605v2,2026-02-07 16:16:51+00:00
+32,M2A: Multimodal Memory Agent with Dual-Layer Hybrid Memory for Long-Term Personalized Interactions,2602.07624,http://arxiv.org/abs/2602.07624v1,2026-02-07 17:13:56+00:00
+33,Graph Domain Adaptation via Homophily-Agnostic Reconstructing Structure,2602.07573,http://arxiv.org/abs/2602.07573v1,2026-02-07 14:40:49+00:00
+34,MemPot: Defending Against Memory Extraction Attack with Optimized Honeypots,2602.07517,http://arxiv.org/abs/2602.07517v1,2026-02-07 12:31:44+00:00
+35,Proximal Action Replacement for Behavior Cloning Actor-Critic in Offline Reinforcement Learning,2602.07441,http://arxiv.org/abs/2602.07441v1,2026-02-07 08:44:27+00:00
+36,"Bridging Speech, Emotion, and Motion: a VLM-based Multimodal Edge-deployable Framework for Humanoid Robots",2602.07434,http://arxiv.org/abs/2602.07434v1,2026-02-07 08:32:54+00:00
+37,Learning Molecular Chirality via Chiral Determinant Kernels,2602.07415,http://arxiv.org/abs/2602.07415v1,2026-02-07 07:21:43+00:00
+38,Do We Need Adam? Surprisingly Strong and Sparse Reinforcement Learning with SGD in LLMs,2602.07729,http://arxiv.org/abs/2602.07729v1,2026-02-07 23:25:26+00:00
+39,Vision and language: Novel Representations and Artificial intelligence for Driving Scene Safety Assessment and Autonomous Vehicle Planning,2602.07680,http://arxiv.org/abs/2602.07680v1,2026-02-07 20:04:21+00:00
+40,Debugging code world models,2602.07672,http://arxiv.org/abs/2602.07672v1,2026-02-07 19:32:15+00:00
+41,Seeing Roads Through Words: A Language-Guided Framework for RGB-T Driving Scene Segmentation,2602.07343,http://arxiv.org/abs/2602.07343v1,2026-02-07 03:52:04+00:00
+42,SupChain-Bench: Benchmarking Large Language Models for Real-World Supply Chain Management,2602.07342,http://arxiv.org/abs/2602.07342v1,2026-02-07 03:49:25+00:00
+43,RAPiD: Real-time Deterministic Trajectory Planning via Diffusion Behavior Priors for Safe and Efficient Autonomous Driving,2602.07339,http://arxiv.org/abs/2602.07339v1,2026-02-07 03:44:50+00:00
+44,Adaptive Scaffolding for Cognitive Engagement in an Intelligent Tutoring System,2602.07308,http://arxiv.org/abs/2602.07308v1,2026-02-07 01:51:46+00:00
+45,Progressive Searching for Retrieval in RAG,2602.07297,http://arxiv.org/abs/2602.07297v1,2026-02-07 01:12:53+00:00
+46,Gaussian Match-and-Copy: A Minimalist Benchmark for Studying Transformer Induction,2602.07562,http://arxiv.org/abs/2602.07562v1,2026-02-07 14:18:11+00:00
+47,Reverse-Engineering Model Editing on Language Models,2602.10134,http://arxiv.org/abs/2602.10134v1,2026-02-07 08:35:59+00:00
+48,Fin-RATE: A Real-world Financial Analytics and Tracking Evaluation Benchmark for LLMs on SEC Filings,2602.07294,http://arxiv.org/abs/2602.07294v2,2026-02-07 00:54:37+00:00
+49,On the Infinite Width and Depth Limits of Predictive Coding Networks,2602.07697,http://arxiv.org/abs/2602.07697v1,2026-02-07 20:47:32+00:00
+50,Evaluating Large Language Models for Detecting Architectural Decision Violations,2602.07609,http://arxiv.org/abs/2602.07609v1,2026-02-07 16:36:14+00:00
+51,Cross-Camera Cow Identification via Disentangled Representation Learning,2602.07566,http://arxiv.org/abs/2602.07566v1,2026-02-07 14:23:35+00:00
+52,VERIFY-RL: Verifiable Recursive Decomposition for Reinforcement Learning in Mathematical Reasoning,2602.07559,http://arxiv.org/abs/2602.07559v1,2026-02-07 14:06:50+00:00
+53,When Is Enough Not Enough? Illusory Completion in Search Agents,2602.07549,http://arxiv.org/abs/2602.07549v1,2026-02-07 13:50:38+00:00
+54,VividFace: Real-Time and Realistic Facial Expression Shadowing for Humanoid Robots,2602.07506,http://arxiv.org/abs/2602.07506v1,2026-02-07 11:51:50+00:00
+55,GraphAgents: Knowledge Graph-Guided Agentic AI for Cross-Domain Materials Design,2602.07491,http://arxiv.org/abs/2602.07491v1,2026-02-07 10:50:34+00:00
+56,Brep2Shape: Boundary and Shape Representation Alignment via Self-Supervised Transformers,2602.07429,http://arxiv.org/abs/2602.07429v1,2026-02-07 08:00:47+00:00
+57,Progressive Multi-Agent Reasoning for Biological Perturbation Prediction,2602.07408,http://arxiv.org/abs/2602.07408v1,2026-02-07 06:59:44+00:00
+58,TernaryLM: Memory-Efficient Language Modeling via Native 1-Bit Quantization with Adaptive Layer-wise Scaling,2602.07374,http://arxiv.org/abs/2602.07374v1,2026-02-07 05:35:17+00:00
+59,Action-to-Action Flow Matching,2602.07322,http://arxiv.org/abs/2602.07322v1,2026-02-07 02:39:49+00:00
+60,Semantic Search At LinkedIn,2602.07309,http://arxiv.org/abs/2602.07309v1,2026-02-07 01:59:03+00:00
+61,LIT-GRAPH: Evaluating Deep vs. Shallow Graph Embeddings for High-Quality Text Recommendation in Domain-Specific Knowledge Graphs,2602.07307,http://arxiv.org/abs/2602.07307v1,2026-02-07 01:42:54+00:00
+62,Imagining the Alien: Human Projections and Cognitive Limitations,2602.07284,http://arxiv.org/abs/2602.07284v1,2026-02-07 00:22:48+00:00
+63,Laplacian-LoRA: Delaying Oversmoothing in Deep GCNs via Spectral Low-Rank Adaptation,2602.07278,http://arxiv.org/abs/2602.07278v1,2026-02-07 00:03:19+00:00
+64,MSP-LLM: A Unified Large Language Model Framework for Complete Material Synthesis Planning,2602.07543,http://arxiv.org/abs/2602.07543v2,2026-02-07 13:37:43+00:00
+65,MDL: A Unified Multi-Distribution Learner in Large-scale Industrial Recommendation through Tokenization,2602.07520,http://arxiv.org/abs/2602.07520v2,2026-02-07 12:34:27+00:00
+66,Advantages of Domain Knowledge Injection for Legal Document Summarization: A Case Study on Summarizing Indian Court Judgments in English and Hindi,2602.07382,http://arxiv.org/abs/2602.07382v1,2026-02-07 05:55:18+00:00
+67,Deriving Neural Scaling Laws from the statistics of natural language,2602.07488,http://arxiv.org/abs/2602.07488v2,2026-02-07 10:40:28+00:00
+68,Steer2Adapt: Dynamically Composing Steering Vectors Elicits Efficient Adaptation of LLMs,2602.07276,http://arxiv.org/abs/2602.07276v1,2026-02-07 00:00:50+00:00
+69,AgentTrace: A Structured Logging Framework for Agent System Observability,2602.10133,http://arxiv.org/abs/2602.10133v1,2026-02-07 04:04:59+00:00
+70,EventCast: Hybrid Demand Forecasting in E-Commerce with LLM-Based Event Knowledge,2602.07695,http://arxiv.org/abs/2602.07695v2,2026-02-07 20:36:37+00:00
+71,Computing the Reachability Value of Posterior-Deterministic POMDPs,2602.07473,http://arxiv.org/abs/2602.07473v1,2026-02-07 10:09:41+00:00
+72,Linguistic properties and model scale in brain encoding: from small to compressed language models,2602.07547,http://arxiv.org/abs/2602.07547v1,2026-02-07 13:48:45+00:00
+73,Learning to Self-Verify Makes Language Models Better Reasoners,2602.07594,http://arxiv.org/abs/2602.07594v1,2026-02-07 15:49:06+00:00
+74,Revealing the Semantic Selection Gap in DINOv3 through Training-Free Few-Shot Segmentation,2602.07550,http://arxiv.org/abs/2602.07550v1,2026-02-07 13:51:53+00:00
+75,Beyond Core and Penumbra: Bi-Temporal Image-Driven Stroke Evolution Analysis,2602.07535,http://arxiv.org/abs/2602.07535v1,2026-02-07 13:18:13+00:00
+76,Joint Reward Modeling: Internalizing Chain-of-Thought for Efficient Visual Reward Models,2602.07533,http://arxiv.org/abs/2602.07533v1,2026-02-07 13:09:41+00:00
+77,Secure Code Generation via Online Reinforcement Learning with Vulnerability Reward Model,2602.07422,http://arxiv.org/abs/2602.07422v1,2026-02-07 07:42:07+00:00
+78,Can LLMs Truly Embody Human Personality? Analyzing AI and Human Behavior Alignment in Dispute Resolution,2602.07414,http://arxiv.org/abs/2602.07414v1,2026-02-07 07:20:24+00:00
+79,AgentSys: Secure and Dynamic LLM Agents Through Explicit Hierarchical Memory Management,2602.07398,http://arxiv.org/abs/2602.07398v1,2026-02-07 06:28:51+00:00
+80,Process-of-Thought Reasoning for Videos,2602.07689,http://arxiv.org/abs/2602.07689v1,2026-02-07 20:25:46+00:00
+81,Looking and Listening Inside and Outside: Multimodal Artificial Intelligence Systems for Driver Safety Assessment and Intelligent Vehicle Decision-Making,2602.07668,http://arxiv.org/abs/2602.07668v1,2026-02-07 19:25:02+00:00
+82,ONTrust: A Reference Ontology of Trust,2602.07662,http://arxiv.org/abs/2602.07662v1,2026-02-07 18:47:34+00:00
+83,Agent-Fence: Mapping Security Vulnerabilities Across Deep Research Agents,2602.07652,http://arxiv.org/abs/2602.07652v1,2026-02-07 18:27:47+00:00
+84,Automated rock joint trace mapping using a supervised learning model trained on synthetic data generated by parametric modelling,2602.07590,http://arxiv.org/abs/2602.07590v1,2026-02-07 15:37:02+00:00
