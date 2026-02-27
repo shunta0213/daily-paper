@@ -1,0 +1,87 @@
+,title,id,arxiv_url,published
+0,Learning to Tune Pure Pursuit in Autonomous Racing: Joint Lookahead and Steering-Gain Control with PPO,2602.18386,http://arxiv.org/abs/2602.18386v1,2026-02-20 17:48:21+00:00
+1,FedZMG: Efficient Client-Side Optimization in Federated Learning,2602.18384,http://arxiv.org/abs/2602.18384v1,2026-02-20 17:45:28+00:00
+2,Diffusing to Coordinate: Efficient Online Multi-Agent Diffusion Policies,2602.18291,http://arxiv.org/abs/2602.18291v1,2026-02-20 15:38:02+00:00
+3,PRISM: Parallel Reward Integration with Symmetry for MORL,2602.18277,http://arxiv.org/abs/2602.18277v1,2026-02-20 15:02:42+00:00
+4,On the Adversarial Robustness of Discrete Image Tokenizers,2602.18252,http://arxiv.org/abs/2602.18252v1,2026-02-20 14:39:17+00:00
+5,LERD: Latent Event-Relational Dynamics for Neurodegenerative Classification,2602.18195,http://arxiv.org/abs/2602.18195v1,2026-02-20 13:03:40+00:00
+6,FENCE: A Financial and Multimodal Jailbreak Detection Dataset,2602.18154,http://arxiv.org/abs/2602.18154v1,2026-02-20 11:40:41+00:00
+7,Mean-Field Reinforcement Learning without Synchrony,2602.18026,http://arxiv.org/abs/2602.18026v1,2026-02-20 06:42:08+00:00
+8,Flow Actor-Critic for Offline Reinforcement Learning,2602.18015,http://arxiv.org/abs/2602.18015v1,2026-02-20 06:11:12+00:00
+9,WorkflowPerturb: Calibrated Stress Tests for Evaluating Multi-Agent Workflow Metrics,2602.17990,http://arxiv.org/abs/2602.17990v1,2026-02-20 04:54:31+00:00
+10,Learning Optimal and Sample-Efficient Decision Policies with Guarantees,2602.17978,http://arxiv.org/abs/2602.17978v1,2026-02-20 04:24:49+00:00
+11,Context-Aware Mapping of 2D Drawing Annotations to 3D CAD Features Using LLM-Assisted Reasoning for Manufacturing Automation,2602.18296,http://arxiv.org/abs/2602.18296v2,2026-02-20 15:46:57+00:00
+12,1D-Bench: A Benchmark for Iterative UI Code Generation with Visual Feedback in Real-World,2602.18548,http://arxiv.org/abs/2602.18548v1,2026-02-20 17:46:51+00:00
+13,Rodent-Bench,2602.18540,http://arxiv.org/abs/2602.18540v1,2026-02-20 15:14:38+00:00
+14,Fairness-Aware Partial-label Domain Adaptation for Voice Classification of Parkinson's and ALS,2602.18535,http://arxiv.org/abs/2602.18535v1,2026-02-20 11:18:44+00:00
+15,Deep Reinforcement Learning for Optimizing Energy Consumption in Smart Grid Systems,2602.18531,http://arxiv.org/abs/2602.18531v1,2026-02-20 07:52:05+00:00
+16,Information-Guided Noise Allocation for Efficient Diffusion Training,2602.18647,http://arxiv.org/abs/2602.18647v1,2026-02-20 22:45:01+00:00
+17,Finding the Signal in the Noise: An Exploratory Study on Assessing the Effectiveness of AI and Accessibility Forums for Blind Users' Support Needs,2602.18623,http://arxiv.org/abs/2602.18623v1,2026-02-20 21:29:18+00:00
+18,Feedback-based Automated Verification in Vibe Coding of CAS Adaptation Built on Constraint Logic,2602.18607,http://arxiv.org/abs/2602.18607v1,2026-02-20 20:49:12+00:00
+19,Capabilities Ain't All You Need: Measuring Propensities in AI,2602.18182,http://arxiv.org/abs/2602.18182v2,2026-02-20 12:40:18+00:00
+20,Validating Political Position Predictions of Arguments,2602.18351,http://arxiv.org/abs/2602.18351v1,2026-02-20 17:03:44+00:00
+21,Towards More Standardized AI Evaluation: From Models to Agents,2602.18029,http://arxiv.org/abs/2602.18029v1,2026-02-20 06:54:44+00:00
+22,DeepSVU: Towards In-depth Security-oriented Video Understanding via Unified Physical-world Regularized MoE,2602.18019,http://arxiv.org/abs/2602.18019v1,2026-02-20 06:18:32+00:00
+23,Turbo Connection: Reasoning as Information Flow from Higher to Lower Layers,2602.17993,http://arxiv.org/abs/2602.17993v1,2026-02-20 05:01:32+00:00
+24,Optimizing Graph Causal Classification Models: Estimating Causal Effects and Addressing Confounders,2602.17941,http://arxiv.org/abs/2602.17941v1,2026-02-20 02:19:20+00:00
+25,Causal Neighbourhood Learning for Invariant Graph Representations,2602.17934,http://arxiv.org/abs/2602.17934v1,2026-02-20 01:52:58+00:00
+26,MIRA: Memory-Integrated Reinforcement Learning Agent with Limited LLM Guidance,2602.17930,http://arxiv.org/abs/2602.17930v1,2026-02-20 01:43:30+00:00
+27,Condition-Gated Reasoning for Context-Dependent Biomedical Question Answering,2602.17911,http://arxiv.org/abs/2602.17911v1,2026-02-20 00:17:14+00:00
+28,Alignment in Time: Peak-Aware Orchestration for Long-Horizon Agentic Systems,2602.17910,http://arxiv.org/abs/2602.17910v1,2026-02-20 00:16:07+00:00
+29,DohaScript: A Large-Scale Multi-Writer Dataset for Continuous Handwritten Hindi Text,2602.18089,http://arxiv.org/abs/2602.18089v1,2026-02-20 09:25:14+00:00
+30,Decoding ML Decision: An Agentic Reasoning Framework for Large-Scale Ranking System,2602.18640,http://arxiv.org/abs/2602.18640v1,2026-02-20 22:24:01+00:00
+31,Non-Interfering Weight Fields: Treating Model Parameters as a Continuously Extensible Function,2602.18628,http://arxiv.org/abs/2602.18628v1,2026-02-20 21:43:26+00:00
+32,Robo-Saber: Generating and Simulating Virtual Reality Players,2602.18319,http://arxiv.org/abs/2602.18319v1,2026-02-20 16:19:19+00:00
+33,RPU -- A Reasoning Processing Unit,2602.18568,http://arxiv.org/abs/2602.18568v2,2026-02-20 19:13:19+00:00
+34,Decoding as Optimisation on the Probability Simplex: From Top-K to Top-P (Nucleus) to Best-of-K Samplers,2602.18292,http://arxiv.org/abs/2602.18292v2,2026-02-20 15:38:16+00:00
+35,Conformal Tradeoffs: Guarantees Beyond Coverage,2602.18045,http://arxiv.org/abs/2602.18045v1,2026-02-20 07:58:25+00:00
+36,Vichara: Appellate Judgment Prediction and Explanation for the Indian Judicial System,2602.18346,http://arxiv.org/abs/2602.18346v1,2026-02-20 16:57:44+00:00
+37,SOMtime the World Ain$'$t Fair: Violating Fairness Using Self-Organizing Maps,2602.18201,http://arxiv.org/abs/2602.18201v1,2026-02-20 13:25:28+00:00
+38,Click it or Leave it: Detecting and Spoiling Clickbait with Informativeness Measures and Large Language Models,2602.18171,http://arxiv.org/abs/2602.18171v1,2026-02-20 12:16:08+00:00
+39,Flow Matching with Injected Noise for Offline-to-Online Reinforcement Learning,2602.18117,http://arxiv.org/abs/2602.18117v1,2026-02-20 10:14:00+00:00
+40,"Cut Less, Fold More: Model Compression through the Lens of Projection Geometry",2602.18116,http://arxiv.org/abs/2602.18116v1,2026-02-20 10:09:02+00:00
+41,MeanVoiceFlow: One-step Nonparallel Voice Conversion with Mean Flows,2602.18104,http://arxiv.org/abs/2602.18104v1,2026-02-20 09:48:23+00:00
+42,Perceived Political Bias in LLMs Reduces Persuasive Abilities,2602.18092,http://arxiv.org/abs/2602.18092v1,2026-02-20 09:33:16+00:00
+43,NIMMGen: Learning Neural-Integrated Mechanistic Digital Twins with LLMs,2602.18008,http://arxiv.org/abs/2602.18008v1,2026-02-20 05:46:54+00:00
+44,CUICurate: A GraphRAG-based Framework for Automated Clinical Concept Curation for NLP applications,2602.17949,http://arxiv.org/abs/2602.17949v1,2026-02-20 03:00:13+00:00
+45,VLANeXt: Recipes for Building Strong VLA Models,2602.18532,http://arxiv.org/abs/2602.18532v1,2026-02-20 09:26:17+00:00
+46,NutriOrion: A Hierarchical Multi-Agent Framework for Personalized Nutrition Intervention Grounded in Clinical Guidelines,2602.18650,http://arxiv.org/abs/2602.18650v1,2026-02-20 22:55:29+00:00
+47,"Lost in Instructions: Study of Blind Users' Experiences with DIY Manuals and AI-Rewritten Instructions for Assembly, Operation, and Troubleshooting of Tangible Products",2602.18630,http://arxiv.org/abs/2602.18630v1,2026-02-20 21:45:27+00:00
+48,Dual-Channel Attention Guidance for Training-Free Image Editing Control in Diffusion Transformers,2602.18022,http://arxiv.org/abs/2602.18022v2,2026-02-20 06:24:20+00:00
+49,BloomNet: Exploring Single vs. Multiple Object Annotation for Flower Recognition Using YOLO Variants,2602.18585,http://arxiv.org/abs/2602.18585v1,2026-02-20 19:47:45+00:00
+50,Hierarchical Reward Design from Language: Enhancing Alignment of Agent Behavior with Human Specifications,2602.18582,http://arxiv.org/abs/2602.18582v1,2026-02-20 19:41:17+00:00
+51,[Re] Benchmarking LLM Capabilities in Negotiation through Scoreable Games,2602.18230,http://arxiv.org/abs/2602.18230v1,2026-02-20 14:11:31+00:00
+52,Descriptor: Dataset of Parasitoid Wasps and Associated Hymenoptera (DAPWH),2602.20028,http://arxiv.org/abs/2602.20028v1,2026-02-20 15:13:14+00:00
+53,DM4CT: Benchmarking Diffusion Models for Computed Tomography Reconstruction,2602.18589,http://arxiv.org/abs/2602.18589v1,2026-02-20 19:54:47+00:00
+54,Analyzing and Improving Chain-of-Thought Monitorability Through Information Theory,2602.18297,http://arxiv.org/abs/2602.18297v1,2026-02-20 15:50:30+00:00
+55,PHAST: Port-Hamiltonian Architecture for Structured Temporal Dynamics Forecasting,2602.17998,http://arxiv.org/abs/2602.17998v1,2026-02-20 05:23:40+00:00
+56,Can AI Lower the Barrier to Cybersecurity? A Human-Centered Mixed-Methods Study of Novice CTF Learning,2602.18172,http://arxiv.org/abs/2602.18172v1,2026-02-20 12:20:36+00:00
+57,Agentic Adversarial QA for Improving Domain-Specific LLMs,2602.18137,http://arxiv.org/abs/2602.18137v1,2026-02-20 10:53:09+00:00
+58,RamanSeg: Interpretability-driven Deep Learning on Raman Spectra for Cancer Diagnosis,2602.18119,http://arxiv.org/abs/2602.18119v1,2026-02-20 10:18:27+00:00
+59,PenTiDef: Enhancing Privacy and Robustness in Decentralized Federated Intrusion Detection Systems against Poisoning Attacks,2602.17973,http://arxiv.org/abs/2602.17973v1,2026-02-20 03:58:48+00:00
+60,ROCKET: Residual-Oriented Multi-Layer Alignment for Spatially-Aware Vision-Language-Action Models,2602.17951,http://arxiv.org/abs/2602.17951v1,2026-02-20 03:06:22+00:00
+61,Unifying approach to uniform expressivity of graph neural networks,2602.18409,http://arxiv.org/abs/2602.18409v1,2026-02-20 18:18:48+00:00
+62,Zero-shot Interactive Perception,2602.18374,http://arxiv.org/abs/2602.18374v1,2026-02-20 17:30:25+00:00
+63,JPmHC Dynamical Isometry via Orthogonal Hyper-Connections,2602.18308,http://arxiv.org/abs/2602.18308v1,2026-02-20 16:06:01+00:00
+64,Simplifying Outcomes of Language Model Component Analyses with ELIA,2602.18262,http://arxiv.org/abs/2602.18262v1,2026-02-20 14:45:27+00:00
+65,Memory-Based Advantage Shaping for LLM-Guided Reinforcement Learning,2602.17931,http://arxiv.org/abs/2602.17931v1,2026-02-20 01:44:35+00:00
+66,GIST: Targeted Data Selection for Instruction Tuning via Coupled Optimization Geometry,2602.18584,http://arxiv.org/abs/2602.18584v1,2026-02-20 19:44:24+00:00
+67,Luna-2: Scalable Single-Token Evaluation with Small Language Models,2602.18583,http://arxiv.org/abs/2602.18583v1,2026-02-20 19:43:58+00:00
+68,Debug2Fix: Supercharging Coding Agents with Interactive Debugging Capabilities,2602.18571,http://arxiv.org/abs/2602.18571v1,2026-02-20 19:24:16+00:00
+69,JAEGER: Joint 3D Audio-Visual Grounding and Reasoning in Simulated Physical Environments,2602.18527,http://arxiv.org/abs/2602.18527v1,2026-02-20 04:06:07+00:00
+70,"""How Do I ...?"": Procedural Questions Predominate Student-LLM Chatbot Conversations",2602.18372,http://arxiv.org/abs/2602.18372v1,2026-02-20 17:27:41+00:00
+71,HyTRec: A Hybrid Temporal-Aware Attention Architecture for Long Behavior Sequential Recommendation,2602.18283,http://arxiv.org/abs/2602.18283v1,2026-02-20 15:11:40+00:00
+72,OODBench: Out-of-Distribution Benchmark for Large Vision-Language Models,2602.18094,http://arxiv.org/abs/2602.18094v1,2026-02-20 09:34:21+00:00
+73,HiAER-Spike Software-Hardware Reconfigurable Platform for Event-Driven Neuromorphic Computing at Scale,2602.18072,http://arxiv.org/abs/2602.18072v1,2026-02-20 08:55:47+00:00
+74,Cross-Embodiment Offline Reinforcement Learning for Heterogeneous Robot Datasets,2602.18025,http://arxiv.org/abs/2602.18025v1,2026-02-20 06:39:17+00:00
+75,In-Context Learning for Pure Exploration in Continuous Spaces,2602.17976,http://arxiv.org/abs/2602.17976v1,2026-02-20 04:20:47+00:00
+76,Leakage and Second-Order Dynamics Improve Hippocampal RNN Replay,2602.18401,http://arxiv.org/abs/2602.18401v1,2026-02-20 18:07:09+00:00
+77,From Static Spectra to Operando Infrared Dynamics: Physics Informed Flow Modeling and a Benchmark,2602.18551,http://arxiv.org/abs/2602.18551v1,2026-02-20 18:58:43+00:00
+78,"Global Low-Rank, Local Full-Rank: The Holographic Encoding of Learned Algorithms",2602.18649,http://arxiv.org/abs/2602.18649v1,2026-02-20 22:53:12+00:00
+79,From Lossy to Verified: A Provenance-Aware Tiered Memory for Agents,2602.17913,http://arxiv.org/abs/2602.17913v1,2026-02-20 00:21:37+00:00
+80,Improving Neural Topic Modeling with Semantically-Grounded Soft Label Distributions,2602.17907,http://arxiv.org/abs/2602.17907v1,2026-02-20 00:12:04+00:00
+81,Neurosymbolic Language Reasoning as Satisfiability Modulo Theory,2602.18095,http://arxiv.org/abs/2602.18095v1,2026-02-20 09:35:26+00:00
+82,"Games That Teach, Chats That Convince: Comparing Interactive and Static Formats for Persuasive Learning",2602.17905,http://arxiv.org/abs/2602.17905v2,2026-02-20 00:07:18+00:00
+83,Gradient Regularization Prevents Reward Hacking in Reinforcement Learning from Human Feedback and Verifiable Rewards,2602.18037,http://arxiv.org/abs/2602.18037v1,2026-02-20 07:32:22+00:00
+84,Aurora: Neuro-Symbolic AI Driven Advising Agent,2602.17999,http://arxiv.org/abs/2602.17999v1,2026-02-20 05:26:45+00:00
+85,Thinking by Subtraction: Confidence-Driven Contrastive Decoding for LLM Reasoning,2602.18232,http://arxiv.org/abs/2602.18232v1,2026-02-20 14:13:22+00:00
