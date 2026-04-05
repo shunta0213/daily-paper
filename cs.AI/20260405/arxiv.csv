@@ -1,0 +1,57 @@
+,title,id,arxiv_url,published
+0,A Revealed Preference Framework for AI Alignment,2603.27868,http://arxiv.org/abs/2603.27868v1,2026-03-29 20:54:01+00:00
+1,KVSculpt: KV Cache Compression as Distillation,2603.27819,http://arxiv.org/abs/2603.27819v1,2026-03-29 19:14:25+00:00
+2,AI-Powered Facial Mask Removal Is Not Suitable For Biometric Identification,2603.27747,http://arxiv.org/abs/2603.27747v1,2026-03-29 16:00:37+00:00
+3,DSevolve: Enabling Real-Time Adaptive Scheduling on Dynamic Shop Floor with LLM-Evolved Heuristic Portfolios,2603.27628,http://arxiv.org/abs/2603.27628v1,2026-03-29 10:53:09+00:00
+4,Expert Streaming: Accelerating Low-Batch MoE Inference via Multi-chiplet Architecture and Dynamic Expert Trajectory Scheduling,2603.27624,http://arxiv.org/abs/2603.27624v1,2026-03-29 10:44:55+00:00
+5,From indicators to biology: the calibration problem in artificial consciousness,2603.27597,http://arxiv.org/abs/2603.27597v1,2026-03-29 09:39:27+00:00
+6,"Safer Builders, Risky Maintainers: A Comparative Study of Breaking Changes in Human vs Agentic PRs",2603.27524,http://arxiv.org/abs/2603.27524v1,2026-03-29 05:15:13+00:00
+7,AgentSwing: Adaptive Parallel Context Management Routing for Long-Horizon Web Agents,2603.27490,http://arxiv.org/abs/2603.27490v1,2026-03-29 02:59:27+00:00
+8,Difference Feedback: Generating Multimodal Process-Level Supervision for VLM Reinforcement Learning,2603.27482,http://arxiv.org/abs/2603.27482v1,2026-03-29 02:31:12+00:00
+9,Let the Agent Steer: Closed-Loop Ranking Optimization via Influence Exchange,2603.27765,http://arxiv.org/abs/2603.27765v2,2026-03-29 16:58:29+00:00
+10,Computational Foundations for Strategic Coopetition: Formalizing Sequential Interaction and Reciprocity,2604.01240,http://arxiv.org/abs/2604.01240v1,2026-03-29 19:16:20+00:00
+11,"Incentives, Equilibria, and the Limits of Healthcare AI: A Game-Theoretic Perspective",2603.28825,http://arxiv.org/abs/2603.28825v1,2026-03-29 12:01:34+00:00
+12,Time is Not Compute: Scaling Laws for Wall-Clock Constrained Training on Consumer GPUs,2603.28823,http://arxiv.org/abs/2603.28823v1,2026-03-29 07:30:50+00:00
+13,What does a system modify when it modifies itself?,2603.27611,http://arxiv.org/abs/2603.27611v1,2026-03-29 10:12:15+00:00
+14,A General Model for Deepfake Speech Detection: Diverse Bonafide Resources or Diverse AI-Based Generators,2603.27557,http://arxiv.org/abs/2603.27557v1,2026-03-29 07:43:47+00:00
+15,A Systematic Taxonomy of Security Vulnerabilities in the OpenClaw AI Agent Framework,2603.27517,http://arxiv.org/abs/2603.27517v1,2026-03-29 04:51:27+00:00
+16,Understanding Semantic Perturbations on In-Processing Generative Image Watermarks,2603.27513,http://arxiv.org/abs/2603.27513v1,2026-03-29 04:34:44+00:00
+17,Learning to Focus and Precise Cropping: A Reinforcement Learning Framework with Information Gaps and Grounding Loss for MLLMs,2603.27494,http://arxiv.org/abs/2603.27494v1,2026-03-29 03:18:57+00:00
+18,Copilot-Assisted Second-Thought Framework for Brain-to-Robot Hand Motion Decoding,2603.27492,http://arxiv.org/abs/2603.27492v1,2026-03-29 03:12:08+00:00
+19,Multi-Agent Dialectical Refinement for Enhanced Argument Classification,2603.27451,http://arxiv.org/abs/2603.27451v1,2026-03-29 00:03:48+00:00
+20,Demo-Pose: Depth-Monocular Modality Fusion For Object Pose Estimation,2603.27533,http://arxiv.org/abs/2603.27533v1,2026-03-29 05:58:04+00:00
+21,GAAMA: Graph Augmented Associative Memory for Agents,2603.27910,http://arxiv.org/abs/2603.27910v1,2026-03-29 23:33:38+00:00
+22,Kernel Dynamics under Path Entropy Maximization,2603.27880,http://arxiv.org/abs/2603.27880v1,2026-03-29 21:34:08+00:00
+23,Towards Context-Aware Image Anonymization with Multi-Agent Reasoning,2603.27817,http://arxiv.org/abs/2603.27817v1,2026-03-29 19:06:43+00:00
+24,Towards Emotion Recognition with 3D Pointclouds Obtained from Facial Expression Images,2603.27798,http://arxiv.org/abs/2603.27798v1,2026-03-29 18:23:34+00:00
+25,Needle in the Repo: A Benchmark for Maintainability in AI-Generated Repository Edits,2603.27745,http://arxiv.org/abs/2603.27745v1,2026-03-29 15:56:05+00:00
+26,LVRPO: Language-Visual Alignment with GRPO for Multimodal Understanding and Generation,2603.27693,http://arxiv.org/abs/2603.27693v1,2026-03-29 13:38:21+00:00
+27,Cross-attentive Cohesive Subgraph Embedding to Mitigate Oversquashing in GNNs,2603.27529,http://arxiv.org/abs/2603.27529v3,2026-03-29 05:43:29+00:00
+28,ImagenWorld: Stress-Testing Image Generation Models with Explainable Human Evaluation on Open-ended Real-World Tasks,2603.27862,http://arxiv.org/abs/2603.27862v1,2026-03-29 20:42:05+00:00
+29,What-If Explanations Over Time: Counterfactuals for Time Series Classification,2603.27792,http://arxiv.org/abs/2603.27792v1,2026-03-29 18:06:23+00:00
+30,TianJi:An autonomous AI meteorologist for discovering physical mechanisms in atmospheric science,2603.27738,http://arxiv.org/abs/2603.27738v1,2026-03-29 15:30:50+00:00
+31,"RAP: Retrieve, Adapt, and Prompt-Fit for Training-Free Few-Shot Medical Image Segmentation",2603.27705,http://arxiv.org/abs/2603.27705v1,2026-03-29 14:06:00+00:00
+32,ProgressVLA: Progress-Guided Diffusion Policy for Vision-Language Robotic Manipulation,2603.27670,http://arxiv.org/abs/2603.27670v1,2026-03-29 12:38:11+00:00
+33,SNEAKDOOR: Stealthy Backdoor Attacks against Distribution Matching-based Dataset Condensation,2603.28824,http://arxiv.org/abs/2603.28824v1,2026-03-29 09:00:25+00:00
+34,"Toward Reliable Evaluation of LLM-Based Financial Multi-Agent Systems: Taxonomy, Coordination Primacy, and Cost Awareness",2603.27539,http://arxiv.org/abs/2603.27539v1,2026-03-29 06:35:07+00:00
+35,Dual-Stage LLM Framework for Scenario-Centric Semantic Interpretation in Driving Assistance,2603.27536,http://arxiv.org/abs/2603.27536v1,2026-03-29 06:20:08+00:00
+36,AI-ready design of realistic 2D materials and interfaces with Mat3ra-2D,2603.27886,http://arxiv.org/abs/2603.27886v1,2026-03-29 21:59:21+00:00
+37,CARGO: Carbon-Aware Gossip Orchestration in Smart Shipping,2603.27857,http://arxiv.org/abs/2603.27857v1,2026-03-29 20:22:32+00:00
+38,SkyNet: Belief-Aware Planning for Partially-Observable Stochastic Games,2603.27751,http://arxiv.org/abs/2603.27751v1,2026-03-29 16:09:50+00:00
+39,Robust Smart Contract Vulnerability Detection via Contrastive Learning-Enhanced Granular-ball Training,2603.27734,http://arxiv.org/abs/2603.27734v1,2026-03-29 15:19:50+00:00
+40,The role of neuromorphic principles in the future of biomedicine and healthcare,2603.27716,http://arxiv.org/abs/2603.27716v1,2026-03-29 14:36:58+00:00
+41,Umwelt Engineering: Designing the Cognitive Worlds of Linguistic Agents,2603.27626,http://arxiv.org/abs/2603.27626v1,2026-03-29 10:49:50+00:00
+42,STRIDE: When to Speak Meets Sequence Denoising for Streaming Video Understanding,2603.27593,http://arxiv.org/abs/2603.27593v1,2026-03-29 09:23:45+00:00
+43,A Novel Immune Algorithm for Multiparty Multiobjective Optimization,2603.27541,http://arxiv.org/abs/2603.27541v1,2026-03-29 06:44:20+00:00
+44,TurboAngle: Near-Lossless KV Cache Compression via Uniform Angle Quantization,2603.27467,http://arxiv.org/abs/2603.27467v1,2026-03-29 01:21:28+00:00
+45,Heracles: Bridging Precise Tracking and Generative Synthesis for General Humanoid Control,2603.27756,http://arxiv.org/abs/2603.27756v2,2026-03-29 16:21:01+00:00
+46,DriftScript: A Domain-Specific Language for Programming Non-Axiomatic Reasoning Agents,2604.00043,http://arxiv.org/abs/2604.00043v1,2026-03-29 12:38:06+00:00
+47,InnerPond: Fostering Inter-Self Dialogue with a Multi-Agent Approach for Introspection,2603.27563,http://arxiv.org/abs/2603.27563v1,2026-03-29 07:52:39+00:00
+48,Drag or Traction: Understanding How Designers Appropriate Friction in AI Ideation Outputs,2603.27550,http://arxiv.org/abs/2603.27550v1,2026-03-29 07:06:22+00:00
+49,On Token's Dilemma: Dynamic MoE with Drift-Aware Token Assignment for Continual Learning of Large Vision Language Models,2603.27481,http://arxiv.org/abs/2603.27481v1,2026-03-29 02:30:55+00:00
+50,PeopleSearchBench: A Multi-Dimensional Benchmark for Evaluating AI-Powered People Search Platforms,2603.27476,http://arxiv.org/abs/2603.27476v1,2026-03-29 02:21:09+00:00
+51,KV Cache Quantization for Self-Forcing Video Generation: A 33-Method Empirical Study,2603.27469,http://arxiv.org/abs/2603.27469v1,2026-03-29 01:35:16+00:00
+52,Project Imaging-X: A Survey of 1000+ Open-Access Medical Imaging Datasets for Foundation Model Development,2603.27460,http://arxiv.org/abs/2603.27460v1,2026-03-29 00:46:53+00:00
+53,EvA: An Evidence-First Audio Understanding Paradigm for LALMs,2603.27667,http://arxiv.org/abs/2603.27667v1,2026-03-29 12:32:04+00:00
+54,ContraMap: Contrastive Uncertainty Mapping for Robot Environment Representation,2603.27632,http://arxiv.org/abs/2603.27632v1,2026-03-29 11:06:45+00:00
+55,Suppression of $^{14}\mathrm{C}$ photon hits in large liquid scintillator detectors via spatiotemporal deep learning,2603.27727,http://arxiv.org/abs/2603.27727v1,2026-03-29 15:03:42+00:00
