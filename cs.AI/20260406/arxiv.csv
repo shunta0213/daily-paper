@@ -1,0 +1,101 @@
+,title,id,arxiv_url,published
+0,COvolve: Adversarial Co-Evolution of Large-Language-Model-Generated Policies and Environments via Two-Player Zero-Sum Game,2603.28386,http://arxiv.org/abs/2603.28386v1,2026-03-30 12:56:54+00:00
+1,"Deep Research of Deep Research: From Transformer to Agent, From AI to AI for Science",2603.28361,http://arxiv.org/abs/2603.28361v1,2026-03-30 12:29:47+00:00
+2,CoE: Collaborative Entropy for Uncertainty Quantification in Agentic Multi-LLM Systems,2603.28360,http://arxiv.org/abs/2603.28360v1,2026-03-30 12:28:26+00:00
+3,Crossing the NL/PL Divide: Information Flow Analysis Across the NL/PL Boundary in LLM-Integrated Code,2603.28345,http://arxiv.org/abs/2603.28345v1,2026-03-30 12:14:24+00:00
+4,Mapping data literacy trajectories in K-12 education,2603.28317,http://arxiv.org/abs/2603.28317v1,2026-03-30 11:38:07+00:00
+5,Pre-Deployment Complexity Estimation for Federated Perception Systems,2603.28282,http://arxiv.org/abs/2603.28282v1,2026-03-30 11:04:28+00:00
+6,Merge and Conquer: Instructing Multilingual Models by Adding Target Language Weights,2603.28263,http://arxiv.org/abs/2603.28263v1,2026-03-30 10:46:50+00:00
+7,DiffAttn: Diffusion-Based Drivers' Visual Attention Prediction with LLM-Enhanced Semantic Reasoning,2603.28251,http://arxiv.org/abs/2603.28251v1,2026-03-30 10:24:20+00:00
+8,Reasoning as Energy Minimization over Structured Latent Trajectories,2603.28248,http://arxiv.org/abs/2603.28248v1,2026-03-30 10:20:56+00:00
+9,EpiPersona: Persona Projection and Episode Coupling for Pluralistic Preference Modeling,2603.28197,http://arxiv.org/abs/2603.28197v1,2026-03-30 09:04:24+00:00
+10,Stepwise Credit Assignment for GRPO on Flow-Matching Models,2603.28718,http://arxiv.org/abs/2603.28718v1,2026-03-30 17:35:14+00:00
+11,Beyond the Answer: Decoding the Behavior of LLMs as Scientific Reasoners,2603.28038,http://arxiv.org/abs/2603.28038v1,2026-03-30 05:01:07+00:00
+12,AMIGO: Agentic Multi-Image Grounding Oracle Benchmark,2603.28662,http://arxiv.org/abs/2603.28662v1,2026-03-30 16:48:51+00:00
+13,Why Aggregate Accuracy is Inadequate for Evaluating Fairness in Law Enforcement Facial Recognition Systems,2603.28675,http://arxiv.org/abs/2603.28675v1,2026-03-30 16:56:54+00:00
+14,The Ultimate Tutorial for AI-driven Scale Development in Generative Psychometrics: Releasing AIGENIE from its Bottle,2603.28643,http://arxiv.org/abs/2603.28643v1,2026-03-30 16:25:37+00:00
+15,Dynamic Lookahead Distance via Reinforcement Learning-Based Pure Pursuit for Autonomous Racing,2603.28625,http://arxiv.org/abs/2603.28625v1,2026-03-30 16:09:26+00:00
+16,CirrusBench: Evaluating LLM-based Agents Beyond Correctness in Real-World Cloud Service Environments,2603.28569,http://arxiv.org/abs/2603.28569v1,2026-03-30 15:26:00+00:00
+17,Evaluating Privilege Usage of Agents on Real-World Tools,2603.28166,http://arxiv.org/abs/2603.28166v1,2026-03-30 08:35:00+00:00
+18,RecycleLoRA: Rank-Revealing QR-Based Dual-LoRA Subspace Adaptation for Domain Generalized Semantic Segmentation,2603.28142,http://arxiv.org/abs/2603.28142v1,2026-03-30 08:05:39+00:00
+19,CoT2-Meta: Budgeted Metacognitive Control for Test-Time Reasoning,2603.28135,http://arxiv.org/abs/2603.28135v1,2026-03-30 07:59:47+00:00
+20,Q-DIVER: Integrated Quantum Transfer Learning and Differentiable Quantum Architecture Search with EEG Data,2603.28122,http://arxiv.org/abs/2603.28122v1,2026-03-30 07:37:53+00:00
+21,Reward Hacking as Equilibrium under Finite Evaluation,2603.28063,http://arxiv.org/abs/2603.28063v1,2026-03-30 06:06:40+00:00
+22,SLOW: Strategic Logical-inference Open Workspace for Cognitive Adaptation in AI Tutoring,2603.28062,http://arxiv.org/abs/2603.28062v1,2026-03-30 06:01:16+00:00
+23,FedFG: Privacy-Preserving and Robust Federated Learning via Flow-Matching Generation,2603.27986,http://arxiv.org/abs/2603.27986v1,2026-03-30 03:11:35+00:00
+24,SARL: Label-Free Reinforcement Learning by Rewarding Reasoning Topology,2603.27977,http://arxiv.org/abs/2603.27977v1,2026-03-30 02:54:48+00:00
+25,CARV: A Diagnostic Benchmark for Compositional Analogical Reasoning in Multimodal LLMs,2603.27958,http://arxiv.org/abs/2603.27958v1,2026-03-30 02:22:30+00:00
+26,Adversarial Attacks on Multimodal Large Language Models: A Comprehensive Survey,2603.27918,http://arxiv.org/abs/2603.27918v1,2026-03-30 00:16:31+00:00
+27,FeDMRA: Federated Incremental Learning with Dynamic Memory Replay Allocation,2603.28455,http://arxiv.org/abs/2603.28455v1,2026-03-30 13:58:36+00:00
+28,Whittaker-Henderson smoother for long satellite image time series interpolation,2604.00048,http://arxiv.org/abs/2604.00048v1,2026-03-30 11:04:48+00:00
+29,CivicShield: A Cross-Domain Defense-in-Depth Framework for Securing Government-Facing AI Chatbots Against Multi-Turn Adversarial Attacks,2603.29062,http://arxiv.org/abs/2603.29062v1,2026-03-30 22:58:04+00:00
+30,A Multi-Agent Rhizomatic Pipeline for Non-Linear Literature Analysis,2603.28336,http://arxiv.org/abs/2603.28336v2,2026-03-30 12:06:25+00:00
+31,A Learning-Based Cooperative Coevolution Framework for Heterogeneous Large-Scale Global Optimization,2604.01241,http://arxiv.org/abs/2604.01241v1,2026-03-30 00:18:05+00:00
+32,Beta-Scheduling: Momentum from Critical Damping as a Diagnostic and Correction Tool for Neural Network Training,2603.28921,http://arxiv.org/abs/2603.28921v1,2026-03-30 18:53:03+00:00
+33,OneComp: One-Line Revolution for Generative AI Model Compression,2603.28845,http://arxiv.org/abs/2603.28845v1,2026-03-30 17:43:32+00:00
+34,Emergence WebVoyager: Toward Consistent and Transparent Evaluation of (Web) Agents in The Wild,2603.29020,http://arxiv.org/abs/2603.29020v1,2026-03-30 21:27:28+00:00
+35,Mimosa Framework: Toward Evolving Multi-Agent Systems for Scientific Research,2603.28986,http://arxiv.org/abs/2603.28986v1,2026-03-30 20:35:57+00:00
+36,Information-Theoretic Limits of Safety Verification for Self-Improving Systems,2603.28650,http://arxiv.org/abs/2603.28650v2,2026-03-30 16:34:37+00:00
+37,The Spectral Edge Thesis: A Mathematical Framework for Intra-Signal Phase Transitions in Neural Network Training,2603.28964,http://arxiv.org/abs/2603.28964v2,2026-03-30 20:10:22+00:00
+38,OptiMer: Optimal Distribution Vector Merging Is Better than Data Mixing for Continual Pre-Training,2603.28858,http://arxiv.org/abs/2603.28858v1,2026-03-30 18:00:02+00:00
+39,HISA: Efficient Hierarchical Indexing for Fine-Grained Sparse Attention,2603.28458,http://arxiv.org/abs/2603.28458v2,2026-03-30 13:59:51+00:00
+40,CDH-Bench: A Commonsense-Driven Hallucination Benchmark for Evaluating Visual Fidelity in Vision-Language Models,2603.27982,http://arxiv.org/abs/2603.27982v2,2026-03-30 03:04:53+00:00
+41,EdgeDiT: Hardware-Aware Diffusion Transformers for Efficient On-Device Image Generation,2603.28405,http://arxiv.org/abs/2603.28405v1,2026-03-30 13:14:30+00:00
+42,Learning Partial Action Replacement in Offline MARL,2603.28573,http://arxiv.org/abs/2603.28573v1,2026-03-30 15:28:13+00:00
+43,Task-Centric Personalized Federated Fine-Tuning of Language Models,2604.00050,http://arxiv.org/abs/2604.00050v1,2026-03-30 20:01:53+00:00
+44,AdaptToken: Entropy-based Adaptive Token Selection for MLLM Long Video Understanding,2603.28696,http://arxiv.org/abs/2603.28696v1,2026-03-30 17:14:15+00:00
+45,MDPBench: A Benchmark for Multilingual Document Parsing in Real-World Scenarios,2603.28130,http://arxiv.org/abs/2603.28130v1,2026-03-30 07:47:46+00:00
+46,Synonymix: Unified Group Personas for Generative Simulations,2603.28066,http://arxiv.org/abs/2603.28066v1,2026-03-30 06:13:45+00:00
+47,Meta-Harness: End-to-End Optimization of Model Harnesses,2603.28052,http://arxiv.org/abs/2603.28052v1,2026-03-30 05:33:50+00:00
+48,When Choices Become Priors: Contrastive Decoding for Scientific Figure Multiple-Choice QA,2603.28026,http://arxiv.org/abs/2603.28026v1,2026-03-30 04:38:28+00:00
+49,Beyond Dataset Distillation: Lossless Dataset Concentration via Diffusion-Assisted Distribution Alignment,2603.27987,http://arxiv.org/abs/2603.27987v1,2026-03-30 03:20:27+00:00
+50,Trust-Aware Routing for Distributed Generative AI Inference at the Edge,2603.28622,http://arxiv.org/abs/2603.28622v1,2026-03-30 16:07:11+00:00
+51,Towards a Medical AI Scientist,2603.28589,http://arxiv.org/abs/2603.28589v1,2026-03-30 15:37:25+00:00
+52,ChemCLIP: Bridging Organic and Inorganic Anticancer Compounds Through Contrastive Learning,2603.28575,http://arxiv.org/abs/2603.28575v1,2026-03-30 15:28:36+00:00
+53,Hydra: Unifying Document Retrieval and Generation in a Single Vision-Language Model,2603.28554,http://arxiv.org/abs/2603.28554v1,2026-03-30 15:17:41+00:00
+54,"CiQi-Agent: Aligning Vision, Tools and Aesthetics in Multimodal Agent for Cultural Reasoning on Chinese Porcelains",2603.28474,http://arxiv.org/abs/2603.28474v1,2026-03-30 14:13:47+00:00
+55,Learning unified control of internal spin squeezing in atomic qudits for magnetometry,2603.28421,http://arxiv.org/abs/2603.28421v1,2026-03-30 13:29:45+00:00
+56,KGroups: A Versatile Univariate Max-Relevance Min-Redundancy Feature Selection Algorithm for High-dimensional Biological Data,2603.28417,http://arxiv.org/abs/2603.28417v1,2026-03-30 13:28:09+00:00
+57,Membership Inference Attacks against Large Audio Language Models,2603.28378,http://arxiv.org/abs/2603.28378v1,2026-03-30 12:45:28+00:00
+58,TwinMixing: A Shuffle-Aware Feature Interaction Model for Multi-Task Segmentation,2603.28233,http://arxiv.org/abs/2603.28233v1,2026-03-30 09:54:44+00:00
+59,Differentiable Power-Flow Optimization,2603.28203,http://arxiv.org/abs/2603.28203v1,2026-03-30 09:19:43+00:00
+60,PAR$^2$-RAG: Planned Active Retrieval and Reasoning for Multi-Hop Question Answering,2603.29085,http://arxiv.org/abs/2603.29085v1,2026-03-30 23:52:54+00:00
+61,The Model Says Walk: How Surface Heuristics Override Implicit Constraints in LLM Reasoning,2603.29025,http://arxiv.org/abs/2603.29025v1,2026-03-30 21:36:09+00:00
+62,Improving Efficiency of GPU Kernel Optimization Agents using a Domain-Specific Language and Speed-of-Light Guidance,2603.29010,http://arxiv.org/abs/2603.29010v1,2026-03-30 21:16:39+00:00
+63,Privacy Guard & Token Parsimony by Prompt and Context Handling and LLM Routing,2603.28972,http://arxiv.org/abs/2603.28972v1,2026-03-30 20:16:42+00:00
+64,Multi-Agent LLMs for Adaptive Acquisition in Bayesian Optimization,2603.28959,http://arxiv.org/abs/2603.28959v1,2026-03-30 20:05:30+00:00
+65,Working Paper: Towards a Category-theoretic Comparative Framework for Artificial General Intelligence,2603.28906,http://arxiv.org/abs/2603.28906v1,2026-03-30 18:34:27+00:00
+66,AutoWorld: Scaling Multi-Agent Traffic Simulation with Self-Supervised World Models,2603.28963,http://arxiv.org/abs/2603.28963v1,2026-03-30 20:10:21+00:00
+67,A Survey on AI for 6G: Challenges and Opportunities,2604.02370,http://arxiv.org/abs/2604.02370v1,2026-03-30 08:22:50+00:00
+68,ERPO: Token-Level Entropy-Regulated Policy Optimization for Large Reasoning Models,2603.28204,http://arxiv.org/abs/2603.28204v2,2026-03-30 09:20:25+00:00
+69,The Unreasonable Effectiveness of Scaling Laws in AI,2603.28507,http://arxiv.org/abs/2603.28507v1,2026-03-30 14:42:53+00:00
+70,MRI-to-CT synthesis using drifting models,2603.28498,http://arxiv.org/abs/2603.28498v1,2026-03-30 14:34:32+00:00
+71,Courtroom-Style Multi-Agent Debate with Progressive RAG and Role-Switching for Controversial Claim Verification,2603.28488,http://arxiv.org/abs/2603.28488v1,2026-03-30 14:23:15+00:00
+72,Entropic Claim Resolution: Uncertainty-Driven Evidence Selection for RAG,2603.28444,http://arxiv.org/abs/2603.28444v1,2026-03-30 13:49:03+00:00
+73,The Scaffold Effect: How Prompt Framing Drives Apparent Multimodal Gains in Clinical VLM Evaluation,2603.28387,http://arxiv.org/abs/2603.28387v1,2026-03-30 12:58:10+00:00
+74,Integrating Multimodal Large Language Model Knowledge into Amodal Completion,2603.28333,http://arxiv.org/abs/2603.28333v1,2026-03-30 12:03:47+00:00
+75,Self++: Co-Determined Agency for Human--AI Symbiosis in Extended Reality,2603.28306,http://arxiv.org/abs/2603.28306v1,2026-03-30 11:32:23+00:00
+76,NeiGAD: Augmenting Graph Anomaly Detection via Spectral Neighbor Information,2603.28300,http://arxiv.org/abs/2603.28300v1,2026-03-30 11:26:56+00:00
+77,MR-ImagenTime: Multi-Resolution Time Series Generation through Dual Image Representations,2603.28253,http://arxiv.org/abs/2603.28253v1,2026-03-30 10:25:35+00:00
+78,An Optimal Battery-Free Approach for Emission Reduction by Storing Solar Surplus in Building Thermal Mass,2603.28217,http://arxiv.org/abs/2603.28217v1,2026-03-30 09:37:23+00:00
+79,Skillful Kilometer-Scale Regional Weather Forecasting via Global and Regional Coupling,2603.28173,http://arxiv.org/abs/2603.28173v1,2026-03-30 08:40:36+00:00
+80,Transcription and Recognition of Italian Parliamentary Speeches Using Vision-Language Models,2603.28103,http://arxiv.org/abs/2603.28103v1,2026-03-30 07:06:49+00:00
+81,Trojan-Speak: Bypassing Constitutional Classifiers with No Jailbreak Tax via Adversarial Finetuning,2603.29038,http://arxiv.org/abs/2603.29038v1,2026-03-30 22:10:28+00:00
+82,MMFace-DiT: A Dual-Stream Diffusion Transformer for High-Fidelity Multimodal Face Generation,2603.29029,http://arxiv.org/abs/2603.29029v1,2026-03-30 21:44:18+00:00
+83,Human-Like Lifelong Memory: A Neuroscience-Grounded Architecture for Infinite Interaction,2603.29023,http://arxiv.org/abs/2603.29023v1,2026-03-30 21:35:28+00:00
+84,Understand and Accelerate Memory Processing Pipeline for Disaggregated LLM Inference,2603.29002,http://arxiv.org/abs/2603.29002v1,2026-03-30 21:03:39+00:00
+85,Design Principles for the Construction of a Benchmark Evaluating Security Operation Capabilities of Multi-agent AI Systems,2603.28998,http://arxiv.org/abs/2603.28998v1,2026-03-30 21:01:00+00:00
+86,Enhancing Policy Learning with World-Action Model,2603.28955,http://arxiv.org/abs/2603.28955v1,2026-03-30 19:56:05+00:00
+87,Differentiable Initialization-Accelerated CPU-GPU Hybrid Combinatorial Scheduling,2603.28943,http://arxiv.org/abs/2603.28943v1,2026-03-30 19:35:31+00:00
+88,ChartDiff: A Large-Scale Benchmark for Comprehending Pairs of Charts,2603.28902,http://arxiv.org/abs/2603.28902v1,2026-03-30 18:29:02+00:00
+89,GMA-SAWGAN-GP: A Novel Data Generative Framework to Enhance IDS Detection Performance,2603.28838,http://arxiv.org/abs/2603.28838v1,2026-03-30 14:35:23+00:00
+90,Evaluating LLMs for Answering Student Questions in Introductory Programming Courses,2603.28295,http://arxiv.org/abs/2603.28295v1,2026-03-30 11:22:58+00:00
+91,"PReD: An LLM-based Foundation Multimodal Model for Electromagnetic Perception, Recognition, and Decision",2603.28183,http://arxiv.org/abs/2603.28183v2,2026-03-30 08:47:02+00:00
+92,Does Claude's Constitution Have a Culture?,2603.28123,http://arxiv.org/abs/2603.28123v1,2026-03-30 07:38:46+00:00
+93,Quid est VERITAS? A Modular Framework for Archival Document Analysis,2603.28108,http://arxiv.org/abs/2603.28108v1,2026-03-30 07:14:51+00:00
+94,MOSS-VoiceGenerator: Create Realistic Voices with Natural Language Descriptions,2603.28086,http://arxiv.org/abs/2603.28086v1,2026-03-30 06:40:59+00:00
+95,Dogfight Search: A Swarm-Based Optimization Algorithm for Complex Engineering Optimization and Mountainous Terrain Path Planning,2603.28046,http://arxiv.org/abs/2603.28046v1,2026-03-30 05:20:54+00:00
+96,Bit-Identical Medical Deep Learning via Structured Orthogonal Initialization,2603.28040,http://arxiv.org/abs/2603.28040v1,2026-03-30 05:04:57+00:00
+97,What an Autonomous Agent Discovers About Molecular Transformer Design: Does It Transfer?,2603.28015,http://arxiv.org/abs/2603.28015v1,2026-03-30 04:08:37+00:00
+98,TGIF2: Extended Text-Guided Inpainting Forgery Dataset & Benchmark,2603.28613,http://arxiv.org/abs/2603.28613v1,2026-03-30 15:59:16+00:00
+99,Moving Beyond Review: Applying Language Models to Planning and Translation in Reflection,2603.28596,http://arxiv.org/abs/2603.28596v1,2026-03-30 15:42:38+00:00
