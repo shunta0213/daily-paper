@@ -1,0 +1,69 @@
+,title,id,arxiv_url,published
+0,ART: Adaptive Relational Transformer for Pedestrian Trajectory Prediction with Temporal-Aware Relations,2604.03649,http://arxiv.org/abs/2604.03649v1,2026-04-04 08:59:33+00:00
+1,Stabilizing Unsupervised Self-Evolution of MLLMs via Continuous Softened Retracing reSampling,2604.03647,http://arxiv.org/abs/2604.03647v2,2026-04-04 08:52:43+00:00
+2,Enhancing behavioral nudges with large language model-based iterative personalization: A field experiment on electricity and hot-water conservation,2604.03881,http://arxiv.org/abs/2604.03881v1,2026-04-04 22:28:50+00:00
+3,CURE:Circuit-Aware Unlearning for LLM-based Recommendation,2604.04982,http://arxiv.org/abs/2604.04982v1,2026-04-04 23:13:55+00:00
+4,Latency-Aware Resource Allocation over Heterogeneous Networks: A Lorentz-Invariant Market Mechanism,2604.03897,http://arxiv.org/abs/2604.03897v1,2026-04-04 23:48:19+00:00
+5,Decomposing Communication Gain and Delay Cost Under Cross-Timestep Delays in Cooperative Multi-Agent Reinforcement Learning,2604.03785,http://arxiv.org/abs/2604.03785v1,2026-04-04 16:14:41+00:00
+6,When Does Multimodal AI Help? Diagnostic Complementarity of Vision-Language Models and CNNs for Spectrum Management in Satellite-Terrestrial Networks,2604.03774,http://arxiv.org/abs/2604.03774v1,2026-04-04 15:53:49+00:00
+7,Build on Priors: Vision--Language--Guided Neuro-Symbolic Imitation Learning for Data-Efficient Real-World Robot Manipulation,2604.03759,http://arxiv.org/abs/2604.03759v1,2026-04-04 15:17:59+00:00
+8,RDEx-CMOP: Feasibility-Aware Indicator-Guided Differential Evolution for Fixed-Budget Constrained Multiobjective Optimization,2604.03708,http://arxiv.org/abs/2604.03708v1,2026-04-04 12:27:36+00:00
+9,Fusion and Alignment Enhancement with Large Language Models for Tail-item Sequential Recommendation,2604.03688,http://arxiv.org/abs/2604.03688v1,2026-04-04 11:19:08+00:00
+10,AI Appeals Processor: A Deep Learning Approach to Automated Classification of Citizen Appeals in Government Services,2604.03672,http://arxiv.org/abs/2604.03672v1,2026-04-04 10:03:53+00:00
+11,Delayed Homomorphic Reinforcement Learning for Environments with Delayed Feedback,2604.03641,http://arxiv.org/abs/2604.03641v1,2026-04-04 08:38:52+00:00
+12,A Multimodal Foundation Model of Spatial Transcriptomics and Histology for Biological Discovery and Clinical Prediction,2604.03630,http://arxiv.org/abs/2604.03630v1,2026-04-04 08:00:26+00:00
+13,Entropy and Attention Dynamics in Small Language Models: A Trace-Level Structural Analysis on the TruthfulQA Benchmark,2604.03589,http://arxiv.org/abs/2604.03589v1,2026-04-04 04:35:20+00:00
+14,Structural Rigidity and the 57-Token Predictive Window: A Physical Framework for Inference-Layer Governability in Large Language Models,2604.03524,http://arxiv.org/abs/2604.03524v1,2026-04-04 00:08:17+00:00
+15,CRAFT: Video Diffusion for Bimanual Robot Data Generation,2604.03552,http://arxiv.org/abs/2604.03552v1,2026-04-04 02:36:54+00:00
+16,LightThinker++: From Reasoning Compression to Memory Management,2604.03679,http://arxiv.org/abs/2604.03679v1,2026-04-04 10:46:09+00:00
+17,Toward Executable Repository-Level Code Generation via Environment Alignment,2604.03622,http://arxiv.org/abs/2604.03622v1,2026-04-04 07:37:55+00:00
+18,Towards the AI Historian: Agentic Information Extraction from Primary Sources,2604.03553,http://arxiv.org/abs/2604.03553v1,2026-04-04 02:38:23+00:00
+19,AgenticFlict: A Large-Scale Dataset of Merge Conflicts in AI Coding Agent Pull Requests on GitHub,2604.03551,http://arxiv.org/abs/2604.03551v1,2026-04-04 02:36:22+00:00
+20,FeynmanBench: Benchmarking Multimodal LLMs on Diagrammatic Physics Reasoning,2604.03893,http://arxiv.org/abs/2604.03893v1,2026-04-04 23:18:58+00:00
+21,Regime-Calibrated Demand Priors for Ride-Hailing Fleet Dispatch and Repositioning,2604.03883,http://arxiv.org/abs/2604.03883v1,2026-04-04 22:31:06+00:00
+22,Affording Process Auditability with QualAnalyzer: An Atomistic LLM Analysis Tool for Qualitative Research,2604.03820,http://arxiv.org/abs/2604.03820v1,2026-04-04 18:07:05+00:00
+23,Representational Collapse in Multi-Agent LLM Committees: Measurement and Diversity-Aware Consensus,2604.03809,http://arxiv.org/abs/2604.03809v1,2026-04-04 17:30:23+00:00
+24,RL-Driven Sustainable Land-Use Allocation for the Lake Malawi Basin,2604.03768,http://arxiv.org/abs/2604.03768v1,2026-04-04 15:39:33+00:00
+25,Can Humans Tell? A Dual-Axis Study of Human Perception of LLM-Generated News,2604.03755,http://arxiv.org/abs/2604.03755v1,2026-04-04 15:03:42+00:00
+26,Testing the Limits of Truth Directions in LLMs,2604.03754,http://arxiv.org/abs/2604.03754v1,2026-04-04 15:01:09+00:00
+27,Beyond Retrieval: Modeling Confidence Decay and Deterministic Agentic Platforms in Generative Engine Optimization,2604.03656,http://arxiv.org/abs/2604.03656v1,2026-04-04 09:17:37+00:00
+28,Negotiating Privacy with Smart Voice Assistants: Risk-Benefit and Control-Acceptance Tensions,2604.06235,http://arxiv.org/abs/2604.06235v1,2026-04-04 06:35:59+00:00
+29,k-Maximum Inner Product Attention for Graph Transformers and the Expressive Power of GraphGPS,2604.03815,http://arxiv.org/abs/2604.03815v2,2026-04-04 17:45:50+00:00
+30,LLM-Agent-based Social Simulation for Attitude Diffusion,2604.03898,http://arxiv.org/abs/2604.03898v1,2026-04-04 23:56:06+00:00
+31,Learning Superpixel Ensemble and Hierarchy Graphs for Melanoma Detection,2604.03710,http://arxiv.org/abs/2604.03710v1,2026-04-04 12:31:01+00:00
+32,PRAISE: Prefix-Based Rollout Reuse in Agentic Search Training,2604.03675,http://arxiv.org/abs/2604.03675v1,2026-04-04 10:23:46+00:00
+33,TableVision: A Large-Scale Benchmark for Spatially Grounded Reasoning over Complex Hierarchical Tables,2604.03660,http://arxiv.org/abs/2604.03660v1,2026-04-04 09:26:09+00:00
+34,A Generative Foundation Model for Multimodal Histopathology,2604.03635,http://arxiv.org/abs/2604.03635v1,2026-04-04 08:09:11+00:00
+35,Persistent Cross-Attempt State Optimization for Repository-Level Code Generation,2604.03632,http://arxiv.org/abs/2604.03632v1,2026-04-04 08:03:03+00:00
+36,Selective Forgetting for Large Reasoning Models,2604.03571,http://arxiv.org/abs/2604.03571v1,2026-04-04 03:47:12+00:00
+37,Focus Matters: Phase-Aware Suppression for Hallucination in Vision-Language Models,2604.03556,http://arxiv.org/abs/2604.03556v1,2026-04-04 02:46:58+00:00
+38,LangFIR: Discovering Sparse Language-Specific Features from Monolingual Data for Language Steering,2604.03532,http://arxiv.org/abs/2604.03532v1,2026-04-04 00:56:13+00:00
+39,An Improved Last-Iterate Convergence Rate for Anchored Gradient Descent Ascent,2604.03782,http://arxiv.org/abs/2604.03782v1,2026-04-04 16:08:55+00:00
+40,Measuring the Permission Gate: A Stress-Test Evaluation of Claude Code's Auto Mode,2604.04978,http://arxiv.org/abs/2604.04978v1,2026-04-04 17:56:30+00:00
+41,Optimizing Neurorobot Policy under Limited Demonstration Data through Preference Regret,2604.03523,http://arxiv.org/abs/2604.03523v1,2026-04-04 00:03:59+00:00
+42,Explainable Model Routing for Agentic Workflows,2604.03527,http://arxiv.org/abs/2604.03527v1,2026-04-04 00:11:24+00:00
+43,Automated Analysis of Global AI Safety Initiatives: A Taxonomy-Driven LLM Approach,2604.03533,http://arxiv.org/abs/2604.03533v1,2026-04-04 01:02:15+00:00
+44,When Models Know More Than They Say: Probing Analogical Reasoning in LLMs,2604.03877,http://arxiv.org/abs/2604.03877v1,2026-04-04 22:00:22+00:00
+45,InCaRPose: In-Cabin Relative Camera Pose Estimation Model and Dataset,2604.03814,http://arxiv.org/abs/2604.03814v1,2026-04-04 17:40:25+00:00
+46,Automated Conjecture Resolution with Formal Verification,2604.03789,http://arxiv.org/abs/2604.03789v1,2026-04-04 16:35:16+00:00
+47,15 Years of Augmented Human(s) Research: Where Do We Stand?,2604.03715,http://arxiv.org/abs/2604.03715v1,2026-04-04 12:42:42+00:00
+48,Single-agent vs. Multi-agents for Automated Video Analysis of On-Screen Collaborative Learning Behaviors,2604.03631,http://arxiv.org/abs/2604.03631v1,2026-04-04 08:01:02+00:00
+49,Unveiling Language Routing Isolation in Multilingual MoE Models for Interpretable Subnetwork Adaptation,2604.03592,http://arxiv.org/abs/2604.03592v1,2026-04-04 04:56:35+00:00
+50,Rashomon Memory: Towards Argumentation-Driven Retrieval for Multi-Perspective Agent Memory,2604.03588,http://arxiv.org/abs/2604.03588v1,2026-04-04 04:29:50+00:00
+51,When Adaptive Rewards Hurt: Causal Probing and the Switching-Stability Dilemma in LLM-Guided LEO Satellite Scheduling,2604.03562,http://arxiv.org/abs/2604.03562v1,2026-04-04 03:04:53+00:00
+52,Incentives shape how humans co-create with generative AI,2604.03529,http://arxiv.org/abs/2604.03529v1,2026-04-04 00:18:51+00:00
+53,Structured Multi-Criteria Evaluation of Large Language Models with Fuzzy Analytic Hierarchy Process and DualJudge,2604.03742,http://arxiv.org/abs/2604.03742v1,2026-04-04 14:07:37+00:00
+54,Squeez: Task-Conditioned Tool-Output Pruning for Coding Agents,2604.04979,http://arxiv.org/abs/2604.04979v1,2026-04-04 18:52:44+00:00
+55,MG$^2$-RAG: Multi-Granularity Graph for Multimodal Retrieval-Augmented Generation,2604.04969,http://arxiv.org/abs/2604.04969v1,2026-04-04 07:14:01+00:00
+56,CREBench: Evaluating Large Language Models in Cryptographic Binary Reverse Engineering,2604.03750,http://arxiv.org/abs/2604.03750v1,2026-04-04 14:51:09+00:00
+57,Unlocking Prompt Infilling Capability for Diffusion Language Models,2604.03677,http://arxiv.org/abs/2604.03677v1,2026-04-04 10:26:36+00:00
+58,Neural Global Optimization via Iterative Refinement from Noisy Samples,2604.03614,http://arxiv.org/abs/2604.03614v1,2026-04-04 07:02:38+00:00
+59,Multi-Robot Multi-Queue Control via Exhaustive Assignment Actor-Critic Learning,2604.03605,http://arxiv.org/abs/2604.03605v1,2026-04-04 06:32:35+00:00
+60,SecPI: Secure Code Generation with Reasoning Models via Security Reasoning Internalization,2604.03587,http://arxiv.org/abs/2604.03587v1,2026-04-04 04:29:11+00:00
+61,Personality Requires Struggle: Three Regimes of the Baldwin Effect in Neuroevolved Chess Agents,2604.03565,http://arxiv.org/abs/2604.03565v1,2026-04-04 03:16:46+00:00
+62,When Do Hallucinations Arise? A Graph Perspective on the Evolution of Path Reuse and Path Compression,2604.03557,http://arxiv.org/abs/2604.03557v1,2026-04-04 02:51:46+00:00
+63,Determined by User Needs: A Salient Object Detection Rationale Beyond Conventional Visual Stimuli,2604.03526,http://arxiv.org/abs/2604.03526v1,2026-04-04 00:10:33+00:00
+64,PolySwarm: A Multi-Agent Large Language Model Framework for Prediction Market Trading and Latency Arbitrage,2604.03888,http://arxiv.org/abs/2604.03888v1,2026-04-04 22:51:06+00:00
+65,CountsDiff: A Diffusion Model on the Natural Numbers for Generation and Imputation of Count-Based Data,2604.03779,http://arxiv.org/abs/2604.03779v1,2026-04-04 16:06:14+00:00
+66,Automated Attention Pattern Discovery at Scale in Large Language Models,2604.03764,http://arxiv.org/abs/2604.03764v1,2026-04-04 15:32:25+00:00
+67,AutoReSpec: A Framework for Generating Specification using Large Language Models,2604.03758,http://arxiv.org/abs/2604.03758v1,2026-04-04 15:17:08+00:00
