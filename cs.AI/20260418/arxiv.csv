@@ -1,0 +1,65 @@
+,title,id,arxiv_url,published
+0,From Helpful to Trustworthy: LLM Agents for Pair Programming,2604.10300,http://arxiv.org/abs/2604.10300v1,2026-04-11 17:39:57+00:00
+1,STARS: Skill-Triggered Audit for Request-Conditioned Invocation Safety in Agent Systems,2604.10286,http://arxiv.org/abs/2604.10286v1,2026-04-11 17:06:42+00:00
+2,Adapting 2D Multi-Modal Large Language Model for 3D CT Image Analysis,2604.10233,http://arxiv.org/abs/2604.10233v1,2026-04-11 14:36:05+00:00
+3,Credit-Budgeted ICPC-Style Coding: When Agents Must Pay for Every Decision,2604.10182,http://arxiv.org/abs/2604.10182v1,2026-04-11 12:22:10+00:00
+4,MAVEN-T: Multi-Agent enVironment-aware Enhanced Neural Trajectory predictor with Reinforcement Learning,2604.10169,http://arxiv.org/abs/2604.10169v1,2026-04-11 11:34:13+00:00
+5,Virtual Smart Metering in District Heating Networks via Heterogeneous Spatial-Temporal Graph Neural Networks,2604.10166,http://arxiv.org/abs/2604.10166v1,2026-04-11 11:27:06+00:00
+6,Learning from Emptiness: De-biasing Listwise Rerankers with Content-Agnostic Probability Calibration,2604.10150,http://arxiv.org/abs/2604.10150v1,2026-04-11 10:47:22+00:00
+7,A Temporally Augmented Graph Attention Network for Affordance Classification,2604.10149,http://arxiv.org/abs/2604.10149v1,2026-04-11 10:44:16+00:00
+8,A Dual Cross-Attention Graph Learning Framework For Multimodal MRI-Based Major Depressive Disorder Detection,2604.10116,http://arxiv.org/abs/2604.10116v1,2026-04-11 09:19:41+00:00
+9,Ontological Trajectory Forecasting via Finite Semigroup Iteration and Lie Algebra Approximation in Geopolitical Knowledge Graphs,2604.10087,http://arxiv.org/abs/2604.10087v1,2026-04-11 08:12:16+00:00
+10,Learning Hierarchical and Geometry-Aware Graph Representations for Text-to-CAD,2604.10075,http://arxiv.org/abs/2604.10075v1,2026-04-11 07:49:16+00:00
+11,Cognitive Pivot Points and Visual Anchoring: Unveiling and Rectifying Hallucinations in Multimodal Reasoning Models,2604.10219,http://arxiv.org/abs/2604.10219v1,2026-04-11 13:59:05+00:00
+12,Beyond Monologue: Interactive Talking-Listening Avatar Generation with Conversational Audio Context-Aware Kernels,2604.10367,http://arxiv.org/abs/2604.10367v1,2026-04-11 22:34:21+00:00
+13,VeriTrans: Fine-Tuned LLM-Assisted NL-to-PL Translation via a Deterministic Neuro-Symbolic Pipeline,2604.10341,http://arxiv.org/abs/2604.10341v1,2026-04-11 19:59:02+00:00
+14,MatRes: Zero-Shot Test-Time Model Adaptation for Simultaneous Matching and Restoration,2604.10081,http://arxiv.org/abs/2604.10081v1,2026-04-11 07:57:20+00:00
+15,FlowPalm: Optical Flow Driven Non-Rigid Deformation for Geometrically Diverse Palmprint Generation,2604.09989,http://arxiv.org/abs/2604.09989v1,2026-04-11 02:19:28+00:00
+16,"A Minimal Model of Representation Collapse: Frustration, Stop-Gradient, and Dynamics",2604.09979,http://arxiv.org/abs/2604.09979v1,2026-04-11 01:27:15+00:00
+17,"Rebooting Microreboot: Architectural Support for Safe, Parallel Recovery in Microservice Systems",2604.09963,http://arxiv.org/abs/2604.09963v1,2026-04-11 00:17:20+00:00
+18,Zero-shot World Models Are Developmentally Efficient Learners,2604.10333,http://arxiv.org/abs/2604.10333v1,2026-04-11 19:32:33+00:00
+19,Exploring the impact of fairness-aware criteria in AutoML,2604.10224,http://arxiv.org/abs/2604.10224v1,2026-04-11 14:15:15+00:00
+20,Semantic Manipulation Localization,2604.10132,http://arxiv.org/abs/2604.10132v1,2026-04-11 09:53:09+00:00
+21,Trust Your Memory: Verifiable Control of Smart Homes through Reinforcement Learning with Multi-dimensional Rewards,2604.10110,http://arxiv.org/abs/2604.10110v1,2026-04-11 09:08:27+00:00
+22,Edu-MMBias: A Three-Tier Multimodal Benchmark for Auditing Social Bias in Vision-Language Models under Educational Contexts,2604.10200,http://arxiv.org/abs/2604.10200v2,2026-04-11 13:12:22+00:00
+23,Formal Architecture Descriptors as Navigation Primitives for AI Coding Agents,2604.13108,http://arxiv.org/abs/2604.13108v1,2026-04-11 00:26:31+00:00
+24,Think in Sentences: Explicit Sentence Boundaries Enhance Language Model's Capabilities,2604.10135,http://arxiv.org/abs/2604.10135v2,2026-04-11 10:00:52+00:00
+25,Gypscie: A Cross-Platform AI Artifact Management System,2604.10311,http://arxiv.org/abs/2604.10311v1,2026-04-11 18:24:26+00:00
+26,Class-Adaptive Cooperative Perception for Multi-Class LiDAR-based 3D Object Detection in V2X Systems,2604.10305,http://arxiv.org/abs/2604.10305v1,2026-04-11 18:08:50+00:00
+27,"The Amazing Agent Race: Strong Tool Users, Weak Navigators",2604.10261,http://arxiv.org/abs/2604.10261v1,2026-04-11 15:58:29+00:00
+28,Graph-RHO: Critical-path-aware Heterogeneous Graph Network for Long-Horizon Flexible Job-Shop Scheduling,2604.10073,http://arxiv.org/abs/2604.10073v1,2026-04-11 07:35:09+00:00
+29,ASPIRin: Action Space Projection for Interactivity-Optimized Reinforcement Learning in Full-Duplex Speech Language Models,2604.10065,http://arxiv.org/abs/2604.10065v1,2026-04-11 07:07:08+00:00
+30,LoopGuard: Breaking Self-Reinforcing Attention Loops via Dynamic KV Cache Intervention,2604.10044,http://arxiv.org/abs/2604.10044v1,2026-04-11 05:54:45+00:00
+31,LVSum: A Benchmark for Timestamp-Aware Long Video Summarization,2604.10024,http://arxiv.org/abs/2604.10024v1,2026-04-11 04:42:50+00:00
+32,Demographic and Linguistic Bias Evaluation in Omnimodal Language Models,2604.10014,http://arxiv.org/abs/2604.10014v1,2026-04-11 03:58:02+00:00
+33,Agentic Application in Power Grid Static Analysis: Automatic Code Generation and Error Correction,2604.09995,http://arxiv.org/abs/2604.09995v1,2026-04-11 02:56:26+00:00
+34,TimeSeriesExamAgent: Creating Time Series Reasoning Benchmarks at Scale,2604.10291,http://arxiv.org/abs/2604.10291v1,2026-04-11 17:15:26+00:00
+35,Multinex: Lightweight Low-light Image Enhancement via Multi-prior Retinex,2604.10359,http://arxiv.org/abs/2604.10359v1,2026-04-11 22:05:17+00:00
+36,Applying an Agentic Coding Tool for Improving Published Algorithm Implementations,2604.13109,http://arxiv.org/abs/2604.13109v1,2026-04-11 03:22:21+00:00
+37,ClawVM: Harness-Managed Virtual Memory for Stateful Tool-Using LLM Agents,2604.10352,http://arxiv.org/abs/2604.10352v1,2026-04-11 21:38:15+00:00
+38,AI Organizations are More Effective but Less Aligned than Individual Agents,2604.10290,http://arxiv.org/abs/2604.10290v1,2026-04-11 17:13:15+00:00
+39,PoreDiT: A Scalable Generative Model for Large-Scale Digital Rock Reconstruction,2604.10171,http://arxiv.org/abs/2604.10171v1,2026-04-11 11:39:29+00:00
+40,Inductive Reasoning for Temporal Knowledge Graphs with Emerging Entities,2604.10164,http://arxiv.org/abs/2604.10164v1,2026-04-11 11:23:05+00:00
+41,MOSAIC: Multi-Domain Orthogonal Session Adaptive Intent Capture for Prescient Recommendations,2604.10147,http://arxiv.org/abs/2604.10147v1,2026-04-11 10:33:12+00:00
+42,CircuitSynth: Reliable Synthetic Data Generation,2604.10114,http://arxiv.org/abs/2604.10114v1,2026-04-11 09:18:52+00:00
+43,AI Achieves a Perfect LSAT Score,2604.10034,http://arxiv.org/abs/2604.10034v1,2026-04-11 05:13:33+00:00
+44,Computational Implementation of a Model of Category-Theoretic Metaphor Comprehension,2604.10035,http://arxiv.org/abs/2604.10035v1,2026-04-11 05:14:39+00:00
+45,Closed-Form Concept Erasure via Double Projections,2604.10032,http://arxiv.org/abs/2604.10032v1,2026-04-11 05:06:15+00:00
+46,Jailbreaking the Matrix: Nullspace Steering for Controlled Model Subversion,2604.10326,http://arxiv.org/abs/2604.10326v1,2026-04-11 19:19:05+00:00
+47,SVSR: A Self-Verification and Self-Rectification Paradigm for Multimodal Reasoning,2604.10228,http://arxiv.org/abs/2604.10228v1,2026-04-11 14:25:17+00:00
+48,FinTrace: Holistic Trajectory-Level Evaluation of LLM Tool Calling for Long-Horizon Financial Tasks,2604.10015,http://arxiv.org/abs/2604.10015v2,2026-04-11 03:58:39+00:00
+49,"From GPT-3 to GPT-5: Mapping their capabilities, scope, limitations, and consequences",2604.10332,http://arxiv.org/abs/2604.10332v1,2026-04-11 19:31:18+00:00
+50,A Diffusion-Contrastive Graph Neural Network with Virtual Nodes for Wind Nowcasting in Unobserved Regions,2604.10328,http://arxiv.org/abs/2604.10328v1,2026-04-11 19:25:33+00:00
+51,FashionMV: Product-Level Composed Image Retrieval with Multi-View Fashion Data,2604.10297,http://arxiv.org/abs/2604.10297v1,2026-04-11 17:26:29+00:00
+52,A Dual-Positive Monotone Parameterization for Multi-Segment Bids and a Validity Assessment Framework for Reinforcement Learning Agent-based Simulation of Electricity Markets,2604.10252,http://arxiv.org/abs/2604.10252v1,2026-04-11 15:31:50+00:00
+53,SpecMoE: A Fast and Efficient Mixture-of-Experts Inference via Self-Assisted Speculative Decoding,2604.10152,http://arxiv.org/abs/2604.10152v1,2026-04-11 10:52:17+00:00
+54,VGA-Bench: A Unified Benchmark and Multi-Model Framework for Video Aesthetics and Generation Quality Evaluation,2604.10127,http://arxiv.org/abs/2604.10127v1,2026-04-11 09:44:39+00:00
+55,MR-Coupler: Automated Metamorphic Test Generation via Functional Coupling Analysis,2604.10126,http://arxiv.org/abs/2604.10126v1,2026-04-11 09:42:44+00:00
+56,Degradation-Consistent Paired Training for Robust AI-Generated Image Detection,2604.10102,http://arxiv.org/abs/2604.10102v1,2026-04-11 08:52:28+00:00
+57,CoSToM:Causal-oriented Steering for Intrinsic Theory-of-Mind Alignment in Large Language Models,2604.10031,http://arxiv.org/abs/2604.10031v1,2026-04-11 05:04:37+00:00
+58,FREE-Switch: Frequency-based Dynamic LoRA Switch for Style Transfer,2604.10023,http://arxiv.org/abs/2604.10023v1,2026-04-11 04:32:59+00:00
+59,Muon$^2$: Boosting Muon via Adaptive Second-Moment Preconditioning,2604.09967,http://arxiv.org/abs/2604.09967v1,2026-04-11 00:27:40+00:00
+60,Dead Cognitions: A Census of Misattributed Insights,2604.10288,http://arxiv.org/abs/2604.10288v2,2026-04-11 17:11:06+00:00
+61,Wolkowicz-Styan Upper Bound on the Hessian Eigenspectrum for Cross-Entropy Loss in Nonlinear Smooth Neural Networks,2604.10202,http://arxiv.org/abs/2604.10202v2,2026-04-11 13:16:29+00:00
+62,"The Non-Optimality of Scientific Knowledge: Path Dependence, Lock-In, and The Local Minimum Trap",2604.11828,http://arxiv.org/abs/2604.11828v2,2026-04-11 17:09:43+00:00
+63,"Like a Hammer, It Can Build, It Can Break: Large Language Model Uses, Perceptions, and Adoption in Cybersecurity Operations on Reddit",2604.09998,http://arxiv.org/abs/2604.09998v1,2026-04-11 03:00:37+00:00
