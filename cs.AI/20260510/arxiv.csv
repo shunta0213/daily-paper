@@ -1,0 +1,90 @@
+,title,id,arxiv_url,published
+0,Model Spec Midtraining: Improving How Alignment Training Generalizes,2605.02087,http://arxiv.org/abs/2605.02087v1,2026-05-03 23:16:14+00:00
+1,TumorXAI: Self-Supervised Deep Learning Framework for Explainable Brain MRI Tumor Classification,2605.01999,http://arxiv.org/abs/2605.01999v1,2026-05-03 18:02:36+00:00
+2,Moira: Language-driven Hierarchical Reinforcement Learning for Pair Trading,2605.01954,http://arxiv.org/abs/2605.01954v1,2026-05-03 16:37:52+00:00
+3,RefusalGuard: Geometry-Preserving Fine-Tuning for Safety in LLMs,2605.01913,http://arxiv.org/abs/2605.01913v1,2026-05-03 14:48:18+00:00
+4,Disentangling Intent from Role: Adversarial Self-Play for Persona-Invariant Safety Alignment,2605.01899,http://arxiv.org/abs/2605.01899v1,2026-05-03 14:28:08+00:00
+5,Sheaf-Theoretic Planning: A Categorical Foundation for Resilient Multi-Agent Autonomous Systems,2605.01879,http://arxiv.org/abs/2605.01879v1,2026-05-03 13:50:24+00:00
+6,ShiftLIF: Efficient Multi-Level Spiking Neurons with Power-of-Two Quantization,2605.01866,http://arxiv.org/abs/2605.01866v1,2026-05-03 13:20:53+00:00
+7,Remote Action Generation: Remote Control with Minimal Communication,2605.01833,http://arxiv.org/abs/2605.01833v1,2026-05-03 12:00:25+00:00
+8,GeoSAE: Geometric Prior-Guided Layer-Wise Sparse Autoencoder Annotation of Brain MRI Foundation Models,2605.01829,http://arxiv.org/abs/2605.01829v1,2026-05-03 11:42:25+00:00
+9,Catching the Infection Before It Spreads: Foresight-Guided Defense in Multi-Agent Systems,2605.01758,http://arxiv.org/abs/2605.01758v1,2026-05-03 07:38:42+00:00
+10,Are LLMs More Skeptical of Entertainment News?,2605.01727,http://arxiv.org/abs/2605.01727v1,2026-05-03 05:55:00+00:00
+11,GRAVITY: Architecture-Agnostic Structured Anchoring for Long-Horizon Conversational Memory,2605.01688,http://arxiv.org/abs/2605.01688v1,2026-05-03 02:55:46+00:00
+12,Reward Hacking Benchmark: Measuring Exploits in LLM Agents with Tool Use,2605.02964,http://arxiv.org/abs/2605.02964v1,2026-05-03 07:10:42+00:00
+13,Structured Diffusion Bridges: Inductive Bias for Denoising Diffusion Bridges,2605.02973,http://arxiv.org/abs/2605.02973v2,2026-05-03 16:17:38+00:00
+14,Quality-Aware Exploration Budget Allocation for Cooperative Multi-Agent Reinforcement Learning,2605.01865,http://arxiv.org/abs/2605.01865v1,2026-05-03 13:20:00+00:00
+15,TMD-Bench: A Multi-Level Evaluation Paradigm for Music-Dance Co-Generation,2605.01809,http://arxiv.org/abs/2605.01809v1,2026-05-03 10:25:47+00:00
+16,DataEvolver: Let Your Data Build and Improve Itself via Goal-Driven Loop Agents,2605.01789,http://arxiv.org/abs/2605.01789v1,2026-05-03 09:10:23+00:00
+17,Runtime Evaluation of Procedural Content Generation in an Endless Runner Game Using Autonomous Agents,2605.01783,http://arxiv.org/abs/2605.01783v1,2026-05-03 08:44:27+00:00
+18,NH-CROP: Robust Pricing for Governed Language Data Assets under Cost Uncertainty,2605.01745,http://arxiv.org/abs/2605.01745v1,2026-05-03 06:48:50+00:00
+19,SplitZip: Ultra Fast Lossless KV Compression for Disaggregated LLM Serving,2605.01708,http://arxiv.org/abs/2605.01708v1,2026-05-03 04:22:51+00:00
+20,Class-Aware Adaptive Differential Privacy in Deep Learning for Sensor-Based Fall Detection,2605.01679,http://arxiv.org/abs/2605.01679v1,2026-05-03 02:34:54+00:00
+21,From Cortical Synchronous Rhythm to Brain Inspired Learning Mechanism: An Oscillatory Spiking Neural Network with Time-Delayed Coordination,2605.01656,http://arxiv.org/abs/2605.01656v1,2026-05-03 00:49:06+00:00
+22,Cripping AI: Reimagining AI Through Lived Disability Experiences,2605.02080,http://arxiv.org/abs/2605.02080v1,2026-05-03 22:36:40+00:00
+23,Coopetition-Gym v1: A Formally Grounded Platform for Mixed-Motive Multi-Agent Reinforcement Learning under Strategic Coopetition,2605.02063,http://arxiv.org/abs/2605.02063v1,2026-05-03 21:14:06+00:00
+24,What Single-Prompt Accuracy Misses: A Multi-Variant Reliability Audit of Language Models,2605.02038,http://arxiv.org/abs/2605.02038v1,2026-05-03 20:05:08+00:00
+25,VILAS: A VLA-Integrated Low-cost Architecture with Soft Grasping for Robotic Manipulation,2605.02037,http://arxiv.org/abs/2605.02037v1,2026-05-03 20:04:42+00:00
+26,PepSpecBench: A Unified Evaluation Benchmark for Peptide Tandem Mass Spectrometry Prediction,2605.01945,http://arxiv.org/abs/2605.01945v1,2026-05-03 16:11:27+00:00
+27,Behavior-Grounded Lane Representation Learning for Multi-Task Traffic Digital Twins,2605.01901,http://arxiv.org/abs/2605.01901v1,2026-05-03 14:31:41+00:00
+28,CyberAId: AI-Driven Cybersecurity for Financial Service Providers,2605.01892,http://arxiv.org/abs/2605.01892v1,2026-05-03 14:15:11+00:00
+29,AFFormer: Adaptive Feature Fusion Transformer for V2X Cooperative Perception under Channel Impairments,2605.01888,http://arxiv.org/abs/2605.01888v1,2026-05-03 14:10:03+00:00
+30,BadmintonGRF: A Multimodal Dataset and Benchmark for Markerless Ground Reaction Force Estimation in Badminton,2605.01876,http://arxiv.org/abs/2605.01876v1,2026-05-03 13:39:47+00:00
+31,A Language for Describing Agentic LLM Contexts,2605.01920,http://arxiv.org/abs/2605.01920v1,2026-05-03 15:02:44+00:00
+32,Principles and Guidelines for Randomized Controlled Trials in AI Evaluation,2605.02050,http://arxiv.org/abs/2605.02050v1,2026-05-03 20:37:48+00:00
+33,Probe-Geometry Alignment: Erasing the Cross-Sequence Memorization Signature Below Chance,2605.01699,http://arxiv.org/abs/2605.01699v3,2026-05-03 03:44:15+00:00
+34,Beyond Semantic Similarity: Rethinking Retrieval for Agentic Search via Direct Corpus Interaction,2605.05242,http://arxiv.org/abs/2605.05242v1,2026-05-03 19:13:11+00:00
+35,Repurposing and Evaluating the (In)Feasibility of Dataset Poisoning enabled Watermarking for Contrastive Learning,2605.01834,http://arxiv.org/abs/2605.01834v1,2026-05-03 12:01:26+00:00
+36,RMGAP: Benchmarking the Generalization of Reward Models across Diverse Preferences,2605.01831,http://arxiv.org/abs/2605.01831v1,2026-05-03 11:45:08+00:00
+37,Discover Fast Power Allocation Solution for Multi-Target Tracking via AlphaEvolve Evolution,2605.01794,http://arxiv.org/abs/2605.01794v1,2026-05-03 09:19:40+00:00
+38,Architectural Obsolescence of Unhardened Agentic-AI Runtimes,2605.01740,http://arxiv.org/abs/2605.01740v1,2026-05-03 06:38:12+00:00
+39,Missingness-aware Data Imputation via AI-powered Bayesian Generative Modeling,2605.01676,http://arxiv.org/abs/2605.01676v1,2026-05-03 02:22:22+00:00
+40,CP-SynC: Multi-Agent Zero-Shot Constraint Modeling in MiniZinc with Synthesized Checkers,2605.01675,http://arxiv.org/abs/2605.01675v1,2026-05-03 02:17:58+00:00
+41,IMPACT-Scribe: Interactive Temporal Action Segmentation with Boundary Scribbles and Query Planning,2605.01668,http://arxiv.org/abs/2605.01668v1,2026-05-03 01:45:58+00:00
+42,IMPACT-HOI: Supervisory Control for Onset-Anchored Partial HOI Event Construction,2605.01666,http://arxiv.org/abs/2605.01666v1,2026-05-03 01:37:40+00:00
+43,Multilingual Safety Alignment via Self-Distillation,2605.02971,http://arxiv.org/abs/2605.02971v1,2026-05-03 14:22:49+00:00
+44,Analytic Bridge Diffusions for Controlled Path Generation,2605.02961,http://arxiv.org/abs/2605.02961v1,2026-05-03 05:36:52+00:00
+45,EditPropBench: Measuring Factual Edit Propagation in Scientific Manuscripts,2605.02083,http://arxiv.org/abs/2605.02083v2,2026-05-03 22:46:47+00:00
+46,Stochastic Sparse Attention for Memory-Bound Inference,2605.01910,http://arxiv.org/abs/2605.01910v1,2026-05-03 14:44:14+00:00
+47,Conventional Commit Classification using Large Language Models and Prompt Engineering,2605.02033,http://arxiv.org/abs/2605.02033v1,2026-05-03 19:52:39+00:00
+48,RamanBench: A Large-Scale Benchmark for Machine Learning on Raman Spectroscopy,2605.02003,http://arxiv.org/abs/2605.02003v2,2026-05-03 18:12:42+00:00
+49,SignVerse-2M: A Two-Million-Clip Pose-Native Universe of 55+ Sign Languages,2605.01720,http://arxiv.org/abs/2605.01720v2,2026-05-03 05:26:26+00:00
+50,Federated Semi-Supervised Graph Neural Networks with Prototype-Guided Pseudo-Labeling for Privacy-Preserving Gestational Diabetes Mellitus Prediction,2605.01810,http://arxiv.org/abs/2605.01810v1,2026-05-03 10:26:00+00:00
+51,Data driven approach for Outdoor Channel Prediction in 5G and Beyond,2605.01777,http://arxiv.org/abs/2605.01777v1,2026-05-03 08:28:14+00:00
+52,"Talk is Cheap, Communication is Hard: Dynamic Grounding Failures and Repair in Multi-Agent Negotiation",2605.01750,http://arxiv.org/abs/2605.01750v1,2026-05-03 07:12:14+00:00
+53,GEASS: Training-Free Caption Steering for Hallucination Mitigation in Vision-Language Models,2605.01733,http://arxiv.org/abs/2605.01733v1,2026-05-03 06:09:04+00:00
+54,FEDIN: Frequency-Enhanced Deep Interest Network for Click-Through Rate Prediction,2605.01726,http://arxiv.org/abs/2605.01726v1,2026-05-03 05:50:36+00:00
+55,Model Routing as a Trust Problem: Route Receipts for Adaptive AI Systems,2605.01710,http://arxiv.org/abs/2605.01710v1,2026-05-03 04:49:30+00:00
+56,Spatiotemporal Hidden-State Dynamics as a Signature of Internal Reasoning in Large Language Models,2605.01853,http://arxiv.org/abs/2605.01853v1,2026-05-03 12:46:41+00:00
+57,Disentangled Anatomy-Disease Diffusion (DADD) for Controllable Ulcerative Colitis Progression Synthesis,2605.01848,http://arxiv.org/abs/2605.01848v1,2026-05-03 12:35:12+00:00
+58,NORA: A Harness-Engineered Autonomous Research Agent for End-to-End Spatial Data Science,2605.02092,http://arxiv.org/abs/2605.02092v1,2026-05-03 23:22:01+00:00
+59,Tenability and Weak Semantics: Modeling Non-uniform Defense -- Extended Version,2605.02024,http://arxiv.org/abs/2605.02024v1,2026-05-03 19:20:13+00:00
+60,Personalized Digital Health Modeling with Adaptive Support Users,2605.02004,http://arxiv.org/abs/2605.02004v1,2026-05-03 18:23:30+00:00
+61,12 Angry AI Agents: Evaluating Multi-Agent LLM Decision-Making Through Cinematic Jury Deliberation,2605.01986,http://arxiv.org/abs/2605.01986v1,2026-05-03 17:41:49+00:00
+62,TRAP: Tail-aware Ranking Attack for World-Model Planning,2605.01950,http://arxiv.org/abs/2605.01950v1,2026-05-03 16:19:45+00:00
+63,Chart-FR1: Visual Focus-Driven Fine-Grained Reasoning on Dense Charts,2605.01882,http://arxiv.org/abs/2605.01882v1,2026-05-03 13:57:23+00:00
+64,"Phone2Act: A Low-Cost, Hardware-Agnostic Teleoperation System for Scalable VLA Data Collection",2605.01948,http://arxiv.org/abs/2605.01948v1,2026-05-03 16:17:16+00:00
+65,"Decompose to Understand, Fuse to Detect: Frequency-Decoupled Anomaly Detection for Encrypted Network Traffic",2605.02970,http://arxiv.org/abs/2605.02970v1,2026-05-03 13:44:41+00:00
+66,AutoRAGTuner: A Declarative Framework for Automatic Optimization of RAG Pipelines,2605.02967,http://arxiv.org/abs/2605.02967v1,2026-05-03 12:12:49+00:00
+67,Trojan Hippo: Weaponizing Agent Memory for Data Exfiltration,2605.01970,http://arxiv.org/abs/2605.01970v2,2026-05-03 17:07:20+00:00
+68,Reliable AI Needs to Externalize Implicit Knowledge: A Human-AI Collaboration Perspective,2605.02010,http://arxiv.org/abs/2605.02010v1,2026-05-03 18:31:45+00:00
+69,Meta-LegNet: A Transferable and Interpretable Framework for Surface Adsorption Prediction via Self-Defined Adsorption-Environment Learning,2605.04102,http://arxiv.org/abs/2605.04102v1,2026-05-03 10:55:16+00:00
+70,NeuroState-Bench: A Human-Calibrated Benchmark for Commitment Integrity in LLM Agent Profiles,2605.01847,http://arxiv.org/abs/2605.01847v2,2026-05-03 12:30:58+00:00
+71,The Reasoning Trap: An Information-Theoretic Bound on Closed-System Multi-Step LLM Reasoning,2605.01704,http://arxiv.org/abs/2605.01704v2,2026-05-03 04:12:21+00:00
+72,PPO-Based Dynamic Positioning of HAPS-BS in Wind-Disturbed Stratospheric Maritime Networks,2605.05240,http://arxiv.org/abs/2605.05240v1,2026-05-03 14:35:47+00:00
+73,Selector-Guided Autonomous Curriculum for One-Shot Reinforcement Learning from Verifiable Rewards,2605.01823,http://arxiv.org/abs/2605.01823v1,2026-05-03 11:10:01+00:00
+74,Neural Decision-Propagation for Answer Set Programming,2605.01797,http://arxiv.org/abs/2605.01797v1,2026-05-03 09:22:26+00:00
+75,Khala: Scaling Acoustic Token Language Models Toward High-Fidelity Music Generation,2605.01790,http://arxiv.org/abs/2605.01790v1,2026-05-03 09:13:20+00:00
+76,The Compliance Gap: Why AI Systems Promise to Follow Process Instructions but Don't,2605.01771,http://arxiv.org/abs/2605.01771v1,2026-05-03 08:11:15+00:00
+77,Motion-Aware Caching for Efficient Autoregressive Video Generation,2605.01725,http://arxiv.org/abs/2605.01725v1,2026-05-03 05:49:27+00:00
+78,TCDA: Thread-Constrained Discourse-Aware Modeling for Conversational Sentiment Quadruple Analysis,2605.01717,http://arxiv.org/abs/2605.01717v1,2026-05-03 05:18:24+00:00
+79,Latent State Design for World Models under Sufficiency Constraints,2605.01694,http://arxiv.org/abs/2605.01694v1,2026-05-03 03:19:42+00:00
+80,TRIMMER: A New Paradigm for Video Summarization through Self-Supervised Reinforcement Learning,2605.01659,http://arxiv.org/abs/2605.01659v1,2026-05-03 00:55:02+00:00
+81,GETA-3DGS: Automatic Joint Structured Pruning and Quantization for 3D Gaussian Splatting,2605.02086,http://arxiv.org/abs/2605.02086v1,2026-05-03 23:12:14+00:00
+82,Pair2Score: Pairwise-to-Absolute Transfer for LLM-Based Essay Scoring,2605.02069,http://arxiv.org/abs/2605.02069v1,2026-05-03 21:52:49+00:00
+83,Optimization of CV-QKD Under Practical Constraints,2605.02045,http://arxiv.org/abs/2605.02045v1,2026-05-03 20:26:49+00:00
+84,A Multimodal Dataset for Visually Grounded Ambiguity in Machine Translation,2605.02035,http://arxiv.org/abs/2605.02035v1,2026-05-03 19:55:06+00:00
+85,Enhancing Judgment Document Generation via Agentic Legal Information Collection and Rubric-Guided Optimization,2605.02011,http://arxiv.org/abs/2605.02011v1,2026-05-03 18:32:10+00:00
+86,Leveraging Data Symmetries to Select an Optimal Subset of Training Data under Label Noise,2605.01874,http://arxiv.org/abs/2605.01874v1,2026-05-03 13:37:17+00:00
+87,BIM Information Extraction Through LLM-based Adaptive Exploration,2605.01698,http://arxiv.org/abs/2605.01698v1,2026-05-03 03:40:29+00:00
+88,Finite-Size Gradient Transport in Large Language Model Pretraining: From Cascade Size to Intensive Transport Efficiency,2605.02968,http://arxiv.org/abs/2605.02968v1,2026-05-03 12:21:14+00:00
