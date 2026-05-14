@@ -1,0 +1,101 @@
+,title,id,arxiv_url,published
+0,ReasonSTL: Bridging Natural Language and Signal Temporal Logic via Tool-Augmented Process-Rewarded Learning,2605.06483,http://arxiv.org/abs/2605.06483v2,2026-05-07 16:07:30+00:00
+1,"Fourier Feature Methods for Nonlinear Causal Discovery: FFML Scoring, TRFF Scoring, and FFCI Testing in Mixed Data",2605.05743,http://arxiv.org/abs/2605.05743v2,2026-05-07 06:34:19+00:00
+2,Tuning Derivatives for Causal Fairness in Machine Learning,2605.05882,http://arxiv.org/abs/2605.05882v1,2026-05-07 08:53:50+00:00
+3,Edge Deep Learning in Computer Vision and Medical Diagnostics: A Comprehensive Survey,2605.06714,http://arxiv.org/abs/2605.06714v1,2026-05-07 00:19:51+00:00
+4,MASPO: Joint Prompt Optimization for LLM-based Multi-Agent Systems,2605.06623,http://arxiv.org/abs/2605.06623v1,2026-05-07 17:35:26+00:00
+5,Entropy-Regularized Adjoint Matching for Offline Reinforcement Learning,2605.06156,http://arxiv.org/abs/2605.06156v2,2026-05-07 12:47:55+00:00
+6,CrossCult-KIBench: A Benchmark for Cross-Cultural Knowledge Insertion in MLLMs,2605.06115,http://arxiv.org/abs/2605.06115v2,2026-05-07 12:26:11+00:00
+7,XDecomposer: Learning Prior-Free Set Decomposition for Multiphase X-ray Diffraction,2605.05866,http://arxiv.org/abs/2605.05866v1,2026-05-07 08:33:56+00:00
+8,Belief Memory: Agent Memory Under Partial Observability,2605.05583,http://arxiv.org/abs/2605.05583v2,2026-05-07 02:03:13+00:00
+9,PLOT: Progressive Localization via Optimal Transport in Neural Causal Abstraction,2605.06979,http://arxiv.org/abs/2605.06979v1,2026-05-07 21:52:55+00:00
+10,PrefixGuard: From LLM-Agent Traces to Online Failure-Warning Monitors,2605.06455,http://arxiv.org/abs/2605.06455v1,2026-05-07 15:49:48+00:00
+11,Beyond Uniform Credit Assignment: Selective Eligibility Traces for RLVR,2605.05965,http://arxiv.org/abs/2605.05965v1,2026-05-07 10:11:51+00:00
+12,HaM-World: Soft-Hamiltonian World Models with Selective Memory for Planning,2605.05951,http://arxiv.org/abs/2605.05951v1,2026-05-07 09:58:18+00:00
+13,LLM-Driven Design Space Exploration of FPGA-based Accelerators,2605.05920,http://arxiv.org/abs/2605.05920v1,2026-05-07 09:29:59+00:00
+14,PREFER: Personalized Review Summarization with Online Preference Learning,2605.05911,http://arxiv.org/abs/2605.05911v1,2026-05-07 09:20:47+00:00
+15,VARS-FL: Validation-Aligned Client Selection for Non-IID Federated Learning in IoT Systems,2605.05896,http://arxiv.org/abs/2605.05896v1,2026-05-07 09:09:07+00:00
+16,Logic-Regularized Verifier Elicits Reasoning from LLMs,2605.05893,http://arxiv.org/abs/2605.05893v1,2026-05-07 09:03:49+00:00
+17,AGPO: Asymmetric Group Policy Optimization for Verifiable Reasoning and Search Ads Relevance at JD,2605.05826,http://arxiv.org/abs/2605.05826v1,2026-05-07 08:00:48+00:00
+18,LeakDojo: Decoding the Leakage Threats of RAG Systems,2605.05818,http://arxiv.org/abs/2605.05818v1,2026-05-07 07:55:02+00:00
+19,Revealing Modular Gradient Noise Imbalance in LLMs: Calibrating Adam via Signal-to-Noise Ratio,2605.05794,http://arxiv.org/abs/2605.05794v1,2026-05-07 07:32:27+00:00
+20,Steering Visual Generation in Unified Multimodal Models with Understanding Supervision,2605.05781,http://arxiv.org/abs/2605.05781v1,2026-05-07 07:20:04+00:00
+21,CoMemNet: Contrastive Sampling with Memory Replay Network for Continual Traffic Prediction,2605.05738,http://arxiv.org/abs/2605.05738v1,2026-05-07 06:29:58+00:00
+22,ReFlect: An Effective Harness System for Complex Long-Horizon LLM Reasoning,2605.05737,http://arxiv.org/abs/2605.05737v1,2026-05-07 06:29:34+00:00
+23,Beyond Fixed Benchmarks and Worst-Case Attacks: Dynamic Boundary Evaluation for Language Models,2605.06213,http://arxiv.org/abs/2605.06213v1,2026-05-07 13:15:31+00:00
+24,Taming the Entropy Cliff: Variable Codebook Size Quantization for Autoregressive Visual Generation,2605.06207,http://arxiv.org/abs/2605.06207v1,2026-05-07 13:13:30+00:00
+25,Learning Discrete Autoregressive Priors with Wasserstein Gradient Flow,2605.06148,http://arxiv.org/abs/2605.06148v1,2026-05-07 12:41:46+00:00
+26,Policy-Guided Stepwise Model Routing for Cost-Effective Reasoning,2605.06116,http://arxiv.org/abs/2605.06116v1,2026-05-07 12:26:56+00:00
+27,CredibleDFGO: Differentiable Factor Graph Optimization with Credibility Supervision,2605.06100,http://arxiv.org/abs/2605.06100v1,2026-05-07 12:16:31+00:00
+28,Causal Reinforcement Learning for Complex Card Games: A Magic The Gathering Benchmark,2605.06066,http://arxiv.org/abs/2605.06066v1,2026-05-07 11:53:56+00:00
+29,Visual Fingerprints for LLM Generation Comparison,2605.06054,http://arxiv.org/abs/2605.06054v1,2026-05-07 11:40:12+00:00
+30,Novelty-based Tree-of-Thought Search for LLM Reasoning and Planning,2605.06040,http://arxiv.org/abs/2605.06040v1,2026-05-07 11:28:53+00:00
+31,T2I-VeRW: Part-level Fine-grained Perception for Text-to-Image Vehicle Retrieval,2605.06012,http://arxiv.org/abs/2605.06012v1,2026-05-07 11:10:30+00:00
+32,Decomposing the Basic Abilities of Large Language Models: Mitigating Cross-Task Interference in Multi-Task Instruct-Tuning,2605.05676,http://arxiv.org/abs/2605.05676v1,2026-05-07 05:08:58+00:00
+33,AlphaCrafter: A Full-Stack Multi-Agent Framework for Cross-Sectional Quantitative Trading,2605.05580,http://arxiv.org/abs/2605.05580v1,2026-05-07 01:58:30+00:00
+34,"AstroAlertBench: Evaluating the Accuracy, Reasoning, and Honesty of Multimodal LLMs in Astronomical Classification",2605.05573,http://arxiv.org/abs/2605.05573v1,2026-05-07 01:36:27+00:00
+35,SPARK: Self-Play with Asymmetric Reward from Knowledge Graphs,2605.05546,http://arxiv.org/abs/2605.05546v1,2026-05-07 00:51:36+00:00
+36,WavCube: Unifying Speech Representation for Understanding and Generation via Semantic-Acoustic Joint Modeling,2605.06407,http://arxiv.org/abs/2605.06407v1,2026-05-07 15:17:24+00:00
+37,Consistent Geometric Deep Learning via Hilbert Bundles and Cellular Sheaves,2605.06395,http://arxiv.org/abs/2605.06395v1,2026-05-07 15:08:58+00:00
+38,Continuous-Time Distribution Matching for Few-Step Diffusion Distillation,2605.06376,http://arxiv.org/abs/2605.06376v1,2026-05-07 14:56:39+00:00
+39,Prediction and Empowerment: A Theory of Agency through Bridge Interfaces,2605.06346,http://arxiv.org/abs/2605.06346v1,2026-05-07 14:30:46+00:00
+40,Pro-KLShampoo: Projected KL-Shampoo with Whitening Recovered by Orthogonalization,2605.06316,http://arxiv.org/abs/2605.06316v1,2026-05-07 14:16:16+00:00
+41,Addressing Labelled Data Scarcity: Taxonomy-Agnostic Annotation of PII Values in HTTP Traffic using LLMs,2605.06305,http://arxiv.org/abs/2605.06305v1,2026-05-07 14:08:22+00:00
+42,Attributions All the Way Down? The Metagame of Interpretability,2605.06295,http://arxiv.org/abs/2605.06295v1,2026-05-07 13:59:26+00:00
+43,Data Language Models: A New Foundation Model Class for Tabular Data,2605.06290,http://arxiv.org/abs/2605.06290v1,2026-05-07 13:56:49+00:00
+44,Hallucination as an Anomaly: Dynamic Intervention via Probabilistic Circuits,2605.05953,http://arxiv.org/abs/2605.05953v1,2026-05-07 10:02:27+00:00
+45,ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation,2605.06667,http://arxiv.org/abs/2605.06667v1,2026-05-07 17:59:58+00:00
+46,Optimizer-Model Consistency: Full Finetuning with the Same Optimizer as Pretraining Forgets Less,2605.06654,http://arxiv.org/abs/2605.06654v1,2026-05-07 17:57:02+00:00
+47,Are We Making Progress in Multimodal Domain Generalization? A Comprehensive Benchmark Study,2605.06643,http://arxiv.org/abs/2605.06643v1,2026-05-07 17:51:16+00:00
+48,"The Structural Origin of Attention Sink: Variance Discrepancy, Super Neurons, and Dimension Disparity",2605.06611,http://arxiv.org/abs/2605.06611v1,2026-05-07 17:28:55+00:00
+49,Cross-Modal Navigation with Multi-Agent Reinforcement Learning,2605.06595,http://arxiv.org/abs/2605.06595v1,2026-05-07 17:20:34+00:00
+50,NeuroAgent: LLM Agents for Multimodal Neuroimaging Analysis and Research,2605.06584,http://arxiv.org/abs/2605.06584v1,2026-05-07 17:13:48+00:00
+51,Ex Ante Evaluation of AI-Induced Idea Diversity Collapse,2605.06540,http://arxiv.org/abs/2605.06540v1,2026-05-07 16:38:17+00:00
+52,SpatialEpiBench: Benchmarking Spatial Information and Epidemic Priors in Forecasting,2605.06530,http://arxiv.org/abs/2605.06530v1,2026-05-07 16:31:43+00:00
+53,From Token Lists to Graph Motifs: Weisfeiler-Lehman Analysis of Sparse Autoencoder Features,2605.06494,http://arxiv.org/abs/2605.06494v1,2026-05-07 16:15:16+00:00
+54,Litespark Inference on Consumer CPUs: Custom SIMD Kernels for Ternary Neural Networks,2605.06485,http://arxiv.org/abs/2605.06485v1,2026-05-07 16:07:39+00:00
+55,Does Synthetic Data Help? Empirical Evidence from Deep Learning Time Series Forecasters,2605.06032,http://arxiv.org/abs/2605.06032v1,2026-05-07 11:22:45+00:00
+56,The Context Gathering Decision Process: A POMDP Framework for Agentic Search,2605.07042,http://arxiv.org/abs/2605.07042v1,2026-05-07 23:45:07+00:00
+57,How Well Do LLMs Perform on the Simplest Long-Chain Reasoning Tasks: An Empirical Study on the Equivalence Class Problem,2605.06882,http://arxiv.org/abs/2605.06882v1,2026-05-07 19:31:43+00:00
+58,Computer Use at the Edge of the Statistical Precipice,2605.08261,http://arxiv.org/abs/2605.08261v1,2026-05-07 22:43:43+00:00
+59,Mitigating Cognitive Bias in RLHF by Altering Rationality,2605.06895,http://arxiv.org/abs/2605.06895v1,2026-05-07 19:54:25+00:00
+60,How to Compress KV Cache in RL Post-Training? Shadow Mask Distillation for Memory-Efficient Alignment,2605.06850,http://arxiv.org/abs/2605.06850v1,2026-05-07 18:51:57+00:00
+61,LLM-Guided Open Hypothesis Learning from Autonomous Scanning Probe Microscopy Experiments,2605.06839,http://arxiv.org/abs/2605.06839v1,2026-05-07 18:44:46+00:00
+62,IntentGrasp: A Comprehensive Benchmark for Intent Understanding,2605.06832,http://arxiv.org/abs/2605.06832v1,2026-05-07 18:34:27+00:00
+63,Overcoming data scarcity through multi-center federated learning for organs-at-risk segmentation in pediatric upper abdominal radiotherapy,2605.06820,http://arxiv.org/abs/2605.06820v1,2026-05-07 18:21:43+00:00
+64,R$^3$L: Reasoning 3D Layouts from Relative Spatial Relations,2605.06758,http://arxiv.org/abs/2605.06758v1,2026-05-07 16:50:12+00:00
+65,When Does a Language Model Commit? A Finite-Answer Theory of Pre-Verbalization Commitment,2605.06723,http://arxiv.org/abs/2605.06723v1,2026-05-07 08:34:59+00:00
+66,LensVLM: Selective Context Expansion for Compressed Visual Representation of Text,2605.07019,http://arxiv.org/abs/2605.07019v1,2026-05-07 23:03:21+00:00
+67,Group of Skills: Group-Structured Skill Retrieval for Agent Skill Libraries,2605.06978,http://arxiv.org/abs/2605.06978v1,2026-05-07 21:51:59+00:00
+68,"On Privacy Leakage in Tabular Diffusion Models: Influential Factors, Attacker Knowledge, and Metrics",2605.06835,http://arxiv.org/abs/2605.06835v1,2026-05-07 18:42:35+00:00
+69,AI CFD Scientist: Toward Open-Ended Computational Fluid Dynamics Discovery with Physics-Aware AI Agents,2605.06607,http://arxiv.org/abs/2605.06607v3,2026-05-07 17:27:23+00:00
+70,Asymmetric On-Policy Distillation: Bridging Exploitation and Imitation at the Token Level,2605.06387,http://arxiv.org/abs/2605.06387v3,2026-05-07 15:02:49+00:00
+71,Narrow Secret Loyalty Dodges Black-Box Audits,2605.06846,http://arxiv.org/abs/2605.06846v2,2026-05-07 18:48:09+00:00
+72,"When AI Meets Science: Research Diversity, Interdisciplinarity, Visibility, and Retractions across Disciplines in a Global Surge",2605.06033,http://arxiv.org/abs/2605.06033v3,2026-05-07 11:23:23+00:00
+73,Auto Research with Specialist Agents Develops Effective and Non-Trivial Training Recipes,2605.05724,http://arxiv.org/abs/2605.05724v1,2026-05-07 06:13:43+00:00
+74,SafeHarbor: Hierarchical Memory-Augmented Guardrail for LLM Agent Safety,2605.05704,http://arxiv.org/abs/2605.05704v1,2026-05-07 05:50:45+00:00
+75,Temporal Functional Circuits: From Spline Plots to Faithful Explanations in KAN Forecasting,2605.05685,http://arxiv.org/abs/2605.05685v1,2026-05-07 05:23:39+00:00
+76,Accelerating LMO-Based Optimization via Implicit Gradient Transport,2605.05577,http://arxiv.org/abs/2605.05577v1,2026-05-07 01:44:57+00:00
+77,AgenticRAG: Agentic Retrieval for Enterprise Knowledge Bases,2605.05538,http://arxiv.org/abs/2605.05538v1,2026-05-07 00:39:22+00:00
+78,Housing Potential Common Data Model and City Digital Twin,2605.05535,http://arxiv.org/abs/2605.05535v1,2026-05-07 00:27:47+00:00
+79,BehaviorGuard: Online Backdoor Defense for Deep Reinforcement Learning,2605.05977,http://arxiv.org/abs/2605.05977v1,2026-05-07 10:21:14+00:00
+80,"Agentic, Context-Aware Risk Intelligence in the Internet of Value",2605.05878,http://arxiv.org/abs/2605.05878v1,2026-05-07 08:44:58+00:00
+81,MolRecBench-Wild: A Real-World Benchmark for Optical Chemical Structure Recognition,2605.05832,http://arxiv.org/abs/2605.05832v1,2026-05-07 08:08:52+00:00
+82,Sheet as Token: A Graph-Enhanced Representation for Multi-Sheet Spreadsheet Understanding,2605.05811,http://arxiv.org/abs/2605.05811v1,2026-05-07 07:47:43+00:00
+83,LCC-LLM: Leveraging Code-Centric Large Language Models for Malware Attribution,2605.05807,http://arxiv.org/abs/2605.05807v1,2026-05-07 07:44:32+00:00
+84,Von Neumann Networks,2605.05780,http://arxiv.org/abs/2605.05780v1,2026-05-07 07:19:59+00:00
+85,Confidence is the key: how conformal prediction enhances the generative design of permeable peptides,2605.05770,http://arxiv.org/abs/2605.05770v1,2026-05-07 07:01:45+00:00
+86,Transformers Provably Implement In-Context Reinforcement Learning with Policy Improvement,2605.05755,http://arxiv.org/abs/2605.05755v1,2026-05-07 06:50:49+00:00
+87,BAMI: Training-Free Bias Mitigation in GUI Grounding,2605.06664,http://arxiv.org/abs/2605.06664v1,2026-05-07 17:59:31+00:00
+88,When and Why SignSGD Outperforms SGD: A Theoretical Study Based on $\ell_1$-norm Lower Bounds,2605.06615,http://arxiv.org/abs/2605.06615v1,2026-05-07 17:32:09+00:00
+89,Directional Consistency as a Complementary Optimization Signal: The GONO Framework,2605.06575,http://arxiv.org/abs/2605.06575v1,2026-05-07 17:05:05+00:00
+90,Sparkle: Realizing Lively Instruction-Guided Video Background Replacement via Decoupled Guidance,2605.06535,http://arxiv.org/abs/2605.06535v1,2026-05-07 16:35:34+00:00
+91,Learning to Cut: Reinforcement Learning for Benders Decomposition,2605.06516,http://arxiv.org/abs/2605.06516v1,2026-05-07 16:26:13+00:00
+92,Is One Layer Enough? Understanding Inference Dynamics in Tabular Foundation Models,2605.06510,http://arxiv.org/abs/2605.06510v1,2026-05-07 16:22:04+00:00
+93,TIDE: Every Layer Knows the Token Beneath the Context,2605.06216,http://arxiv.org/abs/2605.06216v1,2026-05-07 13:16:18+00:00
+94,Super-Level-Set Regression: Conditional Quantiles via Volume Minimization,2605.06210,http://arxiv.org/abs/2605.06210v1,2026-05-07 13:14:45+00:00
+95,Systematic Evaluation of Large Language Models for Post-Discharge Clinical Action Extraction,2605.06191,http://arxiv.org/abs/2605.06191v1,2026-05-07 13:05:07+00:00
+96,AdaGamma: State-Dependent Discounting for Temporal Adaptation in Reinforcement Learning,2605.06149,http://arxiv.org/abs/2605.06149v1,2026-05-07 12:42:46+00:00
+97,Listwise Policy Optimization: Group-based RLVR as Target-Projection on the LLM Response Simplex,2605.06139,http://arxiv.org/abs/2605.06139v1,2026-05-07 12:38:17+00:00
+98,P-Guide: Parameter-Efficient Prior Steering for Single-Pass CFG Inference,2605.06124,http://arxiv.org/abs/2605.06124v1,2026-05-07 12:31:05+00:00
+99,Back to the Beginning of Heuristic Design: Bridging Code and Knowledge with LLMs,2605.06123,http://arxiv.org/abs/2605.06123v1,2026-05-07 12:30:58+00:00
