@@ -1,0 +1,67 @@
+,title,id,arxiv_url,published
+0,Fermion lattices can be simulated by same-size qubit lattices with $\mathcal{O}(1)$ interaction overhead,2605.12600,http://arxiv.org/abs/2605.12600v1,2026-05-12 18:00:04+00:00
+1,"Optimal Bounds, Barriers, and Extensions for Non-Hermitian Bivariate Quantum Signal Processing",2605.12656,http://arxiv.org/abs/2605.12656v1,2026-05-12 19:03:36+00:00
+2,Entangling Superconducting Qubits via Energy-Selective Local Reservoirs,2605.12429,http://arxiv.org/abs/2605.12429v1,2026-05-12 17:27:22+00:00
+3,Squeezing and adiabaticity breaking in time-dependent quantum harmonic oscillators,2605.12124,http://arxiv.org/abs/2605.12124v1,2026-05-12 13:42:06+00:00
+4,A Quantum Multi-Programming Framework to Maximize Quantum Resources for the LUCJ Ansatz,2605.12614,http://arxiv.org/abs/2605.12614v1,2026-05-12 18:04:28+00:00
+5,Rethink the Role of Neural Decoders in Quantum Error Correction,2605.12046,http://arxiv.org/abs/2605.12046v1,2026-05-12 12:26:43+00:00
+6,QAP-Router: Tackling Qubit Routing as Dynamic Quadratic Assignment with Reinforcement Learning,2605.12365,http://arxiv.org/abs/2605.12365v1,2026-05-12 16:34:01+00:00
+7,TuniQ: Autotuning Compilation Passes for Quantum Workloads at Scale for Effectiveness and Efficiency,2605.11375,http://arxiv.org/abs/2605.11375v1,2026-05-12 00:58:42+00:00
+8,Cryogenic Systems for Quantum Photonic Technologies: A Practical Review,2605.12285,http://arxiv.org/abs/2605.12285v1,2026-05-12 15:44:02+00:00
+9,Classic and Quantum Task-Based Intelligent Runtime for QIRs Running on Multiple QPUs,2605.11382,http://arxiv.org/abs/2605.11382v1,2026-05-12 01:14:13+00:00
+10,Breaking the scalability barrier via a vertical tunable coupler in 3D integrated transmon system,2605.11488,http://arxiv.org/abs/2605.11488v1,2026-05-12 04:05:13+00:00
+11,Loss-induced quantum nonreciprocity and entanglement in superconducting qubits,2605.11457,http://arxiv.org/abs/2605.11457v1,2026-05-12 03:14:35+00:00
+12,Correlations Between Quantum Battery Capacity and Quantum Resources for Two-qubit System,2605.11399,http://arxiv.org/abs/2605.11399v1,2026-05-12 01:42:32+00:00
+13,Security of decoy-state quantum key distribution with correlated bit-and-basis encoders,2605.11767,http://arxiv.org/abs/2605.11767v1,2026-05-12 08:37:36+00:00
+14,Digital Annealer-Assisted Accuracy-First Quantum Circuit Transpilation with Integrated QUBO Mapping and Routing,2605.11500,http://arxiv.org/abs/2605.11500v1,2026-05-12 04:19:51+00:00
+15,Explicitly Correlated Gaussian Basis Approach to Periodic Systems,2605.12781,http://arxiv.org/abs/2605.12781v1,2026-05-12 21:50:41+00:00
+16,Lower overhead fault-tolerant building blocks for noisy quantum computers,2605.12385,http://arxiv.org/abs/2605.12385v1,2026-05-12 16:47:51+00:00
+17,Zeno-Enhanced Probabilistic Error Cancellation with Quantum Error Detection Codes,2605.12149,http://arxiv.org/abs/2605.12149v1,2026-05-12 14:06:27+00:00
+18,A post-Newtonian Gravitational Collapse Model from Linearized Gravity,2605.12172,http://arxiv.org/abs/2605.12172v1,2026-05-12 14:18:18+00:00
+19,Quantum Precoded Polar Codes,2605.12796,http://arxiv.org/abs/2605.12796v1,2026-05-12 22:25:00+00:00
+20,Quantum state isomorphism problems for groups,2605.12615,http://arxiv.org/abs/2605.12615v1,2026-05-12 18:05:27+00:00
+21,"QuPort: Topology-, Port-, and Congestion-Aware Compilation for Modular Multi-QPU Quantum Systems",2605.12583,http://arxiv.org/abs/2605.12583v1,2026-05-12 17:12:30+00:00
+22,Loss-induced nonreciprocal quantum battery,2605.12677,http://arxiv.org/abs/2605.12677v1,2026-05-12 19:26:47+00:00
+23,Telecom quantum memory over one microsecond in nanophotonic lithium niobate,2605.11588,http://arxiv.org/abs/2605.11588v2,2026-05-12 06:15:14+00:00
+24,Coherent control of spinmons,2605.12588,http://arxiv.org/abs/2605.12588v1,2026-05-12 18:00:00+00:00
+25,Insights into the Nature of Quantum Emitters in Electron-Irradiated hexagonal Boron Nitride,2605.12663,http://arxiv.org/abs/2605.12663v1,2026-05-12 19:10:44+00:00
+26,Local Topological Quantum Order and Spectral Gap Stability for the AKLT Models on the Hexagonal and Lieb Lattices,2605.12184,http://arxiv.org/abs/2605.12184v2,2026-05-12 14:27:09+00:00
+27,Joint Realizability Tradeoffs Bounded by Quantum Channel Incompatibility,2605.11924,http://arxiv.org/abs/2605.11924v1,2026-05-12 10:37:47+00:00
+28,Leggett--Garg Tests in Neural Dynamics: Probing Non-Diffusive Stochastic Structure in Single Neurons,2605.12126,http://arxiv.org/abs/2605.12126v1,2026-05-12 13:49:48+00:00
+29,Simultaneously Minimizing Storage and Bandwidth Under Exact Repair With Quantum Entanglement,2605.12455,http://arxiv.org/abs/2605.12455v1,2026-05-12 17:44:37+00:00
+30,Wavelet Variance Equipartition as a Threshold for World-Model Quality and Quantum Kernel TN-Simulability,2605.11557,http://arxiv.org/abs/2605.11557v1,2026-05-12 05:41:12+00:00
+31,QuBridge: Layer-wise Fidelity Decomposition in Quantum Computation Pipeline,2605.11529,http://arxiv.org/abs/2605.11529v1,2026-05-12 04:53:56+00:00
+32,"String Diagrams for Quantum Foundations, Computing and Natural Language Processing",2605.11417,http://arxiv.org/abs/2605.11417v1,2026-05-12 02:11:44+00:00
+33,Runtime Calibration as State-Trajectory Feedback Control in Quantum-Classical Workflows,2605.11860,http://arxiv.org/abs/2605.11860v1,2026-05-12 09:43:45+00:00
+34,Realization of Backward Retrieval in a Stark-modulated Spin-wave Quantum Memory,2605.11786,http://arxiv.org/abs/2605.11786v1,2026-05-12 08:51:51+00:00
+35,Chaos Emerge with Exceptional Points in Reset-Driven Floquet Dynamics,2605.11751,http://arxiv.org/abs/2605.11751v1,2026-05-12 08:27:26+00:00
+36,Low Rank Structure of the Reduced Transition Matrix,2605.12665,http://arxiv.org/abs/2605.12665v1,2026-05-12 19:13:34+00:00
+37,Purification of a monitored qubit: exact path-integral solution,2605.12783,http://arxiv.org/abs/2605.12783v1,2026-05-12 21:55:51+00:00
+38,The Physical and Contextual Limits of Quantum Speedup,2605.12675,http://arxiv.org/abs/2605.12675v1,2026-05-12 19:25:47+00:00
+39,Dissipative Dynamics and Active Stabilization of Linear and Nonlinear Waves in Non-PT-Symmetric Harmonic Traps,2605.12638,http://arxiv.org/abs/2605.12638v1,2026-05-12 18:29:23+00:00
+40,Optical detection of the electron spin resonances of G centers in silicon,2605.12473,http://arxiv.org/abs/2605.12473v1,2026-05-12 17:54:06+00:00
+41,Information Thermodynamics in Generalized Probabilistic Theories,2605.12331,http://arxiv.org/abs/2605.12331v1,2026-05-12 16:14:48+00:00
+42,The Quad-$C_5$ Graph: Maximum Contextuality Gap on Eight Vertices,2605.12828,http://arxiv.org/abs/2605.12828v1,2026-05-12 23:50:25+00:00
+43,Sub-shot-noise emission statistics of a CW-excited single photon source,2605.12397,http://arxiv.org/abs/2605.12397v1,2026-05-12 16:58:16+00:00
+44,Large $N$ factorization of families of tensor trace-invariants,2605.12468,http://arxiv.org/abs/2605.12468v1,2026-05-12 17:52:03+00:00
+45,Programmable Superradiance in an Interacting Qubit Array,2605.12442,http://arxiv.org/abs/2605.12442v1,2026-05-12 17:36:45+00:00
+46,Versatile probe state preparation via generalized measurements for quantum sensing and thermometry,2605.11942,http://arxiv.org/abs/2605.11942v1,2026-05-12 10:52:35+00:00
+47,Universal Speed Limit in a Far-from-Equilibrium Bose Gas: Symmetry and Dynamical Decoherence,2605.11895,http://arxiv.org/abs/2605.11895v1,2026-05-12 10:08:49+00:00
+48,Pre-Asymptotic Trainability in Photonic Variational Circuits under Postselection,2605.11879,http://arxiv.org/abs/2605.11879v1,2026-05-12 09:55:53+00:00
+49,The uncertainty geometry of finite-dimensional position and momentum,2605.11876,http://arxiv.org/abs/2605.11876v1,2026-05-12 09:52:26+00:00
+50,Optimal State Preparation for Impulse Estimation in Gaussian Quantum Systems,2605.12155,http://arxiv.org/abs/2605.12155v1,2026-05-12 14:07:55+00:00
+51,Understanding oxide-thickness-dependent variability in dense Si-MOS quantum dot arrays,2605.12143,http://arxiv.org/abs/2605.12143v2,2026-05-12 14:02:22+00:00
+52,Probing charge noise in bilayer graphene quantum dots by Landau-Zener-Stückelberg-Majorana spectroscopy,2605.12257,http://arxiv.org/abs/2605.12257v1,2026-05-12 15:26:22+00:00
+53,Laser-assisted tunneling in a static tungsten diselenide WSe$_2$ barrier,2605.11737,http://arxiv.org/abs/2605.11737v1,2026-05-12 08:16:44+00:00
+54,Classification of informative subsets in quantum encrypted cloning on qudits,2605.11642,http://arxiv.org/abs/2605.11642v1,2026-05-12 07:04:10+00:00
+55,Stability and quasi-normal ringing in analogue black-white holes in SNAIL-based traveling-wave parametric amplifiers,2605.11565,http://arxiv.org/abs/2605.11565v1,2026-05-12 05:50:14+00:00
+56,Scalable Measurement-Based Quantum Simulation Patterns for Benchmarking,2605.12502,http://arxiv.org/abs/2605.12502v1,2026-05-12 17:59:58+00:00
+57,Simulation of Non-Hermitian Hamiltonians with Bivariate Quantum Signal Processing,2605.12450,http://arxiv.org/abs/2605.12450v1,2026-05-12 17:40:56+00:00
+58,Quantum teleportation with coherent error in Bell-state measurement,2605.12130,http://arxiv.org/abs/2605.12130v1,2026-05-12 13:53:19+00:00
+59,Benchmarking and Resource Analysis for Augmented-Lagrangian Quantum Hamiltonian Descent,2605.12066,http://arxiv.org/abs/2605.12066v1,2026-05-12 12:54:59+00:00
+60,Thermodynamic value of CHSH-induced side-information channels in a Szilard engine,2605.12044,http://arxiv.org/abs/2605.12044v1,2026-05-12 12:25:37+00:00
+61,Adiabatic Quantum Simulation of the Topological Su--Schrieffer--Heeger--Hubbard Model,2605.11823,http://arxiv.org/abs/2605.11823v1,2026-05-12 09:10:58+00:00
+62,A QPINN Framework with Quantum Trainable Embeddings for the Lid-Driven Cavity Problem,2605.13892,http://arxiv.org/abs/2605.13892v1,2026-05-12 10:03:45+00:00
+63,Controllable Quantum Memory Capacity in Quantum Reservoir Networks with Tunable partial-SWAPs,2605.12713,http://arxiv.org/abs/2605.12713v2,2026-05-12 20:22:43+00:00
+64,Long Spin Relaxation Times in CVD-Grown Nanodiamonds,2605.16394,http://arxiv.org/abs/2605.16394v1,2026-05-12 13:08:28+00:00
+65,Enabling Deterministic Passive Quantum State Transfer with Giant Atoms,2605.12018,http://arxiv.org/abs/2605.12018v1,2026-05-12 12:06:28+00:00
