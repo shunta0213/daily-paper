@@ -1,0 +1,101 @@
+,title,id,arxiv_url,published
+0,Can Broad Biomedical Knowledge be Contextualized into Scenario-Grounded Propositions?,2605.27082,http://arxiv.org/abs/2605.27082v1,2026-05-26 14:33:03+00:00
+1,ReMoE: Boosting Expert Reuse through Router Fine-Tuning in Memory-Constrained MoE LLM Inference,2605.27081,http://arxiv.org/abs/2605.27081v1,2026-05-26 14:32:56+00:00
+2,Trust Region Q Adjoint Matching,2605.27079,http://arxiv.org/abs/2605.27079v1,2026-05-26 14:28:43+00:00
+3,Boosting Knowledge Graph Foundation Models via Enhanced Negative Sampling,2605.27023,http://arxiv.org/abs/2605.27023v1,2026-05-26 13:42:41+00:00
+4,ReasonOps: A Unified Operational Paradigm for Trustworthy Verified LLM Reasoning,2605.27014,http://arxiv.org/abs/2605.27014v1,2026-05-26 13:32:15+00:00
+5,Reasoning Depth and Environment Complexity: A Controlled Study of RLVR Data Allocation across Logical Reasoning Tasks,2605.26934,http://arxiv.org/abs/2605.26934v1,2026-05-26 12:28:08+00:00
+6,Algorithmic Monocultures in Hiring,2605.27371,http://arxiv.org/abs/2605.27371v1,2026-05-26 17:59:55+00:00
+7,"MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation",2605.27366,http://arxiv.org/abs/2605.27366v1,2026-05-26 17:59:19+00:00
+8,It's Not Always Sycophancy: Measuring LLM Conformity as a Function of Epistemic Uncertainty,2605.27288,http://arxiv.org/abs/2605.27288v1,2026-05-26 17:04:11+00:00
+9,FineVLA: Fine-Grained Instruction Alignment for Steerable Vision-Language-Action Policies,2605.27284,http://arxiv.org/abs/2605.27284v1,2026-05-26 17:01:10+00:00
+10,LUCoS: Latent Unsupervised Context Selection for Tabular Foundation Models,2605.27254,http://arxiv.org/abs/2605.27254v1,2026-05-26 16:31:39+00:00
+11,GeoFaith: A Spatio-Temporal Dual View of Faithful Chain-of-Thought,2605.26893,http://arxiv.org/abs/2605.26893v1,2026-05-26 11:54:40+00:00
+12,Multi-Stakeholder LLM Alignment: Decomposing Estimation from Aggregation,2605.26878,http://arxiv.org/abs/2605.26878v1,2026-05-26 11:37:43+00:00
+13,Composition Collapse: Stable Factual Knowledge Does Not Imply Compositional Reasoning,2605.26789,http://arxiv.org/abs/2605.26789v1,2026-05-26 10:01:01+00:00
+14,Stabilizing Recurrent Dynamics for Test-Time Scalable Latent Reasoning in Looped Language Models,2605.26733,http://arxiv.org/abs/2605.26733v1,2026-05-26 09:11:12+00:00
+15,Rotation-Invariant Spherical Watermarking via Third-Order SO(3) Representation Coupling,2605.26702,http://arxiv.org/abs/2605.26702v1,2026-05-26 08:43:40+00:00
+16,The Labyrinth and the Thread: Rethinking Regularizations in Sequential Knowledge Editing for Large Language Models,2605.26670,http://arxiv.org/abs/2605.26670v1,2026-05-26 08:07:25+00:00
+17,Completion vs Optimality: Policy Gradient in Long-Horizon Cumulative-Damage Problems,2605.26657,http://arxiv.org/abs/2605.26657v1,2026-05-26 07:43:03+00:00
+18,JetViT: Efficient High-Resolution Vision Transformer with Post-Training Attention Search,2605.26636,http://arxiv.org/abs/2605.26636v1,2026-05-26 07:17:27+00:00
+19,On the Error-Correcting Effects of Stochasticity in Discrete Diffusion,2605.26582,http://arxiv.org/abs/2605.26582v1,2026-05-26 05:58:46+00:00
+20,Linear and Neural Dueling Bandits with Delayed Feedback,2605.26554,http://arxiv.org/abs/2605.26554v1,2026-05-26 05:07:25+00:00
+21,ReCA: Multi-Shot Long Video Extrapolation via Recursive Context Allocation,2605.26525,http://arxiv.org/abs/2605.26525v1,2026-05-26 04:16:56+00:00
+22,Towards Error-Free EHRs: Reasoning-Intensive Consistency Verification Between Clinical Notes and Structured Tables in Electronic Health Records,2605.26463,http://arxiv.org/abs/2605.26463v1,2026-05-26 02:19:42+00:00
+23,Cross-scale Aligned Supervision for Training GANs,2605.26449,http://arxiv.org/abs/2605.26449v1,2026-05-26 02:01:11+00:00
+24,When Does Deep RL Beat Calibrated Baselines? A Benchmark Study on Adaptive Resource Control,2605.26418,http://arxiv.org/abs/2605.26418v1,2026-05-26 01:07:42+00:00
+25,Confounder Detection via Treatment Intent: A New Observational Study Design,2605.26413,http://arxiv.org/abs/2605.26413v1,2026-05-26 00:41:47+00:00
+26,Annotator Positionality as Signal: Psychometric Weighting for Anti-Autistic Ableism Detection,2605.26397,http://arxiv.org/abs/2605.26397v1,2026-05-26 00:05:16+00:00
+27,Which Changes Matter? Towards Trustworthy Legal AI via Relevance-Sensitive Evaluation and Solver-Grounded Reasoning,2605.26530,http://arxiv.org/abs/2605.26530v1,2026-05-26 04:20:06+00:00
+28,JuICE: A Benchmark for Evaluating LLM-Judge in Identifying Cultural Errors,2605.26955,http://arxiv.org/abs/2605.26955v1,2026-05-26 12:45:21+00:00
+29,Learning When to Think While Listening in Large Audio-Language Models,2605.27190,http://arxiv.org/abs/2605.27190v1,2026-05-26 15:43:11+00:00
+30,Beyond a Single Direction: Chain-of-Thought Disrupts Simple Steering of Refusal,2605.26772,http://arxiv.org/abs/2605.26772v1,2026-05-26 09:41:15+00:00
+31,TWIST: Closed-Loop token Synchronization for Application-Aware Wireless Digital Twins,2605.27205,http://arxiv.org/abs/2605.27205v1,2026-05-26 15:59:47+00:00
+32,FoundObj: Self-supervised Foundation Models as Rewards for Label-free 3D Object Segmentation,2605.27178,http://arxiv.org/abs/2605.27178v1,2026-05-26 15:32:32+00:00
+33,An investigation of AI integration in sound designer workflows and experiences,2605.27174,http://arxiv.org/abs/2605.27174v1,2026-05-26 15:28:51+00:00
+34,DEI: Diversity in Evolutionary Inference for Quality-Diversity Search,2605.27130,http://arxiv.org/abs/2605.27130v1,2026-05-26 15:00:57+00:00
+35,PEAM: Parametric Embodied Agent Memory through Contrastive Internalization of Experience in Minecraft,2605.27762,http://arxiv.org/abs/2605.27762v1,2026-05-26 23:20:58+00:00
+36,High-Fidelity Industrial Crash Dynamics Prediction via Geometry-Aware Operator Learning with Memory-Efficient Low-Rank Attention,2605.27758,http://arxiv.org/abs/2605.27758v1,2026-05-26 23:15:53+00:00
+37,Reading or Guessing? Visual Grounding Failures of Vision-Language Models for OCR in Ancient Greek Editions,2605.27750,http://arxiv.org/abs/2605.27750v1,2026-05-26 22:57:01+00:00
+38,Tensor Memory: Fixed-Size Recurrent State for Long-Horizon Transformers,2605.27686,http://arxiv.org/abs/2605.27686v1,2026-05-26 21:03:42+00:00
+39,Backdoor Attacks on Fault Detection and Localization in Cyber-Physical Systems,2605.27674,http://arxiv.org/abs/2605.27674v1,2026-05-26 20:49:42+00:00
+40,How the Optimizer Shapes Learned Solutions in Equivariant Neural Networks,2605.27662,http://arxiv.org/abs/2605.27662v1,2026-05-26 20:25:44+00:00
+41,UniMaia: Steering Chess Policies with Language for Human-like Play,2605.27767,http://arxiv.org/abs/2605.27767v1,2026-05-26 23:32:58+00:00
+42,Cyberbullying Governance on Social Media: A Unified Framework from Content Identification to Intervention,2605.27584,http://arxiv.org/abs/2605.27584v1,2026-05-26 18:53:19+00:00
+43,On the Subgaussianity of Quantized Linear Maps: An AI-Assisted Note,2605.27563,http://arxiv.org/abs/2605.27563v1,2026-05-26 18:36:34+00:00
+44,Balancing Fidelity and Diversity in Diffusion Models via Symmetric Attention Decomposition: Hopfield Perspective,2605.27476,http://arxiv.org/abs/2605.27476v1,2026-05-26 11:56:37+00:00
+45,AgensFlow: A Coordination-Policy Substrate for Multi-Agent Systems,2605.27466,http://arxiv.org/abs/2605.27466v1,2026-05-26 08:10:52+00:00
+46,When prompt perturbations break your A/B test: A valid statistical test for generative surveying,2605.27463,http://arxiv.org/abs/2605.27463v1,2026-05-26 00:35:58+00:00
+47,Aligning Few-Step Generative Models by Amortizing Sample-based Variational Inference,2605.26552,http://arxiv.org/abs/2605.26552v2,2026-05-26 05:02:49+00:00
+48,Eliot: Interactively $\underline{E}$xploring Fast-Changing Scientific $\underline{Li}$terature Trends with $\underline{O}$nline Da$\underline{t}$a and Learning,2605.27610,http://arxiv.org/abs/2605.27610v1,2026-05-26 19:25:43+00:00
+49,Dense2MoE: Pushing the Pareto Frontier of On-Device LLMs via Unified Pruning and Upcycling,2605.26496,http://arxiv.org/abs/2605.26496v1,2026-05-26 03:19:04+00:00
+50,Aperiodic and Low-Frequency Spectral Bias in Reconstruction based EEG Foundation Models,2605.26434,http://arxiv.org/abs/2605.26434v1,2026-05-26 01:40:36+00:00
+51,Voluntary Collusion with Secret Tools in Competing LLM Agents,2605.27593,http://arxiv.org/abs/2605.27593v1,2026-05-26 19:06:39+00:00
+52,LaneRoPE: Positional Encoding for Collaborative Parallel Reasoning and Generation,2605.27570,http://arxiv.org/abs/2605.27570v1,2026-05-26 18:43:15+00:00
+53,Unicorn: Scaling High-Dimensional Time Series Forecasting via Universal Correlation Modeling,2605.30376,http://arxiv.org/abs/2605.30376v1,2026-05-26 10:17:09+00:00
+54,Full-field prediction for engineering-scale three-dimensional aircraft with multigrid-hierarchical learning,2605.30375,http://arxiv.org/abs/2605.30375v1,2026-05-26 09:13:16+00:00
+55,Alignment Tampering: How Reinforcement Learning from Human Feedback Is Exploited to Optimize Misaligned Biases,2605.27355,http://arxiv.org/abs/2605.27355v2,2026-05-26 17:57:04+00:00
+56,Ultra-Reduced-Impact-Encased-Logging (URIEL): propose a new method for selective sustainable logging and post-harvest silvicultural treatment in tropical forest using airborne robotics systems,2605.28883,http://arxiv.org/abs/2605.28883v1,2026-05-26 20:30:42+00:00
+57,LogDx-CI: Benchmarking Log Reduction Tools for LLM Root-Cause Diagnosis,2605.28876,http://arxiv.org/abs/2605.28876v1,2026-05-26 06:34:47+00:00
+58,A Hybrid Vision-Language Architecture for Automated Defect Reasoning and Report Generation in Industrial Inspection,2605.26533,http://arxiv.org/abs/2605.26533v1,2026-05-26 04:27:38+00:00
+59,ConVer: Using Contracts and Loop Invariant Synthesis for Scalable Formal Software Verification,2605.27051,http://arxiv.org/abs/2605.27051v1,2026-05-26 14:04:40+00:00
+60,You Are in Control of Your State: Why Human Outcomes Are Controllable Through Causal State Intervention,2605.27580,http://arxiv.org/abs/2605.27580v2,2026-05-26 18:49:41+00:00
+61,On the Detection of Commutative Factors in Factor Graphs: Necessary and Sufficient Conditions,2605.26908,http://arxiv.org/abs/2605.26908v1,2026-05-26 12:05:53+00:00
+62,The Compressive Knowledge Graph Hypothesis: Which Graph Facts Matter for Scientific Hypothesis Generation?,2605.27176,http://arxiv.org/abs/2605.27176v2,2026-05-26 15:29:41+00:00
+63,PEACE: A Planner-Executor Agent with Constraint Enforcement for UAVs,2606.00104,http://arxiv.org/abs/2606.00104v1,2026-05-26 10:03:22+00:00
+64,On the evolution of the concept of probability as a mirror of the evolution of reason,2606.00102,http://arxiv.org/abs/2606.00102v1,2026-05-26 08:58:53+00:00
+65,InterSketch: An Interleaved Reasoning Model with Self-correcting Visual Sketch and Stepwise Reward,2605.26520,http://arxiv.org/abs/2605.26520v1,2026-05-26 04:07:49+00:00
+66,Structure-Adaptive Conformal Inference for Large-Scale Out-of-Distribution Testing,2605.26429,http://arxiv.org/abs/2605.26429v1,2026-05-26 01:28:16+00:00
+67,Uniboost: Global Coordination with Value Alignment for Fair and Efficient Traffic Allocation,2605.26424,http://arxiv.org/abs/2605.26424v1,2026-05-26 01:22:04+00:00
+68,From Static Context to Calibrated Interactive RL: Mitigating Distribution Shift in Multi-turn Dialogue with Aligned Simulator,2605.26403,http://arxiv.org/abs/2605.26403v1,2026-05-26 00:25:12+00:00
+69,Supervised Distributional Reduction via Optimal Transport and Dependence Maximization,2605.27619,http://arxiv.org/abs/2605.27619v1,2026-05-26 19:38:20+00:00
+70,Hallucination Behavior in Multimodal LLMs Across Agricultural Image Interpretation and Generation Tasks,2605.27595,http://arxiv.org/abs/2605.27595v1,2026-05-26 19:07:18+00:00
+71,Clinical Validation of the Melanoscope AI Mobile Dermoscopy Clinical Decision Support System,2605.27561,http://arxiv.org/abs/2605.27561v1,2026-05-26 18:29:53+00:00
+72,On the Origin of Synthetic Information by Means of Steganographic Inheritance,2605.27551,http://arxiv.org/abs/2605.27551v1,2026-05-26 18:18:16+00:00
+73,Energy-Structured Low-Rank Adaptation for Continual Learning,2605.27482,http://arxiv.org/abs/2605.27482v1,2026-05-26 12:55:02+00:00
+74,Resource-Constrained Affect Modelling via Variance Regularisation Pruning,2605.27479,http://arxiv.org/abs/2605.27479v1,2026-05-26 12:05:13+00:00
+75,AssertLLM2: A Comprehensive LLM Benchmark for Assertion Generation from Design Specifications,2605.27472,http://arxiv.org/abs/2605.27472v1,2026-05-26 10:49:25+00:00
+76,AdaMerge: Salience-Aware Adaptive Token Merging for Training-Free Acceleration of Vision Transformers,2605.27465,http://arxiv.org/abs/2605.27465v1,2026-05-26 05:35:39+00:00
+77,LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding,2605.27365,http://arxiv.org/abs/2605.27365v2,2026-05-26 17:59:12+00:00
+78,PilotTTS: A Disciplined Modular Recipe for Competitive Speech Synthesis,2605.27258,http://arxiv.org/abs/2605.27258v2,2026-05-26 16:36:56+00:00
+79,Restoring the Sweet Spot: Pass-Rate Weighted Self-Distillation for LLM Reasoning,2605.27765,http://arxiv.org/abs/2605.27765v1,2026-05-26 23:30:01+00:00
+80,SkillGrad: Optimizing Agent Skills Like Gradient Descent,2605.27760,http://arxiv.org/abs/2605.27760v1,2026-05-26 23:18:43+00:00
+81,Asking Is Not Enough: Protocol Sensitivity in LLM Confidence Calibration,2605.27752,http://arxiv.org/abs/2605.27752v1,2026-05-26 23:03:38+00:00
+82,DeepSciVerify: Verifying Scientific Claim--Citation Alignment via LLM-Driven Evidence Escalation,2605.27710,http://arxiv.org/abs/2605.27710v1,2026-05-26 21:33:29+00:00
+83,Aligning LLMs with Human Uncertainty: A Beta-Bernoulli Calibrator for LLM Forecasting,2605.27668,http://arxiv.org/abs/2605.27668v1,2026-05-26 20:39:33+00:00
+84,Transferable Reinforcement Learning via Probabilistic Latent Embeddings and Dynamic Policy Adaptation for Sim-to-Real Deployment,2605.27659,http://arxiv.org/abs/2605.27659v1,2026-05-26 20:22:44+00:00
+85,Trinity: Unifying Class-Agnostic Terrain and Semantic Segmentation for Unstructured Outdoor Environments by Leveraging Synthetic Data,2605.27644,http://arxiv.org/abs/2605.27644v1,2026-05-26 20:04:19+00:00
+86,"Intelligence as Managed Autonomy: Failure, Escalation, and Governance for Agentic AI Systems",2605.27628,http://arxiv.org/abs/2605.27628v1,2026-05-26 19:49:23+00:00
+87,Timestep-Aware SVDQuant-GPTQ for W4A4 Quantization of Wan2.2-I2V,2605.27003,http://arxiv.org/abs/2605.27003v1,2026-05-26 13:24:01+00:00
+88,TADDLE: A Tool-Augmented Agent for Detecting Deficient LLM-Generated Peer Reviews,2605.26911,http://arxiv.org/abs/2605.26911v1,2026-05-26 12:07:44+00:00
+89,Periodic Topological Deep Learning for Polymer Design and Discovery,2605.26833,http://arxiv.org/abs/2605.26833v1,2026-05-26 10:51:49+00:00
+90,EmoDistill: Offline Emotion Skill Distillation for Language Model Agents in Adversarial Negotiation,2605.26785,http://arxiv.org/abs/2605.26785v1,2026-05-26 09:54:53+00:00
+91,Ratio-Variance Regularized Policy Optimization,2605.26784,http://arxiv.org/abs/2605.26784v1,2026-05-26 09:53:42+00:00
+92,Traceable Knowledge Graph Reasoning Enables LLM-Assisted Decision Support for Industrial VOCs in the Steel Industry,2605.27071,http://arxiv.org/abs/2605.27071v1,2026-05-26 14:21:23+00:00
+93,Black-box Membership Inference Attacks on the Pre-training Data of Image-generation Models,2605.27020,http://arxiv.org/abs/2605.27020v1,2026-05-26 13:38:25+00:00
+94,Generative artificial intelligence and the marginalization of minoritized knowledges in higher education: the case of disability,2605.26769,http://arxiv.org/abs/2605.26769v1,2026-05-26 09:39:09+00:00
+95,Towards Feedback-to-Plan Decisions for Self-Evolving LLM Agents in CUDA Kernel Generation,2605.26720,http://arxiv.org/abs/2605.26720v1,2026-05-26 09:00:09+00:00
+96,L2Rec: Towards Dual-View Understanding of LLMs for Personalized Recommendation,2605.26717,http://arxiv.org/abs/2605.26717v1,2026-05-26 08:57:19+00:00
+97,DynFrame: Adaptive Reasoning-Driven Multimodal Framework with Dynamic Frame Augmentation for Complex Video Understanding,2605.26680,http://arxiv.org/abs/2605.26680v1,2026-05-26 08:16:16+00:00
+98,AI evaluation may bias perceptions: The importance of context in interpreting academic writing,2605.26662,http://arxiv.org/abs/2605.26662v1,2026-05-26 07:47:58+00:00
+99,Bilevel Optimization over Saddle Points of Zero-Sum Markov Games,2605.26654,http://arxiv.org/abs/2605.26654v1,2026-05-26 07:38:24+00:00
