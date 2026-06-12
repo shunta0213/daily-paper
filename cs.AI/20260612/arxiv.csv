@@ -1,0 +1,101 @@
+,title,id,arxiv_url,published
+0,Don't Pause: Streaming Video-Language Synchrony for Online Video Understanding,2606.06991,http://arxiv.org/abs/2606.06991v1,2026-06-05 07:29:20+00:00
+1,OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios,2606.06959,http://arxiv.org/abs/2606.06959v1,2026-06-05 06:38:40+00:00
+2,SS-TPT: Stability and Suitability-Guided Test-Time Prompt Tuning for Adversarially Robust Vision-Language Models,2606.06943,http://arxiv.org/abs/2606.06943v1,2026-06-05 06:12:48+00:00
+3,SpectCount: Spectrotemporal Counting via Synthetic Signals Improves Large Audio Language Models,2606.06907,http://arxiv.org/abs/2606.06907v1,2026-06-05 04:50:34+00:00
+4,Front-to-Attractors: Modifying the Front-to-Front Heuristic in Bidirectional Search,2606.07047,http://arxiv.org/abs/2606.07047v2,2026-06-05 08:46:27+00:00
+5,TEVI: Text-Conditioned Editing of Visual Representations via Sparse Autoencoders for Improved Vision-Language Alignment,2606.07451,http://arxiv.org/abs/2606.07451v1,2026-06-05 16:54:40+00:00
+6,CULTURESCORE: Evaluating Cultural Faithfulness in Video Generation Models,2606.07311,http://arxiv.org/abs/2606.07311v1,2026-06-05 14:28:29+00:00
+7,Acoustic Cue Alignment in Audio Language Models for Speech Emotion Recognition,2606.07309,http://arxiv.org/abs/2606.07309v1,2026-06-05 14:26:06+00:00
+8,DuMate-DeepResearch: An Auditable Multi-Agent System with Recursive Search and Rubric-Grounded Reasoning,2606.07299,http://arxiv.org/abs/2606.07299v1,2026-06-05 14:10:48+00:00
+9,Evidence-Based Intelligent Diagnostic and Therapeutic Visualization System with Large Language Models: Multi-Turn Interaction and Multimodal Treatment Plan Generation,2606.06869,http://arxiv.org/abs/2606.06869v1,2026-06-05 03:36:48+00:00
+10,PandaAI: A Practical Agent CQ2 for Neuro-symbolic Data Analysis And Integrated Decision-Making in Quantitative Finance,2606.06823,http://arxiv.org/abs/2606.06823v1,2026-06-05 01:56:28+00:00
+11,Native3D: End-to-End 3D Scene Generation via Unified Mesh-Texture Modeling and Semantic Alignment,2606.07117,http://arxiv.org/abs/2606.07117v1,2026-06-05 10:13:17+00:00
+12,When Large Language Models Fail in Healthcare: Evaluating Sensitivity to Prompt Variations,2606.07237,http://arxiv.org/abs/2606.07237v1,2026-06-05 13:07:11+00:00
+13,"RETROSPECT: RETROsynthesis via Sequential Prediction, and Chemically Transformed-ranking",2606.07181,http://arxiv.org/abs/2606.07181v1,2026-06-05 11:45:36+00:00
+14,SlimSearcher: Training Efficiency-Aware Web Agents via Adaptive Reward Gating,2606.07074,http://arxiv.org/abs/2606.07074v1,2026-06-05 09:10:50+00:00
+15,Mitosis Detection in the Wild: Multi-Tumor and Context-Aware Generalization in the MIDOG 2025 Challenge,2606.07368,http://arxiv.org/abs/2606.07368v1,2026-06-05 15:11:08+00:00
+16,"Safety is Contextual, LLM-Judges Are Not: Navigating the Rigid Priors of Evaluators",2606.07874,http://arxiv.org/abs/2606.07874v1,2026-06-05 22:11:26+00:00
+17,Instrumented data for causal scientific machine learning,2606.07865,http://arxiv.org/abs/2606.07865v1,2026-06-05 21:53:39+00:00
+18,Beyond English benchmarks: clinical llm evaluation in Brazilian Portuguese,2606.07853,http://arxiv.org/abs/2606.07853v1,2026-06-05 21:29:39+00:00
+19,SLMJury: Can Small Language Models Judge as Well as Large Ones?,2606.07810,http://arxiv.org/abs/2606.07810v1,2026-06-05 19:38:15+00:00
+20,Land cover and flood type govern the detection limits of satellite-based flood mapping across diverse global flood events,2606.07780,http://arxiv.org/abs/2606.07780v1,2026-06-05 18:46:03+00:00
+21,Multi-planar 2D-U-Net Segmentation of 3D-CT Abdominal Organs augmented by Spatial Occurrence Maps,2606.07717,http://arxiv.org/abs/2606.07717v1,2026-06-05 15:30:56+00:00
+22,SHIELD-IDS: Structurally Heterogeneous Ensemble with Integrated Layered Defense for Intrusion Detection Systems,2606.07716,http://arxiv.org/abs/2606.07716v1,2026-06-05 15:25:51+00:00
+23,Rosetta Memory: Adaptive Memory for Cross-LLM Agents,2606.07711,http://arxiv.org/abs/2606.07711v1,2026-06-05 13:50:59+00:00
+24,Pharmacogenomic Knowledge Graph Augmentation for Graph Neural Network-Based Drug-Drug Interaction Prediction,2606.07698,http://arxiv.org/abs/2606.07698v1,2026-06-05 07:47:32+00:00
+25,Workflow-to-Skill: Skill Creation via Routing-Workflow-Semantics-Attachments Decomposition,2606.06893,http://arxiv.org/abs/2606.06893v1,2026-06-05 04:19:57+00:00
+26,MotionEnhancer: Leveraging Video Diffusion for Motion-Enhanced Vision-Language Models,2606.06853,http://arxiv.org/abs/2606.06853v1,2026-06-05 02:56:48+00:00
+27,LLM Agent-Assisted Reverse Engineering with Quantitative Readability Metrics,2606.06838,http://arxiv.org/abs/2606.06838v1,2026-06-05 02:24:25+00:00
+28,Think Like a Pilot: Fine-Grained Long-Horizon UAV Navigation,2606.06836,http://arxiv.org/abs/2606.06836v1,2026-06-05 02:23:05+00:00
+29,Progress-SQL: Improving Reinforcement Learning for Text-to-SQL via Progressive Rewards,2606.06825,http://arxiv.org/abs/2606.06825v1,2026-06-05 01:59:03+00:00
+30,AdMem: Advanced Memory for Task-solving Agents,2606.06787,http://arxiv.org/abs/2606.06787v1,2026-06-05 00:11:57+00:00
+31,UrduMMLU: A Massive Multitask Benchmark for Urdu Language Understanding,2606.07167,http://arxiv.org/abs/2606.07167v1,2026-06-05 11:35:27+00:00
+32,Think Fast: Estimating No-CoT Task-Completion Time Horizons of Frontier AI Models,2606.07157,http://arxiv.org/abs/2606.07157v1,2026-06-05 11:17:08+00:00
+33,WhiFlash: Accelerating Speculative Decoding with Token-Level Cross-Paradigm Routing,2606.07710,http://arxiv.org/abs/2606.07710v1,2026-06-05 13:23:33+00:00
+34,TOPSIS-RAD: Ranking According to Desires,2606.07253,http://arxiv.org/abs/2606.07253v1,2026-06-05 13:26:11+00:00
+35,DataEvolver: Automatic Data Preparation for Large Language Models through Multi-Level Self-Evolving,2606.07001,http://arxiv.org/abs/2606.07001v2,2026-06-05 07:44:34+00:00
+36,SV-Detect: AI-generated Text Detection with Steering Vectors,2606.07313,http://arxiv.org/abs/2606.07313v1,2026-06-05 14:34:37+00:00
+37,Hearing the Unspoken: Language Model Priors for Acoustic Adversarial Attacks,2606.06833,http://arxiv.org/abs/2606.06833v1,2026-06-05 02:18:23+00:00
+38,Cost-Aware Speculative Execution for LLM-Agent Workflows: An Integrated Five-Dimension Method,2606.07846,http://arxiv.org/abs/2606.07846v1,2026-06-05 21:13:47+00:00
+39,Agentic multi-fidelity learning of quasiparticle and excitonic properties,2606.07836,http://arxiv.org/abs/2606.07836v1,2026-06-05 20:55:23+00:00
+40,Beyond Pass/Fail: Using Process Mining to Understand How LLMs Resist (and Fail) Red Team Attacks,2606.07833,http://arxiv.org/abs/2606.07833v1,2026-06-05 20:47:45+00:00
+41,Why Limit the Residual Stream to Layers and Not Tokens? Persistent Memory for Continuous Latent Reasoning,2606.07720,http://arxiv.org/abs/2606.07720v1,2026-06-05 15:45:44+00:00
+42,Beyond Accuracy: Interpreting Topic Representation in Suicide Ideation Detection Models,2606.07714,http://arxiv.org/abs/2606.07714v1,2026-06-05 14:46:50+00:00
+43,DSFNet: Learning Dual-Domain Spectral Operators for Multi-Modality Spatio-Temporal Forecasting in Urban Transportation Systems,2606.07695,http://arxiv.org/abs/2606.07695v1,2026-06-05 07:33:57+00:00
+44,What Makes Video World Model Latents Action-Relevant: Prediction over Reconstruction,2606.07687,http://arxiv.org/abs/2606.07687v1,2026-06-05 04:43:02+00:00
+45,Test-Time Adaptive Composition for Machine Learning as a Service (MLaaS) in IoT Environments,2606.07685,http://arxiv.org/abs/2606.07685v1,2026-06-05 02:52:53+00:00
+46,Semantic Cache Distillation: Efficient State Transfer via Reuse and Selective Patching,2606.07684,http://arxiv.org/abs/2606.07684v1,2026-06-05 02:46:04+00:00
+47,Didact: A Cross-Domain Capability Discovery System for Defence,2606.06942,http://arxiv.org/abs/2606.06942v1,2026-06-05 06:12:28+00:00
+48,Model Multiplicity for Adversarial Detection in Small Language Model Training on Edge Devices,2606.07857,http://arxiv.org/abs/2606.07857v1,2026-06-05 21:38:07+00:00
+49,From Privacy to Workflow Integrity: Communication-Graph Metadata in Autonomous Agent Interoperability,2606.07150,http://arxiv.org/abs/2606.07150v1,2026-06-05 11:07:55+00:00
+50,The Three-Ring Architecture: Governing Agents in the Era of On-Platform Organisations,2606.07119,http://arxiv.org/abs/2606.07119v1,2026-06-05 10:20:03+00:00
+51,DIFFRACT: Neuralized Utility Maximization for Wireless Networks by Differentiable Programming,2606.07114,http://arxiv.org/abs/2606.07114v1,2026-06-05 10:09:09+00:00
+52,MetaConfigurator: AI-Assisted RDF Authoring from JSON Data,2606.07094,http://arxiv.org/abs/2606.07094v1,2026-06-05 09:42:01+00:00
+53,dots.tts Technical Report,2606.07080,http://arxiv.org/abs/2606.07080v1,2026-06-05 09:19:24+00:00
+54,A Geometric View for Understanding Concept Learning and Neuron Interpretation in Sparse Autoencoders,2606.07007,http://arxiv.org/abs/2606.07007v1,2026-06-05 07:52:43+00:00
+55,Socratic-SWE: Self-Evolving Coding Agents via Trace-Derived Agent Skills,2606.07412,http://arxiv.org/abs/2606.07412v1,2026-06-05 16:00:17+00:00
+56,A Temporal Spatial Minimax Rate for Smoothly-Varying Distributions in Wasserstein Space,2606.07325,http://arxiv.org/abs/2606.07325v1,2026-06-05 14:43:10+00:00
+57,Beyond Skeletons: Learning Animation Directly from Driving Videos with Same2X Training Strategy,2606.06903,http://arxiv.org/abs/2606.06903v1,2026-06-05 04:39:46+00:00
+58,Characterize Then Distill: Mechanistic Reasoning in Large Output Spaces,2606.06840,http://arxiv.org/abs/2606.06840v1,2026-06-05 02:32:24+00:00
+59,Lane Change Trajectory Planning for Personalized Driving Comfort and Mobility Efficiency,2606.06805,http://arxiv.org/abs/2606.06805v1,2026-06-05 01:13:27+00:00
+60,DEFINED: A Data-Efficient Computational Framework for Fine-Grained Creativity Assessment in Debate Scenarios,2606.07226,http://arxiv.org/abs/2606.07226v2,2026-06-05 12:42:56+00:00
+61,Sparse Subspace-to-Expert Sharing for Task-Agnostic Continual Learning,2606.07500,http://arxiv.org/abs/2606.07500v1,2026-06-05 17:53:52+00:00
+62,Graph Neural Network leveraging Higher-order Class Label Connectivity for Heterophilous Graphs,2606.07475,http://arxiv.org/abs/2606.07475v1,2026-06-05 17:28:19+00:00
+63,Whisper Hallucination Detection and Mitigation via Hidden Representation Steering and Sparse AutoEncoders,2606.07473,http://arxiv.org/abs/2606.07473v1,2026-06-05 17:26:23+00:00
+64,Planning-aligned Token Compression for Long-Context Autonomous Driving,2606.07464,http://arxiv.org/abs/2606.07464v1,2026-06-05 17:16:21+00:00
+65,"PaperFlow: Profiling, Recommending, and Adapting Across Daily Paper Streams",2606.07454,http://arxiv.org/abs/2606.07454v1,2026-06-05 17:00:20+00:00
+66,Online Pandora's Box for Contextual LLM Cascading,2606.07392,http://arxiv.org/abs/2606.07392v1,2026-06-05 15:29:17+00:00
+67,Beyond Waypoints: A Trajectory-Centric Waypointing Paradigm for Vision-Language Navigation,2606.07244,http://arxiv.org/abs/2606.07244v1,2026-06-05 13:11:39+00:00
+68,Textual Supervision Enhances Geospatial Representations in Vision-Language Models,2606.07172,http://arxiv.org/abs/2606.07172v1,2026-06-05 11:40:13+00:00
+69,Beyond Post-hoc Explanation: Toward Glassbox AI via Probabilistic Mediation,2606.07113,http://arxiv.org/abs/2606.07113v1,2026-06-05 10:08:56+00:00
+70,STREAM: Stochastic Riemannian Flow Matching with Anisotropic Decoder for Digital Histopathology Image Generation,2606.07036,http://arxiv.org/abs/2606.07036v1,2026-06-05 08:26:44+00:00
+71,StainFlow: Entity-Stain Tracking and Evidence Linking for Process Rewards in GUI Agents,2606.07027,http://arxiv.org/abs/2606.07027v1,2026-06-05 08:17:28+00:00
+72,The Sim-to-Real Gap of Foundation Model Agents: A Unified MDP Perspective,2606.07017,http://arxiv.org/abs/2606.07017v1,2026-06-05 08:00:25+00:00
+73,Towards Unified Song Generation and Singing Voice Conversion with Accompaniment Co-Generation,2606.07015,http://arxiv.org/abs/2606.07015v1,2026-06-05 07:59:17+00:00
+74,EASE-TTT: Evidence-Aligned Selective Test-Time Training for Long-Context Question Answering,2606.06906,http://arxiv.org/abs/2606.06906v1,2026-06-05 04:49:37+00:00
+75,MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism,2606.07512,http://arxiv.org/abs/2606.07512v1,2026-06-05 17:59:21+00:00
+76,AI Sovereignty: A Qualitative Model of Strategic Competition as AI Becomes an Instrument of National Power,2606.07245,http://arxiv.org/abs/2606.07245v1,2026-06-05 13:11:39+00:00
+77,Neuro-Symbolic Learning for Long-Horizon Task Planning Under Complex Logical Constraints,2606.06877,http://arxiv.org/abs/2606.06877v1,2026-06-05 03:44:48+00:00
+78,"The ACUTE Protocol: Operationalizing Language Model Activations for Better Calibration, Utility, and Trust",2606.07822,http://arxiv.org/abs/2606.07822v1,2026-06-05 20:15:50+00:00
+79,Joint Structural Pruning and Mixed-Precision Quantization for LLM Compression,2606.07819,http://arxiv.org/abs/2606.07819v1,2026-06-05 20:02:29+00:00
+80,Scaling Participation in Modular AI Systems,2606.07812,http://arxiv.org/abs/2606.07812v1,2026-06-05 19:39:35+00:00
+81,Quantum-Enhanced Similarity Measures for Polarimetric Materials Classification,2606.07766,http://arxiv.org/abs/2606.07766v1,2026-06-05 18:24:49+00:00
+82,Automatic Extraction of Structured Information from Brain MRI Reports Using an Open-Weight Large Language Model,2606.07721,http://arxiv.org/abs/2606.07721v1,2026-06-05 15:57:35+00:00
+83,MatMind: A Structure-Activity Knowledge-Driven Generative Foundation Model for Materials Science,2606.07712,http://arxiv.org/abs/2606.07712v1,2026-06-05 14:11:43+00:00
+84,Cross-View Urban Traffic Dataset: Drone-Supervised Ground Truth for Monocular Bird's-Eye View Localization,2606.07708,http://arxiv.org/abs/2606.07708v1,2026-06-05 11:01:42+00:00
+85,MLingualFC: Evaluating Jailbreak Vulnerabilities in Multilingual Vision-Language Models,2606.07706,http://arxiv.org/abs/2606.07706v1,2026-06-05 10:10:53+00:00
+86,SAW: Stage-Aware Dynamic Weighting for Multi-Objective Reinforcement Learning in Large Language Models,2606.07705,http://arxiv.org/abs/2606.07705v1,2026-06-05 10:00:19+00:00
+87,TianJi-Environ: An Autonomous AI Scientist for Atmospheric Environmental Research,2606.07697,http://arxiv.org/abs/2606.07697v1,2026-06-05 07:47:30+00:00
+88,SWE-Marathon: Can Agents Autonomously Complete Ultra-Long-Horizon Software Work?,2606.07682,http://arxiv.org/abs/2606.07682v1,2026-06-05 00:39:44+00:00
+89,"The Cross-Architecture Substrate: A Domain-Transcendent, Calibration-Surviving Geometric Invariant of Modern Vision Encoders",2606.07882,http://arxiv.org/abs/2606.07882v1,2026-06-05 22:35:13+00:00
+90,Overcoming the Regulatory Bottleneck via Agent-to-Agent Protocols: A Nuclear Case Study,2606.07866,http://arxiv.org/abs/2606.07866v1,2026-06-05 21:54:15+00:00
+91,A case study of evaluating AI agents on a neuroscience data-to-discovery pipeline,2606.07718,http://arxiv.org/abs/2606.07718v1,2026-06-05 15:38:18+00:00
+92,DyCon: Dynamic Reasoning Control via Evolving Difficulty Modeling,2606.07108,http://arxiv.org/abs/2606.07108v2,2026-06-05 10:02:19+00:00
+93,GP-Adapter: Gaussian Process CLIP-Adapter for Few-Shot Out-of-Distribution Detection,2606.07102,http://arxiv.org/abs/2606.07102v1,2026-06-05 09:53:30+00:00
+94,On the Geometry of On-Policy Distillation,2606.07082,http://arxiv.org/abs/2606.07082v2,2026-06-05 09:20:15+00:00
+95,How reliable are LLMs when it comes to playing dice?,2606.07515,http://arxiv.org/abs/2606.07515v2,2026-06-05 17:59:42+00:00
+96,Where Instruction Hierarchy Breaks: Diagnosing and Repairing Failures in Reasoning Language Models,2606.07808,http://arxiv.org/abs/2606.07808v1,2026-06-05 19:36:48+00:00
+97,Reconstructing and forecasting disease trajectories of patients with Alzheimer's disease using routine data in resource-constrained settings,2606.07798,http://arxiv.org/abs/2606.07798v1,2026-06-05 19:23:56+00:00
+98,Beyond Point Estimates: Benchmarking Uncertainty Quantification Methods on the AION-1 Astronomical Foundation Model,2606.07771,http://arxiv.org/abs/2606.07771v1,2026-06-05 18:29:19+00:00
+99,Some hypotheses on how chatbots work in problem-solving-driven conversations. Large Language Models as confirmation of the Innovation Illusion,2606.07722,http://arxiv.org/abs/2606.07722v1,2026-06-05 16:04:39+00:00
