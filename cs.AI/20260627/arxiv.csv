@@ -1,0 +1,73 @@
+,title,id,arxiv_url,published
+0,Fine-Tuning Large Language Models for Quantum Reasoning,2606.21974,http://arxiv.org/abs/2606.21974v1,2026-06-20 10:06:29+00:00
+1,Dual-Stream EEG Decoding for 3D Visual Perception,2606.22182,http://arxiv.org/abs/2606.22182v1,2026-06-20 18:25:16+00:00
+2,Can Reasoning Models Detect Changes to their Chains of Thought?,2606.22085,http://arxiv.org/abs/2606.22085v1,2026-06-20 15:03:40+00:00
+3,Alternate loss functions and regression models that achieve robustness to outliers by modulating the learning rate,2606.22068,http://arxiv.org/abs/2606.22068v2,2026-06-20 14:39:32+00:00
+4,KITE: Decoupling Kinematics and Interaction for Zero-Shot Cross-Embodiment Manipulation,2606.22113,http://arxiv.org/abs/2606.22113v1,2026-06-20 15:51:30+00:00
+5,TraceView: Interactive Visualization of Agentic Program Repair Trajectories,2606.22110,http://arxiv.org/abs/2606.22110v1,2026-06-20 15:47:15+00:00
+6,Plurification in/of language technology -- The integration of culture in next-generation AI,2606.22097,http://arxiv.org/abs/2606.22097v1,2026-06-20 15:24:14+00:00
+7,When Does a Video-Language Model Stop Watching? Reward Strength Controls the Formation and Reversal of Visual Shortcuts in Multimodal RLVR,2606.22043,http://arxiv.org/abs/2606.22043v1,2026-06-20 13:48:19+00:00
+8,Nous: A Predictive World Model for Long-Term Agent Memory,2606.22030,http://arxiv.org/abs/2606.22030v1,2026-06-20 13:07:00+00:00
+9,CFAgentBench: A Reproducible Environment and Benchmark for Autonomous Construction-Finance Agents,2606.22000,http://arxiv.org/abs/2606.22000v1,2026-06-20 11:34:52+00:00
+10,IRumAI: Reinforcement Learning for Indian Rummy,2606.21975,http://arxiv.org/abs/2606.21975v1,2026-06-20 10:06:57+00:00
+11,SPOTR: Spatio-temporal Pooling One-Token Reconstruction for Universal Physiological Signal Self-supervised Learning,2606.21973,http://arxiv.org/abs/2606.21973v1,2026-06-20 10:01:55+00:00
+12,REBA: A Revealed Belief Automaton Framework for Online Planning in Continuous POMDPs,2606.21971,http://arxiv.org/abs/2606.21971v1,2026-06-20 10:01:05+00:00
+13,Latent Confidence Alignment for LLM Self-Assessment,2606.21937,http://arxiv.org/abs/2606.21937v1,2026-06-20 08:13:31+00:00
+14,Improving Engine Sound Analysis in Hot-Test Environments via a RAB-U-Net (Residual Attention Block U-Net) Noise Removal Method,2606.21887,http://arxiv.org/abs/2606.21887v1,2026-06-20 05:17:31+00:00
+15,AgentRiskBOM: A Risk-Scoping Security Bill of Materials for Agentic AI Systems,2606.21877,http://arxiv.org/abs/2606.21877v1,2026-06-20 04:38:41+00:00
+16,The Language-Energy Divide: Measuring Energy Costs of Multilingual LLM Inference,2606.21869,http://arxiv.org/abs/2606.21869v1,2026-06-20 04:12:29+00:00
+17,An Analysis of Untrained Deep Reservoir Networks for Audio Surveillance,2606.22218,http://arxiv.org/abs/2606.22218v1,2026-06-20 20:39:26+00:00
+18,AgentCAT: Simulating Computerized Adaptive Testing via Multi-Agent Large Language Models,2606.21832,http://arxiv.org/abs/2606.21832v1,2026-06-20 01:55:28+00:00
+19,Human vs Machine Mathematical Difficulty on Project Euler: An Experimental Analysis,2606.21972,http://arxiv.org/abs/2606.21972v1,2026-06-20 10:01:18+00:00
+20,From Handcrafted Features to Functional Edge Learning: Evolution of EEG Seizure Detection Frameworks,2606.22258,http://arxiv.org/abs/2606.22258v1,2026-06-20 23:10:04+00:00
+21,"BioMatrix: Towards a Comprehensive Biological Foundation Model Spanning the Modality Matrix of Sequences, Structures, and Language",2606.22138,http://arxiv.org/abs/2606.22138v1,2026-06-20 16:38:59+00:00
+22,UniRank: Unified Rank Allocation for Low-Rank LLM Compression,2606.21847,http://arxiv.org/abs/2606.21847v1,2026-06-20 03:10:33+00:00
+23,Measuring What Persists: Conditioning Mechanisms and a Geometric Framework for AI Agent Identity,2606.21843,http://arxiv.org/abs/2606.21843v1,2026-06-20 02:38:43+00:00
+24,CNnotator: LLM-Guided Memory Safety Annotation Synthesis,2606.21822,http://arxiv.org/abs/2606.21822v1,2026-06-20 01:21:11+00:00
+25,A Completion-Aware Framework for Impactful Counterfactual Explainability in Graph Neural Networks,2606.22033,http://arxiv.org/abs/2606.22033v1,2026-06-20 13:13:02+00:00
+26,Cluster-Specific Localized Drift Detection for Efficient Batch Model Adaptation under Controlled Distribution Shift,2606.22026,http://arxiv.org/abs/2606.22026v1,2026-06-20 13:02:42+00:00
+27,From RAN Control to Agentic Intelligence: Architecture and Vision for Energy Efficient AI-RAN,2606.21955,http://arxiv.org/abs/2606.21955v1,2026-06-20 09:04:57+00:00
+28,Streaming T5-based Text-to-Speech Synthesis with Limited Lookahead,2606.21882,http://arxiv.org/abs/2606.21882v1,2026-06-20 04:47:45+00:00
+29,Modularized Reinforcement Learning on LLMs: From MDP Creation to Exploration and Learning,2606.21943,http://arxiv.org/abs/2606.21943v1,2026-06-20 08:20:41+00:00
+30,AI-Mediated Negotiation: Design Reflections and Lessons,2606.21886,http://arxiv.org/abs/2606.21886v1,2026-06-20 05:15:28+00:00
+31,Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge,2606.22216,http://arxiv.org/abs/2606.22216v1,2026-06-20 20:34:48+00:00
+32,Lexical Consensus: Grounded Word Learning and Shared Meaning in Artificial Agents,2606.22207,http://arxiv.org/abs/2606.22207v1,2026-06-20 20:08:07+00:00
+33,When Is Emergent Consensus Real? A Measured Coupling Gain and a Validity Diagnostic for LLM Agent Societies,2606.22203,http://arxiv.org/abs/2606.22203v1,2026-06-20 19:41:01+00:00
+34,Neural Conjugate Aggregation: Identifiable Unsupervised Multi-Sensor Regression under Heterogeneous Sensor Bias,2606.22200,http://arxiv.org/abs/2606.22200v1,2026-06-20 19:30:21+00:00
+35,$π$-RAG: Oblivious Retrieval via Semantic Quantization and Transcendental Addressing for Large Language Models,2606.22153,http://arxiv.org/abs/2606.22153v1,2026-06-20 17:22:36+00:00
+36,SAGE: An Expert-Annotated South Asian GI Endoscopy Dataset for Multimodal Learning and Hallucination Analysis,2606.22144,http://arxiv.org/abs/2606.22144v1,2026-06-20 16:53:36+00:00
+37,Keyless Attention: Value-Space Routing and Value-Only Caching for Efficient Transformers,2606.21848,http://arxiv.org/abs/2606.21848v1,2026-06-20 03:12:30+00:00
+38,MixedPEFT: Combining Multiple PEFT Methods with Mixed Objectives for Unsupervised Domain Adaptation,2606.22272,http://arxiv.org/abs/2606.22272v1,2026-06-20 23:45:19+00:00
+39,Generating Public Health Responses using Survey-Augmented Large Language Models,2606.21820,http://arxiv.org/abs/2606.21820v1,2026-06-20 01:11:49+00:00
+40,Skills for the future software profession: beyond agentic AI!,2606.21894,http://arxiv.org/abs/2606.21894v2,2026-06-20 06:09:05+00:00
+41,"Evaluating Large Language Models for Hausa and Fongbe Machine Translation: Benchmarks, Failures, and Metric Reliability",2606.22269,http://arxiv.org/abs/2606.22269v1,2026-06-20 23:23:54+00:00
+42,Quantifying Theoretical AI Alignment Guarantees: Receiver-Utility Bounds in Bayesian Persuasion,2606.22226,http://arxiv.org/abs/2606.22226v1,2026-06-20 20:59:45+00:00
+43,Sequential Minimal Optimization Algorithm for One-Class Support Vector Machines With Privileged Information,2606.22210,http://arxiv.org/abs/2606.22210v1,2026-06-20 20:12:16+00:00
+44,L20-Edu-135M: An Auditable Single-GPU Study of Data-Efficient Small Language Modeling,2606.22189,http://arxiv.org/abs/2606.22189v1,2026-06-20 18:42:37+00:00
+45,How Well Do Self-Supervised Speech Models Encode Age and Gender in Children's Speech? A Layer-Wise Analysis Across Multiple Architectures,2606.22177,http://arxiv.org/abs/2606.22177v1,2026-06-20 18:16:37+00:00
+46,Gradient-Descent Steps to Success over Mean Accuracy: A Paradigm Shift for ML,2606.22053,http://arxiv.org/abs/2606.22053v1,2026-06-20 14:10:49+00:00
+47,"Old Fictions, New Skins: Evaluating the Manipulative Capabilities of LLMs in Healthcare",2606.21977,http://arxiv.org/abs/2606.21977v1,2026-06-20 10:19:04+00:00
+48,Holmes: Multimodal Agentic Diagnosis for Mixed-Language Mobile Crashes at Industrial Scale,2606.21963,http://arxiv.org/abs/2606.21963v1,2026-06-20 09:31:26+00:00
+49,Rethinking the Adaptation of Vision Foundation Models for Efficient Cell Segmentation,2606.21913,http://arxiv.org/abs/2606.21913v1,2026-06-20 07:15:14+00:00
+50,Cohort-Anchored Foundation Models for Electronic Health Records: From Risk Scores to Auditable Peer Cohorts,2606.21885,http://arxiv.org/abs/2606.21885v1,2026-06-20 05:14:43+00:00
+51,"Harness-MU: A Safe, Governed, and Effective Harness for Multi-User LLM Agents",2606.21856,http://arxiv.org/abs/2606.21856v1,2026-06-20 03:24:24+00:00
+52,From Speech to Text Corpora: Evaluating ASR-Based Data Acquisition for Low-Resource Fongbe and Hausa,2606.22274,http://arxiv.org/abs/2606.22274v1,2026-06-20 23:51:55+00:00
+53,On the Expressive Power of Weight Quantization in Large Language Models,2606.22249,http://arxiv.org/abs/2606.22249v1,2026-06-20 22:22:26+00:00
+54,DSSCNet: A Transfer Learning Framework for Cross-Corpus Dysarthric Speech Severity Classification,2606.22178,http://arxiv.org/abs/2606.22178v1,2026-06-20 18:19:07+00:00
+55,Gated MLPs as Symmetry-Broken Rank-1 Bilinear Attention,2606.22172,http://arxiv.org/abs/2606.22172v1,2026-06-20 17:59:46+00:00
+56,"Rebuttals Move Peer-Review Scores, but Initial-Review Structure Bounds the Movement",2606.22166,http://arxiv.org/abs/2606.22166v1,2026-06-20 17:55:48+00:00
+57,AgentDSE: Reasoning-Augmented Architectural Design Space Exploration,2606.21836,http://arxiv.org/abs/2606.21836v1,2026-06-20 02:08:52+00:00
+58,"Steer, Don't Solve: Training Small Critic Models for Large Code Agents",2606.21811,http://arxiv.org/abs/2606.21811v1,2026-06-20 00:14:38+00:00
+59,Revelio: Cost-Efficient Agentic Memory Safety Vulnerability Detection For Repository-Scale Codebases,2606.22263,http://arxiv.org/abs/2606.22263v1,2026-06-20 23:17:23+00:00
+60,MultiMem: Measuring and Mitigating Memorization in Multi-Modal Contrastive Learning,2606.22220,http://arxiv.org/abs/2606.22220v2,2026-06-20 20:46:36+00:00
+61,CodeTeam: An LLM-Powered Multi-Agent Framework for Repository-Level Code Generation,2606.22082,http://arxiv.org/abs/2606.22082v1,2026-06-20 14:57:33+00:00
+62,NL2Scratch: An Executable Benchmark and Evaluation for Block-Based Programming,2606.22061,http://arxiv.org/abs/2606.22061v1,2026-06-20 14:22:59+00:00
+63,Attractor Domain Theory: A Mathematical Framework for Cardiovascular Attractor Analysis with Wearable Photoplethysmography (PPG) Validation,2606.22039,http://arxiv.org/abs/2606.22039v1,2026-06-20 13:32:32+00:00
+64,Channel Location Constrains the Auditability of Subliminal Learning,2606.22019,http://arxiv.org/abs/2606.22019v1,2026-06-20 12:48:31+00:00
+65,ScalePredictor: Instance-aware Scale Learning for Accurate Quantization of Vision Transformers,2606.21947,http://arxiv.org/abs/2606.21947v1,2026-06-20 08:33:55+00:00
+66,Learning the ARTS of Search for Automated Discovery,2606.21891,http://arxiv.org/abs/2606.21891v1,2026-06-20 05:47:37+00:00
+67,Scaling Performance and Low-Resource Annotation with Many-Shot In-Context Learning for Named Entity Recognition,2606.21890,http://arxiv.org/abs/2606.21890v1,2026-06-20 05:39:59+00:00
+68,A Verifiable Search Is Not a Learnable Chain-of-Thought,2606.21884,http://arxiv.org/abs/2606.21884v1,2026-06-20 04:52:14+00:00
+69,Protein contacts are already in the attention: a single-forward-pass alternative to the Categorical Jacobian,2606.21876,http://arxiv.org/abs/2606.21876v1,2026-06-20 04:35:51+00:00
+70,ForEx: A Formal Verification Framework for Explainable Reasoning in Logical Fallacy Detection and Annotation,2606.21867,http://arxiv.org/abs/2606.21867v1,2026-06-20 04:10:02+00:00
+71,RARM: Confidence-Gated Progress Reward Modeling for RL in Manipulation,2606.22027,http://arxiv.org/abs/2606.22027v2,2026-06-20 13:03:21+00:00
