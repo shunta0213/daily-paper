@@ -1,0 +1,83 @@
+,title,id,arxiv_url,published
+0,ML in a Box: Analyzing Containerization Practices in Open Source ML Projects,2607.10126,http://arxiv.org/abs/2607.10126v1,2026-07-11 05:22:29+00:00
+1,A Large-Scale Dataset of MCP Implementations on GitHub,2607.10123,http://arxiv.org/abs/2607.10123v1,2026-07-11 05:08:32+00:00
+2,Dynamic Agent Skills: A Lifecycle Survey and Taxonomy of Evolving Skill Libraries,2607.10113,http://arxiv.org/abs/2607.10113v1,2026-07-11 04:29:28+00:00
+3,Minionese: Comprehensive Benchmark and Mechanistic Study of Multilingual LLM Safety,2607.10112,http://arxiv.org/abs/2607.10112v1,2026-07-11 04:13:42+00:00
+4,Looped State-Space Language Models with Adaptive Exit-State Selection,2607.10110,http://arxiv.org/abs/2607.10110v1,2026-07-11 04:09:19+00:00
+5,SynthDocBench: Controlled Benchmark for Long-Context Visual Document Understanding,2607.10400,http://arxiv.org/abs/2607.10400v1,2026-07-11 17:02:49+00:00
+6,Exploratory Analysis of Deep Learning Models for Forecasting Meteorological Parameters in the Agricultural Sector,2607.10208,http://arxiv.org/abs/2607.10208v1,2026-07-11 08:39:20+00:00
+7,ARMOR: Stabilizing On-Policy LLM RL with Off-Policy Anchor Samples,2607.10481,http://arxiv.org/abs/2607.10481v1,2026-07-11 21:22:46+00:00
+8,GRASP: GRanularity-Aware Search Policy for Agentic RAG,2607.10463,http://arxiv.org/abs/2607.10463v1,2026-07-11 19:58:07+00:00
+9,Instruction Set and Language for Hypergraphs,2607.10194,http://arxiv.org/abs/2607.10194v1,2026-07-11 08:15:52+00:00
+10,Benchmarking the Robustness of Foundation Models for Mammography under Domain Shift,2607.10358,http://arxiv.org/abs/2607.10358v1,2026-07-11 15:31:47+00:00
+11,Graph-Constrained Policy Learning for Extreme Clinical Code Prediction,2607.11954,http://arxiv.org/abs/2607.11954v1,2026-07-11 23:10:01+00:00
+12,Ontology-Amplified Distillation and Contextuality Auditing for Sovereign Enterprise Language Models: A Combined Proof-of-Mechanism and Negative-Results Method Study,2607.11948,http://arxiv.org/abs/2607.11948v1,2026-07-11 15:42:40+00:00
+13,How Query Visibility Changes KV-Cache Compression Rankings: A Matched-Budget Audit,2607.11942,http://arxiv.org/abs/2607.11942v1,2026-07-11 09:30:35+00:00
+14,"Adaptive Compute in Latent World Models: When Depth Helps, Hurts, or Doesn't Matter",2607.10203,http://arxiv.org/abs/2607.10203v2,2026-07-11 08:27:33+00:00
+15,IdeaTrail: Full-Process Agent Trajectories for Scientific Ideation,2607.10144,http://arxiv.org/abs/2607.10144v2,2026-07-11 06:04:29+00:00
+16,ANCHOR: Automated Alignment Auditing for CLI Agents on Real-World Harm,2607.10455,http://arxiv.org/abs/2607.10455v1,2026-07-11 19:39:47+00:00
+17,The RG-Flow Transformer: Encoding Scale-Free Dynamics in Scarce EEG,2607.11950,http://arxiv.org/abs/2607.11950v2,2026-07-11 18:49:13+00:00
+18,Mitigating LLM Sycophancy in Code Smell Detection Using Evidence-Guided Reasoning Prompts,2607.10411,http://arxiv.org/abs/2607.10411v1,2026-07-11 17:35:25+00:00
+19,EmoStyle: Affective Conditioning of Style-Specialist Experts for Emotional Image Generation,2607.10165,http://arxiv.org/abs/2607.10165v1,2026-07-11 07:12:07+00:00
+20,Efficiently Adapting Spoken Language Models for the Singaporean Context,2607.10092,http://arxiv.org/abs/2607.10092v1,2026-07-11 03:11:26+00:00
+21,From Stochastic to Stable: Rank Stability and Structural Sufficiency in AI Visibility Measurement,2607.10341,http://arxiv.org/abs/2607.10341v1,2026-07-11 14:50:02+00:00
+22,Measure the Sim-to-Real Gap: Designing an Affordable Real-World Benchmark Platform for Reinforcement Learning in AIoT Systems,2607.10309,http://arxiv.org/abs/2607.10309v1,2026-07-11 13:28:50+00:00
+23,Comparing Socially-Equitable Renewable Energy Budget Allocation MDP Policies in Mature and Emerging Economies,2607.10201,http://arxiv.org/abs/2607.10201v1,2026-07-11 08:26:17+00:00
+24,GRATE: Temporal Extensions for Inductive KG Foundation Models via Gated Rotary Attention,2607.10197,http://arxiv.org/abs/2607.10197v1,2026-07-11 08:22:17+00:00
+25,Breaking the Quality--Intelligibility Trade-off in Streaming Target Speaker Extraction via Deep-Feature-Anchored Preference Optimization,2607.10191,http://arxiv.org/abs/2607.10191v1,2026-07-11 08:06:24+00:00
+26,The evolution of AI from image interpretation toward scientific inference in nanoparticle electron microscopy,2607.10388,http://arxiv.org/abs/2607.10388v1,2026-07-11 16:35:14+00:00
+27,Co4ICF: Co-evolving Physics-Informed Surrogate and RL-based Pulse Optimizer for Inertial Confinement Fusion,2607.10366,http://arxiv.org/abs/2607.10366v1,2026-07-11 15:43:27+00:00
+28,"Confining Nondeterminism: AI-Driven Research Systems as DBMSs for Reliable, Non-Wasteful, Transparent, and Collaborative Research [Vision]",2607.10508,http://arxiv.org/abs/2607.10508v1,2026-07-11 23:46:01+00:00
+29,Reinforcement Learning with Verifiable Physics: Post-training LLMs with Continuous Rewards,2607.10474,http://arxiv.org/abs/2607.10474v1,2026-07-11 20:53:04+00:00
+30,GRID: Grammar-Railed Decoding for Enterprise SQL Generation,2607.11951,http://arxiv.org/abs/2607.11951v1,2026-07-11 19:25:23+00:00
+31,BAT-RM: A Boundary-Aware Transformer with Region-Aware Multi-Directional Mamba for Clinically Deployed Cervical Cancer Radiotherapy Auto-Contouring,2607.11949,http://arxiv.org/abs/2607.11949v1,2026-07-11 16:58:34+00:00
+32,A Hyperbolic Neural Closure for M1 Radiation Transfer,2607.10364,http://arxiv.org/abs/2607.10364v1,2026-07-11 15:43:00+00:00
+33,"Context by Distinct Information: An Auditable Dirichlet-Process Working Memory for Long, Redundant Context Streams",2607.10441,http://arxiv.org/abs/2607.10441v1,2026-07-11 18:58:22+00:00
+34,ActiveFly-Bench: Aligning Embodied Question Answering with Vision-Language-Action for Aerial Embodied Perception,2607.10180,http://arxiv.org/abs/2607.10180v1,2026-07-11 07:58:04+00:00
+35,UNIT: Unleash Large Language Models Potential for Graph Continual Learning,2607.10159,http://arxiv.org/abs/2607.10159v1,2026-07-11 06:47:26+00:00
+36,FlowPainter: Inpainting Optical Flow via Confidence-Guided Completion,2607.10140,http://arxiv.org/abs/2607.10140v1,2026-07-11 05:59:22+00:00
+37,SALT-GNN: Handling Dense Neighborhoods in Anti-Money Laundering Graphs via Statistics-Aware Attention,2607.10131,http://arxiv.org/abs/2607.10131v1,2026-07-11 05:42:19+00:00
+38,Cost of Reasoning in non-English Languages: A Case Study on Japanese,2607.10114,http://arxiv.org/abs/2607.10114v1,2026-07-11 04:30:43+00:00
+39,"From ambiguous utterances to governed reuse classes: canonicalization, quotient invariance, and conditional decidability",2607.10069,http://arxiv.org/abs/2607.10069v1,2026-07-11 01:49:04+00:00
+40,Spatula: Exploring On-Demand In-Situ Interfaces and Interaction for Attribute Control,2607.10405,http://arxiv.org/abs/2607.10405v1,2026-07-11 17:10:44+00:00
+41,Neutralizing Structural Inequality in the Nigerian FinTech Sector,2607.10317,http://arxiv.org/abs/2607.10317v1,2026-07-11 13:46:06+00:00
+42,Information-seeking failures of large language models in agentic clinical reasoning,2607.10275,http://arxiv.org/abs/2607.10275v1,2026-07-11 12:10:33+00:00
+43,Source-Lifted Flow Matching for Intervenable Multimodal Imitation,2607.10206,http://arxiv.org/abs/2607.10206v1,2026-07-11 08:33:04+00:00
+44,BattVAE-GP: Generative Modeling of Long-Horizon Battery Degradation with Uncertainty Quantification,2607.11943,http://arxiv.org/abs/2607.11943v1,2026-07-11 09:48:36+00:00
+45,Compaction as Epistemic Failure: How Agentic LLM Tools Fabricate Confirmed Results from Killed Processes,2607.13071,http://arxiv.org/abs/2607.13071v1,2026-07-11 07:45:13+00:00
+46,Generalized Distribution-Free Semi-Supervised Learning with Risk Rewrite,2607.11947,http://arxiv.org/abs/2607.11947v2,2026-07-11 13:51:56+00:00
+47,MAG: A Web-Agent Benchmark and Harness for Multimodal Action and Guide Generation,2607.10079,http://arxiv.org/abs/2607.10079v3,2026-07-11 02:08:46+00:00
+48,GRC-ProbNet: Uncertainty-aware Feature Extraction for Cardiovascular Disease Classification,2607.10357,http://arxiv.org/abs/2607.10357v1,2026-07-11 15:29:58+00:00
+49,AgentAbstain: Do LLM Agents Know When Not to Act?,2607.10059,http://arxiv.org/abs/2607.10059v1,2026-07-11 00:57:36+00:00
+50,CARE-LoRA: Compressed Activation REconstruction for Memory-Efficient LoRA,2607.11940,http://arxiv.org/abs/2607.11940v1,2026-07-11 09:04:58+00:00
+51,Automated Tensor Scheduling for Hybrid CPU-GPU LLM Inference on Consumer Devices,2607.10183,http://arxiv.org/abs/2607.10183v2,2026-07-11 08:00:05+00:00
+52,"Large Language Models in Misinformation Ecosystems: Misuse, Defense, and Vulnerability",2607.10402,http://arxiv.org/abs/2607.10402v1,2026-07-11 17:04:17+00:00
+53,A Stepwise Questioning Expert-Editor Multi-Agent Framework for Long-Document Summarization,2607.10390,http://arxiv.org/abs/2607.10390v1,2026-07-11 16:37:06+00:00
+54,Structured Thoughts For Improved Reasoning And Context Pruning,2607.10386,http://arxiv.org/abs/2607.10386v1,2026-07-11 16:29:51+00:00
+55,Comparing Socio-technical Design Principles with Guidelines for Human-centered AI,2607.10331,http://arxiv.org/abs/2607.10331v1,2026-07-11 14:15:54+00:00
+56,Polarization Detection: A Hybrid Approach with AfroXLMR-Social and DeBERTa for Low- and High-Resource Settings,2607.10312,http://arxiv.org/abs/2607.10312v1,2026-07-11 13:37:55+00:00
+57,"Partial Contracts Suffice: Sound, LLM-Inferred Regression Verification",2607.10291,http://arxiv.org/abs/2607.10291v1,2026-07-11 12:40:22+00:00
+58,Behavioural Signatures of Risk-Sensitive Decision-Making in Large Language Models,2607.10251,http://arxiv.org/abs/2607.10251v1,2026-07-11 10:33:39+00:00
+59,When Are Sparse Feature Interventions Actually Localized? Matched Evaluation for SAE-Based Safety Control,2607.10226,http://arxiv.org/abs/2607.10226v1,2026-07-11 09:31:45+00:00
+60,KGCQual: An Interpretable Framework for Evaluating the Knowledge Graph Construction Quality from Text,2607.10212,http://arxiv.org/abs/2607.10212v1,2026-07-11 08:45:15+00:00
+61,PhysMRV: Physical Memory Retrieval and Verification for Physics Plausibility Reasoning,2607.10190,http://arxiv.org/abs/2607.10190v1,2026-07-11 08:06:04+00:00
+62,Beyond Euclidean Clipping: Overcoming Exploration Collapse in LLM RL via Riemannian Isometric Policy Optimization,2607.10169,http://arxiv.org/abs/2607.10169v1,2026-07-11 07:19:59+00:00
+63,LLMs as a Jury: Cross-Model Consensus Can Outperform Process Reward Models for LLM Reasoning,2607.10139,http://arxiv.org/abs/2607.10139v1,2026-07-11 05:57:54+00:00
+64,Falsifiable Release Gates for Self-Improving Systems,2607.13070,http://arxiv.org/abs/2607.13070v1,2026-07-11 06:06:34+00:00
+65,ABot-AgentOS: A General Robotic Agent OS with Lifelong Multi-modal Memory,2607.10350,http://arxiv.org/abs/2607.10350v2,2026-07-11 15:24:43+00:00
+66,Transcript-Free Lightweight Detection of Alzheimer's Disease from Spontaneous Speech Using Handcrafted MFCC-Dominant Acoustic Biomarkers,2607.10168,http://arxiv.org/abs/2607.10168v1,2026-07-11 07:19:16+00:00
+67,GAE: Graph-Augmented Evolution for Scientific Discovery via Reinforcement Optimization,2607.10127,http://arxiv.org/abs/2607.10127v1,2026-07-11 05:32:54+00:00
+68,When Data Imbalance Helps: Robust Generalization Through Shortcut Saturation,2607.10116,http://arxiv.org/abs/2607.10116v1,2026-07-11 04:35:04+00:00
+69,Adaptive Model Compression (AMC): Saliency-Driven Resource Allocation for Ultra-Low-Power Transformer Inference,2607.10109,http://arxiv.org/abs/2607.10109v1,2026-07-11 04:05:26+00:00
+70,Learning the Brain's Dynamics as a Port-Hamiltonian System,2607.10439,http://arxiv.org/abs/2607.10439v1,2026-07-11 18:44:54+00:00
+71,VINE: Taming Generative Control Policies for Reinforcement Learning,2607.10369,http://arxiv.org/abs/2607.10369v1,2026-07-11 15:45:12+00:00
+72,SPARK: Susceptibility-Guided Profiling and Steering of Latent Reasoning States in Large Language Models,2607.10296,http://arxiv.org/abs/2607.10296v1,2026-07-11 12:47:27+00:00
+73,Program-Synthesis-Driven Autodesign of Universal Unitary Operators,2607.10295,http://arxiv.org/abs/2607.10295v1,2026-07-11 12:46:52+00:00
+74,PhenoEmbed: Self-Supervised Multispectral UAV Time-Series Embeddings for Individual Tree Crown Phenology,2607.10231,http://arxiv.org/abs/2607.10231v1,2026-07-11 09:41:36+00:00
+75,"Temporary Authority, Permanent Effects: Commit-Time Authorization for LLM Agents",2607.10487,http://arxiv.org/abs/2607.10487v1,2026-07-11 21:48:53+00:00
+76,"Annotation-Free Furniture Codes: What They Encode, and How Far They Transfer",2607.10461,http://arxiv.org/abs/2607.10461v1,2026-07-11 19:54:52+00:00
+77,Quantum Circuit Vision: Cost-Aware Evaluation of Visual AI Agents for Quantum Code Generation,2607.10057,http://arxiv.org/abs/2607.10057v1,2026-07-11 00:54:52+00:00
+78,Mathematics of Data Science,2607.11938,http://arxiv.org/abs/2607.11938v1,2026-07-11 08:31:44+00:00
+79,Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM Chain-of-Thought via Predicate Substitution,2607.13069,http://arxiv.org/abs/2607.13069v1,2026-07-11 01:32:22+00:00
+80,Can Agentic Trading Systems Pay for Their Own Intelligence?,2607.10286,http://arxiv.org/abs/2607.10286v1,2026-07-11 12:31:54+00:00
+81,ABot-N1: Toward a General Visual Language Navigation Foundation Model,2607.10383,http://arxiv.org/abs/2607.10383v2,2026-07-11 16:21:03+00:00
