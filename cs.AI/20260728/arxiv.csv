@@ -1,0 +1,101 @@
+,title,id,arxiv_url,published
+0,ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU,2607.19191,http://arxiv.org/abs/2607.19191v1,2026-07-21 15:26:50+00:00
+1,DAIS: Dependency-Aware Intermediate QA Supervision for Complex Reasoning,2607.19088,http://arxiv.org/abs/2607.19088v1,2026-07-21 13:25:00+00:00
+2,Quality Action Assurance: Multimodal Verification of Examiner Claims in VR OSCEs,2607.19063,http://arxiv.org/abs/2607.19063v1,2026-07-21 12:51:42+00:00
+3,Vector-Bench: Can Models Surgically Edit SVG Code?,2607.19056,http://arxiv.org/abs/2607.19056v1,2026-07-21 12:44:39+00:00
+4,CoGoal3D: Collaborative 3D Object Detection with 3D-Aware Fusion and Refinement,2607.19036,http://arxiv.org/abs/2607.19036v1,2026-07-21 12:20:48+00:00
+5,On the Effectiveness of Pretraining for Graph Combinatorial Optimization,2607.19072,http://arxiv.org/abs/2607.19072v1,2026-07-21 13:04:13+00:00
+6,Deep learning-based prediction of time-resolved adhesive forces in viscoelastic Hertzian contacts,2607.19060,http://arxiv.org/abs/2607.19060v1,2026-07-21 12:48:48+00:00
+7,Mi-Memory: A Lifecycle Memory Framework for Personal AI,2607.18975,http://arxiv.org/abs/2607.18975v1,2026-07-21 11:10:38+00:00
+8,Variational meta-learning inference for low dimensional neural system identification,2607.18965,http://arxiv.org/abs/2607.18965v1,2026-07-21 10:55:48+00:00
+9,Circuit Claims Depend on What Is Extracted and How It Is Compared,2607.18921,http://arxiv.org/abs/2607.18921v1,2026-07-21 10:04:29+00:00
+10,Regime-Aware Physics-Guided Early Warning of Lithium-Ion Battery Thermal Runaway Using Thermo-Mechanical Signals,2607.18860,http://arxiv.org/abs/2607.18860v1,2026-07-21 08:50:55+00:00
+11,Evaluating medical AI under missing information: same-provider judges and human raters change apparent safety,2607.18828,http://arxiv.org/abs/2607.18828v1,2026-07-21 08:05:35+00:00
+12,Bounding Boxes to Improve Small Language Model Performance on Vision-Based Grading Tasks,2607.18767,http://arxiv.org/abs/2607.18767v1,2026-07-21 06:49:24+00:00
+13,What the Waveform Knows: Transparent-first Speech and Audio Intelligence with Caption Studio,2607.18704,http://arxiv.org/abs/2607.18704v1,2026-07-21 04:56:00+00:00
+14,Semantic Primes as Explanans for Emotion in Large Language Models,2607.18691,http://arxiv.org/abs/2607.18691v1,2026-07-21 04:13:48+00:00
+15,Biological Amnesia in ICU Time-Series Prediction: A Drift-Adaptive Two-Stream Architecture with Temporal Retrieval,2607.19020,http://arxiv.org/abs/2607.19020v1,2026-07-21 12:07:36+00:00
+16,Adaptive Capitulation: A Structural Failure Mode of LLM Responses in Vulnerability Contexts,2607.19629,http://arxiv.org/abs/2607.19629v1,2026-07-21 23:38:59+00:00
+17,Knowledge-Centric Self-Improvement,2607.19592,http://arxiv.org/abs/2607.19592v1,2026-07-21 21:38:39+00:00
+18,ModPack: An Extensible Teleoperation Interface for Bimanual Mobile Manipulation,2607.19479,http://arxiv.org/abs/2607.19479v1,2026-07-21 18:02:20+00:00
+19,Associative Emotional Learning in Convolutional Neural Networks,2607.19327,http://arxiv.org/abs/2607.19327v2,2026-07-21 17:49:19+00:00
+20,Provable diffusion-based posterior sampling for linear inverse problems via DDIM,2607.19333,http://arxiv.org/abs/2607.19333v1,2026-07-21 17:53:36+00:00
+21,Appearance Pointers -- Multimodal Region Control of Diffusion Transformers,2607.19344,http://arxiv.org/abs/2607.19344v1,2026-07-21 17:59:12+00:00
+22,LLM Detection as an Intervention: Downstream Impact under Strategic User Behavior,2607.19300,http://arxiv.org/abs/2607.19300v1,2026-07-21 17:11:02+00:00
+23,"Toward Auditable Fraud Detection: Combining Graph Features, Model Explanations, and Agentic Case Investigation",2607.19266,http://arxiv.org/abs/2607.19266v1,2026-07-21 16:37:41+00:00
+24,AutoIndex: Learning Representation Programs for Retrieval,2607.18603,http://arxiv.org/abs/2607.18603v1,2026-07-21 00:32:55+00:00
+25,"Multi-Horizon Consistency as Geometry: When Latent Dynamics Contract, and When They Do Not",2607.21645,http://arxiv.org/abs/2607.21645v1,2026-07-21 23:50:10+00:00
+26,Free energy landscape of Dense Associative Memory,2607.19195,http://arxiv.org/abs/2607.19195v2,2026-07-21 15:30:53+00:00
+27,An Interactive Vision Language Platform for Cognitive Remediation in Schizophrenia,2607.22721,http://arxiv.org/abs/2607.22721v1,2026-07-21 20:25:50+00:00
+28,Agents in the Wild: Where Research Meets Deployment,2607.19336,http://arxiv.org/abs/2607.19336v1,2026-07-21 17:55:10+00:00
+29,ResearchArena: Evaluating Sabotage and Monitoring in Automated AI R&D,2607.19321,http://arxiv.org/abs/2607.19321v1,2026-07-21 17:41:12+00:00
+30,Graph-Based Agentic AI with LangGraph: Workflow Pathways for Long-Running Stateful Business Processes,2607.19297,http://arxiv.org/abs/2607.19297v1,2026-07-21 17:07:13+00:00
+31,PathAgentBench: Benchmarking Evidence-Seeking Vision-Language Models on Whole-Slide Pathology Image,2607.19261,http://arxiv.org/abs/2607.19261v1,2026-07-21 16:33:44+00:00
+32,RAMP: Recognition parametrisation by Amortised Message Passing,2607.18883,http://arxiv.org/abs/2607.18883v1,2026-07-21 09:13:29+00:00
+33,"AgentDebugX: An Open-Source Toolkit for Failure Observability, Attribution, and Recovery in LLM Agents",2607.18754,http://arxiv.org/abs/2607.18754v1,2026-07-21 06:21:13+00:00
+34,Reasoning Before Translation: Enhancing Legal Machine Translation with Structured Reasoning,2607.19181,http://arxiv.org/abs/2607.19181v1,2026-07-21 15:15:56+00:00
+35,Find Before You Fine-Tune: A Diagnostic Study of Small LLMs for Cybersecurity QA,2607.18725,http://arxiv.org/abs/2607.18725v1,2026-07-21 05:32:40+00:00
+36,"Deep Learning Estimation of Sex, Age, Height, and Weight from CT-derived Digitally Reconstructed Radiographs",2607.18638,http://arxiv.org/abs/2607.18638v1,2026-07-21 02:15:33+00:00
+37,CPInj: Uncovering Prompt Injection Risks in Textual Collaborative Prompt Optimization,2607.18622,http://arxiv.org/abs/2607.18622v1,2026-07-21 01:44:59+00:00
+38,LatentMT: Machine Translation with Latent Reasoning,2607.18618,http://arxiv.org/abs/2607.18618v1,2026-07-21 01:38:23+00:00
+39,Intelligent Multi-UAV Navigation in ITNTNs: A Hierarchical LLM Approach,2607.18604,http://arxiv.org/abs/2607.18604v1,2026-07-21 00:34:42+00:00
+40,"AutoJourn: Multi-Perspective Summarisation, Bias Detection and Bias Neutralisation for LLM-Generated News in Automated Journalism",2607.18983,http://arxiv.org/abs/2607.18983v1,2026-07-21 11:18:00+00:00
+41,OntoBook: Ontology-Grounded Synthetic Textbooks for Medical Encoder Pretraining,2607.18927,http://arxiv.org/abs/2607.18927v1,2026-07-21 10:11:10+00:00
+42,NaviAIS: A Scenario-Level Vessel Trajectory Prediction Dataset withVectorized Lane Priors and the NaviLane Forecasting Framework,2607.18887,http://arxiv.org/abs/2607.18887v1,2026-07-21 09:15:06+00:00
+43,ABOPD: Antibody CDR Design via On-Policy Distillation,2607.18835,http://arxiv.org/abs/2607.18835v1,2026-07-21 08:18:04+00:00
+44,SkillSight: Seeing Through Shared Descriptions for Accurate Skill Retrieval,2607.18785,http://arxiv.org/abs/2607.18785v1,2026-07-21 07:05:15+00:00
+45,Incomplete Observations Boost Evolutionary Performance in Ocean Modeling,2607.19147,http://arxiv.org/abs/2607.19147v1,2026-07-21 14:39:55+00:00
+46,From Operations to Elderly Care Outcomes: A Thematic Review of Industrial Engineering and Decision-Support Approaches,2607.19075,http://arxiv.org/abs/2607.19075v1,2026-07-21 13:07:28+00:00
+47,Fine-grained Computation-Communication Overlap via Tile-level Signaling and Scheduling for Mixture-of-Experts,2607.19539,http://arxiv.org/abs/2607.19539v1,2026-07-21 19:40:06+00:00
+48,"Unlearning as Distribution Restoration: A Controlled Counterfactual Study, a Validated Selective Screen, and the Limits of Oracle-Free Certification",2607.19442,http://arxiv.org/abs/2607.19442v1,2026-07-21 08:59:54+00:00
+49,Building Trust in Autonomous Commerce: A Verifiable Global Event Timeline and AI-Ready Fraud Intelligence Layer,2607.19436,http://arxiv.org/abs/2607.19436v1,2026-07-21 06:22:06+00:00
+50,Assessment in Team Problem-Solving Exercises in Computing Education,2607.19209,http://arxiv.org/abs/2607.19209v1,2026-07-21 15:40:16+00:00
+51,From Dependency to Compositionality: A Neurosymbolic Lifting of LLM Outputs via Combinatory Categorial Grammar,2607.18961,http://arxiv.org/abs/2607.18961v2,2026-07-21 10:52:10+00:00
+52,SynPre-FL: Synthetic data-driven pretraining integrated Federated Learning training framework,2607.19524,http://arxiv.org/abs/2607.19524v1,2026-07-21 19:12:48+00:00
+53,Skillware: A Software Ontology and Engineering Lifecycle for Persistent Behavioral Artifacts,2607.18970,http://arxiv.org/abs/2607.18970v2,2026-07-21 11:03:56+00:00
+54,Computing on the Fly: Navigating a Vision for the Future of Drone Computing,2607.19213,http://arxiv.org/abs/2607.19213v1,2026-07-21 15:42:35+00:00
+55,Parallel Noising in Neural Markov Logic Networks,2607.19126,http://arxiv.org/abs/2607.19126v1,2026-07-21 14:13:09+00:00
+56,Decoupled Pipeline with Proposal Reranking and Score Fusion for Positive-Unlabeled Marine Species Detection,2607.18700,http://arxiv.org/abs/2607.18700v1,2026-07-21 04:35:47+00:00
+57,Do AI-Native Biotechs Need Departments? Benchmarking Company World Models for AI-Driven Drug Development,2607.18696,http://arxiv.org/abs/2607.18696v1,2026-07-21 04:34:35+00:00
+58,Broken Gates: Re-evaluating Web Bot Defenses in the Age of LLM Agents,2607.18659,http://arxiv.org/abs/2607.18659v1,2026-07-21 03:02:57+00:00
+59,Measuring Reward-Seeking via Contrastive Belief Updates,2607.18966,http://arxiv.org/abs/2607.18966v1,2026-07-21 10:57:09+00:00
+60,Functional Equivalence and Geometric Diversity in Neural Network Approximations: An Empirical Characterization,2607.18930,http://arxiv.org/abs/2607.18930v1,2026-07-21 10:12:03+00:00
+61,OPD-IAD: From Language Judgment to Industrial Anomaly Detection via On-Policy Self-Distillation,2607.18850,http://arxiv.org/abs/2607.18850v1,2026-07-21 08:37:01+00:00
+62,PhoenixRepair: Rethinking Repair Strategy Exploration in Software Agents,2607.18859,http://arxiv.org/abs/2607.18859v1,2026-07-21 08:49:30+00:00
+63,"Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evidence-Aware Reinforcement Learning",2607.19345,http://arxiv.org/abs/2607.19345v1,2026-07-21 17:59:21+00:00
+64,They'll Verify. They Just Won't Act. How Authority Framing and Laundered Code Turn a Trusted Agentic CI/CD Pipeline Into an Attack Surface,2607.19267,http://arxiv.org/abs/2607.19267v1,2026-07-21 16:38:32+00:00
+65,"Prompt Design at Scale: How Format, Instruction Count, and Context Length Shape Instruction Adherence and Hallucination in Large Language Models",2607.19257,http://arxiv.org/abs/2607.19257v1,2026-07-21 16:31:35+00:00
+66,Sequential Learner Modeling Using Multi-Relational Graph Convolutional Networks,2607.19253,http://arxiv.org/abs/2607.19253v1,2026-07-21 16:23:16+00:00
+67,Inference-Time Steering for Cross-Lingual Factual Consistency in LLMs,2607.19243,http://arxiv.org/abs/2607.19243v1,2026-07-21 16:15:05+00:00
+68,Off-Context GRPO: Learning to Reason on Hard Problems using Privileged Information,2607.19313,http://arxiv.org/abs/2607.19313v1,2026-07-21 17:28:40+00:00
+69,Breaking the Homogeneity Assumption: Specialized Multi-Generator Adversarial Learning for Rare Failure Detection in Predictive Maintenance,2607.19153,http://arxiv.org/abs/2607.19153v1,2026-07-21 14:52:44+00:00
+70,Causal dictionary learning reveals and validates transcription-factor binding features in genomic language models,2607.19618,http://arxiv.org/abs/2607.19618v1,2026-07-21 22:54:46+00:00
+71,Sophisticated Policies from Epistemic Priors,2607.19518,http://arxiv.org/abs/2607.19518v1,2026-07-21 19:05:52+00:00
+72,Hybrid LLM-Guided Search for Quantum Reservoir Architecture Design,2607.19506,http://arxiv.org/abs/2607.19506v1,2026-07-21 18:43:28+00:00
+73,"MoA-Structured Decode Attention DNF Derivation, KV-Cache Accumulation, GQA/MQA, and OpenACC Kernel",2607.19456,http://arxiv.org/abs/2607.19456v1,2026-07-21 15:50:28+00:00
+74,"Predictive Extrema, Unprofitable Policies: An AI-Assisted Audit of Candle-Based Binance Spot Timing Models",2607.19453,http://arxiv.org/abs/2607.19453v1,2026-07-21 14:04:15+00:00
+75,Tool-Guided Retrieval-Augmented Repair for Securing LLM-Generated C Code,2607.21641,http://arxiv.org/abs/2607.21641v1,2026-07-21 19:01:59+00:00
+76,DAMamba-UNet3D: A Parameter-Efficient Mamba State Space U-Net with Dynamic Adaptive Scan for 3D Medical Image Segmentation,2607.22718,http://arxiv.org/abs/2607.22718v1,2026-07-21 16:42:48+00:00
+77,SEGRA: Structured Experience-Guided Graph Reasoning Agent for Gremlin Based Question Answering,2607.22713,http://arxiv.org/abs/2607.22713v1,2026-07-21 03:22:40+00:00
+78,One Rewrite to Fix Them All? Type-Aware Repair Allocation for Text-to-Image Prompt Optimization,2607.18724,http://arxiv.org/abs/2607.18724v1,2026-07-21 05:31:43+00:00
+79,Strategy-Following Multi-Agent Deep Reinforcement Learning Considering Control Strategies Provided to Other Agents,2607.18719,http://arxiv.org/abs/2607.18719v1,2026-07-21 05:19:49+00:00
+80,DWM: Separating World Effects from Actions in Latent World Models,2607.18715,http://arxiv.org/abs/2607.18715v1,2026-07-21 05:13:26+00:00
+81,Mitigating Matthew Effect: Multi-Hypergraph Boosted Multi-Interest Self-Supervised Learning for Conversational Recommendation,2607.18609,http://arxiv.org/abs/2607.18609v1,2026-07-21 01:07:40+00:00
+82,AILQA: Evaluating AI-Driven Legal Question Answering Systems for the Indian Legal System,2607.18825,http://arxiv.org/abs/2607.18825v1,2026-07-21 08:01:17+00:00
+83,Juxtaposition of Shallow Reservoir-Triggered Seismicity and Deep Tectonic Locking in the Qiaojia-Dongchuan Seismic Gap,2607.19606,http://arxiv.org/abs/2607.19606v1,2026-07-21 22:13:45+00:00
+84,Guardrails as Scapegoats: Auditing Unfaithful Safety Refusals in Tool-Augmented LLM Agents,2607.19449,http://arxiv.org/abs/2607.19449v1,2026-07-21 13:23:05+00:00
+85,ISO: An RLVR-Native Optimization Stack,2607.19331,http://arxiv.org/abs/2607.19331v1,2026-07-21 17:51:36+00:00
+86,From Distances to Trajectories: Real-Time Signed Distance Function Mapping and Distance-Accelerated Motion Planning for UAVs,2607.19306,http://arxiv.org/abs/2607.19306v1,2026-07-21 17:18:46+00:00
+87,Verifiable Self-Evolution for Open-Ended Dialogue Skills via Future-Feedback Prediction,2607.18973,http://arxiv.org/abs/2607.18973v1,2026-07-21 11:06:25+00:00
+88,SFGA: A Statistics-First Gating Architecture with Adjudicative Escalation for Trustworthy SFT Data Procurement,2607.18960,http://arxiv.org/abs/2607.18960v1,2026-07-21 10:52:04+00:00
+89,What General Intelligence Requires: Non-Reducible Constraints Across Levels of Description,2607.18943,http://arxiv.org/abs/2607.18943v1,2026-07-21 10:24:57+00:00
+90,Public perceptions of AI-driven decision-making in healthcare: A structural equation modeling approach,2607.18884,http://arxiv.org/abs/2607.18884v1,2026-07-21 09:14:00+00:00
+91,Data Leakage Prevention in Agentic Applications via Preemptive Hardening,2607.18847,http://arxiv.org/abs/2607.18847v1,2026-07-21 08:35:22+00:00
+92,AgentTrails: Towards Trust and Reuse for Agentic Tasks,2607.18816,http://arxiv.org/abs/2607.18816v1,2026-07-21 07:53:58+00:00
+93,AI Tour Meeting: Group Travel Planning by LLM Agents,2607.18806,http://arxiv.org/abs/2607.18806v1,2026-07-21 07:36:46+00:00
+94,ConceptCF: Concept-based Counterfactuals for the Explainability of Time Series,2607.18748,http://arxiv.org/abs/2607.18748v1,2026-07-21 06:12:16+00:00
+95,Comparative Study of Multi-Agent Actor-Critic Algorithms in Parameterized Action Reinforcement Learning,2607.19117,http://arxiv.org/abs/2607.19117v1,2026-07-21 14:03:29+00:00
+96,SciCodePile: A 128GB Corpus and Executable Benchmark for Challenging Scientific Code Generation,2607.19104,http://arxiv.org/abs/2607.19104v1,2026-07-21 13:46:52+00:00
+97,Supra Cognitive Modes: A Routed Architecture for Agent Memory,2607.19096,http://arxiv.org/abs/2607.19096v1,2026-07-21 13:37:17+00:00
+98,Where Should Optimizer State Live? Tiered State Allocation for Memory-Efficient Mixture-of-Experts Training,2607.19058,http://arxiv.org/abs/2607.19058v1,2026-07-21 12:47:15+00:00
+99,"Computational Humor with Multimodal LLMs: Methods, Datasets, Evaluation, and Challenges",2607.19011,http://arxiv.org/abs/2607.19011v1,2026-07-21 11:53:46+00:00
