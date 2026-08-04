@@ -1,0 +1,101 @@
+,title,id,arxiv_url,published
+0,OmniQEC: discovering practical quantum error-correcting codes by an AI scientist,2607.25865,http://arxiv.org/abs/2607.25865v1,2026-07-28 15:31:26+00:00
+1,SpectONet: A Physics-Guided Spectral Deep Operator Network for Euler-Bernoulli Beam Dynamics,2607.25790,http://arxiv.org/abs/2607.25790v1,2026-07-28 14:42:04+00:00
+2,From Deterministic to Generative Deep Learning for Urban Air Quality Reconstruction from Sparse Observations,2607.25687,http://arxiv.org/abs/2607.25687v1,2026-07-28 13:03:09+00:00
+3,Rashomon Alignment,2607.25680,http://arxiv.org/abs/2607.25680v1,2026-07-28 12:55:57+00:00
+4,OrchBench: Evaluating Multi-Agent Orchestration Plans in Isolation via Deterministic Simulation,2607.25656,http://arxiv.org/abs/2607.25656v1,2026-07-28 12:43:34+00:00
+5,OmniPhys: Knowledge-Graph-Driven Benchmarking and Collective Optimization for Physical Commonsense in Text-to-Image Generation,2607.25641,http://arxiv.org/abs/2607.25641v1,2026-07-28 12:27:25+00:00
+6,Multi-Sensor Alignment for Weather Simulations,2607.25612,http://arxiv.org/abs/2607.25612v1,2026-07-28 11:43:17+00:00
+7,"Multi-Scale Structural Features for Continual, Comprehensible Visual Recognition in a Developmental Learning Framework",2607.25531,http://arxiv.org/abs/2607.25531v1,2026-07-28 10:17:54+00:00
+8,Automated Numerical Stability Analysis of Deep Learning Operators,2607.25494,http://arxiv.org/abs/2607.25494v1,2026-07-28 09:31:17+00:00
+9,CoTinyVLA: Chain-of-Thought Distillation for a Sub-Billion-Parameter Vision-Language-Action Model,2607.25487,http://arxiv.org/abs/2607.25487v1,2026-07-28 09:24:17+00:00
+10,Salient Knowledge Pathways: Sparse Cross-Modal Routing for Efficient Knowledge-Intensive Multimodal Question Answering,2607.25422,http://arxiv.org/abs/2607.25422v1,2026-07-28 08:20:40+00:00
+11,"A Control System, a Dataset, and a Recipe for Making Frozen LLM Agents Learn a Domain",2607.25415,http://arxiv.org/abs/2607.25415v1,2026-07-28 08:10:25+00:00
+12,COVENANT: Natural-Language Workflow Compilation for Aligned Agent Execution,2607.25400,http://arxiv.org/abs/2607.25400v1,2026-07-28 07:59:50+00:00
+13,Large Language Model for Operations Research Formulation Selection in Multi-Warehouse Inventory Allocation,2607.25956,http://arxiv.org/abs/2607.25956v1,2026-07-28 16:41:54+00:00
+14,Hybrid Analysis for Secure MCP Tool Use in LLM Agents,2607.25297,http://arxiv.org/abs/2607.25297v1,2026-07-28 05:17:34+00:00
+15,Instruction-Tuned Language Models Cannot Sample from Distributions They Can Describe,2607.25292,http://arxiv.org/abs/2607.25292v1,2026-07-28 04:58:46+00:00
+16,ContractHIL-HLS: Contract-Aligned Multi-Agent Workflow with Hardware-in-the-Loop Feedback for HLS Design,2607.25283,http://arxiv.org/abs/2607.25283v1,2026-07-28 04:41:13+00:00
+17,VaLiDRec: Variable-Length LLM-Aligned Semantic IDs for Generative Recommendation,2607.25209,http://arxiv.org/abs/2607.25209v1,2026-07-28 02:29:10+00:00
+18,Pictura: Perspective-View Self-Play at Scale for Driving,2607.26005,http://arxiv.org/abs/2607.26005v1,2026-07-28 17:20:39+00:00
+19,Specula: Scaling formal specifications for autonomous model checking of system code,2607.25333,http://arxiv.org/abs/2607.25333v1,2026-07-28 06:33:15+00:00
+20,"Pramana: A Composable, Domain-Specific Backend for Empirical Networking Research",2607.26352,http://arxiv.org/abs/2607.26352v1,2026-07-28 23:51:57+00:00
+21,Aligning LLM-Simulated and Human Examinees for Psychometric Calibration: A Cognitive Diagnostic Profiling Approach,2607.26317,http://arxiv.org/abs/2607.26317v1,2026-07-28 22:33:16+00:00
+22,TraceCLIP: Recovering Local Semantics from Patch-to-CLS Contributions,2607.26107,http://arxiv.org/abs/2607.26107v1,2026-07-28 11:25:27+00:00
+23,"Detecting Knowledge Inconsistencies Across Text, Tables, and Knowledge Graphs",2607.25959,http://arxiv.org/abs/2607.25959v2,2026-07-28 16:43:56+00:00
+24,Beyond Self-Knowledge: Propagating Uncertainty Across Reasoning and Retrieval in LLMs,2607.25600,http://arxiv.org/abs/2607.25600v2,2026-07-28 11:30:25+00:00
+25,A Density-Matrix Framework for Electronic-Structure Analysis of Functional-Group and Salt Effects in Lithium-Metal Electrolytes,2607.25597,http://arxiv.org/abs/2607.25597v2,2026-07-28 11:28:03+00:00
+26,OrganLens: Organ-Specific Representation Learning for CT Foundation Models,2607.25164,http://arxiv.org/abs/2607.25164v1,2026-07-28 00:25:05+00:00
+27,AnnoBench: A Benchmark for Visualization Annotation Generation,2607.25911,http://arxiv.org/abs/2607.25911v1,2026-07-28 16:04:39+00:00
+28,TabRank: Chain-of-Thought Distillation for Table Re-Rankers,2607.25182,http://arxiv.org/abs/2607.25182v1,2026-07-28 01:23:04+00:00
+29,Nudging Sustainable Choices through LLM-Generated Recommendation Explanations,2607.25726,http://arxiv.org/abs/2607.25726v2,2026-07-28 13:49:51+00:00
+30,OmniDelta: Skill-Driven Budget Allocation for Token Compression in OmniLLMs,2607.25669,http://arxiv.org/abs/2607.25669v1,2026-07-28 12:50:31+00:00
+31,Where Steering Signals Come From: Activation Source Selection in Activation Steering,2607.25270,http://arxiv.org/abs/2607.25270v1,2026-07-28 04:18:24+00:00
+32,Architectural Backdoors in Vision-Language Model Supply Chains via Representation Steering,2607.25479,http://arxiv.org/abs/2607.25479v1,2026-07-28 09:12:11+00:00
+33,"Try Again, Don't Look Back: Blind Resampling Outperforms Self-Repair in Small Code Models",2607.26117,http://arxiv.org/abs/2607.26117v1,2026-07-28 16:58:27+00:00
+34,A Reference-Free Score for Detecting Silent Reasoning Failures in Large Language Models,2607.26102,http://arxiv.org/abs/2607.26102v1,2026-07-28 07:28:38+00:00
+35,Knowledge-Guided Multimodal Reasoning over Interacting Streams for Video-Level Ambivalence and Hesitancy Recognition,2607.25961,http://arxiv.org/abs/2607.25961v2,2026-07-28 16:44:38+00:00
+36,The LAIA Dataset: Labelled Attention for Intelligent Automobiles,2607.25570,http://arxiv.org/abs/2607.25570v2,2026-07-28 10:57:22+00:00
+37,I2VShield: An Efficient Proactive Defense Framework against DiT-based Image-to-Video Models,2607.25522,http://arxiv.org/abs/2607.25522v2,2026-07-28 10:05:11+00:00
+38,"Every Time I Hire a Linguist, Inference Costs Go Down: On Linguistic Rules as Effective Prompt Compressors",2607.25335,http://arxiv.org/abs/2607.25335v2,2026-07-28 06:33:27+00:00
+39,When Synthetic Users Fail: A Cross-Domain Benchmark of LLM-Simulated Human Survey Responses,2607.26348,http://arxiv.org/abs/2607.26348v1,2026-07-28 23:43:00+00:00
+40,StealthBench: Measuring Operational Stealth in Autonomous Offensive-Security Agents,2607.26314,http://arxiv.org/abs/2607.26314v1,2026-07-28 22:23:34+00:00
+41,"SARC-DQ: Runtime Data-Quality Gating for Agentic AI: Silent Evidence Defects, the Incompetence Shield, and Downstream-Only Remediation",2607.26313,http://arxiv.org/abs/2607.26313v1,2026-07-28 22:22:52+00:00
+42,AgentGUI: An Interface for Observing and Steering Long-Running AI Agents,2607.26300,http://arxiv.org/abs/2607.26300v1,2026-07-28 21:47:22+00:00
+43,(EC)2: Event-Centric Explainability for Cybersecurity Through Multi-Agent LLM Investigations,2607.26201,http://arxiv.org/abs/2607.26201v1,2026-07-28 19:06:24+00:00
+44,GuideSkill: Evolving Executable LLM Agent Skills for Guideline-Grounded Clinical Reasoning,2607.26160,http://arxiv.org/abs/2607.26160v1,2026-07-28 18:10:33+00:00
+45,Towards Trustworthy Embodied Intelligence: A Systems Framework and Graded Trustworthiness Levels,2607.26121,http://arxiv.org/abs/2607.26121v1,2026-07-28 17:50:44+00:00
+46,Retraction-Free Optimization over the Stiefel Manifold for the LoRA Fine-Tuning,2607.25299,http://arxiv.org/abs/2607.25299v1,2026-07-28 05:22:39+00:00
+47,ScaleResfusion: Residual Rectified Flow based on Residual Vector Field,2607.25275,http://arxiv.org/abs/2607.25275v1,2026-07-28 04:26:05+00:00
+48,Bridging Compute- and Data-Optimal Pretraining,2607.25271,http://arxiv.org/abs/2607.25271v1,2026-07-28 04:18:49+00:00
+49,Laplace-PSN-IRT: Uncertainty Quantification for Neural Item Response Theory Models of LLM Benchmarks,2607.25257,http://arxiv.org/abs/2607.25257v1,2026-07-28 03:56:23+00:00
+50,CondPSE: A Polynomial-Filtered Structural Encoder with Conditional Modulation for Graphs,2607.25169,http://arxiv.org/abs/2607.25169v1,2026-07-28 00:46:34+00:00
+51,IRIS: Reusable Identity Representations from Frozen LLMs for Entity Alignment,2607.25579,http://arxiv.org/abs/2607.25579v1,2026-07-28 11:05:46+00:00
+52,CORF-GS: Real-Time Wireless Radiance Field Reconstruction via Coupled Optical-RF Gaussian Splatting,2607.25569,http://arxiv.org/abs/2607.25569v1,2026-07-28 10:56:52+00:00
+53,"Seen, Said, or Forgotten? A Causal Audit of Visual KV Memory Across Dialog Turns",2607.25467,http://arxiv.org/abs/2607.25467v1,2026-07-28 08:59:57+00:00
+54,"Toward an Organizational Science of Multi-Agent LLM Systems: Decoupling Who, How, and Which Algorithm",2607.25446,http://arxiv.org/abs/2607.25446v1,2026-07-28 08:35:21+00:00
+55,Rethinking Likelihood distributions: Student's t Likelihood Boosts Bayesian Neural Network Performance,2607.25376,http://arxiv.org/abs/2607.25376v1,2026-07-28 07:32:02+00:00
+56,Shared Voxel-Map-Based Cooperative Indoor UAV Guidance with a Multi-Agent Soft Actor-Critic Controller,2607.25728,http://arxiv.org/abs/2607.25728v1,2026-07-28 13:52:12+00:00
+57,"F(AI)2R: Who Did What, and Who Checked? Verifiable AI Provenance as an Executable Skill",2607.25637,http://arxiv.org/abs/2607.25637v1,2026-07-28 12:17:53+00:00
+58,A Human-in-the-Loop Corpus for LLM-Based Simplification of Scientific Summaries,2607.25630,http://arxiv.org/abs/2607.25630v1,2026-07-28 12:12:39+00:00
+59,$π\mathbf{R}^2$: Reactive Real-time Flow Policies,2607.26055,http://arxiv.org/abs/2607.26055v1,2026-07-28 17:59:31+00:00
+60,Falling Behind Drives Unsafe Development in an Idealised AI Race Experiment,2607.26034,http://arxiv.org/abs/2607.26034v1,2026-07-28 17:44:03+00:00
+61,MDTransformer: A Hardware-Software Co-Design of Mode-Division Photonic Transformer Accelerator with Inverse-Designed Coherent Crossbar,2607.26016,http://arxiv.org/abs/2607.26016v1,2026-07-28 17:27:49+00:00
+62,Reinforcement Learning for Code Optimization,2607.25970,http://arxiv.org/abs/2607.25970v1,2026-07-28 16:52:31+00:00
+63,Evaluating Multi-Turn Multimodal Diagnostic Reasoning on Challenging Real-World Clinical Cases,2607.25933,http://arxiv.org/abs/2607.25933v1,2026-07-28 16:19:03+00:00
+64,Minimizing Targeted Activations: Input-Only Suppression of Evaluation-Awareness Latents in Large Language Models,2607.25907,http://arxiv.org/abs/2607.25907v1,2026-07-28 16:01:48+00:00
+65,Messier: A High-Resolution Corpus for Cross-Benchmark Agent Evaluation,2607.25891,http://arxiv.org/abs/2607.25891v1,2026-07-28 15:50:19+00:00
+66,Runtime Uncertainty Monitoring for LLM-Based Multi-Agent Systems Using Bayesian Networks,2607.25877,http://arxiv.org/abs/2607.25877v1,2026-07-28 15:39:43+00:00
+67,Agent Skills Matter: Inferring Proprietary Skills from Execution Trajectories,2607.25560,http://arxiv.org/abs/2607.25560v2,2026-07-28 10:40:59+00:00
+68,RIDGE: An Autonomous Framework for Validation and Method Discovery in LLM-Generated Option Pricing,2607.25199,http://arxiv.org/abs/2607.25199v2,2026-07-28 02:12:52+00:00
+69,Do Context Files Help Coding Agents? A Two-Agent Ablation Study on Real Repositories,2607.27250,http://arxiv.org/abs/2607.27250v1,2026-07-28 11:07:53+00:00
+70,Divergence Decoding: Training-Free Capability Fusion,2607.27248,http://arxiv.org/abs/2607.27248v1,2026-07-28 06:52:19+00:00
+71,HANDBOOK.md: A Benchmark for Long-Context Agentic Instruction Following,2607.25398,http://arxiv.org/abs/2607.25398v2,2026-07-28 07:58:07+00:00
+72,CADENCE: A Cardiac Atom Dictionary for Interpretable Neural Concept Extraction from ECG Foundation Models,2607.25244,http://arxiv.org/abs/2607.25244v1,2026-07-28 03:38:03+00:00
+73,GPT-Red: Automated Red Teaming via Self-Play at Scale,2607.26115,http://arxiv.org/abs/2607.26115v1,2026-07-28 16:03:39+00:00
+74,Weight and Height Estimation from a Single Human Image Captured in the Wild,2607.26104,http://arxiv.org/abs/2607.26104v1,2026-07-28 08:39:11+00:00
+75,Tools Are Not Islands: Set-Level Tool Retrieval for LLM Agents via Query-Conditioned Hyperedge Prediction,2607.25718,http://arxiv.org/abs/2607.25718v2,2026-07-28 13:45:08+00:00
+76,Empirical Evaluation of Out-Of-Distribution Performance of Tabular Foundation Models,2607.26000,http://arxiv.org/abs/2607.26000v1,2026-07-28 17:16:01+00:00
+77,Does Runtime Topology Context Improve LLM-Generated Kubernetes Security Patches?,2607.25995,http://arxiv.org/abs/2607.25995v1,2026-07-28 17:12:12+00:00
+78,MemLens: A Value-Aware Memory Management System with Interactive Analytics for LLM-based Agents,2607.25992,http://arxiv.org/abs/2607.25992v1,2026-07-28 17:08:56+00:00
+79,Face De-Identification: A Domain-Centric Survey from Capture to Processing,2607.25926,http://arxiv.org/abs/2607.25926v1,2026-07-28 16:15:12+00:00
+80,SAM3D-Guided Object-Centric Representation Alignment for Vision-Language-Action Models,2607.25912,http://arxiv.org/abs/2607.25912v1,2026-07-28 16:05:32+00:00
+81,A Machine-Learning-Based Gas Lift Optimization Workflow for Unconventional Fields,2607.25885,http://arxiv.org/abs/2607.25885v1,2026-07-28 15:46:22+00:00
+82,AIriskEval-edu Demo: Auditing of Pedagogical Risks in Educational Explanations,2607.25634,http://arxiv.org/abs/2607.25634v1,2026-07-28 12:16:28+00:00
+83,Explainable AI for Chronic Kidney Disease Prediction Using Simulated Federated Learning,2607.25348,http://arxiv.org/abs/2607.25348v1,2026-07-28 06:53:59+00:00
+84,Dual-Domain Manifold Modeling for Hyperspectral Image Fusion,2607.25338,http://arxiv.org/abs/2607.25338v1,2026-07-28 06:40:36+00:00
+85,Physics-Informed Neural Operator for Warm-Starting Background-Decomposed and Preconditioned PSFD: Enabling Scalable 3-D EUV Mask Simulation,2607.25330,http://arxiv.org/abs/2607.25330v1,2026-07-28 06:31:21+00:00
+86,TopoGR: Revealing and Preserving Latent Structure of Semantic ID in Generative Recommendation,2607.25216,http://arxiv.org/abs/2607.25216v1,2026-07-28 02:45:33+00:00
+87,Contrastive Representation Learning of Longitudinal Disease Trajectories on Temporal Graphs,2607.25609,http://arxiv.org/abs/2607.25609v1,2026-07-28 11:38:49+00:00
+88,Physics-Informed Broad Learning System: An Efficient Backpropagation-Free Framework for Solving Partial Differential Equations,2607.25608,http://arxiv.org/abs/2607.25608v1,2026-07-28 11:36:34+00:00
+89,Distilling Temporal Search and Reasoning: Evolving LLMs for Future Prediction via Harness-Assisted Efficient Data Synthesis,2607.25554,http://arxiv.org/abs/2607.25554v1,2026-07-28 10:35:20+00:00
+90,Less is More: Modality-Decoupling for General AIGC Audio-Video Detection,2607.25543,http://arxiv.org/abs/2607.25543v1,2026-07-28 10:23:36+00:00
+91,Are the High-weight Neurons the Important Ones in Image Classification Neural Networks?,2607.25529,http://arxiv.org/abs/2607.25529v1,2026-07-28 10:14:35+00:00
+92,Argus-Unified: Towards A Compact and Economical Unified Model for Image Understanding and Generation,2607.25527,http://arxiv.org/abs/2607.25527v1,2026-07-28 10:12:06+00:00
+93,PatientAgentBench: A Benchmark Framework for Evaluating Patient-Facing Health AI Agents,2607.25485,http://arxiv.org/abs/2607.25485v1,2026-07-28 09:24:04+00:00
+94,Emergent Latent-State Computation under Stochastic Volatility,2607.25459,http://arxiv.org/abs/2607.25459v1,2026-07-28 08:49:48+00:00
+95,"MyMentorLLM: A psychotherapy GenAI environment with multimodal voice/text patients, trainees and experts for deliberate practice",2607.25667,http://arxiv.org/abs/2607.25667v1,2026-07-28 12:50:11+00:00
+96,Why Public Service AI Governance Frameworks Risk Failing in the Age of General-Purpose AI: Lessons from Policing,2607.25648,http://arxiv.org/abs/2607.25648v1,2026-07-28 12:34:04+00:00
+97,KQFuzz: Knowledge-Guided Fuzzing for Quantum Libraries via Large Language Models,2607.25647,http://arxiv.org/abs/2607.25647v1,2026-07-28 12:31:34+00:00
+98,"Quotient Dynamics, Effective Curvature, and Implicit Bias in Positive Quadratic Networks",2607.25624,http://arxiv.org/abs/2607.25624v1,2026-07-28 12:04:46+00:00
+99,Contextualized Counterspeech Can Be More Persuasive Than Generic Counterspeech,2607.26236,http://arxiv.org/abs/2607.26236v1,2026-07-28 20:16:06+00:00
