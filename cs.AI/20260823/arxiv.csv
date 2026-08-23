@@ -1,0 +1,91 @@
+,title,id,arxiv_url,published
+0,KV-Rescue: Recovering Reasoning Language Model KV Eviction Loss via Stepwise Interleaving,2608.15797,http://arxiv.org/abs/2608.15797v1,2026-08-16 15:23:25+00:00
+1,Temporal Graph Prototype-conditioned Conformal Prediction for Fraud Detection,2608.15768,http://arxiv.org/abs/2608.15768v1,2026-08-16 14:44:16+00:00
+2,HyMem: Hierarchical Context Management for Long-Horizon Agents via Information Isolation,2608.15703,http://arxiv.org/abs/2608.15703v1,2026-08-16 12:15:01+00:00
+3,Adaptive Mixing of Policies from Searching and Policies from Learning,2608.15700,http://arxiv.org/abs/2608.15700v1,2026-08-16 12:11:01+00:00
+4,When Stories Evolve: Benchmarking LLM Storytelling Across Agent Architectures in Open-Ended World Simulations,2608.15654,http://arxiv.org/abs/2608.15654v1,2026-08-16 09:46:45+00:00
+5,ARENA: Automated Red-Teaming for Large Audio Language Models,2608.15578,http://arxiv.org/abs/2608.15578v1,2026-08-16 07:03:53+00:00
+6,Catching Hallucinated Citations in Video-LLM Question Answering: A Self-Verification Pipeline and Verifier Ablation Study,2608.15574,http://arxiv.org/abs/2608.15574v1,2026-08-16 06:42:11+00:00
+7,Dynamic Multi-Byte Prediction With Hierarchical Language Models,2608.15454,http://arxiv.org/abs/2608.15454v1,2026-08-16 00:11:11+00:00
+8,Mental Model Management: An Operator-Based Framework for LLM Memory,2608.15451,http://arxiv.org/abs/2608.15451v1,2026-08-16 00:01:07+00:00
+9,Bounded Agents: Delegation Security for Multi-Agent AI Systems,2608.15888,http://arxiv.org/abs/2608.15888v1,2026-08-16 18:38:00+00:00
+10,Beyond Visual CoT: Internalized Visual Thinking for Proactive Video Reasoning,2608.15869,http://arxiv.org/abs/2608.15869v1,2026-08-16 17:35:38+00:00
+11,RAGas: Retrieval-Augmented Gas Optimization for Smart Contracts with Continuous Knowledge Integration,2608.15857,http://arxiv.org/abs/2608.15857v1,2026-08-16 17:03:28+00:00
+12,Solvable Sokoban Without a Solver via Diffusion,2608.15958,http://arxiv.org/abs/2608.15958v1,2026-08-16 23:17:07+00:00
+13,Navigation-Informed Embeddings: Dense-Retriever Adaptation from Agent Search Traces,2608.15956,http://arxiv.org/abs/2608.15956v1,2026-08-16 23:07:44+00:00
+14,UI-Mate: Advancing Open-Weight Foundation GUI Agents with In-Context Demonstrations,2608.15930,http://arxiv.org/abs/2608.15930v1,2026-08-16 20:59:59+00:00
+15,Adversarial Review: Structured Disagreement for Grounded Agentic Code Review,2608.18167,http://arxiv.org/abs/2608.18167v1,2026-08-16 21:58:17+00:00
+16,PLeDO: Pain Level Detection for Osteoarthritis from EMR Data,2608.15719,http://arxiv.org/abs/2608.15719v1,2026-08-16 12:41:29+00:00
+17,Hierarchical Adaptive Feature Refinement Network for VHR Remote Sensing Image Segmentation,2608.15647,http://arxiv.org/abs/2608.15647v1,2026-08-16 09:26:58+00:00
+18,TRACE: Trajectory Aware Reasoning for Multi-Turn Adversarial Conversation Evaluation,2608.15594,http://arxiv.org/abs/2608.15594v1,2026-08-16 07:32:02+00:00
+19,GraniKV: Asymmetric Granularity KV-Cache Paging for Multi-Agent Systems with Long Shared Prefix,2608.15584,http://arxiv.org/abs/2608.15584v1,2026-08-16 07:19:49+00:00
+20,From Generalist to Specialist: A Context-Fusion Framework for Endoscopic Polyp Reporting with a Frozen VLM,2608.15580,http://arxiv.org/abs/2608.15580v1,2026-08-16 07:11:00+00:00
+21,MistyPilot: Enabling Social-Robot Control through Multi-Agent LLM Skill Orchestration,2608.15549,http://arxiv.org/abs/2608.15549v1,2026-08-16 05:45:16+00:00
+22,EcoVLA: Energy-Efficient Device-Edge Co-Inference for Vision-Language-Action Models under Real-Time Constraints,2608.15502,http://arxiv.org/abs/2608.15502v1,2026-08-16 03:08:40+00:00
+23,Feasible and Novel Synthetic Population Generation with Tabular and Sequential Travel Attributes,2608.15867,http://arxiv.org/abs/2608.15867v1,2026-08-16 17:27:50+00:00
+24,Augmenting Text to Increase Translation Difficulty,2608.15932,http://arxiv.org/abs/2608.15932v1,2026-08-16 21:13:21+00:00
+25,Noesis: Bidirectional Graph-RAG with Adaptive Parallelism and Cross-Knowledge-Base Semantic Discovery,2608.15919,http://arxiv.org/abs/2608.15919v1,2026-08-16 20:23:35+00:00
+26,Pre-training Visual Dexterity in Simulation,2608.15917,http://arxiv.org/abs/2608.15917v1,2026-08-16 20:21:33+00:00
+27,Comprehensive Benchmarking of Deep Learning Architectures for Lung Cancer Histopathology,2608.15915,http://arxiv.org/abs/2608.15915v1,2026-08-16 20:12:13+00:00
+28,Layers Matter: Why Continual Learning Regularization Should Be Layer-Adaptive,2608.15901,http://arxiv.org/abs/2608.15901v1,2026-08-16 19:37:38+00:00
+29,THESIS-MoE: Trainable Hierarchical Extraction and SteerIng of Sycophancy in Mixture-of-Experts,2608.15687,http://arxiv.org/abs/2608.15687v1,2026-08-16 11:30:26+00:00
+30,Ask to Be Sure: Informative Interactions for Confident Multi-Turn LLM Recommendation,2608.15949,http://arxiv.org/abs/2608.15949v2,2026-08-16 22:14:12+00:00
+31,RDFdL: Integrating RDF with Differential Dynamic Logic,2608.18165,http://arxiv.org/abs/2608.18165v1,2026-08-16 02:04:26+00:00
+32,A Cognitively Motivated Multidimensional Framework for Evaluating Metaphor Explanations,2608.15828,http://arxiv.org/abs/2608.15828v1,2026-08-16 16:02:19+00:00
+33,Dear Algo: A Precision-First Agentic Intent Layer for Unified Search and Recommendation,2608.15877,http://arxiv.org/abs/2608.15877v1,2026-08-16 17:59:12+00:00
+34,Scaling Manual-Grounded Appliance Manipulation with Data Synthesis and Unified Planning,2608.15863,http://arxiv.org/abs/2608.15863v1,2026-08-16 17:15:54+00:00
+35,Schema-Agnostic Graph Reasoning Agent for Hybrid Knowledge Graphs,2608.15834,http://arxiv.org/abs/2608.15834v1,2026-08-16 16:10:32+00:00
+36,"The Authority Resolution Framework: A Five-Domain Ontology for Governing Who and What Decides, at Scale",2608.15832,http://arxiv.org/abs/2608.15832v1,2026-08-16 16:05:50+00:00
+37,EA-LiteUNet: An Edge-Adaptive and Resource-Efficient U-Net for Boundary-Sensitive Dermoscopic Image Segmentation,2608.15537,http://arxiv.org/abs/2608.15537v1,2026-08-16 05:20:39+00:00
+38,Who Leads Now? Token-Level Modality Arbitration for Chart-to-Code Generation,2608.15510,http://arxiv.org/abs/2608.15510v1,2026-08-16 03:33:01+00:00
+39,Not All Attention Is Equal: A Quantitative Survey of the EEI Trade-off,2608.15459,http://arxiv.org/abs/2608.15459v1,2026-08-16 00:37:38+00:00
+40,Broken Symmetry in LLM Refusal: Answer Release Is More Local Than Refusal Restoration,2608.15772,http://arxiv.org/abs/2608.15772v1,2026-08-16 14:47:33+00:00
+41,Toward AI-Friendly Cartography: Understanding How Color Design Influences Foundation Model Spatial Reasoning on Sequential Choropleth Maps,2608.15736,http://arxiv.org/abs/2608.15736v1,2026-08-16 13:24:31+00:00
+42,Identifying Confusion Trends in Concept-based XAI for Multi-Label Classification,2608.15731,http://arxiv.org/abs/2608.15731v1,2026-08-16 13:13:22+00:00
+43,FirstDiff: One-Step Diffusion-Based Anomaly Detection for Multivariate Time Series via Initial Noise Prediction,2608.15727,http://arxiv.org/abs/2608.15727v1,2026-08-16 12:59:38+00:00
+44,Beyond Single Object: Learning 3D Relations with Large Language Models,2608.15710,http://arxiv.org/abs/2608.15710v1,2026-08-16 12:29:10+00:00
+45,Bias-Corrected Ceilings of Emotion Predictability from Human Label Variation Based on Instance-Level Fano Bounds,2608.15619,http://arxiv.org/abs/2608.15619v1,2026-08-16 08:34:46+00:00
+46,FluxBin: Flexible LUT-based Ultra-low-bit LLM Inference by Algorithm-Kernel Synergy,2608.15602,http://arxiv.org/abs/2608.15602v1,2026-08-16 08:01:06+00:00
+47,The Price of Thinking: Reasoning Effort as a Model-Specific API Contract,2608.16956,http://arxiv.org/abs/2608.16956v1,2026-08-16 12:09:29+00:00
+48,LLMs Get Smarter from Targeted Synthetic Multilingual Data,2608.15964,http://arxiv.org/abs/2608.15964v1,2026-08-16 23:38:26+00:00
+49,Breaking and Defending LLM-Powered Social Media Bot Detection Systems,2608.15893,http://arxiv.org/abs/2608.15893v1,2026-08-16 18:56:01+00:00
+50,Characterising cardiac tissue properties with graph neural networks,2608.15843,http://arxiv.org/abs/2608.15843v1,2026-08-16 16:31:37+00:00
+51,CM-MAE: A Physics-Guided Cross-Modal Self-Supervised Learning Framework for Vision-Wireless Applications,2608.15972,http://arxiv.org/abs/2608.15972v1,2026-08-16 23:55:03+00:00
+52,Information Geometry of Message Passing,2608.15922,http://arxiv.org/abs/2608.15922v1,2026-08-16 20:36:58+00:00
+53,Spectral Saliency for Machine Unlearning,2608.15548,http://arxiv.org/abs/2608.15548v1,2026-08-16 05:44:53+00:00
+54,Bit-Flip Attacks on Vision-Language-Action Models: Action-Decoding Architecture Shapes the Vulnerability,2608.15475,http://arxiv.org/abs/2608.15475v1,2026-08-16 01:44:09+00:00
+55,CardiacMamba: Fair and Robust RGB-RF Fusion for Remote Heart Rate Estimation via State Space Modeling,2608.15831,http://arxiv.org/abs/2608.15831v1,2026-08-16 16:05:24+00:00
+56,Routing Divergence Is Not Evidence of Behavioral Influence in Same-Weight MoE Self-Distillation,2608.15787,http://arxiv.org/abs/2608.15787v1,2026-08-16 15:07:17+00:00
+57,Decomposing Staleness in Recommender Systems: A Dual-Filter Framework for Supersession and Decay,2608.15780,http://arxiv.org/abs/2608.15780v1,2026-08-16 15:00:24+00:00
+58,ALKEMIE Agent: an autonomous platform for computational materials design,2608.15776,http://arxiv.org/abs/2608.15776v1,2026-08-16 14:54:00+00:00
+59,Intent-Driven Situation Tracking for User-Centric Multi-Turn Agents,2608.15755,http://arxiv.org/abs/2608.15755v1,2026-08-16 14:14:07+00:00
+60,Propaganda Forensics: Recovering the Generation Pipeline of an AI-Driven Influence Campaign,2608.15746,http://arxiv.org/abs/2608.15746v1,2026-08-16 13:53:30+00:00
+61,Large Models for Small Devices: Recent Advances and Empirical Analysis of Edge AI Deployment,2608.15693,http://arxiv.org/abs/2608.15693v1,2026-08-16 11:52:13+00:00
+62,Robo-Dopamine 2.0: History-Conditioned and OOD-Aware Process Reward Modeling for Robotic Manipulation,2608.15680,http://arxiv.org/abs/2608.15680v1,2026-08-16 11:15:55+00:00
+63,Do Assessment Instruments Measure the Same Thing for Humans and LLMs? A Latent Structure Analysis,2608.15630,http://arxiv.org/abs/2608.15630v1,2026-08-16 08:52:58+00:00
+64,VARM-Bench: Benchmarking Verifiable Structured Reasoning in Chinese Abusive Speech Moderation,2608.15600,http://arxiv.org/abs/2608.15600v1,2026-08-16 07:52:31+00:00
+65,When Entropy Is Not Enough: Reclaiming Lost Semantics in LLM Output Length Prediction,2608.15592,http://arxiv.org/abs/2608.15592v1,2026-08-16 07:28:15+00:00
+66,ATLAS: Scaffold-Free Algorithm Synthesis by LLMs via Embedding-Guided Quality-Diversity Search,2608.15546,http://arxiv.org/abs/2608.15546v2,2026-08-16 05:43:34+00:00
+67,Admission Without Answers: Label-Free Certification and Experience Learning for LLM-Based Optimization Modeling,2608.15565,http://arxiv.org/abs/2608.15565v3,2026-08-16 06:18:54+00:00
+68,Argumentation for Common Ground: Finding Zones of Possible Agreement between Individuals in Conflict,2608.15634,http://arxiv.org/abs/2608.15634v1,2026-08-16 08:57:50+00:00
+69,CoupVisor: Strategy Optimization by Round and Challenge Decision Support,2608.15868,http://arxiv.org/abs/2608.15868v1,2026-08-16 17:29:04+00:00
+70,Unified Pedestrian Path Prediction Using Inverse Reinforcement Learning,2608.15929,http://arxiv.org/abs/2608.15929v1,2026-08-16 20:51:48+00:00
+71,Kozuchi Agent: A Language-Agnostic Open-Weight Agent for Software Repair,2608.15579,http://arxiv.org/abs/2608.15579v1,2026-08-16 07:06:37+00:00
+72,Amortised Post-Hoc Explanation with Exact Preservation for Dynamic Graph Anomaly Detectors,2608.15559,http://arxiv.org/abs/2608.15559v1,2026-08-16 06:10:40+00:00
+73,From Contexts to Values: Context-Dependent Defeat in Abstract Argumentation,2608.15536,http://arxiv.org/abs/2608.15536v1,2026-08-16 05:18:56+00:00
+74,A Network-driven Framework for Public Event Forecasting via Dynamic Interaction Network Evolution,2608.15488,http://arxiv.org/abs/2608.15488v1,2026-08-16 02:32:05+00:00
+75,Optimal Lower Bounds for Networked Information Aggregation,2608.15472,http://arxiv.org/abs/2608.15472v1,2026-08-16 01:36:33+00:00
+76,Adding Voice Cloning to Text-to-Audio-Video Models with a Single Zero-Initialised Layer,2608.15690,http://arxiv.org/abs/2608.15690v1,2026-08-16 11:40:20+00:00
+77,Integrating Persuasion Theory into the Epidemiological Modelling of Health Misinformation Spread on Social Media,2608.15689,http://arxiv.org/abs/2608.15689v1,2026-08-16 11:34:25+00:00
+78,PL-Guard: Probabilistic Logic Reasoning for LLM Guardrails,2608.15673,http://arxiv.org/abs/2608.15673v1,2026-08-16 10:58:19+00:00
+79,A Responsible Artificial Intelligence Framework for Groundwater Modeling,2608.15657,http://arxiv.org/abs/2608.15657v1,2026-08-16 09:59:45+00:00
+80,Algorithm-Architecture Co-Design for Efficient VLA Inference via Speculative Inference and Verification,2608.15636,http://arxiv.org/abs/2608.15636v1,2026-08-16 08:59:22+00:00
+81,Sparse Prototype Code Underlies Classification and Prediction Across Modalities,2608.15632,http://arxiv.org/abs/2608.15632v1,2026-08-16 08:53:21+00:00
+82,Rotation-Invariant Multi-IMU Activity Recognition under Independent Per-Location Orientation Shifts,2608.15621,http://arxiv.org/abs/2608.15621v1,2026-08-16 08:39:41+00:00
+83,EgoGazeLite: On-Device Egocentric Gaze Prediction for Token-Efficient Multimodal LLM Video Input,2608.15614,http://arxiv.org/abs/2608.15614v1,2026-08-16 08:28:01+00:00
+84,RLCascadeRouter: Quality-Estimator-Free Cascade Routing via Reinforcement Learning,2608.15817,http://arxiv.org/abs/2608.15817v1,2026-08-16 15:47:04+00:00
+85,Pricing the Risk of Runtime Compression: Anytime-Valid Admission and a Served-Output Law for Compressed Serving State,2608.15810,http://arxiv.org/abs/2608.15810v1,2026-08-16 15:37:44+00:00
+86,TinyCast: Probabilistic Zero-Shot Forecasting with Computed Periodicity,2608.15767,http://arxiv.org/abs/2608.15767v1,2026-08-16 14:40:44+00:00
+87,Agent Gym: A Framework for Continuous Evaluation and Evolution of LLM Agents Through Human-in-the-Loop Feedback,2608.15591,http://arxiv.org/abs/2608.15591v1,2026-08-16 07:27:26+00:00
+88,RRFC: Recursive Refinement via Feedback Conditioning for Iterative Image-to-Image Generation,2608.15694,http://arxiv.org/abs/2608.15694v1,2026-08-16 11:54:17+00:00
+89,When Is Shallow Enough? Adaptive Split Federated Learning with Client-Specific Sufficiency Estimation,2608.15639,http://arxiv.org/abs/2608.15639v2,2026-08-16 09:06:28+00:00
