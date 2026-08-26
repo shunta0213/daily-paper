@@ -1,0 +1,101 @@
+,title,id,arxiv_url,published
+0,Counterfactual Contrastive Analysis,2608.19032,http://arxiv.org/abs/2608.19032v1,2026-08-19 15:25:21+00:00
+1,One-Stage Object Detectors in Autonomous Driving,2608.19014,http://arxiv.org/abs/2608.19014v1,2026-08-19 15:13:33+00:00
+2,From Threat Intelligence to Detection: Knowledge-driven Enrichment and Template-based Rule Grounding for Automated Sigma Rule Generation,2608.19011,http://arxiv.org/abs/2608.19011v1,2026-08-19 15:11:43+00:00
+3,Syntactic Simplification of OWL Class Expressions,2608.18899,http://arxiv.org/abs/2608.18899v1,2026-08-19 13:24:31+00:00
+4,SkillGate: Training In-Policy Skill Selection in Long-Horizon Agents,2608.18852,http://arxiv.org/abs/2608.18852v1,2026-08-19 12:24:03+00:00
+5,MorphoGP: A Nonparametric Framework for Predicting Equilibrium Beach Profiles Under Tidal Influence,2608.18558,http://arxiv.org/abs/2608.18558v1,2026-08-19 05:27:27+00:00
+6,Performance Drift Detection in Machine Learning as a Service (MLaaS) for IoT Environments,2608.18555,http://arxiv.org/abs/2608.18555v1,2026-08-19 05:24:44+00:00
+7,DART-SD: Diamond-topology Aware Retrieval and Tuning for Self-Distillation of Multi-Turn Tool-Calling Agents,2608.18524,http://arxiv.org/abs/2608.18524v1,2026-08-19 04:19:21+00:00
+8,"Partition the Support, Reconstruct the Residual: Training-Free Sparse Attention for Video Generation and World Models",2608.18484,http://arxiv.org/abs/2608.18484v1,2026-08-19 03:16:09+00:00
+9,SIDScope: A Diagnostic Resource for Semantic-ID Interfaces in Generative Recommendation,2608.18779,http://arxiv.org/abs/2608.18779v1,2026-08-19 10:35:12+00:00
+10,Europe's Climate Ambition Under Scrutiny: Evidence from Deep Learning Emission Projections,2608.18690,http://arxiv.org/abs/2608.18690v1,2026-08-19 08:41:35+00:00
+11,CTIFoundry: An Agent-Native Corpus Scaffold for Cyber Threat Intelligence,2608.18613,http://arxiv.org/abs/2608.18613v1,2026-08-19 07:00:29+00:00
+12,Finetuning Strategies for Querying Sounds by Vocal Imitation,2608.19174,http://arxiv.org/abs/2608.19174v1,2026-08-19 17:51:50+00:00
+13,Are LLMs becoming similarly creative? Evidence from three years of models,2608.19437,http://arxiv.org/abs/2608.19437v1,2026-08-19 20:44:26+00:00
+14,Longitudinal Bayesian Learning of Continuous Disease Position across the Alzheimer's Disease Continuum,2608.19436,http://arxiv.org/abs/2608.19436v1,2026-08-19 20:41:26+00:00
+15,Beyond Imitation: Filtering On-Policy Distillation by Reasoning Progress,2608.19408,http://arxiv.org/abs/2608.19408v1,2026-08-19 19:45:32+00:00
+16,HiRA-CAM: Preserving Fine-Grained Spatial Relevance in Gradient-Based Visual Explanations,2608.19407,http://arxiv.org/abs/2608.19407v1,2026-08-19 19:44:43+00:00
+17,Does Marginal Coverage Guarantee Class-Conditional Safety for Zero-Shot VLMs Under Shift?,2608.19376,http://arxiv.org/abs/2608.19376v1,2026-08-19 18:42:36+00:00
+18,Concentrated Liquidity Provision: a Reinforcement Learning Perspective,2608.19389,http://arxiv.org/abs/2608.19389v1,2026-08-19 19:08:39+00:00
+19,DA-WAM: Decision-Aligned Future Latents for Driving World Models,2608.19085,http://arxiv.org/abs/2608.19085v2,2026-08-19 16:33:02+00:00
+20,TestifAI: Tomography-Based Testing for Deep Learning Systems,2608.18900,http://arxiv.org/abs/2608.18900v2,2026-08-19 13:25:50+00:00
+21,Improved Confidence Estimates for Black-Box Large Language Models,2608.19323,http://arxiv.org/abs/2608.19323v1,2026-08-19 18:00:04+00:00
+22,Outcome Monitors: Recovery Affordances for Silent Tool Failures,2608.19303,http://arxiv.org/abs/2608.19303v1,2026-08-19 17:35:30+00:00
+23,Epistemic Subordination: Generative AI and the Infrastructure of Knowledge,2608.18758,http://arxiv.org/abs/2608.18758v1,2026-08-19 10:06:12+00:00
+24,DentAgent: Evidence-Centric Multi-Agent Coordination for Multimodal Dental Reasoning,2608.18878,http://arxiv.org/abs/2608.18878v1,2026-08-19 12:58:03+00:00
+25,Approximate Homomorphisms and Convergent Representations in Transducers,2608.20428,http://arxiv.org/abs/2608.20428v1,2026-08-19 19:56:22+00:00
+26,"Who Delegates to AI? Evidence from 53,000 Agent Configurations",2608.20425,http://arxiv.org/abs/2608.20425v1,2026-08-19 16:36:04+00:00
+27,Six misconceptions about large language models: A minimal model and diagnostic taxonomy,2608.20421,http://arxiv.org/abs/2608.20421v1,2026-08-19 04:59:30+00:00
+28,PGFS++: Molecular Property Improvement under Synthesis and Diversity Constraints,2608.19121,http://arxiv.org/abs/2608.19121v1,2026-08-19 17:17:31+00:00
+29,"Grouping the Stochastic Machine: Precision, Not Capability, as the Frontier Metric for AI Systems",2608.19140,http://arxiv.org/abs/2608.19140v1,2026-08-19 17:29:47+00:00
+30,Preference Reasoning under Indeterminacy in Large Language Models,2608.18631,http://arxiv.org/abs/2608.18631v1,2026-08-19 07:27:12+00:00
+31,Bernstein-Vazirani Networks: Quantum Machine Learning by Interference,2608.19043,http://arxiv.org/abs/2608.19043v1,2026-08-19 15:35:37+00:00
+32,ReWEIGH the Evidence: Calibrating Token-Level Ordinal Visual Evidence to Mitigate Hallucinations in Large Vision-Language Models,2608.19075,http://arxiv.org/abs/2608.19075v1,2026-08-19 16:23:56+00:00
+33,Graphical Design of Interpretable Architectures,2608.18936,http://arxiv.org/abs/2608.18936v2,2026-08-19 14:04:35+00:00
+34,Which Negatives Matter? Ask Your Text Encoder: Adaptive Similarity Margins for Dense-Caption Retrieval,2608.18521,http://arxiv.org/abs/2608.18521v2,2026-08-19 04:16:46+00:00
+35,SCAPE: Scenario-Conditioned Simulation-Augmented Policy Evaluation,2608.19425,http://arxiv.org/abs/2608.19425v1,2026-08-19 20:24:29+00:00
+36,HYDRA: A Heterogeneous Chiplet DSE Framework for Serving Dynamic Hybrid LLM Workloads,2608.19395,http://arxiv.org/abs/2608.19395v1,2026-08-19 19:26:21+00:00
+37,Accelerated Genetic Programming Hyper-Heuristics for Simulation-Based Scheduling via Agentic AI,2608.19487,http://arxiv.org/abs/2608.19487v1,2026-08-19 22:48:46+00:00
+38,Adaptive Memory and Reflection Multi-Agent System for Medical Question Answering,2608.19029,http://arxiv.org/abs/2608.19029v1,2026-08-19 15:24:18+00:00
+39,Harness Continual Learning: Continual Adaptation Beyond Model Parameters,2608.19013,http://arxiv.org/abs/2608.19013v1,2026-08-19 15:12:31+00:00
+40,Training Chemical Plausibility-Aware Large Language Models for Single-Step Retrosynthesis,2608.18940,http://arxiv.org/abs/2608.18940v1,2026-08-19 14:08:05+00:00
+41,Metrics That Write Themselves: Evolving an Evaluator from Its Own Blind Spots,2608.18744,http://arxiv.org/abs/2608.18744v1,2026-08-19 09:55:17+00:00
+42,The Impact of CutMix on Reliability and Robustness in Semantic Segmentation,2608.18715,http://arxiv.org/abs/2608.18715v1,2026-08-19 09:16:12+00:00
+43,Science Done on a Machine by a Machine: AI Agents in Computational Chemistry,2608.18508,http://arxiv.org/abs/2608.18508v1,2026-08-19 03:55:13+00:00
+44,Physics-Unrolled Neural Operator for Wireless Field Modeling,2608.18495,http://arxiv.org/abs/2608.18495v1,2026-08-19 03:39:55+00:00
+45,Coverage-Driven RTL Assertion Generation with Formal Exploration and Neuro-Symbolic Refinement,2608.18482,http://arxiv.org/abs/2608.18482v1,2026-08-19 03:14:14+00:00
+46,ERASE: EaRly bAckpropagation SchEdule for Faster Training of Modern Recommendation Systems,2608.18469,http://arxiv.org/abs/2608.18469v1,2026-08-19 02:51:08+00:00
+47,Improving Natural-Language Combinatorial-Optimization Accuracy in Resource-Constrained Language Models via Formal Abstractions,2608.18409,http://arxiv.org/abs/2608.18409v1,2026-08-19 00:36:43+00:00
+48,Formal Verification of Romanov's Triplet Logic: A Verified Filter for Sliding-window 3-CNF with Application to Structured Formulas,2608.18445,http://arxiv.org/abs/2608.18445v2,2026-08-19 02:20:59+00:00
+49,A Multi-Agent Platform for Automated Enterprise Analytics and Insight Generation,2608.18740,http://arxiv.org/abs/2608.18740v1,2026-08-19 09:49:58+00:00
+50,Software Frameworks for Explainable AI in Time Series Classification: A Systematic Review,2608.21449,http://arxiv.org/abs/2608.21449v1,2026-08-19 15:24:17+00:00
+51,Aslema at NADI 2026: Data Augmentation for Intent Recognition and Slot Filling,2608.18689,http://arxiv.org/abs/2608.18689v2,2026-08-19 08:41:28+00:00
+52,From Storage to Access: Verifiable Activation of Parametric Knowledge in LLMs via Explicit Priming and Implicit Reasoning,2608.18581,http://arxiv.org/abs/2608.18581v1,2026-08-19 06:20:34+00:00
+53,CentaurBench: Benchmarking LLM Capabilities on Augmenting vs. Automating Real-World Work Tasks,2608.18554,http://arxiv.org/abs/2608.18554v1,2026-08-19 05:22:20+00:00
+54,FinRCA-Bench: Benchmarking Evidence Retrieval and Reasoning for Financial AI Systems,2608.18534,http://arxiv.org/abs/2608.18534v1,2026-08-19 04:36:01+00:00
+55,Pairwise Ranking Outperforms Single-Action RL for Offline Explanation Selection: A Practical Lesson,2608.18531,http://arxiv.org/abs/2608.18531v1,2026-08-19 04:29:04+00:00
+56,GCNO: Gramian Chebyshev Neural Operator for Physics-Based Compression of Wireless Channels,2608.18522,http://arxiv.org/abs/2608.18522v1,2026-08-19 04:16:47+00:00
+57,Mechanistic Interpretability of Structure-Aware Numerical Reasoning in LLaMA 3.1 8B,2608.18419,http://arxiv.org/abs/2608.18419v1,2026-08-19 01:09:51+00:00
+58,Measuring What a Specification Determines: A Formal Semantic-Block Model and an Execution-Judged Benchmark,2608.19475,http://arxiv.org/abs/2608.19475v1,2026-08-19 22:17:31+00:00
+59,A strengthening of the MCFL-ness of $O_2$,2608.18813,http://arxiv.org/abs/2608.18813v1,2026-08-19 11:11:49+00:00
+60,"Forgetting, plasticity, and co-observation: a third facet of continual learning",2608.18803,http://arxiv.org/abs/2608.18803v1,2026-08-19 10:59:59+00:00
+61,MemFuse: Multi-Source Memory Fusion from Fragmented Observations,2608.18704,http://arxiv.org/abs/2608.18704v1,2026-08-19 09:04:07+00:00
+62,Candidate-Fate Accounting for Transparent Sensor Diagnostic Pipeline Search,2608.18665,http://arxiv.org/abs/2608.18665v1,2026-08-19 08:15:00+00:00
+63,Change Point--Aware Evaluation and Re-Calibration of PPG-Based Blood Pressure Estimation,2608.18639,http://arxiv.org/abs/2608.18639v1,2026-08-19 07:37:45+00:00
+64,Robust Risk Under Evolving Uncertainty: A Wasserstein Counterpart of the Entropic Value-at-Risk,2608.19073,http://arxiv.org/abs/2608.19073v1,2026-08-19 16:22:48+00:00
+65,Eureka: Task-Conditioned Meta-Agent Orchestration for Scientific Discovery,2608.19047,http://arxiv.org/abs/2608.19047v1,2026-08-19 15:40:21+00:00
+66,rEDMRec: Distilling Large Language Model Reasoning into an Editable Experience Memory for Recommendation,2608.18952,http://arxiv.org/abs/2608.18952v1,2026-08-19 14:17:34+00:00
+67,"Test-Time Scaling in the Wild: Why Exploitation, Not Exploration, Is the Bottleneck",2608.18931,http://arxiv.org/abs/2608.18931v1,2026-08-19 13:59:53+00:00
+68,SMTrap: Cost-Effective DoS Attacks Against Large Reasoning Models via SMT Conflict Guidance,2608.18921,http://arxiv.org/abs/2608.18921v1,2026-08-19 13:51:31+00:00
+69,Denoising-Aware Inversion: Revealing Privacy Risks in Noise-Protected Text Embeddings,2608.18610,http://arxiv.org/abs/2608.18610v1,2026-08-19 06:53:35+00:00
+70,Breaking the weakest link to evade vision language models,2608.18938,http://arxiv.org/abs/2608.18938v1,2026-08-19 14:06:31+00:00
+71,"Fairness-Aware Network Embeddings: Methods, Applications, and Challenges",2608.19381,http://arxiv.org/abs/2608.19381v1,2026-08-19 18:51:55+00:00
+72,A Theory of Post-hoc Debate Judgement,2608.19002,http://arxiv.org/abs/2608.19002v1,2026-08-19 15:03:44+00:00
+73,What is Missing from AI Post-Training AI: An Empirical Analysis,2608.19072,http://arxiv.org/abs/2608.19072v1,2026-08-19 16:17:39+00:00
+74,Self-prompting and cross-model consensus enable reproducible data extraction from scientific literature with large language models,2608.19025,http://arxiv.org/abs/2608.19025v1,2026-08-19 15:20:11+00:00
+75,SkillForge: Self-Distilling Agents for Project-Specific Issue Resolution,2608.18933,http://arxiv.org/abs/2608.18933v1,2026-08-19 14:01:13+00:00
+76,Learning-State-Aware Dynamic Generative Data Augmentation on Small-Scale Datasets,2608.18907,http://arxiv.org/abs/2608.18907v1,2026-08-19 13:31:21+00:00
+77,Training-Free Inference-Time Self-Reflection and Cost-Bounded Early Stopping for Large Language Models,2608.18884,http://arxiv.org/abs/2608.18884v1,2026-08-19 13:09:57+00:00
+78,Can a Lightweight Multimodal Model Estimate LLM Reasoning Performance? A Study for Compute-Optimal Document Inference,2608.18591,http://arxiv.org/abs/2608.18591v1,2026-08-19 06:33:33+00:00
+79,The Role of Grid Cells in Reducing Spatial Aliasing in Hippocampal Place Representations,2608.18569,http://arxiv.org/abs/2608.18569v1,2026-08-19 06:01:14+00:00
+80,Bridging Search and CRM: Productionizing AI Product Research Agents for Customer Re-Engagement,2608.18543,http://arxiv.org/abs/2608.18543v1,2026-08-19 05:01:37+00:00
+81,UMER: Unifying Embedding and Ranking via Pair-Aware Discriminative Reasoning for Universal Multimodal Retrieval,2608.18504,http://arxiv.org/abs/2608.18504v1,2026-08-19 03:51:39+00:00
+82,When Clean Signals Are Not Enough: Detecting Structural Ambiguity for Safe Wearable Stress Classification,2608.18397,http://arxiv.org/abs/2608.18397v1,2026-08-19 00:04:21+00:00
+83,Identifying Implicit Premises for Logical Reconstruction of Argument Graphs,2608.18821,http://arxiv.org/abs/2608.18821v1,2026-08-19 11:23:12+00:00
+84,Pairwise Logical Selection of Enthymeme Completions under Semantic-Link Uncertainty,2608.18820,http://arxiv.org/abs/2608.18820v1,2026-08-19 11:21:59+00:00
+85,Decomposing Wrong-Consensus Agreement in LLM Self-Consistency: A GPT-4.1 Case Study,2608.18795,http://arxiv.org/abs/2608.18795v1,2026-08-19 10:50:15+00:00
+86,A Few Cases Are All You Need: An Empirical Study of Annotation-Efficient LoRA Fine-Tuning of MedSAM3,2608.18731,http://arxiv.org/abs/2608.18731v1,2026-08-19 09:34:34+00:00
+87,RTPO: Reverse-Turn Policy Optimization for Stabilizing Agentic RL Training,2608.18682,http://arxiv.org/abs/2608.18682v1,2026-08-19 08:33:01+00:00
+88,Mechanistic Tomography: Designed Measurement for Control-Oriented Interpretability,2608.19338,http://arxiv.org/abs/2608.19338v1,2026-08-19 18:02:03+00:00
+89,"Air Traffic Control Using Large Language Models: Prompt Engineering, Architecture, and Evaluation",2608.19299,http://arxiv.org/abs/2608.19299v1,2026-08-19 16:49:15+00:00
+90,ADEPT: Accelerating Dexterity via Pre-Training and Post-Training using Reinforcement Learning,2608.19182,http://arxiv.org/abs/2608.19182v1,2026-08-19 17:55:06+00:00
+91,Beyond Teacher Likelihood: Group-Calibrated On-Policy Distillation for Long-Context Reasoning,2608.19181,http://arxiv.org/abs/2608.19181v1,2026-08-19 17:54:58+00:00
+92,Tuning the Stochastic Machine: A Systems Engineer's Operating Model for Human-AI Engineering,2608.19125,http://arxiv.org/abs/2608.19125v1,2026-08-19 17:18:53+00:00
+93,Discretizing Continuous Time Series for Imputation with Masked Diffusion Training,2608.19119,http://arxiv.org/abs/2608.19119v1,2026-08-19 17:16:27+00:00
+94,Open-MOPD: Diagnosing and Fixing Capability Imbalance in Multi-Teacher On-Policy Distillation,2608.19098,http://arxiv.org/abs/2608.19098v1,2026-08-19 16:50:39+00:00
+95,SPADE: Self-Play in Adaptive Synthetic Executable Environments,2608.19197,http://arxiv.org/abs/2608.19197v2,2026-08-19 17:58:56+00:00
+96,Beyond the Transcript: Detecting Covert Co ordination in Latent Multi-Agent Communication,2608.19161,http://arxiv.org/abs/2608.19161v1,2026-08-19 17:43:22+00:00
+97,Agentic AI for Safety-critical Multi-drone Systems: Challenges and Opportunities,2608.21444,http://arxiv.org/abs/2608.21444v1,2026-08-19 11:53:02+00:00
+98,AlphaClifford: Efficient Clifford Synthesis and Transpilation with Model-based RL,2608.18946,http://arxiv.org/abs/2608.18946v2,2026-08-19 14:13:26+00:00
+99,Categorical AI phenomenology: A first-person approach,2608.20420,http://arxiv.org/abs/2608.20420v1,2026-08-19 03:45:47+00:00
