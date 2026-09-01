@@ -1,0 +1,101 @@
+,title,id,arxiv_url,published
+0,PhysMLLMs: Spatial Priors for Unified Referring Segmentation and Grounded Reasoning of Images and Videos,2608.24574,http://arxiv.org/abs/2608.24574v1,2026-08-25 14:01:59+00:00
+1,"When ""Must"" Becomes ""Maybe"": Constraint Weakening in LLM Agent Workflows",2608.24569,http://arxiv.org/abs/2608.24569v1,2026-08-25 13:51:52+00:00
+2,FedV-KGQA: Multi-Hop Question Answering over Vertically Partitioned Knowledge Graphs,2608.24846,http://arxiv.org/abs/2608.24846v1,2026-08-25 17:34:27+00:00
+3,Score-Based Ideal Observer Approximation via Denoising Score Matching for Signal-Known-Exactly Detection Tasks,2608.24768,http://arxiv.org/abs/2608.24768v1,2026-08-25 16:05:55+00:00
+4,Deep Learning Super Resolution for Satellite Cloud Mask Downscaling,2608.24715,http://arxiv.org/abs/2608.24715v1,2026-08-25 15:34:18+00:00
+5,Across the Loss Landscape with Progressive Growth,2608.24568,http://arxiv.org/abs/2608.24568v1,2026-08-25 13:50:48+00:00
+6,"Retrieve, Match, Escalate: Accurate and Scalable Product Linking with VLM-Distilled Cross-Encoders and Agentic VLMs",2608.25037,http://arxiv.org/abs/2608.25037v1,2026-08-25 18:26:34+00:00
+7,Syn2RealTrack: Bridging the Gap Between Synthetic and Real-World Datasets for Online Multi-View Multi-Target Tracking,2608.24130,http://arxiv.org/abs/2608.24130v1,2026-08-25 06:48:50+00:00
+8,A Judge Should Know What Changed:Construct Validity for LLM-as-a-Judge Evaluation,2608.24419,http://arxiv.org/abs/2608.24419v1,2026-08-25 11:32:54+00:00
+9,When Do Supervised UQ Ensembles Improve LLM Hallucination Detection? A Robustness Study,2608.24492,http://arxiv.org/abs/2608.24492v1,2026-08-25 12:43:07+00:00
+10,FuzzingBrain-Bench V1: Evaluating Open-Ended Bug Discovery by LLMs,2608.25158,http://arxiv.org/abs/2608.25158v1,2026-08-25 21:09:20+00:00
+11,GRAPE: Gradient Refinement and Progress-Aware Exploitation for Query-Efficient High-Dimensional Bayesian Optimization,2608.25116,http://arxiv.org/abs/2608.25116v1,2026-08-25 20:12:12+00:00
+12,"Auto-Policy, not Auto-Skill: Compiled Agent Skills for the Physical World",2608.25091,http://arxiv.org/abs/2608.25091v1,2026-08-25 19:40:50+00:00
+13,HealthBench-Psych: A Mental Health Subset of OpenAI's HealthBench,2608.25071,http://arxiv.org/abs/2608.25071v1,2026-08-25 19:05:19+00:00
+14,"SPECTRA: Subspace-Preserving Embedding Calibration, Transport, and Replay for Fully Few-Shot Class-Incremental Audio Classification",2608.25054,http://arxiv.org/abs/2608.25054v1,2026-08-25 18:43:58+00:00
+15,"Hydra: Phase-Aware Workload Characterization of LLM Inference across Edge SoC Generations, Backends, and Quantization Levels",2608.25053,http://arxiv.org/abs/2608.25053v1,2026-08-25 18:43:43+00:00
+16,D$^3$-MOPD: Adaptive Dynamic Domain ScheDuling for Efficient Multi-Teacher Distillation,2608.24987,http://arxiv.org/abs/2608.24987v1,2026-08-25 17:57:11+00:00
+17,"LLM-Driven, Datasheet-Aware Automated Hardware Compatibility Verification for Early-Stage, Pre-Schematic Embedded System Design",2608.25217,http://arxiv.org/abs/2608.25217v1,2026-08-25 23:12:48+00:00
+18,DataKernelBench: Can LLMs Optimize Database Queries on GPUs?,2608.25061,http://arxiv.org/abs/2608.25061v2,2026-08-25 18:57:39+00:00
+19,VideoHarness-RSI: Recursive Harness Self-Improvement for Long-Video Understanding with Frozen Vision-Language Models,2608.24302,http://arxiv.org/abs/2608.24302v1,2026-08-25 09:27:47+00:00
+20,'Ghaib in Translation' aka Unseen Harm: Measuring Cross-Script Safety Inconsistency with 'Missed-in-Urdu' Scores in LLM Hate Speech Detection,2608.24191,http://arxiv.org/abs/2608.24191v1,2026-08-25 07:58:40+00:00
+21,Knowing When to Ask for Help: Bayesian Self-Escalation in Hierarchical LLM Agents,2608.24087,http://arxiv.org/abs/2608.24087v1,2026-08-25 05:35:07+00:00
+22,ORBITALIF: An Efficient Spiking Federated Learning Framework for Onboard Cloud Removal,2608.24073,http://arxiv.org/abs/2608.24073v1,2026-08-25 05:11:19+00:00
+23,IterCAD: Iterative Program Repair for CAD Code Generation from Orthographic Views,2608.24020,http://arxiv.org/abs/2608.24020v1,2026-08-25 03:22:10+00:00
+24,More GPUs or a Smaller Cache? Tensor Parallelism versus KV Compression for Memory-Bound LLM Serving,2608.23962,http://arxiv.org/abs/2608.23962v1,2026-08-25 01:42:08+00:00
+25,Evaluating Language Models on Cross-Language Code Functional Equivalence,2608.23961,http://arxiv.org/abs/2608.23961v1,2026-08-25 01:41:00+00:00
+26,STAIN-FL: Stealthy Targeted Attack Injection with Contextual Triggers in Federated Learning,2608.23952,http://arxiv.org/abs/2608.23952v1,2026-08-25 01:24:16+00:00
+27,Reinforcement Learning-Guided Evolutionary Policy Optimization for Preference-Adjustable Heterogeneous Agile Earth Observation Satellite Scheduling,2608.24470,http://arxiv.org/abs/2608.24470v1,2026-08-25 12:16:28+00:00
+28,Partial Identification under Causal Orders by Linear Programming,2608.24427,http://arxiv.org/abs/2608.24427v1,2026-08-25 11:42:38+00:00
+29,Multilevel Fair Allocation under Additive Preferences,2608.24400,http://arxiv.org/abs/2608.24400v1,2026-08-25 11:03:32+00:00
+30,Equivariant Covariance Tensors: Guaranteed SPD Uncertainty for Tensor-Valued Geometric Learning,2608.24386,http://arxiv.org/abs/2608.24386v1,2026-08-25 10:46:47+00:00
+31,Do Recipes Have Personas? Characterizing and Generating Creator Style in Attributed Procedural Graphs,2608.24369,http://arxiv.org/abs/2608.24369v1,2026-08-25 10:28:06+00:00
+32,"Can a Dynamic Internal Field Govern a Transformer's Cognition? Certifiability, not Superiority, in Homeostatic Compute Control",2608.24319,http://arxiv.org/abs/2608.24319v1,2026-08-25 09:47:03+00:00
+33,Adaptive Influence Graphs for Failure Attribution in Multi-Agent Systems,2608.24361,http://arxiv.org/abs/2608.24361v1,2026-08-25 10:18:19+00:00
+34,FARCA: Fact-Aligned Reliability-Aware Credit Assignment for Reinforcement Learning with Factual Supervision,2608.24350,http://arxiv.org/abs/2608.24350v1,2026-08-25 10:07:22+00:00
+35,Preference Optimization for Non-Verbal Vocalization Synthesis,2608.24163,http://arxiv.org/abs/2608.24163v1,2026-08-25 07:27:11+00:00
+36,From Gradient-Boosted Trees to Deep Recommenders: Practical Lessons from Migrating a Production Customer Support Recommender,2608.24132,http://arxiv.org/abs/2608.24132v1,2026-08-25 06:50:39+00:00
+37,Structured Frequency-Domain Evidence for LLM-Based Time-Series Anomaly Detection,2608.24113,http://arxiv.org/abs/2608.24113v1,2026-08-25 06:22:28+00:00
+38,"Scalable Question-Centric Text-to-Image Evaluation: Reliable Ranking, Fine-Grained Diagnosis, and Cost-Aware Routing",2608.24112,http://arxiv.org/abs/2608.24112v1,2026-08-25 06:20:18+00:00
+39,"MatReplace: A Reference-Free, Conditioning-Aligned Benchmark for Material Replacement in Interior Scenes",2608.24107,http://arxiv.org/abs/2608.24107v1,2026-08-25 06:11:18+00:00
+40,"Compression Trinity: Exploring Sparsity, Quantization, and Low-Rank Approximations for LLM Compression",2608.24070,http://arxiv.org/abs/2608.24070v1,2026-08-25 05:09:07+00:00
+41,Mind the Student: Behavioral and Contextual Cues for Automated Engagement Prediction in Online Learning,2608.24340,http://arxiv.org/abs/2608.24340v1,2026-08-25 10:03:07+00:00
+42,OPDSearch+: On-Policy Distillation with RL Refinement for Search-Augmented Reasoning,2608.24310,http://arxiv.org/abs/2608.24310v1,2026-08-25 09:39:16+00:00
+43,Algorithmic Impact Reveals the Hidden Social Choice Structure of Alignment,2608.24046,http://arxiv.org/abs/2608.24046v1,2026-08-25 04:09:26+00:00
+44,WebMCP-Phalanx: Enforcing and Characterizing Trust Boundaries for Browser-Integrated LLM Agents,2608.24017,http://arxiv.org/abs/2608.24017v1,2026-08-25 03:16:45+00:00
+45,"The Empire, Long Divided, Must Unite: Architectural Convergence in Three LLM Agent Harnesses",2608.23953,http://arxiv.org/abs/2608.23953v1,2026-08-25 01:26:41+00:00
+46,QML for Quantum Sensing under Measurement-Induced Information Loss,2608.23934,http://arxiv.org/abs/2608.23934v1,2026-08-25 00:47:38+00:00
+47,Evolutionary Recurrent Decision Model in Developing Adaptive and Maladaptive Behaviors,2608.23932,http://arxiv.org/abs/2608.23932v1,2026-08-25 00:45:05+00:00
+48,SENSESHIFT: Continuous Sentiment-Controlled Text Generation via Encoder-based Mask Infilling,2608.24304,http://arxiv.org/abs/2608.24304v1,2026-08-25 09:31:21+00:00
+49,EviDx: Evidence-Aware Active Diagnosis with Scaffolded LLM Agents,2608.24570,http://arxiv.org/abs/2608.24570v1,2026-08-25 13:54:30+00:00
+50,COCI: Conference Organisers and Content Identifier,2608.24559,http://arxiv.org/abs/2608.24559v1,2026-08-25 13:43:53+00:00
+51,Simthesizer: An Agent-Driven Simulation Framework for LLM Serving Systems,2608.24650,http://arxiv.org/abs/2608.24650v2,2026-08-25 14:58:26+00:00
+52,Diverse by Reasoning: Harnessing the Wisdom of LLM Crowds for Future Prediction,2608.24001,http://arxiv.org/abs/2608.24001v2,2026-08-25 02:46:28+00:00
+53,"Reading Is Not Using: Retrieval, Judgment, and the Design of AI Financial Research Workflows",2608.24842,http://arxiv.org/abs/2608.24842v1,2026-08-25 17:31:25+00:00
+54,StarHarness: Evolving Harnesses with Stratified Search for Enterprise Environments,2608.24804,http://arxiv.org/abs/2608.24804v1,2026-08-25 16:48:05+00:00
+55,Evidence Blindness in Direct Corpus Interaction: Persistent Navigation with AtlasNav,2608.24764,http://arxiv.org/abs/2608.24764v1,2026-08-25 16:03:02+00:00
+56,Constrained Hyperparameter Optimization for Streaming Data,2608.24712,http://arxiv.org/abs/2608.24712v1,2026-08-25 15:29:25+00:00
+57,Maia 200: A Software Defined Dataflow System for Large-scale AI Acceleration,2608.24664,http://arxiv.org/abs/2608.24664v1,2026-08-25 15:05:40+00:00
+58,A Literate Programming Environment for Human and Machine Agents,2608.24644,http://arxiv.org/abs/2608.24644v1,2026-08-25 14:54:24+00:00
+59,Meta$^n$: Recursive Self-Improvement through Emergent Depth,2608.24735,http://arxiv.org/abs/2608.24735v1,2026-08-25 15:44:25+00:00
+60,SpecMine: A Large-Scale Corpus of Spec-Driven Development Artifacts,2608.25202,http://arxiv.org/abs/2608.25202v2,2026-08-25 22:43:30+00:00
+61,Beyond Confidence: Test-Time Scaling for Multi-Turn Search Agents via Retrieval Grounding,2608.24024,http://arxiv.org/abs/2608.24024v2,2026-08-25 03:28:17+00:00
+62,Tunable Tool-Call Rates in LLM Agents via Representation Steering,2608.25198,http://arxiv.org/abs/2608.25198v1,2026-08-25 22:35:18+00:00
+63,Lightweight Machine Learning-Driven Monocular Sidewalk Path Extraction for Embedded Micromobility Navigation,2608.25178,http://arxiv.org/abs/2608.25178v1,2026-08-25 21:49:18+00:00
+64,Can You Trust Frozen Hematology Foundation Models under Acquisition Shift?,2608.25148,http://arxiv.org/abs/2608.25148v1,2026-08-25 20:55:57+00:00
+65,PhysElite: How Far Are LLMs from Solving Olympiad-Level Physics Problems?,2608.25097,http://arxiv.org/abs/2608.25097v1,2026-08-25 19:48:42+00:00
+66,LifePlanner: Evaluating LLM Agents for Geo-spatial Planning with Social Media Data,2608.25039,http://arxiv.org/abs/2608.25039v1,2026-08-25 18:28:29+00:00
+67,CVE-SAI: Counterfactual Visual Evidence-Guided Selective Attribute Indexing for Risk-Controlled E-commerce Search,2608.25023,http://arxiv.org/abs/2608.25023v1,2026-08-25 18:10:36+00:00
+68,Output Dilution: Redundant but Fragile Representations in MoE Models,2608.25231,http://arxiv.org/abs/2608.25231v1,2026-08-25 23:41:07+00:00
+69,Clearing the Underbrush: AI-Enhanced RF Interference Suppression,2608.24974,http://arxiv.org/abs/2608.24974v1,2026-08-25 14:55:46+00:00
+70,ADeptS-Bench: Measuring the Trustworthiness of Computer Use Agents Across Devices,2608.26204,http://arxiv.org/abs/2608.26204v1,2026-08-25 23:21:57+00:00
+71,GameWAM: A World Action Model for Video Games,2608.26200,http://arxiv.org/abs/2608.26200v1,2026-08-25 17:21:15+00:00
+72,Agentic AI for operating scientific instruments for nanoscale characterization,2608.26198,http://arxiv.org/abs/2608.26198v1,2026-08-25 14:55:40+00:00
+73,From State to Action: OODA-Tool for Reliable Multi-Turn Tool Use,2608.24368,http://arxiv.org/abs/2608.24368v2,2026-08-25 10:27:25+00:00
+74,RePolicy: Reinforcement Learning for Safety-Policy Invocation in Agent Safeguards,2608.24275,http://arxiv.org/abs/2608.24275v2,2026-08-25 09:01:33+00:00
+75,Enhancing Bayesian Optimization and Active Learning Through Kernel Diversity,2608.24721,http://arxiv.org/abs/2608.24721v2,2026-08-25 15:35:47+00:00
+76,Design-to-Plan: A Large Language Model-Based Multi-Agent Framework for Manufacturing Process Planning from 3D CAD Models and 2D Engineering Drawings,2608.24039,http://arxiv.org/abs/2608.24039v1,2026-08-25 03:57:38+00:00
+77,What Guides the Agent? Adjudicating Unauthorized Behavior via Localizing Behavior-Guiding Instructions,2608.24022,http://arxiv.org/abs/2608.24022v1,2026-08-25 03:24:53+00:00
+78,Hybrid Semantic Tool Discovery for Enterprise MCP Gateway: Architecture and Implementation,2608.23992,http://arxiv.org/abs/2608.23992v1,2026-08-25 02:33:44+00:00
+79,Memory Is Not Always Needed: Characterizing Conditional Memory in Scientific Reasoning,2608.23982,http://arxiv.org/abs/2608.23982v1,2026-08-25 02:19:20+00:00
+80,Giraffe: A Mapping Architecture from Hidden Text Representations to Visual Embeddings for Efficient Graphic Design,2608.23970,http://arxiv.org/abs/2608.23970v1,2026-08-25 01:49:46+00:00
+81,A Dual-Dimensional LLM Framework for Automated Item Incidental Content Similarity Analysis in Large-Scale Assessments,2608.24825,http://arxiv.org/abs/2608.24825v1,2026-08-25 17:07:16+00:00
+82,Ensemble of Convolutional Neural Networks for StrokePrediction: Towards Improved Diagnostic Accuracy,2608.24771,http://arxiv.org/abs/2608.24771v1,2026-08-25 16:09:53+00:00
+83,Beyond Uniform Local Isometry and Topology: FactoMap for Disentangled Representations,2608.24762,http://arxiv.org/abs/2608.24762v1,2026-08-25 15:59:59+00:00
+84,RACE: Scalable Statistical Estimation of Functional Consistency in LLM Neurons,2608.24758,http://arxiv.org/abs/2608.24758v1,2026-08-25 15:57:43+00:00
+85,Parameter-Efficient Self-Supervised Adaptation for EEG-FM under Fixed Computational Budgets,2608.24727,http://arxiv.org/abs/2608.24727v1,2026-08-25 15:38:46+00:00
+86,Parason: Revealing Subtask and Trial Parallelism in LLM Reasoning,2608.24658,http://arxiv.org/abs/2608.24658v1,2026-08-25 15:02:54+00:00
+87,Causal Modelling of Support Interventions for Student Competency Assessment,2608.24632,http://arxiv.org/abs/2608.24632v1,2026-08-25 14:46:00+00:00
+88,PlaceSeek: Human-Centered Geospatial Retrieval of Urban Outdoor Places via Semantic Grounding and Affective Alignment,2608.24133,http://arxiv.org/abs/2608.24133v1,2026-08-25 06:57:29+00:00
+89,Evaluating and Preventing Security Smells in AI-Generated Ansible Code,2608.24962,http://arxiv.org/abs/2608.24962v1,2026-08-25 07:15:16+00:00
+90,Self-Explanation Tutor for Active Study of CS1 Worked Examples,2608.25180,http://arxiv.org/abs/2608.25180v1,2026-08-25 21:54:47+00:00
+91,Belief Cascades Drive Persuasion in LLM Agent Networks,2608.25152,http://arxiv.org/abs/2608.25152v1,2026-08-25 21:01:19+00:00
+92,Flower Hub: A Reproducible Benchmarking Platform for Federated Learning in Simulation and Deployment,2608.25114,http://arxiv.org/abs/2608.25114v1,2026-08-25 20:09:44+00:00
+93,SimVerity: When Does Simulated Agent Success Survive Physical Deployment?,2608.25067,http://arxiv.org/abs/2608.25067v1,2026-08-25 19:00:49+00:00
+94,"Rare Diseases, Common Dilemmas: LLMs Prioritize Equal Resource Distribution over Patient Benefit in Decision-Making",2608.25236,http://arxiv.org/abs/2608.25236v1,2026-08-25 23:54:22+00:00
+95,StrokeGuard: A Multi-Agent Guided System for Prehospital Stroke Assessment,2608.24555,http://arxiv.org/abs/2608.24555v1,2026-08-25 13:39:30+00:00
+96,Neurosymbolic Alignment for Physiologically-Safe Clinical Language Models,2608.24534,http://arxiv.org/abs/2608.24534v1,2026-08-25 13:20:03+00:00
+97,Scalable and Versatile Identification for Hierarchical Structural Causal Models: A New Look at Project STAR,2608.24500,http://arxiv.org/abs/2608.24500v1,2026-08-25 12:47:24+00:00
+98,Implicit Q-learning-bootstrapped ant colony optimization for maritime moving-target observation scheduling with agile satellites,2608.24471,http://arxiv.org/abs/2608.24471v1,2026-08-25 12:17:25+00:00
+99,The Handoff Tax: Continuing Non-Native Trajectories in LLM Agents,2608.24358,http://arxiv.org/abs/2608.24358v1,2026-08-25 10:14:30+00:00
