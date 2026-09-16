@@ -1,0 +1,101 @@
+,title,id,arxiv_url,published
+0,TRACE: Training Reasoning Agents for Causal Exploration with Synthesized Rewards,2609.10315,http://arxiv.org/abs/2609.10315v1,2026-09-09 15:21:47+00:00
+1,Can Foundation Models Moderate Online Content? Evaluating Instruction- vs. Example-Driven Policy Operationalization,2609.10410,http://arxiv.org/abs/2609.10410v2,2026-09-09 16:30:15+00:00
+2,Counterfactual Marginalisation: Framework for Evaluating Robustness to Nuisance Variables,2609.10778,http://arxiv.org/abs/2609.10778v1,2026-09-09 19:24:43+00:00
+3,Finishing the Task Is Not Enough: Evaluating Agent Resilience and Considerate Participation under Accumulating Challenge,2609.10724,http://arxiv.org/abs/2609.10724v1,2026-09-09 18:18:10+00:00
+4,GANDR: Claim Auditing for Verifiable Legal Answer Generation,2609.10293,http://arxiv.org/abs/2609.10293v1,2026-09-09 15:08:09+00:00
+5,LiteRAG: Cost-Efficient Graph-Based Retrieval-Augmented Generation,2609.10239,http://arxiv.org/abs/2609.10239v1,2026-09-09 14:32:07+00:00
+6,Context operations to architecture modelling output from large language models and evaluation criteria for their use in systems engineering design,2609.10132,http://arxiv.org/abs/2609.10132v1,2026-09-09 13:09:01+00:00
+7,Teacher Geometry Shapes Learnability in Teacher-Student Networks,2609.09595,http://arxiv.org/abs/2609.09595v1,2026-09-09 01:44:23+00:00
+8,Learning with Synthetic Data via SGD in High-Dimensional Linear Regression,2609.09572,http://arxiv.org/abs/2609.09572v1,2026-09-09 00:53:32+00:00
+9,"The Vibe Shift in Software Engineering: Evaluating AI-Led Conversational Programming for Performance, Cognition, and Responsible Adoption",2609.09560,http://arxiv.org/abs/2609.09560v1,2026-09-09 00:33:17+00:00
+10,High-probability guarantees for linear accessibility in feature superposition,2609.09556,http://arxiv.org/abs/2609.09556v1,2026-09-09 00:26:35+00:00
+11,Arbitrary Cipher Attacks Against Large Language Models Do Not Require Fine-Tuning,2609.09553,http://arxiv.org/abs/2609.09553v1,2026-09-09 00:16:53+00:00
+12,Reference-Based Bias Detection in LLMs via Relative Representations of Hidden States,2609.10060,http://arxiv.org/abs/2609.10060v1,2026-09-09 11:33:35+00:00
+13,What Makes Adversarial Examples Transfer Across Deepfake Detectors?,2609.10002,http://arxiv.org/abs/2609.10002v1,2026-09-09 10:28:36+00:00
+14,Strangers to Themselves: What Language Models Say About Themselves Is Generic,2609.09899,http://arxiv.org/abs/2609.09899v1,2026-09-09 08:56:02+00:00
+15,Albedo Estimation via Latent Bridge Matching,2609.09884,http://arxiv.org/abs/2609.09884v1,2026-09-09 08:39:22+00:00
+16,With a Thermomix You Lose the Ability to Cook: A Kitchen Machine Analogy for Applications of Generative AI in Education,2609.09856,http://arxiv.org/abs/2609.09856v1,2026-09-09 08:10:45+00:00
+17,Subgroup Membership Inference Audits of Differentially Private Synthetic Text,2609.09848,http://arxiv.org/abs/2609.09848v1,2026-09-09 07:56:24+00:00
+18,HiRAD: A Flexible Large-Scale AGV Routing System,2609.09752,http://arxiv.org/abs/2609.09752v1,2026-09-09 05:50:17+00:00
+19,Looped GPT-BERT: Trading Parameters for Computation in Small Language Modeling,2609.09691,http://arxiv.org/abs/2609.09691v1,2026-09-09 04:14:23+00:00
+20,PRAGMA: Evaluating Personalized Guidance with Memory Alignment in Lifelong Conversations,2609.09664,http://arxiv.org/abs/2609.09664v1,2026-09-09 03:31:47+00:00
+21,Seven Sources of Physical AI Capability Formation,2609.09627,http://arxiv.org/abs/2609.09627v1,2026-09-09 02:38:44+00:00
+22,Show-Harness: Just a VLM Agent Can Play Robots,2609.10522,http://arxiv.org/abs/2609.10522v1,2026-09-09 17:53:38+00:00
+23,"IBIB: A Protocol for Measuring Enterprise AI Systems by Serving Route, Not Model Identifier",2609.10494,http://arxiv.org/abs/2609.10494v1,2026-09-09 17:31:29+00:00
+24,ConvMem: Convolutional Memory for Long-Context Reasoning,2609.10441,http://arxiv.org/abs/2609.10441v1,2026-09-09 16:53:02+00:00
+25,A statistical approach to bias in zero-shot learning: the lens of handwriting recognition,2609.10084,http://arxiv.org/abs/2609.10084v1,2026-09-09 12:06:49+00:00
+26,ReactHuman: A Physics-Grounded Benchmark for Human-Like Reactive Decision-Making in Embodied Multimodal LLMs,2609.10895,http://arxiv.org/abs/2609.10895v1,2026-09-09 22:56:21+00:00
+27,DriftNet: A Dual-Head Trajectory Transformer for Detecting and Localizing Prompt Injection in LLM Agents,2609.10892,http://arxiv.org/abs/2609.10892v1,2026-09-09 22:52:23+00:00
+28,Studying Without a Syllabus: Task-Agnostic Environment Preprocessing,2609.10824,http://arxiv.org/abs/2609.10824v1,2026-09-09 20:52:55+00:00
+29,Beyond Static Guarantees: Measuring the Static-Pass Dynamic-Fail Gap in Security-Sensitive and LLM-Generated Python Code,2609.10762,http://arxiv.org/abs/2609.10762v1,2026-09-09 19:02:55+00:00
+30,Multilingual in Name Only? Cultural and Linguistic Weaknesses of LLMs in Urdu,2609.10758,http://arxiv.org/abs/2609.10758v1,2026-09-09 18:59:52+00:00
+31,Quantifying the Memorization-to-Generalization Transition: Scaling Laws and Phase Structure in Grokking,2609.10657,http://arxiv.org/abs/2609.10657v1,2026-09-09 16:47:03+00:00
+32,A Multi-Stage Rule-Chaining Framework for Compositional and Interpretable Cognitive Reasoning,2609.10654,http://arxiv.org/abs/2609.10654v1,2026-09-09 15:24:42+00:00
+33,Beyond Verified Answers: Solver-Informed Self-Distillation for Bootstrapping Operations Research Language Models,2609.09957,http://arxiv.org/abs/2609.09957v1,2026-09-09 09:46:45+00:00
+34,"Compact Visuotactile World Models for Lifting: Prediction, Reward Alignment, and Force Constraints",2609.09597,http://arxiv.org/abs/2609.09597v2,2026-09-09 01:50:54+00:00
+35,Can AI Agents Detect and Repair Artifact Drift in Network Experiments?,2609.09849,http://arxiv.org/abs/2609.09849v1,2026-09-09 07:58:24+00:00
+36,uFlowCSP: Crystal Structure Prediction using Mean flow generative models,2609.09799,http://arxiv.org/abs/2609.09799v1,2026-09-09 06:51:42+00:00
+37,Which Medical Questions Deserve Rationales? Perturbation-Sensitive Selection for Robust QA,2609.09684,http://arxiv.org/abs/2609.09684v1,2026-09-09 03:58:59+00:00
+38,Beyond Training: A Feasibility Taxonomy for Inference-Time AI Governance,2609.10105,http://arxiv.org/abs/2609.10105v1,2026-09-09 12:37:17+00:00
+39,MetroLLM-Bench: Evaluating Language Models as Transit Kiosk Runtimes,2609.10016,http://arxiv.org/abs/2609.10016v1,2026-09-09 10:46:56+00:00
+40,Improving Cross-Lingual Token Representations by Adding a Pinch of SALT,2609.09953,http://arxiv.org/abs/2609.09953v1,2026-09-09 09:43:41+00:00
+41,Scored vs. Generated Readouts in Behavioral Language Models: An Empirical Study of Elicitation Format,2609.09882,http://arxiv.org/abs/2609.09882v1,2026-09-09 08:37:46+00:00
+42,Learning Intrusion Response Strategies for OT Systems,2609.10298,http://arxiv.org/abs/2609.10298v1,2026-09-09 15:12:52+00:00
+43,DiSCo: A Distribution-First Steering and Cultural Prior Evaluation Framework for Measuring Cultural Preference Bias in LLMs,2609.10253,http://arxiv.org/abs/2609.10253v1,2026-09-09 14:40:08+00:00
+44,QuantumQUBO Agent: Automating Quadratic Unconstrained Binary Optimization (QUBO) Formulation Generation from Natural Language,2609.10629,http://arxiv.org/abs/2609.10629v2,2026-09-09 05:44:59+00:00
+45,Fidelity-Aware Scheduling of Quantum Circuits on Multi-QPU Systems,2609.09980,http://arxiv.org/abs/2609.09980v2,2026-09-09 10:10:33+00:00
+46,No-Box Vulnerability Analysis: Description-only Detection of Indirect Prompt Injection Vulnerabilities in MCP Servers,2609.10854,http://arxiv.org/abs/2609.10854v1,2026-09-09 21:43:27+00:00
+47,"AI Safety: Not Optional, Not Later",2609.10630,http://arxiv.org/abs/2609.10630v1,2026-09-09 06:36:05+00:00
+48,CityPlanner: A Sandbox Agent for Executable Urban Planning,2609.09578,http://arxiv.org/abs/2609.09578v1,2026-09-09 00:59:36+00:00
+49,Myocardial Strain Drift Correction in Deep Learning Based Ultrasound Tracking,2609.09577,http://arxiv.org/abs/2609.09577v1,2026-09-09 00:58:08+00:00
+50,A Statistical Approach to Estimating Sample Size of Machine Learning Models,2609.09547,http://arxiv.org/abs/2609.09547v1,2026-09-09 00:03:02+00:00
+51,RiLM: Parameter-Efficient Language Modeling via Geodesic Decoding,2609.10305,http://arxiv.org/abs/2609.10305v1,2026-09-09 15:16:31+00:00
+52,What Should an Agent Forget? Separating What Is Stored from What Is Used,2609.10263,http://arxiv.org/abs/2609.10263v1,2026-09-09 14:48:09+00:00
+53,A-JIT: Agentic Just-In-Time Software Construction,2609.10248,http://arxiv.org/abs/2609.10248v1,2026-09-09 14:36:51+00:00
+54,Why Sample What You Can Enumerate? Exact Policy Optimization for Genomic Tool Selection,2609.10221,http://arxiv.org/abs/2609.10221v2,2026-09-09 14:20:47+00:00
+55,"UnitBoost: Managing Compound LLM Systems with a Merge Operator, Not a Model",2609.09815,http://arxiv.org/abs/2609.09815v1,2026-09-09 07:17:23+00:00
+56,CS-Guard: Benchmarking LLM Guardrails for Code Generation Security,2609.09798,http://arxiv.org/abs/2609.09798v1,2026-09-09 06:50:45+00:00
+57,LexAgentHallu: A Hierarchical Benchmark for Profiling Hallucinations in Legal Agents,2609.09754,http://arxiv.org/abs/2609.09754v1,2026-09-09 05:52:53+00:00
+58,Which Tokens Should SFT Actually Learn? A Token-Trimming Perspective on Mathematical Reasoning,2609.09707,http://arxiv.org/abs/2609.09707v1,2026-09-09 04:46:15+00:00
+59,Black-Box Red Teaming of Agentic AI: A Taxonomy-Driven Framework for Automated Risk Discovery,2609.09647,http://arxiv.org/abs/2609.09647v1,2026-09-09 03:00:25+00:00
+60,RobustSGPO: Search-Space Control for Agent Harness Evolution,2609.09646,http://arxiv.org/abs/2609.09646v1,2026-09-09 03:00:03+00:00
+61,Hyperbolic Geometry for Open-World Object Detection in Remote Sensing Imagery,2609.09626,http://arxiv.org/abs/2609.09626v1,2026-09-09 02:37:02+00:00
+62,From State Synchronization to Cognitive Self-Evolution: An Operational Architecture for Cognitive Digital Twins,2609.09625,http://arxiv.org/abs/2609.09625v1,2026-09-09 02:36:32+00:00
+63,RAP: Research Attention Prediction Reveals Target-Conditioned Evidence Acquisition Biases,2609.10092,http://arxiv.org/abs/2609.10092v1,2026-09-09 12:15:14+00:00
+64,NOPE-HYPE: A Structured Simulation Workflow for Robust Speech-to-Text Across Diverse Acoustic Environments,2609.10058,http://arxiv.org/abs/2609.10058v1,2026-09-09 11:32:18+00:00
+65,OntologyAligner: Ontology-Aligned Retrieval and Hierarchy-Guided Large Language Model Reranking for Biomedical Ontology Normalization,2609.10055,http://arxiv.org/abs/2609.10055v1,2026-09-09 11:30:25+00:00
+66,Structural Process Supervision for Latent Chain-of-Thought Reasoning,2609.09928,http://arxiv.org/abs/2609.09928v1,2026-09-09 09:17:46+00:00
+67,Grounded Evaluation and Repair for NL-to-PDDL Problem Generation,2609.09898,http://arxiv.org/abs/2609.09898v1,2026-09-09 08:53:05+00:00
+68,Decision Transformer for UAV-Mounted RIS-Assisted Dynamic D2D Communications,2609.09885,http://arxiv.org/abs/2609.09885v1,2026-09-09 08:41:20+00:00
+69,Fortunate Recall: Ontology-Driven Memory Lifecycle Management for Persistent Coherence in LLMs,2609.10413,http://arxiv.org/abs/2609.10413v1,2026-09-09 16:31:45+00:00
+70,A Function-Space Approach to the Statistical Mechanics of Learning Dynamics,2609.09589,http://arxiv.org/abs/2609.09589v1,2026-09-09 01:30:14+00:00
+71,Forgetting Only What Matters: Layer-Selective Unlearning toward Robust LLMs,2609.10439,http://arxiv.org/abs/2609.10439v1,2026-09-09 16:50:41+00:00
+72,Agent-Based ML-LLM Fusion with Self-Optimizing Prompts for Plateau Weather Alerts,2609.10135,http://arxiv.org/abs/2609.10135v1,2026-09-09 13:15:46+00:00
+73,SA-Profile: Automated Sulcus Angle Profiling from Super-Resolution MRI,2609.10125,http://arxiv.org/abs/2609.10125v1,2026-09-09 13:01:59+00:00
+74,Kernel-Managed Shared Memory for System-Wide Personalization,2609.10144,http://arxiv.org/abs/2609.10144v1,2026-09-09 13:20:47+00:00
+75,Does Linguistic Structure Enrichment Enhance Coherence Assessment? Not With Current Architectures,2609.10893,http://arxiv.org/abs/2609.10893v1,2026-09-09 22:53:50+00:00
+76,Tapes Together Strong: The Co-evolution of Computation and Cooperation,2609.10817,http://arxiv.org/abs/2609.10817v1,2026-09-09 20:38:56+00:00
+77,AcFlow: Controlling Text-to-Image Diffusion Transformers via Learned Conditional Activation Flow,2609.10723,http://arxiv.org/abs/2609.10723v1,2026-09-09 18:16:38+00:00
+78,An Open Recipe for IMO Gold: Training Nemotron for Olympiad Mathematics,2609.10712,http://arxiv.org/abs/2609.10712v1,2026-09-09 18:08:59+00:00
+79,When Synthetic Data Hurts: On Catastrophic Forgetting in Skill Retrieval for LLM Agents,2609.10750,http://arxiv.org/abs/2609.10750v1,2026-09-09 18:48:36+00:00
+80,BRACE: Anchored Bellman-Residual Correction for Stale Critics in Asynchronous RL,2609.09783,http://arxiv.org/abs/2609.09783v2,2026-09-09 06:32:30+00:00
+81,From Semantic to Token Communication: The Next Paradigm for Large-Model-Driven 6G Intelligent Connectivity,2609.10714,http://arxiv.org/abs/2609.10714v1,2026-09-09 18:11:38+00:00
+82,When Auditors Fabricate: Batch-Size Degradation and Confident Hallucination in LLM Detection of Planted Document Contamination,2609.09696,http://arxiv.org/abs/2609.09696v2,2026-09-09 04:29:45+00:00
+83,LLaDA-UI: Bringing Block-wise Diffusion to Vision-Language GUI Agents,2609.13287,http://arxiv.org/abs/2609.13287v1,2026-09-09 05:53:39+00:00
+84,Story Imprinting: AI Assistants Absorb Traits from Human Characters They Resemble,2609.10883,http://arxiv.org/abs/2609.10883v1,2026-09-09 22:39:33+00:00
+85,Adaptive Margin Ordinal Loss: Penalizing Center-Class Hedging in Ordinal Classification,2609.10752,http://arxiv.org/abs/2609.10752v1,2026-09-09 18:54:29+00:00
+86,Temporal and Multimodal Deep Learning for Cyberattack Detection in LEO Satellite Systems,2609.10746,http://arxiv.org/abs/2609.10746v1,2026-09-09 18:42:38+00:00
+87,Towards a Deterministic Math Solver for Clinical Language Models,2609.10728,http://arxiv.org/abs/2609.10728v1,2026-09-09 18:22:44+00:00
+88,Architecting the Secure AI-SOC: A Neurosymbolic Framework for Pipeline Integrity and Threat Mitigation,2609.10707,http://arxiv.org/abs/2609.10707v1,2026-09-09 18:03:41+00:00
+89,Data-Efficient Language Modeling: From Frontier Advancement to Principle-Guided Model Improvement,2609.10702,http://arxiv.org/abs/2609.10702v1,2026-09-09 18:00:52+00:00
+90,"Shifting Relational Paradigms for Affective Computing: Affective Resonance, Vitality Affects, and Vocal Interaction Fields",2609.09864,http://arxiv.org/abs/2609.09864v1,2026-09-09 08:16:32+00:00
+91,LogiScope-VQA: Benchmarking Vision-Language Models for Logistics Hazard Identification in Industrial Scenarios,2609.09790,http://arxiv.org/abs/2609.09790v1,2026-09-09 06:42:08+00:00
+92,Procedural Memory Under Change: Reuse and Interference in Controlled Web Tasks,2609.09774,http://arxiv.org/abs/2609.09774v1,2026-09-09 06:22:42+00:00
+93,Fine-Tuning a KV Cache Concatenation-Aware Model or Recomputing KV Caches? Why Not Both?,2609.09768,http://arxiv.org/abs/2609.09768v1,2026-09-09 06:12:39+00:00
+94,Kernel-Complexity Edge Sanitization for Training-Free Defense against Structural Graph Attacks,2609.09698,http://arxiv.org/abs/2609.09698v1,2026-09-09 04:33:09+00:00
+95,CT-SAFR: Safe and Interpretable Chain-of-Thought Reasoning for Autonomous Robots: A Multi-Layered Verification Framework for Trustworthy AI-Driven Robotic Decision Making,2609.09692,http://arxiv.org/abs/2609.09692v1,2026-09-09 04:15:20+00:00
+96,Safe to Stop? Risk-Constrained Stopping for Sequential Clinical Diagnosis Agents,2609.09678,http://arxiv.org/abs/2609.09678v1,2026-09-09 03:46:53+00:00
+97,RESCUE-BENCH: Towards Relation-Aware Multi-Party Emotional Support Conversation Systems,2609.09657,http://arxiv.org/abs/2609.09657v1,2026-09-09 03:14:13+00:00
+98,Cyber-Financial Contagion: Modeling the Propagation of an AI Vendor Compromise Through the Banking System,2609.10350,http://arxiv.org/abs/2609.10350v1,2026-09-09 15:46:16+00:00
+99,Beyond One-Size-Fits-All: Sample-Adaptive Strategy Routing for Vision Token Pruning in MLLMs,2609.10346,http://arxiv.org/abs/2609.10346v1,2026-09-09 15:44:32+00:00
