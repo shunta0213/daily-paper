@@ -1,0 +1,101 @@
+,title,id,arxiv_url,published
+0,InterHier: Learning Interconnected Hierarchical Semantics for Open-Vocabulary Object Detection,2609.24026,http://arxiv.org/abs/2609.24026v1,2026-09-21 02:48:16+00:00
+1,Divergent strategies and convergent outcomes in autonomous materials discovery,2609.23957,http://arxiv.org/abs/2609.23957v1,2026-09-21 00:06:57+00:00
+2,TTSE: A Two-Track Online Self-Evolution Framework,2609.24289,http://arxiv.org/abs/2609.24289v1,2026-09-21 08:47:16+00:00
+3,Temporal Generalization and Explanation Stability of Control Flow Graph Neural Networks for Malware Detection,2609.24280,http://arxiv.org/abs/2609.24280v1,2026-09-21 08:43:36+00:00
+4,vla.simd: Efficient CPU Inference for Language-Conditioned Manipulation,2609.24274,http://arxiv.org/abs/2609.24274v1,2026-09-21 08:39:07+00:00
+5,Unsupervised Brain Anomaly Detection as a Bayesian Inverse Problem with Diffusion Prior,2609.24265,http://arxiv.org/abs/2609.24265v1,2026-09-21 08:28:15+00:00
+6,Memory vs. Context? Influential Factors of Factual Recall in Language Models,2609.24238,http://arxiv.org/abs/2609.24238v1,2026-09-21 08:01:26+00:00
+7,LIMIT: Less Is More for Instruction Tuning in Text-to-SQL,2609.24186,http://arxiv.org/abs/2609.24186v1,2026-09-21 06:58:26+00:00
+8,APEXA: Execution-Integrity Enforcement for Multi-Agent LLM Automation of Synchrotron Data Reduction,2609.24165,http://arxiv.org/abs/2609.24165v1,2026-09-21 06:33:11+00:00
+9,TAC-Time: Texts as Channels For Multimodal Time Series Forecasting,2609.24156,http://arxiv.org/abs/2609.24156v1,2026-09-21 06:18:11+00:00
+10,Reinforcement Learning under State and Outcome Uncertainty: A Foundational Distributional Perspective,2609.24103,http://arxiv.org/abs/2609.24103v1,2026-09-21 04:44:21+00:00
+11,When More Evidence Hurts: Publication-Bias Drift and Principled Stopping for Biomedical Causal Search,2609.24101,http://arxiv.org/abs/2609.24101v1,2026-09-21 04:37:40+00:00
+12,WidgetVA: A Widget-Centric Framework and Benchmark for Agentic Visual Analytics,2609.24094,http://arxiv.org/abs/2609.24094v1,2026-09-21 04:27:36+00:00
+13,MECT: Mixture of Experts with CNN-Transformer Network for Speaker verification,2609.24061,http://arxiv.org/abs/2609.24061v1,2026-09-21 03:38:34+00:00
+14,Not All Task Vectors Need Equal Rank: Energy-Proportional Allocation for Model Merging,2609.24517,http://arxiv.org/abs/2609.24517v1,2026-09-21 12:54:45+00:00
+15,On Emergent Capabilities and Model Merging,2609.24504,http://arxiv.org/abs/2609.24504v1,2026-09-21 12:44:35+00:00
+16,Information-Time Proximal Policy Optimization,2609.24380,http://arxiv.org/abs/2609.24380v1,2026-09-21 10:17:22+00:00
+17,VLM-in-Sandbox: Visual Workspaces for Agentic Visual Reasoning,2609.24362,http://arxiv.org/abs/2609.24362v1,2026-09-21 09:52:48+00:00
+18,LADDER: Graph-Guided Diffusion Language Models for Efficient Multi-Hop Reasoning,2609.24346,http://arxiv.org/abs/2609.24346v1,2026-09-21 09:41:07+00:00
+19,Brain-Token Learning: Microstate-Based Tokenization and Multi-Scale Interaction for Long-Horizon EEG Sequence Modeling,2609.24324,http://arxiv.org/abs/2609.24324v1,2026-09-21 09:27:28+00:00
+20,LLM-based Conversational AI Knowledge Assistant for MyBuddy Humanoid Robot,2609.24742,http://arxiv.org/abs/2609.24742v1,2026-09-21 15:11:06+00:00
+21,Beyond Endpoint Performance: Process-Level Evaluation of Self-Evolving Agents,2609.24663,http://arxiv.org/abs/2609.24663v1,2026-09-21 14:28:06+00:00
+22,DUMA-Bench: A Dual-Control Multi-Agent Benchmark for Evaluating LLM Agent Security,2609.24662,http://arxiv.org/abs/2609.24662v1,2026-09-21 14:28:05+00:00
+23,Corrective Forcing: Unified Post-Training for Diffusions and Flows in Generative Speech Enhancement,2609.24651,http://arxiv.org/abs/2609.24651v1,2026-09-21 14:23:15+00:00
+24,Custom Named Entity Recognition and Topic Classification for Global Health Publications,2609.24625,http://arxiv.org/abs/2609.24625v1,2026-09-21 14:09:53+00:00
+25,Overlay\_dx - Automating forecasting evaluation,2609.24586,http://arxiv.org/abs/2609.24586v1,2026-09-21 13:47:58+00:00
+26,"Passes Alone, Fails Together: Benchmarking Semantic Coordination in Parallel LLM-Agent Development",2609.25396,http://arxiv.org/abs/2609.25396v1,2026-09-21 20:38:50+00:00
+27,Learned Enterprise Data Comprehension: Compression and Routing for Data Agents,2609.25286,http://arxiv.org/abs/2609.25286v1,2026-09-21 18:27:25+00:00
+28,Attention as a Routing Graph: Live Circuit Extraction from a Single Forward Pass,2609.25285,http://arxiv.org/abs/2609.25285v1,2026-09-21 18:27:16+00:00
+29,MedGate-Fusion: Integrating First-Encounter Semantic Narratives and Physiological Biomarkers for Prospective Stroke Risk Stratification,2609.25272,http://arxiv.org/abs/2609.25272v1,2026-09-21 18:17:39+00:00
+30,ShowTellArena: Evaluating Business Workflow Understanding from Demonstrations,2609.25467,http://arxiv.org/abs/2609.25467v1,2026-09-21 22:47:41+00:00
+31,"""MeBo Leaves a Piece of You Behind"": Designing a Relational Voice-Based Memory Companion for Older Adults",2609.24706,http://arxiv.org/abs/2609.24706v1,2026-09-21 14:51:30+00:00
+32,Benchmarking Neural Defend ARCAS 1B: A Foundational Multimodal Deepfake Detection Model,2609.25154,http://arxiv.org/abs/2609.25154v1,2026-09-21 09:15:02+00:00
+33,Exposing Blind Spots in Deep Imbalanced Regression Evaluation,2609.25152,http://arxiv.org/abs/2609.25152v1,2026-09-21 08:51:40+00:00
+34,Brain-Inspired Hierarchical Modularity for General Continual Learning,2609.25146,http://arxiv.org/abs/2609.25146v1,2026-09-21 07:07:06+00:00
+35,Spec2COBOLRot: An Agentic-AI Degradation Loop for Realistic COBOL Corpus Generation,2609.26835,http://arxiv.org/abs/2609.26835v1,2026-09-21 15:29:30+00:00
+36,Uranus: Building the Next-Generation Simulation Infrastructure for Embodied AI,2609.24815,http://arxiv.org/abs/2609.24815v3,2026-09-21 16:06:16+00:00
+37,Efficient Iterative Retrieval with Heterogeneous Batching,2609.25405,http://arxiv.org/abs/2609.25405v1,2026-09-21 20:55:10+00:00
+38,Pinocchio: Fast Uncertainty Estimates for Black-Box Language Models,2609.24881,http://arxiv.org/abs/2609.24881v2,2026-09-21 16:48:50+00:00
+39,A Practical Recipe for Semi-Supervised Federated ASR: Online Pseudo-Labels with Server Update Stabilization,2609.25471,http://arxiv.org/abs/2609.25471v1,2026-09-21 22:53:48+00:00
+40,Lightweight Ranking Heads: Accelerating Multi-Task Experimentation in Production Recommender Systems,2609.25433,http://arxiv.org/abs/2609.25433v1,2026-09-21 21:37:41+00:00
+41,EDGEGEN: Improving Tool-Calling Agents Beyond Happy Paths with Synthetic Edge Case Generation,2609.24115,http://arxiv.org/abs/2609.24115v1,2026-09-21 05:07:45+00:00
+42,SE(3) Neural Potential Fields for 6-DoF Trajectory Planning Directly from Images Without Explicit 3D Reconstruction,2609.24864,http://arxiv.org/abs/2609.24864v1,2026-09-21 16:35:57+00:00
+43,The Undetected Damage of Quantization on Retrieval and How to Fix It,2609.24322,http://arxiv.org/abs/2609.24322v1,2026-09-21 09:26:35+00:00
+44,AgentSTAR: Agentic Shape Tracking and Reconstruction from Monocular Videos,2609.24487,http://arxiv.org/abs/2609.24487v1,2026-09-21 12:26:13+00:00
+45,Tactile-JEPA: Topology-Aware Self-Supervised Representation Learning for Distributed Tactile Sensors,2609.24385,http://arxiv.org/abs/2609.24385v1,2026-09-21 10:22:06+00:00
+46,DeceptionAnalyser: A Web-Based AI Tool for Performing Structured Deception Analysis with Argumentation Schemes and LLMs,2609.24369,http://arxiv.org/abs/2609.24369v1,2026-09-21 10:02:07+00:00
+47,A Lean and Spec-Driven AI-Assisted Software Development Lifecycle for Applied AI Education: The AI-SDLC Approach,2609.24348,http://arxiv.org/abs/2609.24348v1,2026-09-21 09:42:26+00:00
+48,Synthesizing Reactive Character Behaviors for Continuous Games via Programmatic Policy Search,2609.24025,http://arxiv.org/abs/2609.24025v1,2026-09-21 02:47:59+00:00
+49,ACLArena: Agent Continue Learning in Multi-stage Post-training,2609.23989,http://arxiv.org/abs/2609.23989v1,2026-09-21 01:48:37+00:00
+50,MobileCybench: Evaluating Agent Vulnerability Discovery via Executable Probes,2609.23980,http://arxiv.org/abs/2609.23980v1,2026-09-21 01:21:06+00:00
+51,Reasoning Topology Matters: A Controlled Study of LLM-Based Cybersecurity Analysis,2609.24710,http://arxiv.org/abs/2609.24710v1,2026-09-21 14:52:30+00:00
+52,FedMust: Semi-supervised Multi-task Student-Teacher Federated Learning for Multi-organ CT Segmentation,2609.24627,http://arxiv.org/abs/2609.24627v1,2026-09-21 14:11:09+00:00
+53,GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay,2609.25001,http://arxiv.org/abs/2609.25001v1,2026-09-21 17:59:33+00:00
+54,Harness-Zero: Harness Distillation via Agent-as-Harness,2609.24974,http://arxiv.org/abs/2609.24974v1,2026-09-21 17:55:20+00:00
+55,Emergent Collusion in Long-Horizon LLM Agent Interaction,2609.24967,http://arxiv.org/abs/2609.24967v1,2026-09-21 17:52:48+00:00
+56,Generative Tutorial: Towards Live Contextualized Visual Instructions for Physical Tasks,2609.24955,http://arxiv.org/abs/2609.24955v1,2026-09-21 17:46:25+00:00
+57,"A Global Comparison of Schemas, Transparency, and Interoperability in Public-Sector AI Registers and Inventories",2609.24883,http://arxiv.org/abs/2609.24883v1,2026-09-21 16:51:35+00:00
+58,"Extracting Arguments, Not Just Classifying Them: Instruction-Tuned LLMs for Generative Component Detection",2609.24855,http://arxiv.org/abs/2609.24855v1,2026-09-21 16:30:38+00:00
+59,When Quantization Preserves Accuracy but Not Evidence: Explanation-Aware Post-Training Quantization for Medical LLMs,2609.24799,http://arxiv.org/abs/2609.24799v1,2026-09-21 15:59:06+00:00
+60,When and How Should an Agent Clarify? CIGAsk: Teaching LLMs to Clarify via Counterfactual Information Gain,2609.24290,http://arxiv.org/abs/2609.24290v1,2026-09-21 08:47:39+00:00
+61,How Many Pixels Is a Digit Worth? Place-Aware Coordinate Entropy for GUI Agent Confidence Estimation,2609.24277,http://arxiv.org/abs/2609.24277v1,2026-09-21 08:42:08+00:00
+62,SKstars at SHROOM: Visions Agreement-Guided Ensembling of Zero-Shot and LoRA-Adapted Vision--Language Models,2609.24198,http://arxiv.org/abs/2609.24198v1,2026-09-21 07:13:24+00:00
+63,Data Agents: Agentic Data Systems,2609.24137,http://arxiv.org/abs/2609.24137v1,2026-09-21 05:45:37+00:00
+64,Incremental Consistency Execution for Autonomous Intelligent Systems,2609.24090,http://arxiv.org/abs/2609.24090v1,2026-09-21 04:21:38+00:00
+65,ActiveArena: Benchmarking and Understanding Active Perception in Robotic Manipulation,2609.24124,http://arxiv.org/abs/2609.24124v2,2026-09-21 05:23:37+00:00
+66,PICPIs: Prediction-Interval-Conditional Prediction Intervals,2609.25388,http://arxiv.org/abs/2609.25388v1,2026-09-21 20:29:47+00:00
+67,The AI Neuroscientist: An Interactive Agentic Interface for Neuroimaging Analysis,2609.25254,http://arxiv.org/abs/2609.25254v1,2026-09-21 18:05:59+00:00
+68,Indirect tipping: a social attack surface in AI agent populations,2609.25194,http://arxiv.org/abs/2609.25194v1,2026-09-21 17:38:07+00:00
+69,From Pattern Recognizers to Personalized Companions: A Survey of Large Language Models in Mental Health,2609.25186,http://arxiv.org/abs/2609.25186v1,2026-09-21 16:58:17+00:00
+70,Multi-Term Fourier Graph Neural Network with Sample Relationship Learning for Enhanced Remaining Useful Life Prediction,2609.25179,http://arxiv.org/abs/2609.25179v1,2026-09-21 14:48:25+00:00
+71,ZeroGate: Trust-Preserving Fast Paths for Governed AI Agent Runtimes,2609.25443,http://arxiv.org/abs/2609.25443v1,2026-09-21 21:54:27+00:00
+72,RAG-NAROK: Retrieval-Aware Knowledge Corpus Poisoning in RAG with Source-specific Refutation,2609.25469,http://arxiv.org/abs/2609.25469v1,2026-09-21 22:53:04+00:00
+73,Fathom-Vaidya: Advancing Medical Reasoning with Rubric-Based Rewards,2609.24480,http://arxiv.org/abs/2609.24480v1,2026-09-21 12:19:50+00:00
+74,PrismGPT: Proxy-Guided Learning for Region-Aware Photo Editing with Self-Synthesized Reasoning,2609.24768,http://arxiv.org/abs/2609.24768v1,2026-09-21 15:35:53+00:00
+75,Misaligned Clinical Risk Classification and Cost Asymmetry in Open-Weight Large Language Models,2609.23999,http://arxiv.org/abs/2609.23999v1,2026-09-21 02:02:10+00:00
+76,VPRune: Efficient Training-free Pre-LLM Visual Token Pruning,2609.24485,http://arxiv.org/abs/2609.24485v2,2026-09-21 12:24:39+00:00
+77,QLoRA Fine-Tuning of Ministral LLM for Sequence-to-Function Protein Annotation,2609.24538,http://arxiv.org/abs/2609.24538v1,2026-09-21 13:09:59+00:00
+78,WPBench: A Comprehensive Benchmark for Wind Power Forecasting,2609.24444,http://arxiv.org/abs/2609.24444v1,2026-09-21 11:41:15+00:00
+79,FoldQuantVLA: Native Low-Bit Quantization of Vision-Language-Action Models via Consistent Folding,2609.24433,http://arxiv.org/abs/2609.24433v1,2026-09-21 11:28:41+00:00
+80,Mitigating Entity Type Confusion in Cross-Domain NER via Multidimensional Quantification and Reasoning Enhancement,2609.24357,http://arxiv.org/abs/2609.24357v1,2026-09-21 09:46:59+00:00
+81,Few-Shot Demonstrations Elicit the Use of In-Context World Representations in LLMs,2609.24352,http://arxiv.org/abs/2609.24352v1,2026-09-21 09:44:24+00:00
+82,WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory,2609.24984,http://arxiv.org/abs/2609.24984v1,2026-09-21 17:57:06+00:00
+83,DexTacWAM: A Visuo-Tactile World-Action Model for Dexterous Manipulation,2609.24976,http://arxiv.org/abs/2609.24976v1,2026-09-21 17:55:24+00:00
+84,Rare Event Estimation via Iterative Unalignment,2609.24969,http://arxiv.org/abs/2609.24969v1,2026-09-21 17:53:38+00:00
+85,Exactness at Inference: A Representational Criterion for Out-of-Distribution Generalization,2609.24942,http://arxiv.org/abs/2609.24942v1,2026-09-21 17:39:51+00:00
+86,OSWorld-Pro: Process-based Evaluation for Computer Use Agents,2609.24890,http://arxiv.org/abs/2609.24890v1,2026-09-21 16:55:24+00:00
+87,SPECTRA: Adaptive Execution of Speculative Decoding on a Runtime-Reconfigurable Tiled Architecture,2609.24847,http://arxiv.org/abs/2609.24847v1,2026-09-21 16:25:24+00:00
+88,A digital-twin framework for forecasting treatment-day imaging with contour uncertainty in adaptive proton radiotherapy,2609.24725,http://arxiv.org/abs/2609.24725v1,2026-09-21 15:01:12+00:00
+89,What Makes a Good Medical Image Tokenizer? Rethinking Reconstruction and Generation in Medical Image Tokenization,2609.24691,http://arxiv.org/abs/2609.24691v1,2026-09-21 14:44:27+00:00
+90,From Semantic Decisions to Feasible Trajectories: Self-Evolving LLM-Guided Optimal Control for Narrow-Space Parking,2609.24631,http://arxiv.org/abs/2609.24631v1,2026-09-21 14:12:27+00:00
+91,Ascent: An Agentic System over the Model Context Protocol for Real-World Clinical Data Analysis,2609.24620,http://arxiv.org/abs/2609.24620v1,2026-09-21 14:06:32+00:00
+92,$t_0$: A Time-Series Foundation Model for Forecasting with Context,2609.24559,http://arxiv.org/abs/2609.24559v1,2026-09-21 13:22:55+00:00
+93,FinInteract: Benchmarking Clarification and Intent Integration in Ambiguous Financial Question Answering,2609.24002,http://arxiv.org/abs/2609.24002v1,2026-09-21 02:06:45+00:00
+94,UniK: Universal Knowledge Perception for Digital and Physical AI,2609.23971,http://arxiv.org/abs/2609.23971v1,2026-09-21 00:56:36+00:00
+95,Adapting Tree-Structured Speculative Decoding to DeepSeek-V4 for Efficient Inference,2609.24698,http://arxiv.org/abs/2609.24698v1,2026-09-21 14:47:06+00:00
+96,Partner-Specific Affective Precision in Social Active Inference,2609.24876,http://arxiv.org/abs/2609.24876v1,2026-09-21 16:46:59+00:00
+97,Potential for Enhanced Learning in Machine Learning Classes by Using Wiki LLM Indexing,2609.25303,http://arxiv.org/abs/2609.25303v1,2026-09-21 18:53:37+00:00
+98,Taramandal-GPT: Enhancing Astrodynamics Problem-Solving with Knowledge Retrieval and Structured Thinking,2609.24246,http://arxiv.org/abs/2609.24246v1,2026-09-21 08:11:43+00:00
+99,Hessian Rank Constraint for Learning Structure of Nonlinear Latent Variable Models,2609.24241,http://arxiv.org/abs/2609.24241v1,2026-09-21 08:05:06+00:00
