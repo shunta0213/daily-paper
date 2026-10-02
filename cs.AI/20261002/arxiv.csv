@@ -1,0 +1,101 @@
+,title,id,arxiv_url,published
+0,On Evaluating and Improving Conversational Agents in Production,2609.32092,http://arxiv.org/abs/2609.32092v1,2026-09-25 23:55:33+00:00
+1,Tracing Decoder Artifacts for Compact Synthetic Speech Screening,2609.32050,http://arxiv.org/abs/2609.32050v1,2026-09-25 22:31:39+00:00
+2,VoiceNet: Fine-Grained Voice Understanding Beyond Emotion at Scale,2609.32016,http://arxiv.org/abs/2609.32016v1,2026-09-25 21:28:16+00:00
+3,Communication between Frozen Large Language Models via Prompt Optimization in a Referential Game,2609.31989,http://arxiv.org/abs/2609.31989v1,2026-09-25 20:50:20+00:00
+4,"CaptchaArena: A Large-Scale, Fine-Grained Dataset for Training Computer-Use Agents on Interactive CAPTCHAs",2609.31957,http://arxiv.org/abs/2609.31957v1,2026-09-25 20:04:24+00:00
+5,BioDyad: Synchronize Biomedical Discovery and Machine Learning Engineering,2609.31939,http://arxiv.org/abs/2609.31939v1,2026-09-25 19:37:53+00:00
+6,Overview of the TREC 2025 Million Large Language Models track,2609.31921,http://arxiv.org/abs/2609.31921v1,2026-09-25 19:11:10+00:00
+7,Context-dependent agent evaluation with orthogonal equilibrium learning,2609.31897,http://arxiv.org/abs/2609.31897v1,2026-09-25 18:34:00+00:00
+8,CyberWorld: World Models for Sample-Efficient Autonomous Cyber Defense,2609.31893,http://arxiv.org/abs/2609.31893v1,2026-09-25 18:30:26+00:00
+9,NVAlign: Direct-Gradient Optimization for Non-Verbal Control in Continuous Autoregressive Flow Matching Text-to-Speech,2609.31892,http://arxiv.org/abs/2609.31892v1,2026-09-25 18:28:40+00:00
+10,IndustryLLM: Failure-Driven LLM Training for Industrial Procurement,2609.31871,http://arxiv.org/abs/2609.31871v1,2026-09-25 18:11:01+00:00
+11,"Compress What You See, Not What You Say: Anchored Context Distillation for Latent-Observation Software Engineering Agents",2609.31430,http://arxiv.org/abs/2609.31430v1,2026-09-25 15:51:40+00:00
+12,Completed Pairs Hide Capped Failures: A ReVerPi Case Study of Selective Context Projection,2609.31381,http://arxiv.org/abs/2609.31381v1,2026-09-25 15:16:08+00:00
+13,Bayesian Optimization with Fisher Information Geometry: Gradient Bounds and Trust-Region Methods,2609.31107,http://arxiv.org/abs/2609.31107v1,2026-09-25 10:52:30+00:00
+14,Up and Down the Abstraction Ladder: Code-Based Skills for Language Agents,2609.31076,http://arxiv.org/abs/2609.31076v1,2026-09-25 10:15:45+00:00
+15,"Same Text, Different Numbers: The Divergence of LLM-Based Measures",2609.31013,http://arxiv.org/abs/2609.31013v1,2026-09-25 09:04:10+00:00
+16,Factorized axis convolutional gated recurrent unit with dynamic adaptive pooling for remaining useful life prediction of rolling bearings,2609.30972,http://arxiv.org/abs/2609.30972v1,2026-09-25 08:19:02+00:00
+17,SciHorizon-eLab: An Agentic Protocol-to-Task Compiler for Scalable Benchmarking of Scientific Embodied Agents,2609.30971,http://arxiv.org/abs/2609.30971v1,2026-09-25 08:18:45+00:00
+18,MVVBench: Benchmarking 4D Reasoning in Vision-Language Models,2609.30952,http://arxiv.org/abs/2609.30952v1,2026-09-25 08:02:42+00:00
+19,Spackle: Completing Large View Single Image NVS with Adaptive Gaussians,2609.30941,http://arxiv.org/abs/2609.30941v1,2026-09-25 07:56:03+00:00
+20,Estimating and Orthogonalizing Unknown Pre-training Gradients for Continual Fine-tuning of Large Language Models,2609.30935,http://arxiv.org/abs/2609.30935v1,2026-09-25 07:52:37+00:00
+21,JevSoup: System-One Routing for Training-Free LoRA Composition,2609.30922,http://arxiv.org/abs/2609.30922v1,2026-09-25 07:37:28+00:00
+22,Training Graph Foundation Models on The Web Graph,2609.30894,http://arxiv.org/abs/2609.30894v1,2026-09-25 07:02:45+00:00
+23,From Tapping to Hopping: Augmenting Mobile GUI Agents with App-Native Deeplinks,2609.30887,http://arxiv.org/abs/2609.30887v1,2026-09-25 06:50:04+00:00
+24,EXAONE Demand 1.0: A Time Series Foundation Model for Demand Forecasting,2609.30880,http://arxiv.org/abs/2609.30880v1,2026-09-25 06:37:39+00:00
+25,Developing a Roadmap to an AI-first Organization: A Case Study in Embedded Software Development,2609.30863,http://arxiv.org/abs/2609.30863v1,2026-09-25 06:12:36+00:00
+26,SkillEvoReg: Regularizing Agent Skill Evolution Against Overfitting,2609.30861,http://arxiv.org/abs/2609.30861v1,2026-09-25 06:11:26+00:00
+27,Why Jailbreaks Succeed in Diffusion Language Models: An Energy Landscape Analysis,2609.30841,http://arxiv.org/abs/2609.30841v1,2026-09-25 05:35:36+00:00
+28,PTC-Decoder: Towards Intelligent SLMs on Offline Resource-Constrained Edge Devices,2609.30836,http://arxiv.org/abs/2609.30836v1,2026-09-25 05:30:35+00:00
+29,Subject-Invariant Cross-Modal Decoding of Perceived Speech from Brain Recordings,2609.30832,http://arxiv.org/abs/2609.30832v1,2026-09-25 05:22:13+00:00
+30,Does Thinking Help Fairness? Reasoning Tokens Resolve Some Biases but Create More,2609.30768,http://arxiv.org/abs/2609.30768v1,2026-09-25 03:46:53+00:00
+31,Backbone-Adaptive Evidence Routing for Robust Pairwise LLM Judging,2609.30751,http://arxiv.org/abs/2609.30751v1,2026-09-25 03:26:52+00:00
+32,VLALight: Lightweight Vision-Language-Action Models for Emergency-Aware Traffic Signal Control,2609.30709,http://arxiv.org/abs/2609.30709v1,2026-09-25 02:36:44+00:00
+33,Programs-of-Layers in LLMs through the Lens of Cortical Areas,2609.31360,http://arxiv.org/abs/2609.31360v1,2026-09-25 14:55:50+00:00
+34,Resource-Optimized and Energy-Aware Agentic AI Framework Anchored on Blockchain for Secure Software Supply Chains,2609.31282,http://arxiv.org/abs/2609.31282v1,2026-09-25 13:53:50+00:00
+35,"Samples, Sources, Space: Decomposing Data Scale in Spatially Structured Representation Learning of Human Brain Microarchitecture",2609.31201,http://arxiv.org/abs/2609.31201v1,2026-09-25 12:36:38+00:00
+36,Accounting for Bias Enables Sustainable LLM Evaluation,2609.31184,http://arxiv.org/abs/2609.31184v1,2026-09-25 12:16:25+00:00
+37,SPADE: Escaping the Popularity-Similarity Frontier to Measure Serendipitous Recommendations,2609.31164,http://arxiv.org/abs/2609.31164v1,2026-09-25 11:57:53+00:00
+38,ReG-SAM: Reference Graph-Driven SAM for 2D Foundational Vessel Segmentation,2609.31160,http://arxiv.org/abs/2609.31160v1,2026-09-25 11:53:31+00:00
+39,Teacher-Anchored Selection of Post-Training Quantized Models under Domain Shift,2609.31155,http://arxiv.org/abs/2609.31155v1,2026-09-25 11:49:05+00:00
+40,AtomWorld-Mem: Memory-Restored World States for Long-Horizon Atomistic Evolution,2609.31133,http://arxiv.org/abs/2609.31133v1,2026-09-25 11:26:05+00:00
+41,PHIRL: Aligning Learned Rewards with Task Progress for Inverse Reinforcement Learning,2609.31855,http://arxiv.org/abs/2609.31855v1,2026-09-25 18:03:59+00:00
+42,A Surgical Foundation Model Reveals Task-Dependent Label Efficiency,2609.31821,http://arxiv.org/abs/2609.31821v1,2026-09-25 16:31:21+00:00
+43,DriveHierarchy: A Benchmark for Diagnosing VLM Driving Capabilities from Open-Loop Understanding to Closed-Loop Execution,2609.31814,http://arxiv.org/abs/2609.31814v1,2026-09-25 13:57:44+00:00
+44,EmailBench: A Benchmark for Evaluating LLM Agents on Enterprise Email and Productivity Tasks,2609.31906,http://arxiv.org/abs/2609.31906v1,2026-09-25 18:49:33+00:00
+45,Regime Boundary Alignment for Evidence-Gated Question Answering,2609.37491,http://arxiv.org/abs/2609.37491v1,2026-09-25 18:48:13+00:00
+46,CRASM-Gate: Deterministic-First Constraint- and Role-Aware Semantic Mapping with Selective Model Assistance Across Heterogeneous Industrial Standards,2609.37458,http://arxiv.org/abs/2609.37458v1,2026-09-25 21:28:13+00:00
+47,Cognitive Skills in the Age of AI: Computing Students and Experts Perceptions,2609.31272,http://arxiv.org/abs/2609.31272v2,2026-09-25 13:48:02+00:00
+48,CSI-Agent: LLM-Assisted Few-Shot Adaptation for Cross-Domain Wi-Fi CSI Sensing,2609.31990,http://arxiv.org/abs/2609.31990v1,2026-09-25 20:51:27+00:00
+49,Vibe Analysis: Exploring LLM Adoption by Data Visualization Practitioners,2609.31922,http://arxiv.org/abs/2609.31922v1,2026-09-25 19:13:38+00:00
+50,TriO: Tri-Modal Unsupervised Occupancy World Model for Anything Perception,2609.32013,http://arxiv.org/abs/2609.32013v2,2026-09-25 21:20:16+00:00
+51,The Detectability Gap: Hidden Heterogeneity in Hallucination Detection Across Language Models,2609.35860,http://arxiv.org/abs/2609.35860v1,2026-09-25 17:12:24+00:00
+52,Knowing When to Yield: Grounded Arbitration of User Corrections in Text-Based Embodied Agents,2610.00282,http://arxiv.org/abs/2610.00282v1,2026-09-25 02:28:24+00:00
+53,OC-GS: Gaussian Splatting for Irregular Turntable Capture,2609.31572,http://arxiv.org/abs/2609.31572v1,2026-09-25 17:35:05+00:00
+54,Multi-agent Scaling Across Disjunctive and Compensatory Tasks,2609.31563,http://arxiv.org/abs/2609.31563v1,2026-09-25 17:29:15+00:00
+55,ClearGS: Reliability-Aware Gaussian Splatting from Handheld Videos,2609.31509,http://arxiv.org/abs/2609.31509v1,2026-09-25 16:50:46+00:00
+56,Evaluating Cultural Awareness of LLMs for Haitian Creole,2609.31506,http://arxiv.org/abs/2609.31506v1,2026-09-25 16:47:07+00:00
+57,"""AI is (not) the new..."": A Diagnostic Analogy Framework for Generative AI's Cultural Impacts",2609.31482,http://arxiv.org/abs/2609.31482v1,2026-09-25 16:25:46+00:00
+58,"Different Corruptions, Different Signals: Uncertainty and Loss in Federated Data Quality",2609.31454,http://arxiv.org/abs/2609.31454v1,2026-09-25 16:09:21+00:00
+59,Towards Mitigating Fabricated Consensus: The Active Provenance Gate for Multi-Agent Debate Synthesis,2609.31422,http://arxiv.org/abs/2609.31422v1,2026-09-25 15:44:18+00:00
+60,Highlight-Then-Summarize: Learning to Compress Evidence for Long-Context Understanding,2609.31382,http://arxiv.org/abs/2609.31382v1,2026-09-25 15:16:35+00:00
+61,G$^2$PTQ: Improving LLM Post-Training Quantization with Generalized Gradient Compensation,2609.31009,http://arxiv.org/abs/2609.31009v1,2026-09-25 08:53:14+00:00
+62,FARE: Forensic Acceptance Region Estimation for Catching Bait-and-Switch Image Generators,2609.30982,http://arxiv.org/abs/2609.30982v1,2026-09-25 08:28:21+00:00
+63,Does Uniform Discrete Diffusion Need Time?,2609.30977,http://arxiv.org/abs/2609.30977v1,2026-09-25 08:24:35+00:00
+64,OneWorld: Learning Consistent Physics Across Actions in World Models,2609.30946,http://arxiv.org/abs/2609.30946v1,2026-09-25 07:59:11+00:00
+65,TISD: On-Policy Self-Distillation with Trajectory Intervention,2609.30878,http://arxiv.org/abs/2609.30878v1,2026-09-25 06:37:02+00:00
+66,"The Right Information Extraction Pipeline Depends on the Document: Accuracy-Energy Trade-offs for Small, Local Models",2609.31341,http://arxiv.org/abs/2609.31341v1,2026-09-25 14:43:18+00:00
+67,CG-HAF: An Interpretable Global-Local Lesion-Burden Fusion Framework for Ordinal Acne Severity Grading in Agentic Skincare Support,2609.31326,http://arxiv.org/abs/2609.31326v1,2026-09-25 14:30:16+00:00
+68,Towards VLA-Dreamer: Refining VLA Behavior Using World Models,2609.31313,http://arxiv.org/abs/2609.31313v1,2026-09-25 14:21:20+00:00
+69,Agentic Limit Order Books: Phase Transitions and Market Impact,2609.31260,http://arxiv.org/abs/2609.31260v1,2026-09-25 13:38:26+00:00
+70,Acoustic-to-Text KV Compression for Full-Duplex Speech Models,2609.31224,http://arxiv.org/abs/2609.31224v1,2026-09-25 13:04:09+00:00
+71,Which Influence Are We Estimating? The Role of Counterfactual Specifications in Data Attribution,2609.31214,http://arxiv.org/abs/2609.31214v1,2026-09-25 12:56:12+00:00
+72,"Evolutionary Safety of Recursive Self-Improving AI: Taxonomy, Risk Discovery, and Evaluation",2609.31186,http://arxiv.org/abs/2609.31186v1,2026-09-25 12:17:10+00:00
+73,AgentRecommender: LLM Agents Enable Customizable Recommender Systems on the User Side,2609.31166,http://arxiv.org/abs/2609.31166v1,2026-09-25 11:58:23+00:00
+74,NavGen: Visual Generative Models as a Scalable Data Engine for Embodied 3D Navigation,2609.30770,http://arxiv.org/abs/2609.30770v1,2026-09-25 03:49:44+00:00
+75,Selective Amortization of Full-Budget Counterfactual Reasoning for Visual Token Communication,2609.30756,http://arxiv.org/abs/2609.30756v1,2026-09-25 03:31:35+00:00
+76,LAVOIR: Teaching a Single-Pass Decision Encoder When and What to Ask with Amortized Value of Information,2609.30706,http://arxiv.org/abs/2609.30706v1,2026-09-25 02:31:02+00:00
+77,Threat-Aware Energy-Efficient Deployment for Dynamic UAV Networks: A Multi-Agent RL Approach,2609.30690,http://arxiv.org/abs/2609.30690v1,2026-09-25 01:52:43+00:00
+78,Adapting for AI: How elementary teachers adjust their practices for an AI-integrated curriculum,2609.31569,http://arxiv.org/abs/2609.31569v1,2026-09-25 17:33:47+00:00
+79,Guiding End-to-End Driving Models with Endpoint-Constrained Trajectory Optimization,2609.31383,http://arxiv.org/abs/2609.31383v1,2026-09-25 15:17:21+00:00
+80,Working with AI: A Design Framework for Human-AI Collaboration,2609.31793,http://arxiv.org/abs/2609.31793v1,2026-09-25 02:50:31+00:00
+81,CP-Agent: A Harness-Engineered Agent for Crystal Plasticity Simulation Workflows,2609.31790,http://arxiv.org/abs/2609.31790v1,2026-09-25 02:23:59+00:00
+82,Memory as Middleware for Self-Improving AI Agents,2609.32091,http://arxiv.org/abs/2609.32091v1,2026-09-25 23:54:58+00:00
+83,Contract monitoring: governing AI via separation of powers,2609.32061,http://arxiv.org/abs/2609.32061v1,2026-09-25 22:51:12+00:00
+84,Receiver-Conditioned Latent Communication gives 94% CacheBack,2609.32046,http://arxiv.org/abs/2609.32046v1,2026-09-25 22:20:08+00:00
+85,"SilentCall: Hidden Tool-Call Backdoors in Open-Weight Agents, and How to Catch Them",2609.32021,http://arxiv.org/abs/2609.32021v1,2026-09-25 21:32:31+00:00
+86,Extraction of clinical findings from mammography and breast ultrasound reports: a comparison between specialists and Artificial Intelligence,2609.31974,http://arxiv.org/abs/2609.31974v1,2026-09-25 20:18:26+00:00
+87,SNIP++: Fine-Grained Symbolic-Numerical Alignment for Symbolic Regression,2609.31965,http://arxiv.org/abs/2609.31965v1,2026-09-25 20:08:31+00:00
+88,Symbolic Guidance for LLM Agents in Distributed Multiagent Coordination,2609.31963,http://arxiv.org/abs/2609.31963v1,2026-09-25 20:07:57+00:00
+89,Choir: An Open Protocol for Distributed Multi-Agent Autoformalization,2609.31903,http://arxiv.org/abs/2609.31903v1,2026-09-25 18:44:53+00:00
+90,SenseAgent: An LLM Agent for Adaptive Cross-Domain IMU Sensing,2609.32000,http://arxiv.org/abs/2609.32000v1,2026-09-25 21:02:18+00:00
+91,Mara Chain: Rethinking Failure as a Stepping Stone for AI System Auto-Evolution,2609.35855,http://arxiv.org/abs/2609.35855v1,2026-09-25 11:05:41+00:00
+92,Analyzing and Mitigating Cost-Inefficient Behaviors in Coding Agents,2609.30725,http://arxiv.org/abs/2609.30725v2,2026-09-25 02:54:18+00:00
+93,"Cheap, open agents make LLM pollution harder to mitigate",2609.31054,http://arxiv.org/abs/2609.31054v2,2026-09-25 09:47:33+00:00
+94,DOHF: Online Diffusion Fine-tuning with Doob's $h$-transform Guidance,2609.31882,http://arxiv.org/abs/2609.31882v2,2026-09-25 18:18:53+00:00
+95,ActKV: Efficient LLM Agents through Action-Guided KV Cache Management,2609.31395,http://arxiv.org/abs/2609.31395v1,2026-09-25 15:24:30+00:00
+96,SynDORBench: Evaluating LVLM Perceptual Robustness Under Physically Constrained Visibility Conditions,2609.31823,http://arxiv.org/abs/2609.31823v1,2026-09-25 17:20:59+00:00
+97,"Same Probe, Different Numbers: Are Activation Probes Robust to Inference-Time Numerical Non-Determinism?",2609.31796,http://arxiv.org/abs/2609.31796v1,2026-09-25 07:14:49+00:00
+98,ConflictVLA-Bench: Benchmarking Behavioral Responses of Vision-Language-Action Models to Premise Conflicts,2609.31792,http://arxiv.org/abs/2609.31792v1,2026-09-25 02:43:01+00:00
+99,When Should a Human Take Back Control? Optimal Delegation under Turbulent AI Risk,2609.32083,http://arxiv.org/abs/2609.32083v1,2026-09-25 23:43:11+00:00
